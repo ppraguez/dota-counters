@@ -1,0 +1,19 @@
+{
+  "name": "dota-counters-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Data pipeline that builds Dota 2 hero counter/synergy data from the OpenDota API.",
+  "type": "module",
+  "scripts": {
+    "fetch-data": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

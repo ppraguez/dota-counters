@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+
+# The frontend's copy of the data (generated from /data by copy-data.mjs)
+frontend/public/heroData.json
+
+# Per-hero matchup cache (CI persists this via actions/cache, not git)
+data/.cache/
+
+# Logs / env / OS cruft
+*.log
+.env
+.env.local
+.DS_Store

@@ -1,0 +1,68 @@
+name: Refresh hero data
+
+# Rebuilds data/heroData.json from the OpenDota API on a schedule and commits it back to the
+# repo when it changes. Also supports manual runs from the Actions tab.
+on:
+  schedule:
+    # Every 6 hours (at minute 0). Adjust this cron to change the cadence.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+# Allow the workflow to push the refreshed data file back to the repo.
+permissions:
+  contents: write
+
+# Never run two refreshes at once; let an in-flight run finish.
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+
+      # Persist the per-hero matchup cache between runs so the pipeline is resilient to
+      # OpenDota's flaky /matchups endpoint (stale-fallback) and resumable across runs.
+      - name: Restore matchup cache
+        uses: actions/cache@v4
+        with:
+          path: data/.cache
+          key: matchup-cache-${{ github.run_id }}
+          restore-keys: |
+            matchup-cache-
+
+      - name: Install pipeline dependencies
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Run pipeline (fetch + build data)
+        working-directory: pipeline
+        run: npm run fetch-data
+        env:
+          # Optional: add an OpenDota API key as a repo secret to raise the rate limit.
+          OPENDOTA_API_KEY: ${{ secrets.OPENDOTA_API_KEY }}
+          # Tuneable thresholds (see pipeline/src/config.ts for all options):
+          # MIN_GAMES: "50"
+          # LOW_SAMPLE_HOURS: "72"
+
+      - name: Commit refreshed data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/heroData.json data/patchState.json
+          if git diff --cached --quiet; then
+            echo "No data changes — nothing to commit."
+          else
+            git commit -m "chore(data): refresh hero data [skip ci]"
+            git push
+          fi
