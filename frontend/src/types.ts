@@ -39,6 +39,8 @@ export interface AbilityCounterEntry {
   kind: "offense" | "defense";
   /** Headline ability name (kept in English). */
   ability: string;
+  /** Icon URL for the ability/item (null when no representative icon exists). */
+  icon_url?: string | null;
   reason: string;
   /** Thai translation of `reason` (ability/hero names kept in English). */
   reason_th?: string;

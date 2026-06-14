@@ -338,18 +338,21 @@
       {
         "kind": "offense",
         "ability": "Mana Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_mana_break.png",
         "reason": "Mana Break and Mana Void punish mana-reliant heroes like Medusa, Storm Spirit, and Invoker.",
         "reason_th": "Mana Break และ Mana Void ลงโทษฮีโร่ที่พึ่งมานาอย่าง Medusa, Storm Spirit และ Invoker"
       },
       {
         "kind": "offense",
         "ability": "Blink",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_blink.png",
         "reason": "Blink lets Anti-Mage dodge most single-target stuns and chase or escape at will.",
         "reason_th": "Blink ช่วยให้ Anti-Mage หลบสตันเดี่ยวส่วนใหญ่และไล่หรือหนีได้ตามใจ"
       },
       {
         "kind": "defense",
         "ability": "Doom",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/doom_bringer_doom.png",
         "reason": "Doom Bringer's Doom silences Blink and Mana Void for 16 seconds, removing him from the fight.",
         "reason_th": "Doom ของ Doom Bringer ไซเลนซ์ Blink และ Mana Void นาน 16 วินาที ถอดเขาออกจากการต่อสู้"
       }
@@ -689,12 +692,14 @@
       {
         "kind": "offense",
         "ability": "Berserker's Call",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_berserkers_call.png",
         "reason": "Berserker's Call forces every nearby enemy to attack Axe, cancelling channels and blinks.",
         "reason_th": "Berserker's Call บังคับให้ศัตรูรอบข้างตี Axe ยกเลิกการร่ายค้างและ blink"
       },
       {
         "kind": "defense",
         "ability": "Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png",
         "reason": "Silver Edge's Break disables Counter Helix, gutting Axe's main source of damage.",
         "reason_th": "Break จาก Silver Edge ปิด Counter Helix ตัดแหล่งดาเมจหลักของ Axe"
       }
@@ -1046,12 +1051,14 @@
       {
         "kind": "offense",
         "ability": "Fiend's Grip",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_fiends_grip.png",
         "reason": "Fiend's Grip locks a key target out of a teamfight for its full duration.",
         "reason_th": "Fiend's Grip ขังเป้าหมายสำคัญออกจากการตีทีมตลอดระยะเวลาสกิล"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB or Black King Bar shrugs off Nightmare and Fiend's Grip entirely.",
         "reason_th": "BKB หรือ Black King Bar กัน Nightmare และ Fiend's Grip ได้ทั้งหมด"
       }
@@ -1313,12 +1320,14 @@
       {
         "kind": "offense",
         "ability": "Rupture",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_rupture.png",
         "reason": "Rupture punishes mobile heroes — moving deals huge damage, so blinks and dashes backfire.",
         "reason_th": "Rupture ลงโทษฮีโร่ที่เคลื่อนที่เยอะ — การขยับสร้างดาเมจมหาศาล ทำให้ blink และการพุ่งย้อนกลับมาทำร้ายตัวเอง"
       },
       {
         "kind": "defense",
         "ability": "Heal cut",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "Spirit Vessel and Skadi cut the lifesteal Bloodseeker relies on to stay alive while diving.",
         "reason_th": "Spirit Vessel และ Skadi ตัด lifesteal ที่ Bloodseeker พึ่งเพื่อเอาตัวรอดขณะไดฟ์"
       }
@@ -1669,12 +1678,14 @@
       {
         "kind": "offense",
         "ability": "Frostbite",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/crystal_maiden_frostbite.png",
         "reason": "Frostbite roots a single target in place while Crystal Nova slows the group.",
         "reason_th": "Frostbite รูทเป้าหมายเดี่ยวให้อยู่กับที่ ขณะที่ Crystal Nova สโลว์ทั้งกลุ่ม"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "Any blink or charge (Spirit Breaker, Storm) reaches slow, squishy CM before she can react.",
         "reason_th": "blink หรือ charge ใด ๆ (Spirit Breaker, Storm) เข้าถึง CM ที่ช้าและตัวบางก่อนที่เธอจะตั้งตัว"
       }
@@ -2025,12 +2036,14 @@
       {
         "kind": "offense",
         "ability": "Gust",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/drow_ranger_wave_of_silence.png",
         "reason": "Gust silences and knocks back melee heroes trying to close the gap on Drow.",
         "reason_th": "Gust ไซเลนซ์และผลักฮีโร่สายประชิดที่พยายามเข้าระยะ Drow"
       },
       {
         "kind": "defense",
         "ability": "Marksmanship",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/drow_ranger_marksmanship.png",
         "reason": "Any hero that gets in her face drops her Marksmanship aura and bonus damage.",
         "reason_th": "ฮีโร่ที่เข้ามาประชิดทำให้ออร่า Marksmanship และดาเมจเสริมของเธอหายไป"
       }
@@ -2376,12 +2389,14 @@
       {
         "kind": "offense",
         "ability": "Echo Slam",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/earthshaker_echo_slam.png",
         "reason": "Echo Slam deals massive damage off clustered enemies and illusions/summons.",
         "reason_th": "Echo Slam สร้างดาเมจมหาศาลจากศัตรูที่รวมกลุ่มและอิลลูชัน/ลูกสมุน"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB lets initiators walk through Fissure and ignore Echo Slam's stun.",
         "reason_th": "BKB ทำให้ฮีโร่เปิดเกมเดินผ่าน Fissure และกันสตันจาก Echo Slam"
       }
@@ -2732,12 +2747,14 @@
       {
         "kind": "offense",
         "ability": "Blade Fury",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/juggernaut_blade_fury.png",
         "reason": "Blade Fury makes Juggernaut spell-immune, dodging stuns and silences while dealing damage.",
         "reason_th": "Blade Fury ทำให้ Juggernaut กันเวทย์ หลบสตันและไซเลนซ์ขณะออกดาเมจ"
       },
       {
         "kind": "defense",
         "ability": "Lockdown after Omni",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "A stun or hex that lands after Omnislash ends catches Jugg with no escape.",
         "reason_th": "สตันหรือ hex ที่ลงหลัง Omnislash จบ จับ Jugg ได้โดยไม่มีทางหนี"
       }
@@ -3096,12 +3113,14 @@
       {
         "kind": "offense",
         "ability": "Sacred Arrow",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/mirana_arrow.png",
         "reason": "Sacred Arrow lands a long-range stun that sets up picks across the map.",
         "reason_th": "Sacred Arrow ลงสตันระยะไกลที่เปิดการเก็บคิลทั่วแมพ"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Dust and sentries reveal the team during Moonlight Shadow's invisibility.",
         "reason_th": "Dust และ sentry เปิดเผยทีมระหว่างการล่องหนจาก Moonlight Shadow"
       }
@@ -3448,12 +3467,14 @@
       {
         "kind": "offense",
         "ability": "Waveform",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/morphling_waveform.png",
         "reason": "Waveform dashes through enemies dealing damage and dodging projectiles.",
         "reason_th": "Waveform พุ่งผ่านศัตรูสร้างดาเมจและหลบโพรเจกไทล์"
       },
       {
         "kind": "defense",
         "ability": "Burst before items",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Item-reliant Morph is fragile early, and a fast stun chain kills him before Morph.",
         "reason_th": "Morph ที่พึ่งไอเทมเปราะช่วงต้น และการร้อยสตันไวเก็บเขาก่อนใช้ Morph"
       }
@@ -3785,12 +3806,14 @@
       {
         "kind": "offense",
         "ability": "Requiem of Souls",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/nevermore_requiem.png",
         "reason": "Requiem of Souls bursts and fears clustered enemies after a Shadowraze combo.",
         "reason_th": "Requiem of Souls เบิร์สต์และทำให้ศัตรูที่รวมกลุ่มกลัวหลังคอมโบ Shadowraze"
       },
       {
         "kind": "defense",
         "ability": "Interrupts",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "Any stun interrupts Requiem mid-cast and bursts fragile Shadow Fiend down.",
         "reason_th": "สตันใด ๆ ขัด Requiem ระหว่างร่ายและเบิร์สต์ Shadow Fiend ที่ตัวเปราะ"
       }
@@ -4136,12 +4159,14 @@
       {
         "kind": "offense",
         "ability": "Juxtapose",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phantom_lancer_juxtapose.png",
         "reason": "Juxtapose floods the fight with an endless army of self-replicating illusions.",
         "reason_th": "Juxtapose ถล่มการต่อสู้ด้วยกองทัพอิลลูชันที่แตกตัวเองไม่รู้จบ"
       },
       {
         "kind": "defense",
         "ability": "AoE clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "Mjollnir, Radiance, Ravage, and Eblade hard-counter his illusion army.",
         "reason_th": "Mjollnir, Radiance, Ravage และ Eblade เคาน์เตอร์กองทัพอิลลูชันของเขาอย่างหนัก"
       }
@@ -4487,12 +4512,14 @@
       {
         "kind": "offense",
         "ability": "Dream Coil",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/puck_dream_coil.png",
         "reason": "Dream Coil tethers and stuns a clumped team, punishing anyone who breaks free.",
         "reason_th": "Dream Coil ตรึงและสตันทีมที่รวมกลุ่ม ลงโทษใครก็ตามที่หลุดออก"
       },
       {
         "kind": "defense",
         "ability": "Catch the phase",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Lockdown that lands through Phase Shift kills slippery, fragile Puck.",
         "reason_th": "การคุมที่ลงทะลุ Phase Shift เก็บ Puck ที่ลื่นและตัวบาง"
       }
@@ -4832,12 +4859,14 @@
       {
         "kind": "offense",
         "ability": "Meat Hook",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pudge_meat_hook.png",
         "reason": "Meat Hook yanks a single target out of position into the team for a Dismember.",
         "reason_th": "Meat Hook ลากเป้าหมายเดี่ยวออกจากตำแหน่งเข้าหาทีมเพื่อ Dismember"
       },
       {
         "kind": "defense",
         "ability": "Linken's Sphere",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's Sphere blocks Dismember, and BKB ignores the Hook's stun and rot.",
         "reason_th": "Linken's Sphere บล็อก Dismember และ BKB กันสตันและพิษจาก Hook"
       }
@@ -5171,12 +5200,14 @@
       {
         "kind": "offense",
         "ability": "Static Link",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/razor_static_link.png",
         "reason": "Static Link steals a target's damage, crippling an enemy carry while empowering Razor.",
         "reason_th": "Static Link ขโมยดาเมจของเป้า ทำให้แครรี่ศัตรูอ่อนลงขณะเสริม Razor"
       },
       {
         "kind": "defense",
         "ability": "Range / kite",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Short-ranged Razor is kited by longer-range cores he cannot keep a Link on.",
         "reason_th": "Razor ระยะสั้นถูกไคต์โดยคอร์ระยะไกลที่เขารักษา Link ไว้ไม่ได้"
       }
@@ -5535,12 +5566,14 @@
       {
         "kind": "offense",
         "ability": "Epicenter",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sandking_epicenter.png",
         "reason": "Blink + Burrowstrike + Epicenter is a classic AoE stun-and-nuke teamfight opener.",
         "reason_th": "blink + Burrowstrike + Epicenter คือการเปิดตีทีมสตันและนุก AoE สุดคลาสสิก"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Sentries and dust reveal his Sand Storm escape and stop the blink initiation.",
         "reason_th": "Sentry และ dust เปิดเผยการหนีด้วย Sand Storm และหยุดการเปิดด้วย blink"
       }
@@ -5887,12 +5920,14 @@
       {
         "kind": "offense",
         "ability": "Ball Lightning",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/storm_spirit_ball_lightning.png",
         "reason": "Ball Lightning chases down stragglers across the map and dodges projectiles.",
         "reason_th": "Ball Lightning ไล่เก็บคนที่หลุดกลุ่มทั่วแมพและหลบโพรเจกไทล์"
       },
       {
         "kind": "defense",
         "ability": "Orchid / mana burn",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orchid.png",
         "reason": "Orchid, mana burn, or Glimpse strands Storm out of position with no mana.",
         "reason_th": "Orchid, mana burn หรือ Glimpse ทำให้ Storm ค้างนอกตำแหน่งโดยไม่มีมานา"
       }
@@ -6251,12 +6286,14 @@
       {
         "kind": "offense",
         "ability": "Storm Hammer",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sven_storm_bolt.png",
         "reason": "Storm Hammer stuns a target and God's Strength cleaves the team for huge burst.",
         "reason_th": "Storm Hammer สตันเป้าและ God's Strength ฟันโดนทั้งทีมเพื่อเบิร์สต์มหาศาล"
       },
       {
         "kind": "defense",
         "ability": "Ghost / Halberd",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ghost.png",
         "reason": "Ghost Scepter and Heaven's Halberd shut off Sven's all-physical right-click.",
         "reason_th": "Ghost Scepter และ Heaven's Halberd ปิดการตีกายภาพล้วนของ Sven"
       }
@@ -6616,12 +6653,14 @@
       {
         "kind": "offense",
         "ability": "Toss",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tiny_toss.png",
         "reason": "Toss + Avalanche combos a single target for huge early burst and saves allies.",
         "reason_th": "Toss + Avalanche คอมโบเป้าหมายเดี่ยวเพื่อเบิร์สต์ต้นเกมมหาศาลและเซฟเพื่อน"
       },
       {
         "kind": "defense",
         "ability": "Lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Tiny is melee with no escape, so any reliable stun pins and kites him.",
         "reason_th": "Tiny เป็นสายประชิดที่ไม่มีสกิลหนี สตันที่ไว้ใจได้จึงตรึงและไคต์เขาได้"
       }
@@ -6956,12 +6995,14 @@
       {
         "kind": "offense",
         "ability": "Nether Swap",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/vengefulspirit_nether_swap.png",
         "reason": "Nether Swap instantly pulls an enemy out of position or saves an ally from danger.",
         "reason_th": "Nether Swap ดึงศัตรูออกจากตำแหน่งทันที หรือเซฟเพื่อนจากอันตราย"
       },
       {
         "kind": "defense",
         "ability": "Linken's Sphere",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's Sphere blocks Nether Swap, denying her signature initiation.",
         "reason_th": "Linken's Sphere บล็อก Nether Swap ปฏิเสธการเปิดเกมเอกลักษณ์ของเธอ"
       }
@@ -7320,12 +7361,14 @@
       {
         "kind": "offense",
         "ability": "Shackleshot",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/windrunner_shackleshot.png",
         "reason": "Shackleshot roots a target (off another unit or tree) for a focused kill.",
         "reason_th": "Shackleshot รูทเป้าหมาย (โดยอาศัยยูนิตหรือต้นไม้ด้านหลัง) เพื่อโฟกัสเก็บ"
       },
       {
         "kind": "defense",
         "ability": "Burst through Windrun",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Magic burst ignores Windrun's physical evasion and deletes squishy Windranger.",
         "reason_th": "เบิร์สต์เวทย์ข้าม evasion กายภาพจาก Windrun และลบ Windranger ที่ตัวบาง"
       }
@@ -7657,12 +7700,14 @@
       {
         "kind": "offense",
         "ability": "Thundergod's Wrath",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/zuus_thundergods_wrath.png",
         "reason": "Thundergod's Wrath hits the whole enemy team globally and reveals invisible heroes.",
         "reason_th": "Thundergod's Wrath โดนทั้งทีมศัตรูทั่วแมพและเปิดเผยฮีโร่ล่องหน"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "Zeus has no escape, so any blink or charge deletes him before he nukes.",
         "reason_th": "Zeus ไม่มีสกิลหนี blink หรือ charge ใด ๆ จึงลบเขาก่อนที่จะปล่อยสกิล"
       }
@@ -8022,12 +8067,14 @@
       {
         "kind": "offense",
         "ability": "X Marks the Spot",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/kunkka_x_marks_the_spot.png",
         "reason": "X Marks the Spot recalls a target into Torrent and Ghostship for a big combo.",
         "reason_th": "X Marks the Spot ดึงเป้ากลับเข้า Torrent และ Ghostship เพื่อคอมโบใหญ่"
       },
       {
         "kind": "defense",
         "ability": "Dodge the combo",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB or a status dispel removes X Mark before the Torrent and stun land.",
         "reason_th": "BKB หรือการดิสเพลลบ X Mark ก่อนที่ Torrent และสตันจะลง"
       }
@@ -8373,12 +8420,14 @@
       {
         "kind": "offense",
         "ability": "Laguna Blade",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lina_laguna_blade.png",
         "reason": "Laguna Blade deletes a squishy target instantly after a Light Strike Array stun.",
         "reason_th": "Laguna Blade ลบเป้าหมายตัวบางทันทีหลังสตันจาก Light Strike Array"
       },
       {
         "kind": "defense",
         "ability": "Lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Fragile Lina dies to any stun chain before she can land her burst.",
         "reason_th": "Lina ตัวเปราะตายให้กับการร้อยสตันก่อนที่จะลงเบิร์สต์ได้"
       }
@@ -8724,12 +8773,14 @@
       {
         "kind": "offense",
         "ability": "Hex",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lion_voodoo.png",
         "reason": "Hex plus Earth Spike chains two disables into a Finger of Death execute.",
         "reason_th": "Hex บวก Earth Spike ร้อยสองการคุมเข้าสู่การปิดจ๊อบด้วย Finger of Death"
       },
       {
         "kind": "defense",
         "ability": "Linken's Sphere",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's Sphere blocks Hex or Finger of Death, ruining Lion's single-target combo.",
         "reason_th": "Linken's Sphere บล็อก Hex หรือ Finger of Death ทำลายคอมโบเดี่ยวของ Lion"
       }
@@ -9088,12 +9139,14 @@
       {
         "kind": "offense",
         "ability": "Shackles",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shadow_shaman_shackles.png",
         "reason": "Shackles channels a long single-target stun, chained with Hex for total lockdown.",
         "reason_th": "Shackles ร่ายสตันเดี่ยวยาว ร้อยกับ Hex เพื่อคุมเบ็ดเสร็จ"
       },
       {
         "kind": "defense",
         "ability": "BKB / interrupt",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores his disables and any stun interrupts the channelled Shackles.",
         "reason_th": "BKB กันการคุมของเขา และสตันใด ๆ ขัด Shackles ที่ต้องร่ายค้าง"
       }
@@ -9452,12 +9505,14 @@
       {
         "kind": "offense",
         "ability": "Corrosive Haze",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/slardar_amplify_damage.png",
         "reason": "Corrosive Haze shreds armor and reveals invisible heroes for the team to burst.",
         "reason_th": "Corrosive Haze ลดเกราะและเปิดเผยฮีโร่ล่องหนให้ทีมเบิร์สต์"
       },
       {
         "kind": "defense",
         "ability": "Kiting",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Without his blink+stun landing, melee Slardar is kited by ranged cores.",
         "reason_th": "ถ้า blink+สตันของเขาไม่ลง Slardar สายประชิดจะถูกไคต์โดยคอร์ระยะไกล"
       }
@@ -9810,12 +9865,14 @@
       {
         "kind": "offense",
         "ability": "Ravage",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tidehunter_ravage.png",
         "reason": "Ravage is an AoE stun that flips entire teamfights and ignores positioning.",
         "reason_th": "Ravage คือสตัน AoE ที่พลิกการตีทีมทั้งหมดและไม่สนตำแหน่ง"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB on the carry lets it fight through Ravage; Anchor Smash counters right-clickers.",
         "reason_th": "BKB บนแครรี่ทำให้สู้ผ่าน Ravage ได้ ส่วน Anchor Smash เคาน์เตอร์สายตี"
       }
@@ -10166,12 +10223,14 @@
       {
         "kind": "offense",
         "ability": "Maledict",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/witch_doctor_maledict.png",
         "reason": "Maledict deals ramping damage based on HP lost, brutal after a Paralyzing Cask stun.",
         "reason_th": "Maledict สร้างดาเมจเพิ่มตามเลือดที่เสียไป โหดมากหลังสตันจาก Paralyzing Cask"
       },
       {
         "kind": "defense",
         "ability": "Burst him first",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Squishy WD must be focused before he channels Death Ward in a fight.",
         "reason_th": "WD ตัวบางต้องถูกโฟกัสก่อนที่จะร่าย Death Ward ในการต่อสู้"
       }
@@ -10503,12 +10562,14 @@
       {
         "kind": "offense",
         "ability": "Chain Frost",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lich_chain_frost.png",
         "reason": "Chain Frost bounces between clustered enemies for repeated heavy burst.",
         "reason_th": "Chain Frost เด้งระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์หนักซ้ำ ๆ"
       },
       {
         "kind": "defense",
         "ability": "Spread out",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Spacing out stops Chain Frost from bouncing and limits Lich to one target.",
         "reason_th": "การอยู่ห่างกันหยุด Chain Frost ไม่ให้เด้งและจำกัด Lich ไว้ที่เป้าเดียว"
       }
@@ -10757,12 +10818,14 @@
       {
         "kind": "offense",
         "ability": "Smoke Screen",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/riki_smoke_screen.png",
         "reason": "Smoke Screen silences and miss-chances a group while Riki backstabs from invisibility.",
         "reason_th": "Smoke Screen ไซเลนซ์และทำให้พลาดทั้งกลุ่ม ขณะที่ Riki แทงหลังจากการล่องหน"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Dust, sentries, and Gem fully shut down a hero built around permanent invisibility.",
         "reason_th": "Dust, sentry และ Gem ปิดฮีโร่ที่สร้างมาเพื่อการล่องหนถาวรได้สนิท"
       }
@@ -11119,12 +11182,14 @@
       {
         "kind": "offense",
         "ability": "Black Hole",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/enigma_black_hole.png",
         "reason": "Black Hole channels a massive AoE disable that wins fights outright.",
         "reason_th": "Black Hole ร่าย AoE คุมขนาดใหญ่ที่ตัดสินการต่อสู้ได้เลย"
       },
       {
         "kind": "defense",
         "ability": "Interrupts",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "Any stun, Euls, or BKB-blink interrupts or ignores Black Hole's channel.",
         "reason_th": "สตัน, Euls หรือ BKB-blink ใด ๆ ขัดหรือกันการร่าย Black Hole"
       }
@@ -11457,12 +11522,14 @@
       {
         "kind": "offense",
         "ability": "Rearm",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tinker_rearm.png",
         "reason": "Rearm resets his spells, letting Tinker chain Laser and missiles to delete heroes.",
         "reason_th": "Rearm รีเซ็ตสกิลของเขา ให้ Tinker ร้อย Laser และมิสไซล์เพื่อลบฮีโร่"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "A blink or charge reaches no-escape Tinker, who is extremely squishy up close.",
         "reason_th": "blink หรือ charge เข้าถึง Tinker ที่ไม่มีสกิลหนี ซึ่งตัวบางมากในระยะประชิด"
       }
@@ -11794,12 +11861,14 @@
       {
         "kind": "offense",
         "ability": "Assassinate",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sniper_assassinate.png",
         "reason": "Assassinate snipes a low target from a screen away, and his range out-trades melee.",
         "reason_th": "Assassinate ยิงเป้าเลือดน้อยจากระยะไกลข้ามจอ และระยะของเขาเทรดชนะสายประชิด"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "Blink/charge heroes like Spirit Breaker or Phantom Assassin delete no-escape Sniper.",
         "reason_th": "ฮีโร่ blink/charge อย่าง Spirit Breaker หรือ Phantom Assassin ลบ Sniper ที่ไม่มีสกิลหนี"
       }
@@ -12151,12 +12220,14 @@
       {
         "kind": "offense",
         "ability": "Reaper's Scythe",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/necrolyte_reapers_scythe.png",
         "reason": "Reaper's Scythe executes low-HP heroes and adds respawn time on the kill.",
         "reason_th": "Reaper's Scythe ปิดจ๊อบฮีโร่เลือดน้อยและเพิ่มเวลาเกิดใหม่เมื่อเก็บได้"
       },
       {
         "kind": "defense",
         "ability": "Heal cut",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "Spirit Vessel slices through Heartstopper Aura and his huge sustain.",
         "reason_th": "Spirit Vessel ตัด Heartstopper Aura และความอึดมหาศาลของเขา"
       }
@@ -12507,12 +12578,14 @@
       {
         "kind": "offense",
         "ability": "Fatal Bonds",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/warlock_fatal_bonds.png",
         "reason": "Fatal Bonds links enemies so every hit and nuke spreads across the bonded group.",
         "reason_th": "Fatal Bonds เชื่อมศัตรูให้ทุกการตีและสกิลกระจายไปทั่วกลุ่มที่ถูกมัด"
       },
       {
         "kind": "defense",
         "ability": "Interrupt Chaotic Offering",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "A stun or silence stops his Golem ult mid-cast and blunts the teamfight.",
         "reason_th": "สตันหรือไซเลนซ์หยุดอัลติ Golem ระหว่างร่ายและลดทอนการตีทีม"
       }
@@ -12870,12 +12943,14 @@
       {
         "kind": "offense",
         "ability": "Primal Roar",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_primal_roar.png",
         "reason": "Primal Roar is a long stun that isolates a target and pushes others aside.",
         "reason_th": "Primal Roar คือสตันยาวที่แยกเป้าหมายและดันคนอื่นออกไป"
       },
       {
         "kind": "defense",
         "ability": "Clear the summons",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "Mjollnir and AoE wipe his hawks and boars, removing his vision and pressure.",
         "reason_th": "Mjollnir และ AoE ล้างเหยี่ยวและหมูป่าของเขา ลบการมองเห็นและแรงกดดัน"
       }
@@ -13208,12 +13283,14 @@
       {
         "kind": "offense",
         "ability": "Blink",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/queenofpain_blink.png",
         "reason": "Blink lets QoP burst with Scream and Shadow Strike, then escape before retaliation.",
         "reason_th": "Blink ช่วยให้ QoP เบิร์สต์ด้วย Scream และ Shadow Strike แล้วหนีก่อนโดนสวน"
       },
       {
         "kind": "defense",
         "ability": "Lockdown / silence",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "A stun or silence pins her in place since she is fragile without Blink up.",
         "reason_th": "สตันหรือไซเลนซ์ตรึงเธอไว้ เพราะเธอตัวเปราะเมื่อไม่มี Blink พร้อม"
       }
@@ -13566,12 +13643,14 @@
       {
         "kind": "offense",
         "ability": "Poison Nova",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/venomancer_poison_nova.png",
         "reason": "Poison Nova blankets a fight in heavy damage-over-time that softens the whole team.",
         "reason_th": "Poison Nova ปกคลุมการต่อสู้ด้วยดาเมจต่อเนื่องหนัก ๆ ที่ทำให้ทั้งทีมอ่อนลง"
       },
       {
         "kind": "defense",
         "ability": "Heal cut for him?",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "BKB and strong dispels (Manta, Satanic) clear his poisons and Plague Ward slows.",
         "reason_th": "BKB และการดิสเพลแรง ๆ (Manta, Satanic) ล้างพิษและสโลว์จาก Plague Ward ของเขา"
       }
@@ -13930,12 +14009,14 @@
       {
         "kind": "offense",
         "ability": "Chronosphere",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/faceless_void_chronosphere.png",
         "reason": "Chronosphere freezes everyone caught inside for the team to delete.",
         "reason_th": "Chronosphere หยุดทุกคนที่ติดอยู่ข้างในให้ทีมรุมลบ"
       },
       {
         "kind": "defense",
         "ability": "Bait the Chrono",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "Forcing a bad Chronosphere (or BKB-ing out) wastes Void's entire teamfight.",
         "reason_th": "การล่อให้ลง Chronosphere เสีย (หรือ BKB ออก) ทำให้การตีทีมของ Void สูญเปล่า"
       }
@@ -14294,12 +14375,14 @@
       {
         "kind": "offense",
         "ability": "Reincarnation",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/skeleton_king_reincarnation.png",
         "reason": "Reincarnation revives Wraith King on the spot, forcing the enemy to kill him twice.",
         "reason_th": "Reincarnation ชุบชีวิต Wraith King ทันที บังคับให้ศัตรูต้องเก็บเขาสองครั้ง"
       },
       {
         "kind": "defense",
         "ability": "Mana burn / kite",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/diffusal_blade.png",
         "reason": "Mana burn denies Reincarnation, and kiting beats a no-escape melee carry.",
         "reason_th": "Mana burn ปฏิเสธ Reincarnation และการไคต์ชนะแครรี่สายประชิดที่ไม่มีสกิลหนี"
       }
@@ -14657,12 +14740,14 @@
       {
         "kind": "offense",
         "ability": "Exorcism",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/death_prophet_exorcism.png",
         "reason": "Exorcism unleashes a swarm of spirits that shred heroes and towers alike.",
         "reason_th": "Exorcism ปล่อยฝูงวิญญาณที่ฉีกทั้งฮีโร่และป้อม"
       },
       {
         "kind": "defense",
         "ability": "Lockdown / burst",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "She is immobile during Exorcism, so lockdown and burst end her before it pays off.",
         "reason_th": "เธอเคลื่อนที่ช้าระหว่าง Exorcism การคุมและเบิร์สต์จึงเก็บเธอก่อนที่จะคุ้ม"
       }
@@ -15018,12 +15103,14 @@
       {
         "kind": "offense",
         "ability": "Phantom Strike",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phantom_assassin_phantom_strike.png",
         "reason": "Phantom Strike blinks onto a target and Coup de Grace crits delete it.",
         "reason_th": "Phantom Strike blink เข้าหาเป้าและคริติคอล Coup de Grace ลบทิ้ง"
       },
       {
         "kind": "defense",
         "ability": "True strike",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/monkey_king_bar.png",
         "reason": "Monkey King Bar's true strike ignores Blur evasion, and armor blunts her crits.",
         "reason_th": "true strike ของ Monkey King Bar เจาะ evasion จาก Blur และเกราะลดทอนคริติคอลของเธอ"
       }
@@ -15355,12 +15442,14 @@
       {
         "kind": "offense",
         "ability": "Nether Ward",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pugna_nether_ward.png",
         "reason": "Nether Ward punishes every enemy spell cast with heavy damage, and Decrepify isolates.",
         "reason_th": "Nether Ward ลงโทษทุกการร่ายสกิลของศัตรูด้วยดาเมจหนัก และ Decrepify แยกเป้า"
       },
       {
         "kind": "defense",
         "ability": "Lockdown the squishy",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Pugna is fragile, so locking him down stops Life Drain and his tower push.",
         "reason_th": "Pugna เปราะบาง การล็อกเขาหยุด Life Drain และการผลักป้อม"
       }
@@ -15710,12 +15799,14 @@
       {
         "kind": "offense",
         "ability": "Refraction",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/templar_assassin_refraction.png",
         "reason": "Refraction soaks instances of damage while she bursts squishy targets with Meld.",
         "reason_th": "Refraction ดูดซับดาเมจหลายครั้งขณะที่เธอเบิร์สต์เป้าตัวบางด้วย Meld"
       },
       {
         "kind": "defense",
         "ability": "AoE + detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "AoE damage strips Refraction charges and dust reveals her Psionic Trap escapes.",
         "reason_th": "ดาเมจ AoE ลอกชาร์จ Refraction และ dust เปิดเผยการหนีด้วย Psionic Trap"
       }
@@ -16061,12 +16152,14 @@
       {
         "kind": "offense",
         "ability": "Corrosive Skin",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/viper_corrosive_skin.png",
         "reason": "Corrosive Skin and Poison Attack win every early lane trade with slows and resist.",
         "reason_th": "Corrosive Skin และ Poison Attack ชนะการเทรดในเลนช่วงต้นทุกครั้งด้วยสโลว์และความต้านทาน"
       },
       {
         "kind": "defense",
         "ability": "Mobility",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Viper is slow with no escape, so mobile heroes kite him once they have items.",
         "reason_th": "Viper เดินช้าไม่มีสกิลหนี ฮีโร่ที่คล่องตัวจึงไคต์เขาได้เมื่อมีของ"
       }
@@ -16399,12 +16492,14 @@
       {
         "kind": "offense",
         "ability": "Eclipse",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/luna_eclipse.png",
         "reason": "Eclipse rains Lucent Beams on enemies trapped near her in a fight.",
         "reason_th": "Eclipse สาด Lucent Beam ใส่ศัตรูที่ติดอยู่ใกล้เธอในการต่อสู้"
       },
       {
         "kind": "defense",
         "ability": "Lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Short-ranged Luna dies to lockdown and gap-closers before she ramps up.",
         "reason_th": "Luna ระยะสั้นตายให้กับการคุมและการเข้าระยะก่อนที่จะแรงขึ้น"
       }
@@ -16764,12 +16859,14 @@
       {
         "kind": "offense",
         "ability": "Elder Dragon Form",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dragon_knight_elder_dragon_form.png",
         "reason": "Dragon Form gives splash, range, and tankiness to siege towers and teamfight.",
         "reason_th": "Dragon Form ให้ดาเมจกระจาย ระยะ และความถึกเพื่อตีป้อมและตีทีม"
       },
       {
         "kind": "defense",
         "ability": "Break / heal cut",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png",
         "reason": "Silver Edge's Break removes Dragon Blood's armor and regen, melting his tankiness.",
         "reason_th": "Break จาก Silver Edge ลบเกราะและการฟื้นเลือดจาก Dragon Blood ละลายความถึก"
       }
@@ -17120,12 +17217,14 @@
       {
         "kind": "offense",
         "ability": "Shallow Grave",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dazzle_shallow_grave.png",
         "reason": "Shallow Grave keeps an ally un-killable for a few seconds, denying a guaranteed kill.",
         "reason_th": "Shallow Grave ทำให้เพื่อนฆ่าไม่ตายไม่กี่วินาที ปฏิเสธการเก็บที่การันตีไว้แล้ว"
       },
       {
         "kind": "defense",
         "ability": "Focus the support",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Dazzle is squishy, so he must be locked down before he casts Shallow Grave.",
         "reason_th": "Dazzle ตัวบาง ต้องถูกล็อกก่อนที่จะร่าย Shallow Grave"
       }
@@ -17459,12 +17558,14 @@
       {
         "kind": "offense",
         "ability": "Hookshot",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/rattletrap_hookshot.png",
         "reason": "Hookshot stuns and pulls Clockwerk to a target, trapping it in Power Cogs.",
         "reason_th": "Hookshot สตันและดึง Clockwerk ไปหาเป้า ขังไว้ใน Power Cogs"
       },
       {
         "kind": "defense",
         "ability": "Force Staff / blink",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Force Staff or a blink escapes the Power Cogs prison before Battery Assault ticks.",
         "reason_th": "Force Staff หรือ blink หนีจากคุก Power Cogs ก่อนที่ Battery Assault จะลง"
       }
@@ -17811,12 +17912,14 @@
       {
         "kind": "offense",
         "ability": "Diabolic Edict",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/leshrac_diabolic_edict.png",
         "reason": "Diabolic Edict plus Pulse Nova melts everything around Leshrac, towers included.",
         "reason_th": "Diabolic Edict บวก Pulse Nova ละลายทุกอย่างรอบ Leshrac รวมถึงป้อม"
       },
       {
         "kind": "defense",
         "ability": "Lockdown the squishy",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "He has to stand in the fight to deal damage, so lockdown and burst end him.",
         "reason_th": "เขาต้องยืนในการต่อสู้เพื่อออกดาเมจ การคุมและเบิร์สต์จึงเก็บเขาได้"
       }
@@ -18168,12 +18271,14 @@
       {
         "kind": "offense",
         "ability": "Teleportation",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/furion_teleportation.png",
         "reason": "Teleportation lets Nature's Prophet split-push and gank from anywhere on the map.",
         "reason_th": "Teleportation ให้ Nature's Prophet split-push และแกงค์จากทุกที่บนแมพ"
       },
       {
         "kind": "defense",
         "ability": "Catch the rat",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "He is squishy, so a smoke gank or a blink-stun ends his split-push instantly.",
         "reason_th": "เขาตัวบาง การแกงค์ด้วย smoke หรือ blink-stun จึงจบการ split-push ทันที"
       }
@@ -18531,12 +18636,14 @@
       {
         "kind": "offense",
         "ability": "Rage",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/life_stealer_rage.png",
         "reason": "Rage grants spell immunity to dive through disables with percent-based damage.",
         "reason_th": "Rage ให้ภูมิคุ้มกันเวทย์เพื่อไดฟ์ผ่านการคุมด้วยดาเมจแบบเปอร์เซ็นต์"
       },
       {
         "kind": "defense",
         "ability": "Kiting",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Pure melee Naix is kited by slows, Force Staff, and disengage once Rage is down.",
         "reason_th": "Naix สายประชิดล้วนถูกไคต์ด้วยสโลว์, Force Staff และการถอยเมื่อ Rage หมด"
       }
@@ -18869,12 +18976,14 @@
       {
         "kind": "offense",
         "ability": "Wall of Replica",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dark_seer_wall_of_replica.png",
         "reason": "Wall of Replica turns the enemy team into illusions that fight for Dark Seer.",
         "reason_th": "Wall of Replica เปลี่ยนทีมศัตรูเป็นอิลลูชันที่สู้ให้ Dark Seer"
       },
       {
         "kind": "defense",
         "ability": "Spread vs Vacuum",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Staying spread stops Vacuum + Wall from clumping the team for an easy wipe.",
         "reason_th": "การอยู่กระจายหยุด Vacuum + Wall จากการรวบทีมเพื่อล้างง่าย ๆ"
       }
@@ -19213,12 +19322,14 @@
       {
         "kind": "offense",
         "ability": "Skeleton Walk",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/clinkz_wind_walk.png",
         "reason": "Skeleton Walk lets Clinkz reposition invisibly and burst a target from range.",
         "reason_th": "Skeleton Walk ให้ Clinkz ขยับแบบล่องหนและเบิร์สต์เป้าจากระยะไกล"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Sentries, dust, and Gem reveal him; he is extremely fragile once seen.",
         "reason_th": "Sentry, dust และ Gem เปิดเผยเขา และเขาตัวบางมากเมื่อถูกเห็น"
       }
@@ -19545,12 +19656,14 @@
       {
         "kind": "offense",
         "ability": "Guardian Angel",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/omniknight_guardian_angel.png",
         "reason": "Guardian Angel grants the team full physical immunity, hard-countering right-click carries.",
         "reason_th": "Guardian Angel ให้ทีมภูมิคุ้มกันกายภาพเต็ม เคาน์เตอร์แครรี่สายตีอย่างหนัก"
       },
       {
         "kind": "defense",
         "ability": "Magic damage / Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png",
         "reason": "Magic burst ignores Guardian Angel, and Break removes Heavenly Grace's benefits.",
         "reason_th": "เบิร์สต์เวทย์ข้าม Guardian Angel และ Break ลบผลของ Heavenly Grace"
       }
@@ -19896,12 +20009,14 @@
       {
         "kind": "offense",
         "ability": "Untouchable",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/enchantress_untouchable.png",
         "reason": "Untouchable slows the attack speed of anyone hitting her, kiting right-click carries.",
         "reason_th": "Untouchable ลดความเร็วโจมตีของใครก็ตามที่ตีเธอ ไคต์แครรี่สายตี"
       },
       {
         "kind": "defense",
         "ability": "Magic burst",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Nukers ignore Untouchable and blow up a hero with no escape once caught.",
         "reason_th": "สายนุกข้าม Untouchable และเก็บฮีโร่ที่ไม่มีสกิลหนีเมื่อจับได้"
       }
@@ -20252,12 +20367,14 @@
       {
         "kind": "offense",
         "ability": "Life Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/huskar_life_break.png",
         "reason": "Life Break leaps onto and slows a target while low HP makes Huskar hit hardest.",
         "reason_th": "Life Break กระโดดใส่และสโลว์เป้า ขณะที่เลือดน้อยทำให้ Huskar ตีแรงที่สุด"
       },
       {
         "kind": "defense",
         "ability": "Heal cut + Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "Spirit Vessel and Silver Edge's Break strip his lifesteal and Berserker's Blood.",
         "reason_th": "Spirit Vessel และ Break จาก Silver Edge ตัด lifesteal และ Berserker's Blood ของเขา"
       }
@@ -20616,12 +20733,14 @@
       {
         "kind": "offense",
         "ability": "Darkness",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/night_stalker_darkness.png",
         "reason": "Darkness forces permanent night, where Night Stalker flies, silences, and hunts.",
         "reason_th": "Darkness บังคับให้เป็นกลางคืนถาวร ที่ Night Stalker บิน ไซเลนซ์ และไล่ล่า"
       },
       {
         "kind": "defense",
         "ability": "Survive the night",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pipe.png",
         "reason": "His power spikes at night; defensive items and grouping ride out his window.",
         "reason_th": "พลังของเขาพุ่งตอนกลางคืน ไอเทมเชิงรับและการรวมกลุ่มช่วยรอดช่วงนั้น"
       }
@@ -20973,12 +21092,14 @@
       {
         "kind": "offense",
         "ability": "Spin Web",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/broodmother_spin_web.png",
         "reason": "Spin Web gives huge regen and movement, letting her overwhelm a lane with spiderlings.",
         "reason_th": "Spin Web ให้การฟื้นเลือดและความเร็วมหาศาล ทำให้เธอถล่มเลนด้วยสไปเดอร์ลิง"
       },
       {
         "kind": "defense",
         "ability": "AoE clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "AoE spells clear her spiderlings and tower defense shuts down her early push.",
         "reason_th": "สกิล AoE ล้างสไปเดอร์ลิงของเธอ และการป้องกันป้อมหยุดการผลักช่วงต้น"
       }
@@ -21328,12 +21449,14 @@
       {
         "kind": "offense",
         "ability": "Track",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bounty_hunter_track.png",
         "reason": "Track reveals an invisible target, grants gold, and speeds allies for a pickoff.",
         "reason_th": "Track เปิดเผยเป้าที่ล่องหน ให้ทอง และเร่งความเร็วเพื่อนเพื่อเก็บเป้า"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Sentries and dust strip Shadow Walk, leaving a fragile hero exposed.",
         "reason_th": "Sentry และ dust ลอก Shadow Walk ทำให้ฮีโร่ตัวบางถูกเปิดโล่ง"
       }
@@ -21671,12 +21794,14 @@
       {
         "kind": "offense",
         "ability": "Time Lapse",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/weaver_time_lapse.png",
         "reason": "Time Lapse rewinds Weaver to full HP and a safe spot, undoing a whole burst combo.",
         "reason_th": "Time Lapse ย้อน Weaver กลับไปเลือดเต็มและจุดที่ปลอดภัย ลบล้างคอมโบเบิร์สต์ทั้งชุด"
       },
       {
         "kind": "defense",
         "ability": "Detection + AoE",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Dust and AoE catch him out of Shukuchi before Time Lapse is back up.",
         "reason_th": "Dust และ AoE จับเขาตอนหลุด Shukuchi ก่อนที่ Time Lapse จะพร้อมอีกครั้ง"
       }
@@ -22022,12 +22147,14 @@
       {
         "kind": "offense",
         "ability": "Ice Path + Macropyre",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/jakiro_macropyre.png",
         "reason": "Ice Path stuns a clumped team into a Macropyre burn lane.",
         "reason_th": "Ice Path สตันทีมที่รวมกลุ่มเข้าสู่เลนเผาของ Macropyre"
       },
       {
         "kind": "defense",
         "ability": "Spread out",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Jakiro's value is AoE, so spreading and BKB neutralise his layered damage.",
         "reason_th": "จุดเด่นของ Jakiro คือ AoE การกระจายตัวและ BKB จึงลดทอนดาเมจที่ซ้อนกันของเขา"
       }
@@ -22378,12 +22505,14 @@
       {
         "kind": "offense",
         "ability": "Flaming Lasso",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_flaming_lasso.png",
         "reason": "Flaming Lasso drags a key target into the team with no way to break free.",
         "reason_th": "Flaming Lasso ลากเป้าหมายสำคัญเข้าหาทีมโดยไม่มีทางหลุด"
       },
       {
         "kind": "defense",
         "ability": "Linken's / BKB",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's blocks Lasso and BKB lets the target ignore it entirely.",
         "reason_th": "Linken's บล็อก Lasso และ BKB ทำให้เป้ากันได้ทั้งหมด"
       }
@@ -22715,12 +22844,14 @@
       {
         "kind": "offense",
         "ability": "Holy Persuasion",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/chen_holy_persuasion.png",
         "reason": "Holy Persuasion converts neutral creeps into an early-game pushing army.",
         "reason_th": "Holy Persuasion เปลี่ยนครีปกลางเป็นกองทัพผลักช่วงต้นเกม"
       },
       {
         "kind": "defense",
         "ability": "AoE clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "AoE damage clears his creep army and leaves a squishy support exposed.",
         "reason_th": "ดาเมจ AoE ล้างกองทัพครีปของเขา ทำให้ซัพพอร์ตตัวบางถูกเปิดโล่ง"
       }
@@ -22963,12 +23094,14 @@
       {
         "kind": "offense",
         "ability": "Haunt",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/spectre_haunt.png",
         "reason": "Haunt sends a global illusion to every enemy, ramping Spectre into any teamfight.",
         "reason_th": "Haunt ส่งอิลลูชันไปหาศัตรูทุกตัวทั่วแมพ ทำให้ Spectre แรงขึ้นในการตีทีมทุกครั้ง"
       },
       {
         "kind": "defense",
         "ability": "Early aggression",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/smoke_of_deceit.png",
         "reason": "Spectre is weak before items, so heavy early pressure shuts her down for good.",
         "reason_th": "Spectre อ่อนแอก่อนมีของ การกดดันหนัก ๆ ช่วงต้นเกมจึงปิดเธอได้สนิท"
       }
@@ -23313,12 +23446,14 @@
       {
         "kind": "offense",
         "ability": "Ice Blast",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_ice_blast.png",
         "reason": "Ice Blast applies a global heal cut, then shatters frozen low-HP targets instantly.",
         "reason_th": "Ice Blast ใส่การตัดการฮีลทั่วแมพ แล้วทำให้เป้าเลือดน้อยที่ถูกแช่แข็งแตกทันที"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "AA is immobile and squishy, so any blink or charge kills him before Ice Blast.",
         "reason_th": "AA เคลื่อนที่ช้าและตัวบาง blink หรือ charge ใด ๆ จึงเก็บเขาก่อน Ice Blast"
       }
@@ -23665,12 +23800,14 @@
       {
         "kind": "offense",
         "ability": "Doom",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/doom_bringer_doom.png",
         "reason": "Doom silences, disarms, and stops all healing on a key hero for 16 seconds.",
         "reason_th": "Doom ไซเลนซ์ ปลดอาวุธ และหยุดการฮีลทั้งหมดของฮีโร่สำคัญนาน 16 วินาที"
       },
       {
         "kind": "defense",
         "ability": "Linken's / Lotus",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's Sphere blocks Doom and Lotus Orb reflects it back onto Doom himself.",
         "reason_th": "Linken's Sphere บล็อก Doom และ Lotus Orb สะท้อนกลับใส่ Doom เอง"
       }
@@ -24027,12 +24164,14 @@
       {
         "kind": "offense",
         "ability": "Fury Swipes",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ursa_fury_swipes.png",
         "reason": "Fury Swipes stacks per hit to melt single targets and Roshan in seconds.",
         "reason_th": "Fury Swipes สะสมต่อการตีเพื่อละลายเป้าหมายเดี่ยวและ Roshan ในไม่กี่วินาที"
       },
       {
         "kind": "defense",
         "ability": "Disable at range",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Hex, root, or Ghost Scepter stops Ursa cold once Enrage is committed.",
         "reason_th": "Hex, รูท หรือ Ghost Scepter หยุด Ursa ได้ทันทีเมื่อใช้ Enrage ไปแล้ว"
       }
@@ -24367,12 +24506,14 @@
       {
         "kind": "offense",
         "ability": "Charge of Darkness",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/spirit_breaker_charge_of_darkness.png",
         "reason": "Charge of Darkness is a global stun that isolates and bashes a single target.",
         "reason_th": "Charge of Darkness คือสตันทั่วแมพที่แยกและบาชเป้าหมายเดี่ยว"
       },
       {
         "kind": "defense",
         "ability": "Stop the charge",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "Fog, a blocker, or a counter-stun cancels his Charge before it lands.",
         "reason_th": "หมอก ตัวบัง หรือสตันสวนยกเลิก Charge ของเขาก่อนที่จะลง"
       }
@@ -24729,12 +24870,14 @@
       {
         "kind": "offense",
         "ability": "Flak Cannon",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/gyrocopter_flak_cannon.png",
         "reason": "Flak Cannon hits every nearby enemy for a few attacks, shredding grouped teams.",
         "reason_th": "Flak Cannon โดนศัตรูรอบข้างทุกตัวเป็นบางการตี ฉีกทีมที่รวมกลุ่ม"
       },
       {
         "kind": "defense",
         "ability": "Ghost / armor",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ghost.png",
         "reason": "Ghost Scepter and armor items blunt his all-physical Flak damage.",
         "reason_th": "Ghost Scepter และไอเทมเกราะลดทอนดาเมจกายภาพล้วนจาก Flak ของเขา"
       }
@@ -25094,12 +25237,14 @@
       {
         "kind": "offense",
         "ability": "Unstable Concoction",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_unstable_concoction.png",
         "reason": "Unstable Concoction lands a long single-target stun to open a kill.",
         "reason_th": "Unstable Concoction ลงสตันยาวใส่เป้าหมายเดี่ยวเพื่อเปิดการเก็บคิล"
       },
       {
         "kind": "defense",
         "ability": "Doom / silence",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/doom_bringer_doom.png",
         "reason": "Doom or a long silence stops his spells while a gank punishes his greedy farm.",
         "reason_th": "Doom หรือไซเลนซ์ยาวหยุดสกิลของเขา ขณะที่การแกงค์ลงโทษการฟาร์มแบบโลภ"
       }
@@ -25446,12 +25591,14 @@
       {
         "kind": "offense",
         "ability": "Tornado + EMP",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/invoker_tornado.png",
         "reason": "Tornado lifts and disjoints, then EMP burns the mana off casters and Storm/Medusa types.",
         "reason_th": "Tornado ยกและตัดโพรเจกไทล์ แล้ว EMP เผามานาของสายคาสเตอร์และพวก Storm/Medusa"
       },
       {
         "kind": "defense",
         "ability": "Doom / silence",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/doom_bringer_doom.png",
         "reason": "Doom or any long silence shuts off Invoker's whole spell-combo identity.",
         "reason_th": "Doom หรือไซเลนซ์ยาว ๆ ปิดตัวตนคอมโบสกิลทั้งหมดของ Invoker"
       }
@@ -25798,12 +25945,14 @@
       {
         "kind": "offense",
         "ability": "Global Silence",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/silencer_global_silence.png",
         "reason": "Global Silence shuts off every enemy spell — a hard counter to combo teams.",
         "reason_th": "Global Silence ปิดสกิลศัตรูทุกตัว — เคาน์เตอร์ทีมที่เล่นคอมโบอย่างหนัก"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB and Manta dispel let key enemies ignore Global Silence and his Curse.",
         "reason_th": "BKB และการดิสเพลของ Manta ทำให้ศัตรูสำคัญกัน Global Silence และ Curse ของเขา"
       }
@@ -26148,12 +26297,14 @@
       {
         "kind": "offense",
         "ability": "Astral Imprisonment",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/obsidian_destroyer_astral_imprisonment.png",
         "reason": "Astral Imprisonment banishes a target out of the fight and steals its intelligence.",
         "reason_th": "Astral Imprisonment เนรเทศเป้าออกจากการต่อสู้และขโมยค่า intelligence"
       },
       {
         "kind": "defense",
         "ability": "Lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "OD is immobile; a stun chain kills him before Astral and Sanity's Eclipse.",
         "reason_th": "OD เคลื่อนที่ช้า การร้อยสตันเก็บเขาก่อน Astral และ Sanity's Eclipse"
       }
@@ -26511,12 +26662,14 @@
       {
         "kind": "offense",
         "ability": "Shapeshift",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lycan_shapeshift.png",
         "reason": "Shapeshift gives max move speed and wolves to end games with fast pushes.",
         "reason_th": "Shapeshift ให้ความเร็วเดินสูงสุดและหมาป่าเพื่อจบเกมด้วยการผลักไว"
       },
       {
         "kind": "defense",
         "ability": "Slows / kite",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Heavy slows and Force Staff kite the melee wolf pack and stall his push.",
         "reason_th": "สโลว์หนักและ Force Staff ไคต์ฝูงหมาป่าสายประชิดและถ่วงการผลักของเขา"
       }
@@ -26875,12 +27028,14 @@
       {
         "kind": "offense",
         "ability": "Primal Split",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/brewmaster_primal_split.png",
         "reason": "Primal Split turns Brewmaster into three spell-immune panda spirits that cyclone and stun.",
         "reason_th": "Primal Split เปลี่ยน Brewmaster เป็นวิญญาณแพนด้าสามตัวที่กันเวทย์ ไซโคลนและสตัน"
       },
       {
         "kind": "defense",
         "ability": "Kill the brewmaster",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Bursting him before the Split, or out-DPSing the spirits, ends his fight.",
         "reason_th": "เบิร์สต์เขาก่อน Split หรือ DPS ชนะวิญญาณ จบการต่อสู้ของเขา"
       }
@@ -27232,12 +27387,14 @@
       {
         "kind": "offense",
         "ability": "Disruption",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shadow_demon_disruption.png",
         "reason": "Disruption banishes a target and spawns illusions, setting up a Demonic Purge pickoff.",
         "reason_th": "Disruption เนรเทศเป้าและสร้างอิลลูชัน เปิดการเก็บด้วย Demonic Purge"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores Demonic Purge's slow and Disruption's control.",
         "reason_th": "BKB กันสโลว์จาก Demonic Purge และการควบคุมจาก Disruption"
       }
@@ -27576,12 +27733,14 @@
       {
         "kind": "offense",
         "ability": "Spirit Bear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png",
         "reason": "The item-carrying Spirit Bear is a tanky right-click monster that pushes and brawls.",
         "reason_th": "Spirit Bear ที่ถือไอเทมคือสัตว์ประหลาดสายตีที่ถึก ผลักและตีได้"
       },
       {
         "kind": "defense",
         "ability": "Kill or split the bear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_spirit_bear.png",
         "reason": "Killing the bear or separating it from Lone Druid removes most of his power.",
         "reason_th": "การเก็บหมีหรือแยกมันจาก Lone Druid ลบพลังส่วนใหญ่ของเขา"
       }
@@ -27940,12 +28099,14 @@
       {
         "kind": "offense",
         "ability": "Phantasm",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/chaos_knight_phantasm.png",
         "reason": "Phantasm spawns real illusions that pile damage after a Chaos Bolt stun.",
         "reason_th": "Phantasm สร้างอิลลูชันจริงที่รุมดาเมจหลังสตันจาก Chaos Bolt"
       },
       {
         "kind": "defense",
         "ability": "Illusion clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "Mjollnir, Radiance, and AoE delete his Phantasm illusions instantly.",
         "reason_th": "Mjollnir, Radiance และ AoE ลบอิลลูชัน Phantasm ของเขาทันที"
       }
@@ -28203,12 +28364,14 @@
       {
         "kind": "offense",
         "ability": "Poof",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/meepo_poof.png",
         "reason": "Poof teleports all Meepo clones onto a target Earthbound in place for huge burst.",
         "reason_th": "Poof เทเลพอร์ตร่างโคลน Meepo ทั้งหมดใส่เป้าที่ถูก Earthbind เพื่อเบิร์สต์มหาศาล"
       },
       {
         "kind": "defense",
         "ability": "AoE burst",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "AoE magic damage hits every clone at once, and killing one kills them all.",
         "reason_th": "ดาเมจเวทย์ AoE โดนทุกร่างพร้อมกัน และการเก็บร่างเดียวเก็บได้ทั้งหมด"
       }
@@ -28555,12 +28718,14 @@
       {
         "kind": "offense",
         "ability": "Overgrowth",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/treant_overgrowth.png",
         "reason": "Overgrowth roots an entire clumped team in place for the team to pile on.",
         "reason_th": "Overgrowth รูททีมที่รวมกลุ่มทั้งหมดให้อยู่กับที่เพื่อให้ทีมรุม"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB walks out of Overgrowth and ignores his Leech Seed control.",
         "reason_th": "BKB เดินออกจาก Overgrowth และกันการควบคุมจาก Leech Seed"
       }
@@ -28895,12 +29060,14 @@
       {
         "kind": "offense",
         "ability": "Fireblast",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ogre_magi_fireblast.png",
         "reason": "Fireblast stuns reliably and can multicast for a huge chunk of damage.",
         "reason_th": "Fireblast สตันได้แน่นอนและสามารถมัลติคาสต์เพื่อดาเมจก้อนใหญ่"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores his magic stun, and he has little to offer against it.",
         "reason_th": "BKB กันสตันเวทย์ของเขา และเขาแทบไม่มีอะไรสู้ได้"
       }
@@ -29246,12 +29413,14 @@
       {
         "kind": "offense",
         "ability": "Tombstone",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/undying_tombstone.png",
         "reason": "Tombstone spawns a zombie horde that slows and chases the whole enemy team.",
         "reason_th": "Tombstone สร้างฝูงซอมบี้ที่สโลว์และไล่ทีมศัตรูทั้งหมด"
       },
       {
         "kind": "defense",
         "ability": "Kill the Tombstone",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/undying_tombstone.png",
         "reason": "Focusing down the Tombstone removes the zombies and most of his fight pressure.",
         "reason_th": "การโฟกัสเก็บ Tombstone ลบซอมบี้และแรงกดดันส่วนใหญ่ของเขา"
       }
@@ -29596,12 +29765,14 @@
       {
         "kind": "offense",
         "ability": "Spell Steal",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/rubick_spell_steal.png",
         "reason": "Spell Steal turns the enemy's best ultimate against them after a Telekinesis lift.",
         "reason_th": "Spell Steal เปลี่ยนอัลติที่ดีที่สุดของศัตรูมาใช้สวนหลังยกด้วย Telekinesis"
       },
       {
         "kind": "defense",
         "ability": "Burst the squishy",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Rubick is fragile, so quick lockdown and burst kill him before he steals anything.",
         "reason_th": "Rubick ตัวเปราะ การคุมและเบิร์สต์เร็ว ๆ จึงเก็บเขาก่อนที่จะขโมยอะไรได้"
       }
@@ -29947,12 +30118,14 @@
       {
         "kind": "offense",
         "ability": "Glimpse",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/disruptor_glimpse.png",
         "reason": "Glimpse yanks a target back to where it stood, stranding blinkers like Storm and QoP.",
         "reason_th": "Glimpse ดึงเป้ากลับไปยังจุดที่เคยอยู่ ทำให้สาย blink อย่าง Storm และ QoP ค้าง"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB walks out of Static Storm and Kinetic Field's trap.",
         "reason_th": "BKB เดินออกจาก Static Storm และกับดัก Kinetic Field"
       }
@@ -30298,12 +30471,14 @@
       {
         "kind": "offense",
         "ability": "Spiked Carapace",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/nyx_assassin_spiked_carapace.png",
         "reason": "Spiked Carapace reflects and stuns the next attack or spell back at the caster.",
         "reason_th": "Spiked Carapace สะท้อนและสตันการโจมตีหรือสกิลถัดไปกลับใส่ผู้ใช้"
       },
       {
         "kind": "defense",
         "ability": "Detection",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Sentries and dust reveal his Vendetta ganks before the burst lands.",
         "reason_th": "Sentry และ dust เปิดเผยการแกงค์ Vendetta ของเขาก่อนเบิร์สต์จะลง"
       }
@@ -30663,12 +30838,14 @@
       {
         "kind": "offense",
         "ability": "Song of the Siren",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/naga_siren_song_of_the_siren.png",
         "reason": "Song of the Siren sleeps the whole enemy team for a free reset or initiation.",
         "reason_th": "Song of the Siren ทำให้ทีมศัตรูทั้งหมดหลับเพื่อรีเซ็ตหรือเปิดเกมฟรี ๆ"
       },
       {
         "kind": "defense",
         "ability": "Illusion clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "Mjollnir, Radiance, and AoE shred her Mirror Image wall.",
         "reason_th": "Mjollnir, Radiance และ AoE ฉีกกำแพง Mirror Image ของเธอ"
       }
@@ -31013,12 +31190,14 @@
       {
         "kind": "offense",
         "ability": "Illuminate",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/keeper_of_the_light_illuminate.png",
         "reason": "Illuminate blasts a whole wave or lane from a safe distance and pushes hard.",
         "reason_th": "Illuminate ยิงทั้งเวฟหรือเลนจากระยะปลอดภัยและผลักอย่างหนัก"
       },
       {
         "kind": "defense",
         "ability": "Gap-close the back",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "KotL is squishy and far back, so a blink or charge ends him fast.",
         "reason_th": "KotL ตัวบางและอยู่แถวหลัง blink หรือ charge จึงเก็บเขาได้ไว"
       }
@@ -31357,12 +31536,14 @@
       {
         "kind": "offense",
         "ability": "Relocate",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/wisp_relocate.png",
         "reason": "Relocate teleports a core anywhere for a gank, then yanks it back to safety.",
         "reason_th": "Relocate เทเลพอร์ตคอร์ไปไหนก็ได้เพื่อแกงค์ แล้วดึงกลับมาที่ปลอดภัย"
       },
       {
         "kind": "defense",
         "ability": "Kill the Io",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "Io is fragile; killing it cancels Relocate and removes the enemy's Tether buff.",
         "reason_th": "Io เปราะบาง การเก็บมันยกเลิก Relocate และลบบัฟ Tether ของศัตรู"
       }
@@ -31631,12 +31812,14 @@
       {
         "kind": "offense",
         "ability": "Familiars",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/visage_summon_familiars.png",
         "reason": "Summoned Familiars stun from the air and shred armored targets with their attacks.",
         "reason_th": "Familiars ที่เรียกออกมาสตันจากอากาศและฉีกเป้าหมายที่มีเกราะด้วยการตี"
       },
       {
         "kind": "defense",
         "ability": "Clear the birds",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "AoE and Mjollnir kill his Familiars, stripping most of Visage's damage and control.",
         "reason_th": "AoE และ Mjollnir เก็บ Familiars ของเขา ลบดาเมจและการควบคุมส่วนใหญ่ของ Visage"
       }
@@ -31994,12 +32177,14 @@
       {
         "kind": "offense",
         "ability": "Essence Shift",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/slark_essence_shift.png",
         "reason": "Essence Shift permanently steals stats per hit, snowballing Slark off any kill.",
         "reason_th": "Essence Shift ขโมยสเตตัสถาวรต่อการตี ทำให้ Slark สโนว์บอลจากทุกการเก็บ"
       },
       {
         "kind": "defense",
         "ability": "Detection / lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Dust reveals Shadow Dance and lockdown holds him still before he escapes into the dark.",
         "reason_th": "Dust เปิดเผย Shadow Dance และการคุมตรึงเขาไว้ก่อนที่จะหนีเข้าความมืด"
       }
@@ -32344,12 +32529,14 @@
       {
         "kind": "offense",
         "ability": "Mana Shield",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/medusa_mana_shield.png",
         "reason": "Mana Shield soaks enormous physical damage, letting Medusa out-last right-clickers.",
         "reason_th": "Mana Shield ดูดซับดาเมจกายภาพมหาศาล ทำให้ Medusa อึดกว่าสายตี"
       },
       {
         "kind": "defense",
         "ability": "Mana burn",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/diffusal_blade.png",
         "reason": "Anti-Mage's Mana Break and Diffusal empty her Mana Shield, collapsing her tankiness.",
         "reason_th": "Mana Break ของ Anti-Mage และ Diffusal ทำให้ Mana Shield หมด ทำให้ความถึกของเธอพังลง"
       }
@@ -32701,12 +32888,14 @@
       {
         "kind": "offense",
         "ability": "Battle Trance",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/troll_warlord_battle_trance.png",
         "reason": "Battle Trance is a self-dispel attack-speed steroid that out-DPSes other carries.",
         "reason_th": "Battle Trance คือสกิลดิสเพลตัวเองเพิ่มความเร็วโจมตีที่ DPS เหนือกว่าแครรี่ตัวอื่น"
       },
       {
         "kind": "defense",
         "ability": "Kite / Ghost",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ghost.png",
         "reason": "Ghost Scepter and slows kite melee Troll, who has no built-in escape.",
         "reason_th": "Ghost Scepter และสโลว์ไคต์ Troll สายประชิดที่ไม่มีสกิลหนีในตัว"
       }
@@ -33047,12 +33236,14 @@
       {
         "kind": "offense",
         "ability": "Hoof Stomp",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/centaur_hoof_stomp.png",
         "reason": "Blink into Hoof Stomp is an instant AoE stun, and Return punishes attackers.",
         "reason_th": "blink เข้า Hoof Stomp คือสตัน AoE ทันที และ Return ลงโทษผู้โจมตี"
       },
       {
         "kind": "defense",
         "ability": "Heal cut",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "Spirit Vessel and break effects cut the regen Centaur tanks with.",
         "reason_th": "Spirit Vessel และเอฟเฟกต์ Break ตัดการฟื้นเลือดที่ Centaur ใช้ทนทาน"
       }
@@ -33410,12 +33601,14 @@
       {
         "kind": "offense",
         "ability": "Reverse Polarity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/magnataur_reverse_polarity.png",
         "reason": "Reverse Polarity pulls and stuns the whole enemy team for a guaranteed teamfight wipe.",
         "reason_th": "Reverse Polarity ดึงและสตันทีมศัตรูทั้งหมดเพื่อล้างทีมแบบการันตี"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB lets cores walk out of Reverse Polarity and ignore Skewer.",
         "reason_th": "BKB ทำให้คอร์เดินออกจาก Reverse Polarity และกัน Skewer"
       }
@@ -33754,12 +33947,14 @@
       {
         "kind": "offense",
         "ability": "Reactive Armor",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shredder_reactive_armor.png",
         "reason": "Reactive Armor stacks armor and regen per hit, letting Timbersaw win attrition fights.",
         "reason_th": "Reactive Armor สะสมเกราะและการฟื้นเลือดต่อการตี ให้ Timbersaw ชนะการต่อสู้ระยะยาว"
       },
       {
         "kind": "defense",
         "ability": "Pure damage / Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png",
         "reason": "Pure damage and Break (Silver Edge) bypass Reactive Armor and melt him.",
         "reason_th": "Pure damage และ Break (Silver Edge) ข้าม Reactive Armor และละลายเขา"
       }
@@ -34117,12 +34312,14 @@
       {
         "kind": "offense",
         "ability": "Quill Spray",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bristleback_quill_spray.png",
         "reason": "Quill Spray stacks while Bristleback shrugs off frontal damage in extended fights.",
         "reason_th": "Quill Spray สะสมขณะที่ Bristleback ทนดาเมจจากด้านหน้าในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "kind": "defense",
         "ability": "Magic burst / Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/silver_edge.png",
         "reason": "Magic burst and break (Silver Edge) bypass his armor and Warpath stacks.",
         "reason_th": "เบิร์สต์เวทย์และ Break (Silver Edge) ข้ามเกราะและสแต็ก Warpath ของเขา"
       }
@@ -34455,12 +34652,14 @@
       {
         "kind": "offense",
         "ability": "Snowball",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tusk_snowball.png",
         "reason": "Snowball rolls in to isolate a target, then Walrus Punch knocks it back stunned.",
         "reason_th": "Snowball กลิ้งเข้ามาแยกเป้าหมาย แล้ว Walrus Punch ต่อยถอยพร้อมสตัน"
       },
       {
         "kind": "defense",
         "ability": "Dodge Ice Shards",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "Sidestepping Ice Shards and bursting melee Tusk down removes his initiation.",
         "reason_th": "การหลบ Ice Shards และเบิร์สต์ Tusk สายประชิดลบการเปิดเกมของเขา"
       }
@@ -34805,12 +35004,14 @@
       {
         "kind": "offense",
         "ability": "Ancient Seal",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/skywrath_mage_ancient_seal.png",
         "reason": "Ancient Seal silences and amplifies magic damage, setting up a guaranteed burst kill.",
         "reason_th": "Ancient Seal ไซเลนซ์และเพิ่มดาเมจเวทย์ เปิดการเบิร์สต์เก็บแบบการันตี"
       },
       {
         "kind": "defense",
         "ability": "Magic resist",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/pipe.png",
         "reason": "Pipe, BKB, or any gap-closer ends one of the squishiest heroes in the game.",
         "reason_th": "Pipe, BKB หรือการเข้าระยะใด ๆ จบหนึ่งในฮีโร่ที่ตัวบางที่สุดในเกม"
       }
@@ -35167,12 +35368,14 @@
       {
         "kind": "offense",
         "ability": "Aphotic Shield",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_aphotic_shield.png",
         "reason": "Aphotic Shield dispels stuns and silences off an ally, then bursts nearby enemies.",
         "reason_th": "Aphotic Shield ดิสเพลสตันและไซเลนซ์ออกจากเพื่อน แล้วระเบิดใส่ศัตรูรอบข้าง"
       },
       {
         "kind": "defense",
         "ability": "Ice Blast",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_ice_blast.png",
         "reason": "Ancient Apparition's Ice Blast shuts off Borrowed Time and Aphotic Shield healing.",
         "reason_th": "Ice Blast ของ Ancient Apparition ตัดการฮีลจาก Borrowed Time และ Aphotic Shield"
       }
@@ -35374,12 +35577,14 @@
       {
         "kind": "offense",
         "ability": "Natural Order",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/elder_titan_natural_order.png",
         "reason": "Natural Order strips enemy armor and magic resistance, amplifying all your team's damage.",
         "reason_th": "Natural Order ลดเกราะและความต้านเวทย์ของศัตรู เพิ่มดาเมจให้ทั้งทีม"
       },
       {
         "kind": "defense",
         "ability": "Kill the Spirit",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/elder_titan_ancestral_spirit.png",
         "reason": "Damaging his detached Astral Spirit weakens Echo Stomp and his whole kit.",
         "reason_th": "การทำดาเมจใส่ Astral Spirit ที่แยกออกไปทำให้ Echo Stomp และสกิลทั้งชุดอ่อนลง"
       }
@@ -35738,12 +35943,14 @@
       {
         "kind": "offense",
         "ability": "Duel",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/legion_commander_duel.png",
         "reason": "Duel forces a no-escape 1v1 that Legion almost always wins with damage stacked.",
         "reason_th": "Duel บังคับ 1v1 ที่หนีไม่ได้ ซึ่ง Legion มักชนะด้วยดาเมจที่สะสมไว้"
       },
       {
         "kind": "defense",
         "ability": "Euls / Lotus",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "Eul's or a dispel breaks Duel's lock, and Lotus Orb reflects it back.",
         "reason_th": "Eul's หรือดิสเพลปลดการล็อกของ Duel และ Lotus Orb สะท้อนกลับ"
       }
@@ -36087,12 +36294,14 @@
       {
         "kind": "offense",
         "ability": "Proximity Mines",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/techies_land_mines.png",
         "reason": "Proximity Mines zone the map and delete unwary heroes who walk into them.",
         "reason_th": "Proximity Mines กันพื้นที่ทั่วแมพและเก็บฮีโร่ที่เผลอเดินเข้าไป"
       },
       {
         "kind": "defense",
         "ability": "Detection / sustain",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Gem, sentries, and high regen clear mines and survive his burst.",
         "reason_th": "Gem, sentry และการฟื้นเลือดสูงเคลียร์ระเบิดและรอดจากเบิร์สต์ของเขา"
       }
@@ -36451,12 +36660,14 @@
       {
         "kind": "offense",
         "ability": "Sleight of Fist",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ember_spirit_sleight_of_fist.png",
         "reason": "Sleight of Fist dashes through enemies dealing damage while dodging all retaliation.",
         "reason_th": "Sleight of Fist พุ่งผ่านศัตรูสร้างดาเมจขณะหลบการสวนทั้งหมด"
       },
       {
         "kind": "defense",
         "ability": "Hex / disable",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Hex or a long disable pins Ember before he chains Fire Remnant escapes.",
         "reason_th": "Hex หรือการคุมยาวตรึง Ember ก่อนที่เขาจะร้อยการหนีด้วย Fire Remnant"
       }
@@ -36791,12 +37002,14 @@
       {
         "kind": "offense",
         "ability": "Boulder Smash",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/earth_spirit_boulder_smash.png",
         "reason": "Boulder Smash kicks his stone or an enemy into the team, chaining stuns with Geomagnetic Grip.",
         "reason_th": "Boulder Smash เตะหินหรือศัตรูเข้าหาทีม ร้อยสตันกับ Geomagnetic Grip"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores his magic-based stuns and silences during his roll-in.",
         "reason_th": "BKB กันสตันและไซเลนซ์เวทย์ของเขาระหว่างการกลิ้งเข้ามา"
       }
@@ -37131,12 +37344,14 @@
       {
         "kind": "offense",
         "ability": "Pit of Malice",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abyssal_underlord_pit_of_malice.png",
         "reason": "Pit of Malice repeatedly roots anyone inside, holding a team in Firestorm damage.",
         "reason_th": "Pit of Malice รูทใครก็ตามที่อยู่ข้างในซ้ำ ๆ ตรึงทีมไว้ในดาเมจ Firestorm"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores Pit of Malice's root and lets cores fight through his zone.",
         "reason_th": "BKB กันการรูทจาก Pit of Malice และให้คอร์สู้ผ่านพื้นที่ของเขา"
       }
@@ -37481,12 +37696,14 @@
       {
         "kind": "offense",
         "ability": "Metamorphosis",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/terrorblade_metamorphosis.png",
         "reason": "Metamorphosis plus Conjure Image floods the fight with armor-shredding ranged illusions.",
         "reason_th": "Metamorphosis บวก Conjure Image ถล่มการต่อสู้ด้วยอิลลูชันระยะไกลที่ลดเกราะ"
       },
       {
         "kind": "defense",
         "ability": "Illusion clear",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/mjollnir.png",
         "reason": "Mjollnir and AoE wipe his illusions, and early ganks kill fragile early Terrorblade.",
         "reason_th": "Mjollnir และ AoE ล้างอิลลูชันของเขา และการแกงค์ช่วงต้นเก็บ Terrorblade ที่เปราะ"
       }
@@ -37821,12 +38038,14 @@
       {
         "kind": "offense",
         "ability": "Supernova",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phoenix_supernova.png",
         "reason": "Supernova stuns nearby enemies and forces them to break it before Phoenix revives.",
         "reason_th": "Supernova สตันศัตรูรอบข้างและบังคับให้ทำลายก่อนที่ Phoenix จะฟื้น"
       },
       {
         "kind": "defense",
         "ability": "Burst the egg",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dagon_5.png",
         "reason": "High burst kills the Supernova egg fast, turning his ult into a death.",
         "reason_th": "เบิร์สต์สูงเก็บไข่ Supernova ได้ไว เปลี่ยนอัลติของเขาเป็นความตาย"
       }
@@ -38178,12 +38397,14 @@
       {
         "kind": "offense",
         "ability": "False Promise",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/oracle_false_promise.png",
         "reason": "False Promise delays all damage and healing, then heals it back to save an ally.",
         "reason_th": "False Promise หน่วงดาเมจและการฮีลทั้งหมด แล้วฮีลกลับเพื่อเซฟเพื่อน"
       },
       {
         "kind": "defense",
         "ability": "Focus / silence",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/orchid.png",
         "reason": "Silencing or bursting fragile Oracle stops the save before it lands.",
         "reason_th": "การไซเลนซ์หรือเบิร์สต์ Oracle ที่ตัวบางหยุดการเซฟก่อนที่จะลง"
       }
@@ -38528,12 +38749,14 @@
       {
         "kind": "offense",
         "ability": "Winter's Curse",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/winter_wyvern_winters_curse.png",
         "reason": "Winter's Curse turns the enemy team's attacks onto its own cursed ally.",
         "reason_th": "Winter's Curse หันการโจมตีของทีมศัตรูให้ใส่เพื่อนที่ถูกสาปของตัวเอง"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB on the cursed target breaks Winter's Curse early.",
         "reason_th": "BKB บนเป้าที่ถูกสาปทำลาย Winter's Curse ก่อนเวลา"
       }
@@ -38758,12 +38981,14 @@
       {
         "kind": "offense",
         "ability": "Tempest Double",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_tempest_double.png",
         "reason": "Tempest Double clones Arc Warden and his items to double his damage from afar.",
         "reason_th": "Tempest Double โคลน Arc Warden และไอเทมเพื่อออกดาเมจสองเท่าจากระยะไกล"
       },
       {
         "kind": "defense",
         "ability": "Early pressure",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/smoke_of_deceit.png",
         "reason": "Arc is weak and farm-reliant early, so aggressive ganks shut him down before items.",
         "reason_th": "Arc อ่อนแอและพึ่งการฟาร์มช่วงต้น การแกงค์ดุดันจึงกดเขาก่อนมีของ"
       }
@@ -39121,12 +39346,14 @@
       {
         "kind": "offense",
         "ability": "Wukong's Command",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/monkey_king_wukongs_command.png",
         "reason": "Wukong's Command rings a clumped team in spinning clones for sustained AoE.",
         "reason_th": "Wukong's Command ล้อมทีมที่รวมกลุ่มด้วยร่างโคลนที่หมุนเพื่อ AoE ต่อเนื่อง"
       },
       {
         "kind": "defense",
         "ability": "Force him out",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "AoE and knockbacks push him off his Command ring, cancelling its damage.",
         "reason_th": "AoE และการผลักดันเขาออกจากวง Command ยกเลิกดาเมจ"
       }
@@ -39472,12 +39699,14 @@
       {
         "kind": "offense",
         "ability": "Cursed Crown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dark_willow_cursed_crown.png",
         "reason": "Cursed Crown delays an AoE stun, and Bramble Maze roots anyone who walks through.",
         "reason_th": "Cursed Crown หน่วงสตัน AoE และ Bramble Maze รูทใครก็ตามที่เดินผ่าน"
       },
       {
         "kind": "defense",
         "ability": "Catch the escape",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Detection and lockdown stop Shadow Realm fade before she bursts from safety.",
         "reason_th": "การเปิดแมพและการคุมหยุดการล่องหน Shadow Realm ก่อนที่เธอจะเบิร์สต์จากที่ปลอดภัย"
       }
@@ -39837,12 +40066,14 @@
       {
         "kind": "offense",
         "ability": "Rolling Thunder",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pangolier_gyroshell.png",
         "reason": "Rolling Thunder rolls through and stuns a clumped team, knocking them around.",
         "reason_th": "Rolling Thunder กลิ้งผ่านและสตันทีมที่รวมกลุ่ม กระเด็นไปมา"
       },
       {
         "kind": "defense",
         "ability": "Block the roll",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/cyclone.png",
         "reason": "Terrain, stuns, and Cogs stop his roll, and Shield Crash relies on hitting enemies.",
         "reason_th": "ภูมิประเทศ สตัน และ Cogs หยุดการกลิ้งของเขา และ Shield Crash พึ่งการชนศัตรู"
       }
@@ -40188,12 +40419,14 @@
       {
         "kind": "offense",
         "ability": "Soulbind",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/grimstroke_soul_chain.png",
         "reason": "Soulbind chains two heroes so one disable or nuke lands on both at once.",
         "reason_th": "Soulbind มัดสองฮีโร่ให้การคุมหรือนุกครั้งเดียวโดนทั้งคู่"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB ignores Soulbind and Ink Swell's stun, breaking his combo.",
         "reason_th": "BKB กัน Soulbind และสตันจาก Ink Swell ทำลายคอมโบของเขา"
       }
@@ -40527,12 +40760,14 @@
       {
         "kind": "offense",
         "ability": "Sharpshooter",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/hoodwink_sharpshooter.png",
         "reason": "Sharpshooter charges a long-range piercing snipe with a heavy stun and damage.",
         "reason_th": "Sharpshooter ชาร์จการยิงทะลุระยะไกลพร้อมสตันหนักและดาเมจ"
       },
       {
         "kind": "defense",
         "ability": "Catch her out",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/dust.png",
         "reason": "Lockdown stops Scurry's tree escape and kills a fragile hero quickly.",
         "reason_th": "การคุมหยุดการหนีผ่านต้นไม้ของ Scurry และเก็บฮีโร่ตัวบางได้ไว"
       }
@@ -40890,12 +41125,14 @@
       {
         "kind": "offense",
         "ability": "Dissimilate",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/void_spirit_dissimilate.png",
         "reason": "Dissimilate blinks Void Spirit between portals to dodge damage and reposition the burst.",
         "reason_th": "Dissimilate blink Void Spirit ระหว่างพอร์ทัลเพื่อหลบดาเมจและจัดตำแหน่งเบิร์สต์"
       },
       {
         "kind": "defense",
         "ability": "Mana burn / lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/diffusal_blade.png",
         "reason": "Mana pressure and a stun once his escape is down end a mana-reliant hero.",
         "reason_th": "แรงกดดันมานาและสตันเมื่อสกิลหนีหมด เก็บฮีโร่ที่พึ่งมานา"
       }
@@ -41241,12 +41478,14 @@
       {
         "kind": "offense",
         "ability": "Mortimer Kisses",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/snapfire_mortimer_kisses.png",
         "reason": "Mortimer Kisses rains slowing globs from long range to zone and burst a team.",
         "reason_th": "Mortimer Kisses สาดก้อนกระสุนสโลว์จากระยะไกลเพื่อกันพื้นที่และเบิร์สต์ทีม"
       },
       {
         "kind": "defense",
         "ability": "Gap-close her",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "She is squishy, so a blink or charge ends her before Scatterblast stuns.",
         "reason_th": "เธอตัวบาง blink หรือ charge จึงเก็บเธอก่อนที่ Scatterblast จะสตัน"
       }
@@ -41580,12 +41819,14 @@
       {
         "kind": "offense",
         "ability": "Arena of Blood",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/mars_arena_of_blood.png",
         "reason": "Arena of Blood walls off a fight and blocks ranged attacks from outside.",
         "reason_th": "Arena of Blood กั้นการต่อสู้และบล็อกการโจมตีระยะไกลจากด้านนอก"
       },
       {
         "kind": "defense",
         "ability": "Force Staff / blink",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/force_staff.png",
         "reason": "Force Staff or a blink escapes the Arena before Spear and allies collapse.",
         "reason_th": "Force Staff หรือ blink หนีออกจาก Arena ก่อนที่ Spear และเพื่อนจะรุม"
       }
@@ -41931,12 +42172,14 @@
       {
         "kind": "offense",
         "ability": "Tame the Beasts",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ringmaster_tame_the_beasts.png",
         "reason": "Tame the Beasts tangles and disables enemies while Ringmaster sets traps and tricks.",
         "reason_th": "Tame the Beasts พันและคุมศัตรูขณะที่ Ringmaster วางกับดักและลูกเล่น"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB lets cores ignore his disables and trap-based control.",
         "reason_th": "BKB ทำให้คอร์กันการคุมและการควบคุมด้วยกับดักของเขา"
       }
@@ -42292,12 +42535,14 @@
       {
         "kind": "offense",
         "ability": "Solar Guardian",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dawnbreaker_solar_guardian.png",
         "reason": "Solar Guardian lands anywhere on the map to stun, heal, and turn a fight.",
         "reason_th": "Solar Guardian ลงได้ทุกที่บนแมพเพื่อสตัน ฮีล และพลิกการต่อสู้"
       },
       {
         "kind": "defense",
         "ability": "Heal cut / Break",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/spirit_vessel.png",
         "reason": "Spirit Vessel and Break cut the Luminosity healing that keeps her alive.",
         "reason_th": "Spirit Vessel และ Break ตัดการฮีลจาก Luminosity ที่ทำให้เธออยู่รอด"
       }
@@ -42656,12 +42901,14 @@
       {
         "kind": "offense",
         "ability": "Unleash",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/marci_unleash.png",
         "reason": "Unleash turns Marci into a fast-attacking bruiser that bursts and slows a target.",
         "reason_th": "Unleash เปลี่ยน Marci เป็นนักสู้ที่ตีไวซึ่งเบิร์สต์และสโลว์เป้า"
       },
       {
         "kind": "defense",
         "ability": "Ghost / kite",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/ghost.png",
         "reason": "Ghost Scepter and slows kite her physical Unleash since she must be in melee.",
         "reason_th": "Ghost Scepter และสโลว์ไคต์ Unleash กายภาพของเธอ เพราะเธอต้องอยู่ระยะประชิด"
       }
@@ -43018,12 +43265,14 @@
       {
         "kind": "offense",
         "ability": "Pulverize",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/primal_beast_pulverize.png",
         "reason": "Pulverize grabs and repeatedly stuns a target while Trample tanks Primal Beast up.",
         "reason_th": "Pulverize จับและสตันเป้าซ้ำ ๆ ขณะที่ Trample ทำให้ Primal Beast ถึกขึ้น"
       },
       {
         "kind": "defense",
         "ability": "Linken's / Lotus",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sphere.png",
         "reason": "Linken's blocks Pulverize and Lotus Orb reflects it back at him.",
         "reason_th": "Linken's บล็อก Pulverize และ Lotus Orb สะท้อนกลับใส่เขา"
       }
@@ -43368,12 +43617,14 @@
       {
         "kind": "offense",
         "ability": "Pierce the Veil",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/muerta_pierce_the_veil.png",
         "reason": "Pierce the Veil makes Muerta ignore physical attacks and deal pure magic damage.",
         "reason_th": "Pierce the Veil ทำให้ Muerta กันการโจมตีกายภาพและออกดาเมจเวทย์ล้วน"
       },
       {
         "kind": "defense",
         "ability": "Gap-closers",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png",
         "reason": "Immobile Muerta dies to blinks and lockdown once her ult is down.",
         "reason_th": "Muerta ที่เคลื่อนที่ช้าตายให้กับ blink และการคุมเมื่ออัลติหมด"
       }
@@ -43730,12 +43981,14 @@
       {
         "kind": "offense",
         "ability": "Grappling Claw",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/kez_grappling_claw.png",
         "reason": "Kez switches stances to dash in, parry attacks, and burst a single target down.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่งเข้า ปัดการโจมตี และเบิร์สต์เป้าหมายเดี่ยว"
       },
       {
         "kind": "defense",
         "ability": "Lockdown",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "A hard disable interrupts his combo and kills a fairly fragile carry.",
         "reason_th": "การคุมหนักขัดคอมโบของเขาและเก็บแครรี่ที่ค่อนข้างเปราะ"
       }
@@ -44068,19 +44321,21 @@
       {
         "kind": "offense",
         "ability": "Heavy disable",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/sheepstick.png",
         "reason": "Largo controls space and locks down a key target to open the fight for the team.",
         "reason_th": "Largo คุมพื้นที่และล็อกเป้าหมายสำคัญเพื่อเปิดการต่อสู้ให้ทีม"
       },
       {
         "kind": "defense",
         "ability": "Spell immunity",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/black_king_bar.png",
         "reason": "BKB lets cores fight through his disables and tanky frontline.",
         "reason_th": "BKB ทำให้คอร์สู้ผ่านการคุมและแนวหน้าที่ถึกของเขา"
       }
     ]
   },
   "meta": {
-    "last_updated": "2026-06-14T20:55:36.479Z",
+    "last_updated": "2026-06-14T23:21:02.420Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": true

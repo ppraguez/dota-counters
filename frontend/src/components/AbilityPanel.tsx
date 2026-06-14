@@ -1,5 +1,25 @@
+import { useState } from "react";
 import type { AbilityCounterEntry } from "../types";
 import { useI18n } from "../i18n";
+
+/** Ability/item icon with a fallback box if the URL is missing or the CDN image fails. */
+function AbilityIcon({ src, name }: { src: string | null | undefined; name: string }) {
+  const [failed, setFailed] = useState(false);
+  if (!src || failed) {
+    return <span className="ability-card__icon ability-card__icon--fallback" aria-hidden="true" />;
+  }
+  return (
+    <img
+      className="ability-card__icon"
+      src={src}
+      alt=""
+      loading="lazy"
+      decoding="async"
+      onError={() => setFailed(true)}
+      title={name}
+    />
+  );
+}
 
 interface Props {
   items: AbilityCounterEntry[];
@@ -25,6 +45,7 @@ export function AbilityPanel({ items }: Props) {
         {items.map((a, i) => (
           <li key={`${a.kind}-${a.ability}-${i}`} className={`ability-card ability-card--${a.kind}`}>
             <span className="ability-card__tag">{t(`ability.${a.kind}`)}</span>
+            <AbilityIcon src={a.icon_url} name={a.ability} />
             <div className="ability-card__text">
               <span className="ability-card__name">{a.ability}</span>
               <span className="ability-card__reason">{reasonOf(a)}</span>

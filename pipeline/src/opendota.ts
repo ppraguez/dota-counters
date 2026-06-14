@@ -101,6 +101,16 @@ export function fetchItemConstants(): Promise<OpenDotaItemConstants> {
   return getJSON<OpenDotaItemConstants>("/constants/items");
 }
 
+/** Ability metadata (display name + icon path) keyed by internal ability name. */
+export function fetchAbilityConstants(): Promise<Record<string, { dname?: string; img?: string }>> {
+  return getJSON<Record<string, { dname?: string; img?: string }>>("/constants/abilities");
+}
+
+/** Per-hero ability lists keyed by internal hero name (e.g. "npc_dota_hero_antimage"). */
+export function fetchHeroAbilities(): Promise<Record<string, { abilities?: string[] }>> {
+  return getJSON<Record<string, { abilities?: string[] }>>("/constants/hero_abilities");
+}
+
 /**
  * The /constants/patch endpoint returns the full list of patches, oldest first. We treat
  * the entry with the most recent date as the current patch.

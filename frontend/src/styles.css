@@ -642,6 +642,21 @@ code {
   margin-top: 1px;
 }
 
+.ability-card__icon {
+  width: 40px;
+  height: 30px;
+  flex: none;
+  object-fit: cover;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  background: var(--panel-3);
+}
+
+.ability-card__icon--fallback {
+  display: inline-block;
+}
+
 .ability-card--offense .ability-card__tag {
   color: var(--good);
   background: var(--good-soft);

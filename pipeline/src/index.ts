@@ -18,7 +18,15 @@ import {
   fetchCurrentPatch,
   fetchItemPopularity,
   fetchItemConstants,
+  fetchAbilityConstants,
+  fetchHeroAbilities,
 } from "./opendota.js";
+import {
+  buildIconResolver,
+  saveAbilityConstantsCache,
+  loadAbilityConstantsCache,
+  type IconResolver,
+} from "./abilityIcons.js";
 import { buildTagIndex } from "./heroTags.js";
 import { counterReason, synergyReason } from "./reasons.js";
 import { counterReasonTh, synergyReasonTh } from "./reasonsTh.js";
@@ -94,6 +102,26 @@ async function main(): Promise<void> {
     }
   } catch (err) {
     console.warn(`  ✗ item constants failed: ${(err as Error).message}; recommended_items empty`);
+  }
+
+  // --- 2c. Ability metadata (for ability-counter icons) ---
+  // Online: fetch + cache. Offline: load cache. Null => ability_counters get null icons this run.
+  let iconResolver: IconResolver | null = null;
+  try {
+    if (config.matchupsOffline) {
+      const cached = await loadAbilityConstantsCache();
+      if (cached) iconResolver = buildIconResolver(cached.abilities, cached.heroAbilities);
+      else console.warn("  ~ no cached ability metadata; ability-counter icons empty this run");
+    } else {
+      const [abilities, heroAbilities] = await Promise.all([
+        fetchAbilityConstants(),
+        fetchHeroAbilities(),
+      ]);
+      await saveAbilityConstantsCache(abilities, heroAbilities);
+      iconResolver = buildIconResolver(abilities, heroAbilities);
+    }
+  } catch (err) {
+    console.warn(`  ✗ ability constants failed: ${(err as Error).message}; ability-counter icons empty`);
   }
 
   // --- 3. Matchups -> counters (+ itemPopularity -> recommended builds) ---
@@ -268,6 +296,7 @@ async function main(): Promise<void> {
       ability_counters: (ABILITY_COUNTERS[heroSlug(h.name)] ?? []).map((a) => ({
         kind: a.kind,
         ability: a.ability,
+        icon_url: iconResolver ? iconResolver.resolve(h.name, a.ability) : null,
         reason: a.text,
         reason_th: a.text_th,
       })),
@@ -287,6 +316,12 @@ async function main(): Promise<void> {
   if (failedHeroes.length > 0) {
     console.warn(
       `  ⚠ ${failedHeroes.length} hero(es) had no matchup data this run: ${failedHeroes.join(", ")}`,
+    );
+  }
+  if (iconResolver && iconResolver.misses.size > 0) {
+    console.warn(
+      `  ⚠ ${iconResolver.misses.size} ability-counter label(s) had no icon: ` +
+        [...iconResolver.misses].join(", "),
     );
   }
   console.log(`✔ wrote ${outPath} (${heroes.length} heroes) in ${secs}s\n`);
