@@ -20,6 +20,7 @@ import {
 } from "./opendota.js";
 import { buildTagIndex } from "./heroTags.js";
 import { counterReason, synergyReason } from "./reasons.js";
+import { counterReasonTh, synergyReasonTh } from "./reasonsTh.js";
 import { synergyScore } from "./synergy.js";
 import { resolvePatchState, loadStoredPatchState } from "./patch.js";
 import { readMatchupCache, writeMatchupCache } from "./matchupsCache.js";
@@ -178,6 +179,7 @@ async function main(): Promise<void> {
           hero_id: m.hero_id,
           delta: round4(delta),
           reason: counterReason(oppTags, hTags),
+          reason_th: counterReasonTh(oppTags, hTags),
         });
       } else if (delta > 0) {
         // This hero beats the opponent.
@@ -185,6 +187,7 @@ async function main(): Promise<void> {
           hero_id: m.hero_id,
           delta: round4(delta),
           reason: counterReason(hTags, oppTags),
+          reason_th: counterReasonTh(hTags, oppTags),
         });
       }
     }
@@ -232,7 +235,7 @@ async function main(): Promise<void> {
       if (a.id === b.id) continue;
       const score = synergyScore(a, b);
       if (score >= config.minSynergyScore) {
-        list.push({ hero_id: b.id, score, reason: synergyReason(a, b) });
+        list.push({ hero_id: b.id, score, reason: synergyReason(a, b), reason_th: synergyReasonTh(a, b) });
       }
     }
     list.sort((x, y) => y.score - x.score);

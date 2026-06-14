@@ -63,6 +63,8 @@ export interface CounterEntry {
   /** (win rate vs this hero) - (overall win rate). Signed; magnitude = strength. */
   delta: number;
   reason: string;
+  /** Thai translation of `reason` (hero names kept in English). */
+  reason_th: string;
 }
 
 export interface SynergyEntry {
@@ -70,6 +72,8 @@ export interface SynergyEntry {
   /** Rules-based synergy score (higher = stronger pairing). */
   score: number;
   reason: string;
+  /** Thai translation of `reason` (hero names kept in English). */
+  reason_th: string;
 }
 
 export interface ItemCounterEntry {
@@ -77,6 +81,8 @@ export interface ItemCounterEntry {
   item: string;
   icon_url: string;
   reason: string;
+  /** Thai translation of `reason` (item/hero names kept in English). */
+  reason_th: string;
 }
 
 export interface RecommendedItemEntry {
@@ -84,6 +90,8 @@ export interface RecommendedItemEntry {
   item: string;
   icon_url: string;
   reason: string;
+  /** Thai translation of `reason` (item names kept in English). */
+  reason_th: string;
 }
 
 export interface HeroAttributes {

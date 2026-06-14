@@ -145,6 +145,39 @@ code {
   font-weight: 600;
 }
 
+/* ---------- Language toggle ---------- */
+.lang-toggle {
+  display: inline-flex;
+  padding: 2px;
+  border-radius: 999px;
+  background: var(--panel-2);
+  border: 1px solid var(--border);
+}
+
+.lang-toggle__btn {
+  appearance: none;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 5px 11px;
+  border-radius: 999px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.lang-toggle__btn:hover {
+  color: var(--text);
+}
+
+.lang-toggle__btn--active {
+  background: var(--synergy);
+  color: #06121f;
+}
+
 /* ---------- Layout ---------- */
 .layout {
   display: flex;

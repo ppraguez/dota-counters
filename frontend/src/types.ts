@@ -6,24 +6,32 @@ export interface CounterEntry {
   /** (hero's win rate vs this opponent) - (hero's overall win rate). */
   delta: number;
   reason: string;
+  /** Thai translation of `reason` (hero names kept in English). */
+  reason_th?: string;
 }
 
 export interface SynergyEntry {
   hero_id: number;
   score: number;
   reason: string;
+  /** Thai translation of `reason` (hero names kept in English). */
+  reason_th?: string;
 }
 
 export interface ItemCounterEntry {
   item: string;
   icon_url: string;
   reason: string;
+  /** Thai translation of `reason` (item/hero names kept in English). */
+  reason_th?: string;
 }
 
 export interface RecommendedItemEntry {
   item: string;
   icon_url: string;
   reason: string;
+  /** Thai translation of `reason` (item names kept in English). */
+  reason_th?: string;
 }
 
 export interface HeroAttributes {

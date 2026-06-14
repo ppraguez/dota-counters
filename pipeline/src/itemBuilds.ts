@@ -177,6 +177,106 @@ function reasonFor(m: ItemMeta): string {
   return benefit.charAt(0).toUpperCase() + benefit.slice(1) + ".";
 }
 
+/** Thai benefit phrases keyed by item shortname (item names stay English in the UI). */
+const ITEM_BENEFITS_TH: Record<string, string> = {
+  // Boots
+  power_treads: "เพิ่มความเร็วโจมตีและสลับสเตตัสได้ทุกบทบาท",
+  phase_boots: "เร่งความเร็วเดินและเพิ่มดาเมจกายภาพ",
+  arcane_boots: "เติมมานาก้อนใหญ่ให้ทั้งทีม",
+  tranquil_boots: "เพิ่มความเร็วเดินและฟื้นเลือดตัวเองอย่างต่อเนื่อง",
+  travel_boots: "เทเลพอร์ตไปได้ทั่วแมพ",
+  travel_boots_2: "อัปเกรดการเทเลพอร์ตทั่วแมพให้ดียิ่งขึ้น",
+  boots_of_bearing: "ออร่าความเร็วเดินและความเร็วโจมตีให้ทีมพร้อมสกิลกด",
+  guardian_greaves: "ฮีล เติมมานา และดิสเพลให้ทีมในชิ้นเดียว",
+  // Spell immunity / dispels / saves
+  black_king_bar: "ภูมิคุ้มกันเวทย์เพื่อสู้ต่อท่ามกลางการคุมและดาเมจเวทย์",
+  manta: "ดิสเพลตัวเอง พร้อมอิลลูชันและความเร็วโจมตี",
+  lotus_orb: "สกิลเซฟที่สะท้อนและดิสเพลได้",
+  aeon_disk: "สกิลเซฟตอนโดนเบิร์สต์หนัก",
+  glimmer_cape: "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน",
+  linkens_sphere: "บล็อกสกิลเดี่ยวพร้อมสเตตัสที่ดี",
+  sphere: "บล็อกสกิลเดี่ยวพร้อมสเตตัสที่ดี",
+  // Right-click cores
+  butterfly: "เพิ่ม evasion, agility และความเร็วโจมตีจำนวนมาก",
+  daedalus: "เพิ่มดาเมจคริติคอลมหาศาล",
+  desolator: "ลดเกราะเพื่อเพิ่มดาเมจกายภาพ",
+  devastator: "เพิ่มดาเมจเวทย์และออร่าโจมตีลดเกราะ",
+  monkey_king_bar: "true strike และดาเมจเวทย์เสริม",
+  bloodthorn: "เบิร์สต์พร้อมไซเลนซ์ true strike และคริติคอล",
+  silver_edge: "เบิร์สต์จากล่องหนที่ Break สกิล passive ของศัตรู",
+  abyssal_blade: "บาชแข็งเพื่อล็อกเป้าหมาย",
+  basher: "มีโอกาสบาชและสตันในการต่อสู้",
+  satanic: "lifesteal พร้อมสกิลฟื้นเลือดมหาศาล",
+  mjollnir: "ความเร็วโจมตีและเคลียร์ด้วย chain lightning",
+  maelstrom: "ฟาร์มไวด้วย chain lightning",
+  bfury: "ฟาร์มไวด้วยดาเมจ cleave",
+  greater_crit: "เพิ่มดาเมจคริติคอลมหาศาล",
+  mask_of_madness: "เร่งความเร็วโจมตีสุด ๆ สำหรับฟาร์มและการต่อสู้",
+  armlet: "สเตตัสตีแรงในราคาประหยัด",
+  rapier: "ดาเมจสูงสุดแบบเสี่ยงทั้งหมด",
+  disperser: "ดิสเพลและสโลว์พร้อมสเตตัสที่ดี",
+  skadi: "สเตตัสมหาศาลและสโลว์ที่ลดการฮีล",
+  sange_and_yasha: "สเตตัส ต้านสถานะ และสโลว์",
+  diffusal_blade: "เผามานาและสโลว์ที่ไว้ใจได้",
+  echo_sabre: "เบิร์สต์โจมตีสองครั้งพร้อมเติมมานา",
+  nullifier: "ดิสเพลและปิดการใช้ไอเทมของศัตรู",
+  moon_shard: "เพิ่มความเร็วโจมตีถาวรจำนวนมาก",
+  hurricane_pike: "เพิ่มระยะและถอยหนีจากสายประชิด",
+  harpoon: "สกิลเข้าหาเพื่อเกาะติดเป้าหมาย",
+  // Tanky / utility
+  heart: "เพิ่มเลือดและการฟื้นเลือดมหาศาล",
+  assault: "ออร่าเกราะและความเร็วโจมตี",
+  shivas_guard: "เกราะและสโลว์ AoE ที่ลดการฮีล",
+  crimson_guard: "บล็อกดาเมจกายภาพให้ทีม",
+  pipe: "โล่กันดาเมจเวทย์ให้ทีม",
+  vladmir: "lifesteal และเกราะให้ทีม",
+  helm_of_the_dominator: "ออร่า lifesteal และครีปในครอบครอง",
+  helm_of_the_overlord: "ออร่า lifesteal และครีปทรงพลังในครอบครอง",
+  blade_mail: "สะท้อนดาเมจเบิร์สต์ใส่ผู้โจมตี",
+  eternal_shroud: "ต้านเวทย์และ spell lifesteal",
+  // Caster cores
+  blink: "เปิดและขยับตำแหน่งได้ทันที",
+  swift_blink: "Blink อัปเกรดพร้อมความเร็วโจมตีเสริม",
+  overwhelming_blink: "Blink อัปเกรดพร้อมสเตตัสถึกและสโลว์ AoE",
+  arcane_blink: "Blink อัปเกรดพร้อมระยะร่ายและมานา",
+  aghanims_scepter: "อัปเกรดอัลติหรือสกิลให้ทรงพลัง",
+  ultimate_scepter: "อัปเกรดอัลติหรือสกิลให้ทรงพลัง",
+  ultimate_scepter_2: "อัปเกรด Scepter แบบถาวร",
+  aghanims_shard: "อัปเกรดสกิลเพื่อยูทิลิตี้เสริม",
+  aether_lens: "เพิ่มระยะร่ายและมานา",
+  octarine_core: "ลดคูลดาวน์และ spell lifesteal",
+  kaya_and_sange: "เพิ่มดาเมจเวทย์พร้อมความอึด",
+  yasha_and_kaya: "เพิ่มดาเมจเวทย์ ความเร็วโจมตี และความอึด",
+  ethereal_blade: "เบิร์สต์เวทย์และสกิลเซฟเชิงรับ",
+  dagon: "นุกเวทย์ใส่เป้าหมายเดี่ยว",
+  dagon_5: "นุกเวทย์ใส่เป้าหมายเดี่ยวอย่างหนัก",
+  veil_of_discord: "ลดต้านเวทย์เพื่อเสริมสกิลนุกของคุณ",
+  sheepstick: "เปลี่ยนร่างแบบการันตีเพื่อคุมเป้าหมายสำคัญ",
+  mage_slayer: "ต้านเวทย์และไซเลนซ์เมื่อโจมตีโดน",
+  refresher: "ร่ายอัลติซ้ำสองครั้งในการต่อสู้",
+  bloodstone: "เติมมานาและ spell lifesteal",
+  wind_waker: "สกิลเซฟ cyclone พร้อมมานาและสเตตัส",
+  rod_of_atos: "รูทนานพร้อมค่า intelligence",
+  gungir: "รูทต่อเนื่องพร้อมความเร็วโจมตี",
+  orchid: "ไซเลนซ์พร้อมมานาและเบิร์สต์",
+  meteor_hammer: "เคลียร์เลนและนุกใส่สิ่งปลูกสร้าง",
+  // Farming / scaling
+  radiance: "ออร่าเผาเพื่อฟาร์มและ evasion",
+  hand_of_midas: "เร่งทองและค่าประสบการณ์",
+  // Supports
+  spirit_vessel: "เพิ่ม HP และลดการฟื้นเลือดของศัตรู",
+  solar_crest: "ปรับเกราะเพื่อเสริมพลังเป้าหมาย",
+  force_staff: "ขยับตำแหน่งเพื่อบุกหรือหนี",
+  holy_locket: "เพิ่มพลังการฮีลให้สกิลเซฟ",
+  medallion_of_courage: "ลดเกราะเพื่อเปิดการเก็บคิล",
+  drum_of_endurance: "เพิ่มความเร็วเดินและโจมตีให้ทีม",
+};
+
+function reasonForTh(m: ItemMeta): string {
+  const key = /^dagon_\d$/.test(m.key) ? "dagon" : m.key;
+  return ITEM_BENEFITS_TH[key] ?? "ไอเทมคอร์ยอดนิยมของฮีโร่นี้";
+}
+
 /** Top finished items from a hero's mid+late game popularity. */
 export function selectBuildItems(
   pop: OpenDotaItemPopularity,
@@ -199,7 +299,12 @@ export function selectBuildItems(
     .slice(0, max)
     .map(([idStr]) => {
       const m = index.byId[Number(idStr)]!;
-      return { item: m.dname, icon_url: itemIconUrl(m.key), reason: reasonFor(m) };
+      return {
+        item: m.dname,
+        icon_url: itemIconUrl(m.key),
+        reason: reasonFor(m),
+        reason_th: reasonForTh(m),
+      };
     });
 }
 

@@ -216,6 +216,7 @@ In CI the cache is persisted across runs via `actions/cache` (see the workflow).
 - Header badges show the current patch and "Updated X ago"; a banner appears when `low_sample_warning`
   is set. `base: "./"` in `vite.config.ts` keeps the build working from a domain root or a GitHub
   Pages subpath.
+- An **EN | ไทย** toggle in the header switches the whole UI between English and Thai (see below).
 
 ```bash
 cd frontend
@@ -223,6 +224,30 @@ npm run dev        # dev server with HMR
 npm run build      # static build into dist/
 npm run typecheck  # tsc --noEmit
 ```
+
+### Internationalization (English / Thai)
+
+The site ships with a runtime language toggle. There is no page reload — switching is instant and the
+choice is saved to `localStorage` (`dota-lang`) so it sticks across visits. `document.documentElement.lang`
+is kept in sync for fonts and accessibility.
+
+There are two kinds of text, handled differently:
+
+1. **UI chrome** (titles, section headings, subtitles, search box, buttons, footer, banner, relative
+   timestamps). These live in `frontend/src/locales/en.json` and `frontend/src/locales/th.json` and are
+   rendered through a tiny i18n layer (`frontend/src/i18n.tsx`): a `t("dot.path", { vars })` helper with
+   `{var}` interpolation, an `I18nProvider`, and a `useI18n()` hook.
+2. **Generated descriptions** (the counter / synergy / item reasons). These are produced at build time by
+   the pipeline, so the pipeline emits **both** languages: every reason has a `reason` and a `reason_th`
+   field in `heroData.json`. The Thai generators mirror the English rules engines exactly
+   (`reasonsTh.ts`, `signaturesTh.ts`, plus Thai maps in `itemCounters.ts` / `itemBuilds.ts`), so the same
+   relationship is described in both languages. The frontend picks `reason_th` when Thai is active.
+
+**Kept in English even in Thai mode**, on purpose, because that's how the Thai Dota community refers to
+them: hero names, item names, ability names, the primary-attribute tag (Strength/Agility/…) and the role
+tags (Carry/Support/…). Everything else — including the "Melee/Ranged" attack-type tag — is translated.
+To add another language, add a `locales/<lang>.json` and a parallel set of generators in the pipeline,
+then extend the `Lang` union in `i18n.tsx`.
 
 ---
 

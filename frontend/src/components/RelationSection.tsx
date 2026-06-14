@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { HeroWithId } from "../types";
 import { HeroAvatar } from "./HeroAvatar";
+import { useI18n } from "../i18n";
 
 export interface RelationItem {
   hero_id: number;
@@ -43,8 +44,9 @@ export function RelationSection({ title, subtitle, accent, items, byId, emptyTex
 }
 
 function RelationRow({ item, hero }: { item: RelationItem; hero: HeroWithId | undefined }) {
+  const { t } = useI18n();
   const [open, setOpen] = useState(false);
-  const name = hero?.localized_name ?? `Hero ${item.hero_id}`;
+  const name = hero?.localized_name ?? t("detail.heroFallback", { id: item.hero_id });
 
   return (
     <li className="row">

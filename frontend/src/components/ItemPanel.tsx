@@ -1,9 +1,11 @@
 import { useState } from "react";
+import { useI18n } from "../i18n";
 
 interface Item {
   item: string;
   icon_url: string;
   reason: string;
+  reason_th?: string;
 }
 
 /** Item image with a small fallback box if the CDN icon fails. */
@@ -35,6 +37,7 @@ interface Props {
 }
 
 export function ItemPanel({ title, subtitle, accent, items, emptyText }: Props) {
+  const { reasonOf } = useI18n();
   return (
     <section className={`item-panel item-panel--${accent}`}>
       <header className="relation__header">
@@ -52,7 +55,7 @@ export function ItemPanel({ title, subtitle, accent, items, emptyText }: Props) 
               <ItemIcon src={it.icon_url} name={it.item} />
               <div className="item-card__text">
                 <span className="item-card__name">{it.item}</span>
-                <span className="item-card__reason">{it.reason}</span>
+                <span className="item-card__reason">{reasonOf(it)}</span>
               </div>
             </li>
           ))}

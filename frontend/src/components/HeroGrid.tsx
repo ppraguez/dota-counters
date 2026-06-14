@@ -1,5 +1,6 @@
 import type { HeroWithId } from "../types";
 import { HeroAvatar } from "./HeroAvatar";
+import { useI18n } from "../i18n";
 
 interface Props {
   heroes: HeroWithId[];
@@ -9,8 +10,9 @@ interface Props {
 
 /** Responsive, searchable grid of hero tiles. */
 export function HeroGrid({ heroes, selectedId, onSelect }: Props) {
+  const { t } = useI18n();
   if (heroes.length === 0) {
-    return <p className="muted grid-empty">No heroes match your search.</p>;
+    return <p className="muted grid-empty">{t("grid.noMatch")}</p>;
   }
 
   return (

@@ -1,0 +1,87 @@
+{
+  "lang": { "en": "EN", "th": "ไทย" },
+  "title": "Dota 2 Counters & Synergies",
+  "tagline": "Who beats a hero, who it beats, and who it works well with.",
+  "badge": { "patch": "Patch {patch}", "updated": "Updated {time}" },
+  "loading": "Loading hero data…",
+  "error": {
+    "load": "Couldn't load hero data: {msg}",
+    "hint": "Run the pipeline (cd pipeline && npm run fetch-data) and rebuild, or check that heroData.json is present."
+  },
+  "search": {
+    "label": "Search heroes",
+    "placeholder": "Search heroes, roles, attributes…"
+  },
+  "grid": { "noMatch": "No heroes match your search." },
+  "placeholder": {
+    "title": "Pick a hero",
+    "body": "Select a hero above to see its counters, favourable matchups, and synergies."
+  },
+  "banner": "Patch {patch} is new — counter data may still be settling.",
+  "sections": {
+    "counteredBy": {
+      "title": "Countered by",
+      "subtitle": "Heroes that tend to beat this hero — avoid or respect them.",
+      "empty": "No strong counters at the current sample size."
+    },
+    "counters": {
+      "title": "Counters",
+      "subtitle": "Heroes this hero beats well — good picks into them.",
+      "empty": "No standout favourable matchups at the current sample size."
+    },
+    "synergies": {
+      "title": "Works well with",
+      "subtitle": "Teammates whose kits combine well with this hero.",
+      "empty": "No notable synergies found."
+    }
+  },
+  "items": {
+    "best": {
+      "title": "Best items",
+      "subtitle": "Most-built core items on {name} (from real match data).",
+      "empty": "No item-build data for this hero yet."
+    },
+    "counter": {
+      "title": "Counter items",
+      "subtitle": "Itemization that blunts {name}'s strengths.",
+      "empty": "No standout item counters for this hero."
+    }
+  },
+  "detail": {
+    "winrate": "{delta} win rate vs this hero's average",
+    "synergy": "Synergy score {score}",
+    "hint": "Tap any hero to reveal the win-rate / synergy detail.",
+    "heroFallback": "Hero {id}"
+  },
+  "footer": {
+    "pre": "Patch {patch} · updated {time} · data from ",
+    "post": ". Not affiliated with Valve.",
+    "fallbackPre": "Data from ",
+    "fallbackPost": ". Not affiliated with Valve."
+  },
+  "attr": {
+    "str": "Strength",
+    "agi": "Agility",
+    "int": "Intelligence",
+    "all": "Universal"
+  },
+  "attack": { "Melee": "Melee", "Ranged": "Ranged" },
+  "roles": {
+    "Carry": "Carry",
+    "Support": "Support",
+    "Nuker": "Nuker",
+    "Disabler": "Disabler",
+    "Initiator": "Initiator",
+    "Durable": "Durable",
+    "Escape": "Escape",
+    "Pusher": "Pusher",
+    "Jungler": "Jungler"
+  },
+  "time": {
+    "unknown": "unknown",
+    "justNow": "just now",
+    "minutes": "{n} minute{s} ago",
+    "hours": "{n} hour{s} ago",
+    "days": "{n} day{s} ago"
+  }
+}

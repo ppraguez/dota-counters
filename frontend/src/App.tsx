@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useState } from "react";
 import { HeroGrid } from "./components/HeroGrid";
 import { HeroDetail } from "./components/HeroDetail";
+import { LangToggle } from "./components/LangToggle";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
+import { useI18n } from "./i18n";
 
 type LoadState =
   | { status: "loading" }
@@ -9,6 +11,7 @@ type LoadState =
   | { status: "ready"; data: LoadedData };
 
 export default function App() {
+  const { t } = useI18n();
   const [state, setState] = useState<LoadState>({ status: "loading" });
   const [search, setSearch] = useState("");
   const [selectedId, setSelectedId] = useState<number | null>(null);
@@ -65,29 +68,29 @@ export default function App() {
         <div className="topbar__brand">
           <span className="topbar__logo" aria-hidden="true">⚔️</span>
           <div>
-            <h1 className="topbar__title">Dota 2 Counters &amp; Synergies</h1>
-            <p className="topbar__tagline muted">
-              Who beats a hero, who it beats, and who it works well with.
-            </p>
+            <h1 className="topbar__title">{t("title")}</h1>
+            <p className="topbar__tagline muted">{t("tagline")}</p>
           </div>
         </div>
-        {state.status === "ready" && (
-          <div className="topbar__meta">
-            <span className="badge badge--patch">Patch {state.data.meta.patch}</span>
-            <span className="badge">Updated {formatRelativeTime(state.data.meta.last_updated)}</span>
-          </div>
-        )}
+        <div className="topbar__meta">
+          {state.status === "ready" && (
+            <>
+              <span className="badge badge--patch">{t("badge.patch", { patch: state.data.meta.patch })}</span>
+              <span className="badge">
+                {t("badge.updated", { time: formatRelativeTime(state.data.meta.last_updated, t) })}
+              </span>
+            </>
+          )}
+          <LangToggle />
+        </div>
       </header>
 
-      {state.status === "loading" && <p className="status muted">Loading hero data…</p>}
+      {state.status === "loading" && <p className="status muted">{t("loading")}</p>}
 
       {state.status === "error" && (
         <div className="status status--error">
-          <p>Couldn’t load hero data: {state.message}</p>
-          <p className="muted">
-            Run the pipeline (<code>cd pipeline &amp;&amp; npm run fetch-data</code>) and rebuild, or
-            check that <code>heroData.json</code> is present.
-          </p>
+          <p>{t("error.load", { msg: state.message })}</p>
+          <p className="muted">{t("error.hint")}</p>
         </div>
       )}
 
@@ -95,12 +98,12 @@ export default function App() {
         <main className="layout">
           <section className="picker">
             <label className="search">
-              <span className="visually-hidden">Search heroes</span>
+              <span className="visually-hidden">{t("search.label")}</span>
               <input
                 type="search"
                 value={search}
                 onChange={(e) => setSearch(e.target.value)}
-                placeholder="Search heroes, roles, attributes…"
+                placeholder={t("search.placeholder")}
                 autoComplete="off"
                 spellCheck={false}
               />
@@ -114,10 +117,8 @@ export default function App() {
               <HeroDetail hero={selected} byId={state.data.byId} meta={state.data.meta} />
             ) : (
               <div className="placeholder">
-                <p className="placeholder__title">Pick a hero</p>
-                <p className="muted">
-                  Select a hero above to see its counters, favourable matchups, and synergies.
-                </p>
+                <p className="placeholder__title">{t("placeholder.title")}</p>
+                <p className="muted">{t("placeholder.body")}</p>
               </div>
             )}
           </section>
@@ -127,15 +128,23 @@ export default function App() {
       <footer className="footer muted">
         {state.status === "ready" ? (
           <>
-            Patch {state.data.meta.patch} · updated{" "}
-            {formatRelativeTime(state.data.meta.last_updated)} · data from{" "}
+            {t("footer.pre", {
+              patch: state.data.meta.patch,
+              time: formatRelativeTime(state.data.meta.last_updated, t),
+            })}
             <a href="https://www.opendota.com" target="_blank" rel="noreferrer">
               OpenDota
             </a>
-            . Not affiliated with Valve.
+            {t("footer.post")}
           </>
         ) : (
-          <>Data from OpenDota. Not affiliated with Valve.</>
+          <>
+            {t("footer.fallbackPre")}
+            <a href="https://www.opendota.com" target="_blank" rel="noreferrer">
+              OpenDota
+            </a>
+            {t("footer.fallbackPost")}
+          </>
         )}
       </footer>
     </div>
