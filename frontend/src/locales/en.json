@@ -53,6 +53,12 @@
     "hint": "Tap any hero to reveal the win-rate / synergy detail.",
     "heroFallback": "Hero {id}"
   },
+  "ability": {
+    "title": "Ability counters",
+    "subtitle": "Key spell interactions — what this hero shuts down, and what shuts it down.",
+    "offense": "Wins with",
+    "defense": "Loses to"
+  },
   "footer": {
     "pre": "Patch {patch} · updated {time} · data from ",
     "post": ". Not affiliated with Valve.",

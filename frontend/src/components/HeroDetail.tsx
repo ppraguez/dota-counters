@@ -4,6 +4,7 @@ import { useI18n } from "../i18n";
 import { HeroAvatar } from "./HeroAvatar";
 import { RelationSection, type RelationItem } from "./RelationSection";
 import { ItemPanel } from "./ItemPanel";
+import { AbilityPanel } from "./AbilityPanel";
 
 interface Props {
   hero: HeroWithId;
@@ -102,6 +103,8 @@ export function HeroDetail({ hero, byId, meta }: Props) {
           emptyText={t("items.counter.empty")}
         />
       </div>
+
+      <AbilityPanel items={hero.ability_counters ?? []} />
 
       <p className="detail__hint muted">{t("detail.hint")}</p>
     </div>

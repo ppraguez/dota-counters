@@ -94,6 +94,16 @@ export interface RecommendedItemEntry {
   reason_th: string;
 }
 
+export interface AbilityCounterEntry {
+  /** "offense" = this hero's ability shuts others down; "defense" = enemy ability shuts this hero down. */
+  kind: "offense" | "defense";
+  /** Headline ability name, kept in English. */
+  ability: string;
+  reason: string;
+  /** Thai translation of `reason` (ability/hero names kept in English). */
+  reason_th: string;
+}
+
 export interface HeroAttributes {
   primary_attr: string;
   attack_type: string;
@@ -115,6 +125,8 @@ export interface HeroOutput {
   item_counters: ItemCounterEntry[];
   /** Items that best suit this hero (most-built core items from real match data). */
   recommended_items: RecommendedItemEntry[];
+  /** Curated ability-vs-ability interactions for this hero. */
+  ability_counters: AbilityCounterEntry[];
 }
 
 export interface OutputMeta {

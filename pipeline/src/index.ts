@@ -10,7 +10,8 @@
  */
 import { promises as fs } from "node:fs";
 import path from "node:path";
-import { config, iconUrl } from "./config.js";
+import { config, iconUrl, heroSlug } from "./config.js";
+import { ABILITY_COUNTERS } from "./abilityCounters.js";
 import {
   fetchHeroes,
   fetchMatchups,
@@ -264,6 +265,12 @@ async function main(): Promise<void> {
       synergies: synergies.get(h.id)!,
       item_counters: buildItemCounters(tags.get(h.id)!, config.maxItemsPerHero),
       recommended_items: recommendedItems.get(h.id) ?? [],
+      ability_counters: (ABILITY_COUNTERS[heroSlug(h.name)] ?? []).map((a) => ({
+        kind: a.kind,
+        ability: a.ability,
+        reason: a.text,
+        reason_th: a.text_th,
+      })),
     };
     output[String(h.id)] = hero;
   }

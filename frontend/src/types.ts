@@ -34,6 +34,16 @@ export interface RecommendedItemEntry {
   reason_th?: string;
 }
 
+export interface AbilityCounterEntry {
+  /** "offense" = this hero's ability counters others; "defense" = an enemy ability counters this hero. */
+  kind: "offense" | "defense";
+  /** Headline ability name (kept in English). */
+  ability: string;
+  reason: string;
+  /** Thai translation of `reason` (ability/hero names kept in English). */
+  reason_th?: string;
+}
+
 export interface HeroAttributes {
   primary_attr: string;
   attack_type: string;
@@ -50,6 +60,7 @@ export interface Hero {
   synergies: SynergyEntry[];
   item_counters: ItemCounterEntry[];
   recommended_items: RecommendedItemEntry[];
+  ability_counters?: AbilityCounterEntry[];
 }
 
 export interface Meta {

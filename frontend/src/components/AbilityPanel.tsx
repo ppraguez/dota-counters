@@ -1,0 +1,37 @@
+import type { AbilityCounterEntry } from "../types";
+import { useI18n } from "../i18n";
+
+interface Props {
+  items: AbilityCounterEntry[];
+}
+
+/**
+ * "Ability counters" — curated spell-vs-spell interactions. Offense entries (green) are this hero's
+ * tools; defense entries (red) are enemy abilities to respect. Hidden entirely when there's no data.
+ */
+export function AbilityPanel({ items }: Props) {
+  const { t, reasonOf } = useI18n();
+  if (items.length === 0) return null;
+
+  return (
+    <section className="ability-section">
+      <header className="relation__header">
+        <h3 className="relation__title ability-section__title">{t("ability.title")}</h3>
+        <span className="relation__count">{items.length}</span>
+      </header>
+      <p className="relation__subtitle muted">{t("ability.subtitle")}</p>
+
+      <ul className="ability-list">
+        {items.map((a, i) => (
+          <li key={`${a.kind}-${a.ability}-${i}`} className={`ability-card ability-card--${a.kind}`}>
+            <span className="ability-card__tag">{t(`ability.${a.kind}`)}</span>
+            <div className="ability-card__text">
+              <span className="ability-card__name">{a.ability}</span>
+              <span className="ability-card__reason">{reasonOf(a)}</span>
+            </div>
+          </li>
+        ))}
+      </ul>
+    </section>
+  );
+}
