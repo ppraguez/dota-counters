@@ -1,6 +1,6 @@
 {
   "lang": { "en": "EN", "th": "ไทย" },
-  "title": "Dota 2 Counters & Synergies",
+  "title": "Dota 2 Counters & Combos",
   "tagline": "Who beats a hero, who it beats, and who it works well with.",
   "badge": { "patch": "Patch {patch}", "updated": "Updated {time}" },
   "loading": "Loading hero data…",
@@ -13,6 +13,21 @@
     "placeholder": "Search heroes, roles, attributes…"
   },
   "grid": { "noMatch": "No heroes match your search." },
+  "mode": { "browse": "Browse", "draft": "Draft" },
+  "draft": {
+    "addTo": "Add to",
+    "allies": "Your team",
+    "enemies": "Enemy team",
+    "empty": "Pick heroes for either team to see suggested picks.",
+    "suggestions": "Suggested picks",
+    "suggestionsSub": "Ranked by synergy with your team and matchup vs the enemy team.",
+    "noSuggestions": "No clear suggestions for the current picks.",
+    "synergy": "synergy",
+    "counter": "matchup",
+    "clear": "Clear all",
+    "remove": "Remove {name}",
+    "addAlly": "Add to your team"
+  },
   "placeholder": {
     "title": "Pick a hero",
     "body": "Select a hero above to see its counters, favourable matchups, and synergies."

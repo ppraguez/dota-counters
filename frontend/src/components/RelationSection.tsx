@@ -56,14 +56,14 @@ function RelationRow({ item, hero }: { item: RelationItem; hero: HeroWithId | un
         aria-expanded={open}
         onClick={() => setOpen((v) => !v)}
       >
-        {hero && <HeroAvatar src={hero.icon_url} name={name} width={56} className="row__icon" />}
-        <span className="row__text">
+        <span className="row__head">
+          {hero && <HeroAvatar src={hero.icon_url} name={name} width={48} className="row__icon" />}
           <span className="row__name">{name}</span>
-          <span className="row__reason">{item.reason}</span>
+          <span className={`row__chevron ${open ? "row__chevron--open" : ""}`} aria-hidden="true">
+            ▾
+          </span>
         </span>
-        <span className={`row__chevron ${open ? "row__chevron--open" : ""}`} aria-hidden="true">
-          ▾
-        </span>
+        <span className="row__reason">{item.reason}</span>
       </button>
       {open && (
         <div className="row__detail">
