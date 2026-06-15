@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import { HeroGrid } from "./components/HeroGrid";
 import { HeroDetail } from "./components/HeroDetail";
 import { LangToggle } from "./components/LangToggle";
+import { FilterBar, type AttrFilter, type RoleFilter } from "./components/FilterBar";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
 import { useI18n } from "./i18n";
 
@@ -15,6 +16,8 @@ export default function App() {
   const [state, setState] = useState<LoadState>({ status: "loading" });
   const [search, setSearch] = useState("");
   const [selectedId, setSelectedId] = useState<number | null>(null);
+  const [attrFilter, setAttrFilter] = useState<AttrFilter>(null);
+  const [roleFilter, setRoleFilter] = useState<RoleFilter>(null);
 
   // Load data once on mount.
   useEffect(() => {
@@ -50,14 +53,17 @@ export default function App() {
   const heroes = state.status === "ready" ? state.data.heroes : [];
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
-    if (!q) return heroes;
-    return heroes.filter(
-      (h) =>
+    return heroes.filter((h) => {
+      if (attrFilter && h.attributes.primary_attr !== attrFilter) return false;
+      if (roleFilter && !h.roles.includes(roleFilter)) return false;
+      if (!q) return true;
+      return (
         h.localized_name.toLowerCase().includes(q) ||
         h.roles.some((r) => r.toLowerCase().includes(q)) ||
-        h.attributes.primary_attr.toLowerCase().includes(q),
-    );
-  }, [heroes, search]);
+        h.attributes.primary_attr.toLowerCase().includes(q)
+      );
+    });
+  }, [heroes, search, attrFilter, roleFilter]);
 
   const selected =
     state.status === "ready" && selectedId !== null ? state.data.byId.get(selectedId) ?? null : null;
@@ -108,6 +114,12 @@ export default function App() {
                 spellCheck={false}
               />
             </label>
+            <FilterBar
+              attr={attrFilter}
+              role={roleFilter}
+              onAttr={setAttrFilter}
+              onRole={setRoleFilter}
+            />
             <HeroGrid heroes={filtered} selectedId={selectedId} onSelect={select} />
           </section>
 

@@ -220,6 +220,54 @@ code {
   box-shadow: 0 0 0 3px var(--synergy-soft);
 }
 
+/* ---------- Filter bar ---------- */
+.filter-bar {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 12px;
+}
+
+.filter-bar__group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.filter-chip {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--panel-2);
+  color: var(--muted);
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 4px 11px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.13s, border-color 0.13s, color 0.13s;
+  white-space: nowrap;
+}
+
+.filter-chip:hover {
+  color: var(--text);
+  border-color: var(--border);
+  background: var(--panel-3);
+}
+
+/* Attribute chip active states — match the tag colours */
+.filter-chip--str.filter-chip--active  { background: rgba(224, 90, 74, 0.22);  border-color: var(--str); color: #f0a99f; }
+.filter-chip--agi.filter-chip--active  { background: rgba(84, 185, 74, 0.22);  border-color: var(--agi); color: #aee3a6; }
+.filter-chip--int.filter-chip--active  { background: rgba(74, 166, 224, 0.22); border-color: var(--int); color: #a6d4f0; }
+.filter-chip--all.filter-chip--active  { background: rgba(201, 138, 224, 0.22);border-color: var(--all); color: #ddb6ee; }
+
+/* Role chip active state */
+.filter-chip--role-active {
+  background: var(--synergy-soft);
+  border-color: var(--synergy);
+  color: var(--synergy);
+}
+
 /* ---------- Hero grid ---------- */
 .hero-grid {
   list-style: none;

@@ -15,3 +15,6 @@ data/.cache/
 .env
 .env.local
 .DS_Store
+
+# Local editor/preview config (machine-specific paths)
+.claude/
