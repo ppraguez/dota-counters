@@ -850,14 +850,27 @@ code {
   line-height: 1.35;
 }
 
-/* ---------- Draft board ---------- */
-.draft {
+/* ---------- Draft layout ---------- */
+.draft-layout {
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 22px;
 }
 
-.draft__board {
+.draft-main {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+/* Teams bar across the top of draft mode */
+.draft-teams {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.draft-teams__board {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 14px;
@@ -968,7 +981,7 @@ code {
   color: var(--danger);
 }
 
-.draft__clear {
+.draft-teams__clear {
   align-self: flex-end;
   appearance: none;
   border: 1px solid var(--border);
@@ -983,7 +996,7 @@ code {
   transition: background 0.13s, color 0.13s;
 }
 
-.draft__clear:hover {
+.draft-teams__clear:hover {
   background: var(--panel-3);
   color: var(--text);
 }
@@ -1099,14 +1112,34 @@ code {
     align-items: start;
     gap: 26px;
   }
-  .picker { grid-area: picker; position: sticky; top: 16px; }
+  .layout .picker { grid-area: picker; position: sticky; top: 16px; }
   #detail-anchor { grid-area: anchor; }
-  .detail-pane { grid-area: detail; }
-  .hero-grid {
+  .layout .detail-pane { grid-area: detail; }
+  .layout .hero-grid {
     grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
     max-height: calc(100vh - 160px);
     overflow-y: auto;
     padding-right: 4px;
+  }
+
+  /* Draft mode: teams pinned across the top, grid + suggestions below */
+  .draft-teams {
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    padding: 12px 0;
+    background: rgba(11, 14, 19, 0.82);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+  .draft-main {
+    display: grid;
+    grid-template-columns: minmax(320px, 420px) 1fr;
+    align-items: start;
+    gap: 26px;
+  }
+  .draft-main .hero-grid {
+    grid-template-columns: repeat(auto-fill, minmax(92px, 1fr));
   }
   .suggestion-list {
     grid-template-columns: 1fr 1fr;
@@ -1120,7 +1153,7 @@ code {
   .item-panels {
     grid-template-columns: 1fr;
   }
-  .draft__board {
+  .draft-teams__board {
     grid-template-columns: 1fr;
   }
   .mode-nav {

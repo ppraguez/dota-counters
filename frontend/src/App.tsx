@@ -3,7 +3,7 @@ import { HeroGrid, type TileMark } from "./components/HeroGrid";
 import { HeroDetail } from "./components/HeroDetail";
 import { LangToggle } from "./components/LangToggle";
 import { FilterBar, type AttrFilter, type RoleFilter } from "./components/FilterBar";
-import { DraftBoard } from "./components/DraftBoard";
+import { DraftTeams, DraftSuggestions } from "./components/DraftBoard";
 import { BrandLogo } from "./components/BrandLogo";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
 import { rankPicks } from "./draft";
@@ -136,6 +136,48 @@ export default function App() {
     return m;
   }, [allies, enemies]);
 
+  // Search box + filter chips are shared by both modes.
+  const searchAndFilters = (
+    <>
+      <label className="search">
+        <span className="visually-hidden">{t("search.label")}</span>
+        <input
+          type="search"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder={t("search.placeholder")}
+          autoComplete="off"
+          spellCheck={false}
+        />
+      </label>
+      <FilterBar attr={attrFilter} role={roleFilter} onAttr={setAttrFilter} onRole={setRoleFilter} />
+    </>
+  );
+
+  const addTargetToggle = (
+    <div className="add-target" role="tablist" aria-label={t("draft.addTo")}>
+      <span className="add-target__label muted">{t("draft.addTo")}</span>
+      <button
+        type="button"
+        role="tab"
+        aria-selected={addTarget === "ally"}
+        className={`add-target__btn add-target__btn--ally ${addTarget === "ally" ? "add-target__btn--active" : ""}`}
+        onClick={() => setAddTarget("ally")}
+      >
+        {t("draft.allies")}
+      </button>
+      <button
+        type="button"
+        role="tab"
+        aria-selected={addTarget === "enemy"}
+        className={`add-target__btn add-target__btn--enemy ${addTarget === "enemy" ? "add-target__btn--active" : ""}`}
+        onClick={() => setAddTarget("enemy")}
+      >
+        {t("draft.enemies")}
+      </button>
+    </div>
+  );
+
   return (
     <div className="app">
       <header className="topbar">
@@ -193,79 +235,51 @@ export default function App() {
         </div>
       )}
 
-      {state.status === "ready" && (
-        <main className="layout">
-          <section className="picker">
-            {mode === "draft" && (
-              <div className="add-target" role="tablist" aria-label={t("draft.addTo")}>
-                <span className="add-target__label muted">{t("draft.addTo")}</span>
-                <button
-                  type="button"
-                  role="tab"
-                  aria-selected={addTarget === "ally"}
-                  className={`add-target__btn add-target__btn--ally ${addTarget === "ally" ? "add-target__btn--active" : ""}`}
-                  onClick={() => setAddTarget("ally")}
-                >
-                  {t("draft.allies")}
-                </button>
-                <button
-                  type="button"
-                  role="tab"
-                  aria-selected={addTarget === "enemy"}
-                  className={`add-target__btn add-target__btn--enemy ${addTarget === "enemy" ? "add-target__btn--active" : ""}`}
-                  onClick={() => setAddTarget("enemy")}
-                >
-                  {t("draft.enemies")}
-                </button>
-              </div>
-            )}
-            <label className="search">
-              <span className="visually-hidden">{t("search.label")}</span>
-              <input
-                type="search"
-                value={search}
-                onChange={(e) => setSearch(e.target.value)}
-                placeholder={t("search.placeholder")}
-                autoComplete="off"
-                spellCheck={false}
-              />
-            </label>
-            <FilterBar
-              attr={attrFilter}
-              role={roleFilter}
-              onAttr={setAttrFilter}
-              onRole={setRoleFilter}
+      {state.status === "ready" &&
+        (mode === "draft" ? (
+          <main className="draft-layout">
+            <DraftTeams
+              allies={allyHeroes}
+              enemies={enemyHeroes}
+              onRemove={removeFromDraft}
+              onClear={clearDraft}
             />
-            <HeroGrid
-              heroes={filtered}
-              selectedId={mode === "browse" ? selectedId : null}
-              onSelect={mode === "browse" ? select : draftClick}
-              marks={mode === "draft" ? marks : undefined}
-            />
-          </section>
+            <div className="draft-main">
+              <section className="picker">
+                {addTargetToggle}
+                {searchAndFilters}
+                <HeroGrid heroes={filtered} selectedId={null} onSelect={draftClick} marks={marks} />
+              </section>
+              <section className="detail-pane">
+                <DraftSuggestions
+                  allies={allyHeroes}
+                  enemies={enemyHeroes}
+                  suggestions={suggestions}
+                  onPickAlly={addAlly}
+                />
+              </section>
+            </div>
+          </main>
+        ) : (
+          <main className="layout">
+            <section className="picker">
+              {searchAndFilters}
+              <HeroGrid heroes={filtered} selectedId={selectedId} onSelect={select} />
+            </section>
 
-          <div id="detail-anchor" />
-          <section className="detail-pane">
-            {mode === "draft" ? (
-              <DraftBoard
-                allies={allyHeroes}
-                enemies={enemyHeroes}
-                suggestions={suggestions}
-                onRemove={removeFromDraft}
-                onClear={clearDraft}
-                onPickAlly={addAlly}
-              />
-            ) : selected ? (
-              <HeroDetail hero={selected} byId={state.data.byId} meta={state.data.meta} />
-            ) : (
-              <div className="placeholder">
-                <p className="placeholder__title">{t("placeholder.title")}</p>
-                <p className="muted">{t("placeholder.body")}</p>
-              </div>
-            )}
-          </section>
-        </main>
-      )}
+            <div id="detail-anchor" />
+            <section className="detail-pane">
+              {selected ? (
+                <HeroDetail hero={selected} byId={state.data.byId} meta={state.data.meta} />
+              ) : (
+                <div className="placeholder">
+                  <p className="placeholder__title">{t("placeholder.title")}</p>
+                  <p className="muted">{t("placeholder.body")}</p>
+                </div>
+              )}
+            </section>
+          </main>
+        ))}
 
       <footer className="footer muted">
         {state.status === "ready" ? (
