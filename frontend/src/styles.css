@@ -1,14 +1,14 @@
 :root {
-  --bg: #0b0e13;
-  --bg-grad: radial-gradient(1200px 600px at 50% -10%, #161d2b 0%, #0b0e13 60%);
-  --panel: #141a23;
-  --panel-2: #1a212c;
-  --panel-3: #202938;
-  --border: #2a3342;
-  --border-soft: #222a37;
-  --text: #e7eaf0;
-  --muted: #8b95a7;
-  --muted-2: #6c7686;
+  --bg: #07070a;
+  --bg-grad: radial-gradient(1200px 640px at 50% -12%, #2a1014 0%, #07070a 60%);
+  --panel: #110f12;
+  --panel-2: #181519;
+  --panel-3: #221d23;
+  --border: #322a30;
+  --border-soft: #271f25;
+  --text: #ececef;
+  --muted: #968d94;
+  --muted-2: #6e656c;
 
   --danger: #e8556a;
   --danger-soft: rgba(232, 85, 106, 0.14);
@@ -19,6 +19,10 @@
   --gold: #e0b14e;
   --orange: #f0913e;
   --orange-soft: rgba(240, 145, 62, 0.16);
+
+  /* Primary interactive accent — Dota red */
+  --accent: #e23b30;
+  --accent-soft: rgba(226, 59, 48, 0.16);
 
   --str: #e05a4a;
   --agi: #54b94a;
@@ -55,7 +59,7 @@ body {
 }
 
 a {
-  color: var(--synergy);
+  color: var(--accent);
 }
 
 code {
@@ -192,8 +196,8 @@ code {
 
 .mode-nav__btn--browse.mode-nav__btn--active,
 .mode-nav__btn--browse.mode-nav__btn--active:hover {
-  background: var(--synergy);
-  color: #06121f;
+  background: var(--accent);
+  color: #fff;
 }
 
 .mode-nav__btn--draft.mode-nav__btn--active,
@@ -236,8 +240,8 @@ code {
 }
 
 .lang-toggle__btn--active {
-  background: var(--synergy);
-  color: #06121f;
+  background: var(--accent);
+  color: #fff;
 }
 
 /* ---------- Layout ---------- */
@@ -278,8 +282,8 @@ code {
 }
 
 .search input:focus {
-  border-color: var(--synergy);
-  box-shadow: 0 0 0 3px var(--synergy-soft);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-soft);
 }
 
 /* ---------- Filter bar ---------- */
@@ -325,9 +329,9 @@ code {
 
 /* Role chip active state */
 .filter-chip--role-active {
-  background: var(--synergy-soft);
-  border-color: var(--synergy);
-  color: var(--synergy);
+  background: var(--accent-soft);
+  border-color: var(--accent);
+  color: #f08a82;
 }
 
 /* ---------- Add-target toggle (draft mode) ---------- */
@@ -410,9 +414,9 @@ code {
 }
 
 .hero-tile--selected {
-  border-color: var(--synergy);
-  background: var(--synergy-soft);
-  box-shadow: 0 0 0 1px var(--synergy);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  box-shadow: 0 0 0 1px var(--accent);
 }
 
 .hero-tile--ally {
