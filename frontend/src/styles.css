@@ -34,6 +34,13 @@
   --shadow: 0 8px 28px rgba(0, 0, 0, 0.38);
   --maxw: 1340px;
 
+  /* Typography — "Gaming Bold" pairing (Russo One display + Chakra Petch body) */
+  --font-body: "Chakra Petch", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Russo One", "Chakra Petch", system-ui, sans-serif;
+
+  /* Motion */
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+
   color-scheme: dark;
 }
 
@@ -52,10 +59,22 @@ body {
   background-image: var(--bg-grad);
   background-attachment: fixed;
   color: var(--text);
-  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-family: var(--font-body);
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 1.55;
   -webkit-font-smoothing: antialiased;
+}
+
+/* Display font (Russo One) for headings and impact labels */
+.topbar__title,
+.detail__name,
+.relation__title,
+.item-panel__title,
+.ability-section__title,
+.team__title,
+.placeholder__title,
+.mode-nav__btn {
+  font-family: var(--font-display);
 }
 
 a {
@@ -120,9 +139,9 @@ code {
 
 .topbar__title {
   margin: 0;
-  font-size: 1.38rem;
-  font-weight: 800;
-  letter-spacing: -0.015em;
+  font-size: 1.3rem;
+  font-weight: 400;
+  letter-spacing: 0.005em;
   background: linear-gradient(180deg, #ffffff 0%, #c7d0df 100%);
   -webkit-background-clip: text;
   background-clip: text;
@@ -1107,6 +1126,62 @@ code {
   text-align: center;
 }
 
+/* ---------- Motion ---------- */
+@keyframes fadeRise {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Entrance: the hero detail animates in when a hero is selected (keyed remount). */
+.detail {
+  animation: fadeRise 0.34s var(--ease-out) both;
+}
+
+/* Hover micro-lifts on interactive cards (feedback, not constant motion). */
+.row,
+.item-card,
+.ability-card,
+.suggestion {
+  transition: transform 0.16s var(--ease-out), border-color 0.16s, box-shadow 0.16s;
+}
+
+.row:hover,
+.item-card:hover,
+.ability-card:hover {
+  transform: translateY(-2px);
+  border-color: var(--border);
+}
+
+.suggestion:hover {
+  transform: translateY(-2px);
+  border-color: var(--accent);
+  box-shadow: 0 6px 18px -10px var(--accent);
+}
+
+/* Press feedback on buttons/chips. */
+.mode-nav__btn:active,
+.lang-toggle__btn:active,
+.filter-chip:active,
+.add-target__btn:active,
+.suggestion__add:active,
+.hero-tile:active {
+  transform: scale(0.96);
+}
+
+/* Soft accent glow behind the active mode tab. */
+.mode-nav__btn--browse.mode-nav__btn--active {
+  box-shadow: 0 0 18px -4px var(--accent);
+}
+.mode-nav__btn--draft.mode-nav__btn--active {
+  box-shadow: 0 0 18px -4px var(--orange);
+}
+
 /* ---------- Responsive ---------- */
 @media (min-width: 920px) {
   .layout {
@@ -1185,6 +1260,7 @@ code {
 @media (prefers-reduced-motion: reduce) {
   * {
     transition: none !important;
+    animation: none !important;
     scroll-behavior: auto !important;
   }
 }

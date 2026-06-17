@@ -270,7 +270,7 @@ export default function App() {
             <div id="detail-anchor" />
             <section className="detail-pane">
               {selected ? (
-                <HeroDetail hero={selected} byId={state.data.byId} meta={state.data.meta} />
+                <HeroDetail key={selected.id} hero={selected} byId={state.data.byId} meta={state.data.meta} />
               ) : (
                 <div className="placeholder">
                   <p className="placeholder__title">{t("placeholder.title")}</p>
