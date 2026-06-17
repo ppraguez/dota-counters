@@ -65,7 +65,7 @@
   "detail": {
     "winrate": "{delta} win rate vs this hero's average",
     "synergy": "Synergy score {score}",
-    "hint": "Tap any hero to reveal the win-rate / synergy detail.",
+    "hint": "Bars show how strong each matchup and combo is for this hero.",
     "heroFallback": "Hero {id}"
   },
   "ability": {

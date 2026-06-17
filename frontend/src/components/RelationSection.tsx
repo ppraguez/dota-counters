@@ -1,4 +1,3 @@
-import { useState } from "react";
 import type { HeroWithId } from "../types";
 import { HeroAvatar } from "./HeroAvatar";
 import { useI18n } from "../i18n";
@@ -6,8 +5,10 @@ import { useI18n } from "../i18n";
 export interface RelationItem {
   hero_id: number;
   reason: string;
-  /** Numeric detail shown only when the row is expanded (e.g. "+6.2% win rate"). */
-  detail: string;
+  /** Compact metric label shown inline, e.g. "+6.2%" (omitted for synergies). */
+  value?: string;
+  /** Strength bar fill, 0..1, relative to the strongest entry in the section. */
+  meter: number;
 }
 
 type Accent = "danger" | "good" | "synergy";
@@ -45,31 +46,21 @@ export function RelationSection({ title, subtitle, accent, items, byId, emptyTex
 
 function RelationRow({ item, hero }: { item: RelationItem; hero: HeroWithId | undefined }) {
   const { t } = useI18n();
-  const [open, setOpen] = useState(false);
   const name = hero?.localized_name ?? t("detail.heroFallback", { id: item.hero_id });
 
   return (
     <li className="row">
-      <button
-        type="button"
-        className="row__main"
-        aria-expanded={open}
-        onClick={() => setOpen((v) => !v)}
-      >
+      <div className="row__main">
         <span className="row__head">
           {hero && <HeroAvatar src={hero.icon_url} name={name} width={48} className="row__icon" />}
           <span className="row__name">{name}</span>
-          <span className={`row__chevron ${open ? "row__chevron--open" : ""}`} aria-hidden="true">
-            ▾
-          </span>
+          {item.value && <span className="row__value">{item.value}</span>}
         </span>
         <span className="row__reason">{item.reason}</span>
-      </button>
-      {open && (
-        <div className="row__detail">
-          <span className="row__metric">{item.detail}</span>
+        <div className="row__meter" aria-hidden="true">
+          <div className="row__meter-fill" style={{ width: `${Math.round(item.meter * 100)}%` }} />
         </div>
-      )}
+      </div>
     </li>
   );
 }

@@ -642,16 +642,7 @@ code {
   gap: 6px;
   width: 100%;
   padding: 9px 11px;
-  background: none;
-  border: none;
-  text-align: left;
-  cursor: pointer;
   color: var(--text);
-  transition: background 0.12s;
-}
-
-.row__main:hover {
-  background: var(--panel-3);
 }
 
 .row__head {
@@ -671,36 +662,41 @@ code {
   min-width: 0;
 }
 
+.row__value {
+  flex: none;
+  font-size: 0.78rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.relation--danger .row__value { color: var(--danger); }
+.relation--good .row__value { color: var(--good); }
+.relation--synergy .row__value { color: var(--synergy); }
+
 .row__reason {
   font-size: 0.78rem;
   color: var(--muted);
   line-height: 1.4;
 }
 
-.row__chevron {
-  flex: none;
-  color: var(--muted-2);
-  font-size: 0.75rem;
-  transition: transform 0.15s;
-}
-
-.row__chevron--open {
-  transform: rotate(180deg);
-}
-
-.row__detail {
-  padding: 0 11px 9px;
-}
-
-.row__metric {
-  display: inline-block;
-  font-size: 0.76rem;
-  color: var(--text);
+.row__meter {
+  height: 5px;
+  border-radius: 999px;
   background: var(--panel-3);
-  border: 1px solid var(--border);
-  border-radius: 6px;
-  padding: 3px 9px;
+  overflow: hidden;
+  margin-top: 1px;
 }
+
+.row__meter-fill {
+  height: 100%;
+  border-radius: 999px;
+  transform-origin: left center;
+  animation: meterGrow 0.55s var(--ease-out) both;
+}
+
+.relation--danger .row__meter-fill { background: var(--danger); }
+.relation--good .row__meter-fill { background: var(--good); }
+.relation--synergy .row__meter-fill { background: var(--synergy); }
 
 .detail__hint {
   font-size: 0.76rem;
@@ -1135,6 +1131,15 @@ code {
   to {
     opacity: 1;
     transform: translateY(0);
+  }
+}
+
+@keyframes meterGrow {
+  from {
+    transform: scaleX(0);
+  }
+  to {
+    transform: scaleX(1);
   }
 }
 

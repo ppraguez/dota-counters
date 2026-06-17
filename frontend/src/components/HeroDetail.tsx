@@ -15,22 +15,34 @@ interface Props {
 export function HeroDetail({ hero, byId, meta }: Props) {
   const { t, reasonOf } = useI18n();
 
+  // Scale each section's meter bars relative to that section's strongest entry,
+  // so the bars read as "how strong vs the rest" at a glance (min 12% so the
+  // weakest still shows a sliver).
+  const meterOf = (value: number, max: number) =>
+    Math.max(0.12, Math.min(1, max > 0 ? value / max : 0));
+
+  const maxCounteredBy = Math.max(0, ...hero.countered_by.map((e) => Math.abs(e.delta)));
+  const maxCounters = Math.max(0, ...hero.counters.map((e) => Math.abs(e.delta)));
+  const maxSynergy = Math.max(0, ...hero.synergies.map((e) => e.score));
+
   const counteredBy: RelationItem[] = hero.countered_by.map((e) => ({
     hero_id: e.hero_id,
     reason: reasonOf(e),
-    detail: t("detail.winrate", { delta: formatDelta(e.delta) }),
+    value: formatDelta(e.delta),
+    meter: meterOf(Math.abs(e.delta), maxCounteredBy),
   }));
 
   const counters: RelationItem[] = hero.counters.map((e) => ({
     hero_id: e.hero_id,
     reason: reasonOf(e),
-    detail: t("detail.winrate", { delta: formatDelta(e.delta) }),
+    value: formatDelta(e.delta),
+    meter: meterOf(Math.abs(e.delta), maxCounters),
   }));
 
   const synergies: RelationItem[] = hero.synergies.map((e) => ({
     hero_id: e.hero_id,
     reason: reasonOf(e),
-    detail: t("detail.synergy", { score: e.score }),
+    meter: meterOf(e.score, maxSynergy),
   }));
 
   return (
