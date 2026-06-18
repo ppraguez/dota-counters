@@ -1456,11 +1456,13 @@ code {
 
 .landing__cta:hover {
   filter: brightness(1.08);
-  box-shadow: 0 0 32px -4px var(--accent);
+  box-shadow: 0 0 36px -4px var(--accent);
+  transform: translateY(-1px);
 }
 
 .landing__cta:active {
   transform: scale(0.97);
+  box-shadow: 0 0 20px -6px var(--accent);
 }
 
 .landing__cta--sm {
@@ -1526,8 +1528,22 @@ code {
 .landing__heroInner {
   position: relative;
   max-width: 760px;
-  animation: fadeRise 0.6s var(--ease-out) both;
 }
+
+/* Staggered entrance — each line rises in just after the last (ease-out only). */
+.landing__eyebrow,
+.landing__title,
+.landing__sub,
+.landing__hero .landing__cta,
+.landing__scroll {
+  animation: fadeRise 0.5s var(--ease-out) both;
+}
+
+.landing__eyebrow { animation-delay: 0.04s; }
+.landing__title { animation-delay: 0.11s; }
+.landing__sub { animation-delay: 0.21s; }
+.landing__hero .landing__cta { animation-delay: 0.31s; }
+.landing__scroll { animation-delay: 0.41s; }
 
 .landing__eyebrow {
   font-family: var(--font-display);
@@ -1561,6 +1577,17 @@ code {
   margin-top: 26px;
   color: var(--muted-2);
   font-size: 0.82rem;
+}
+
+.landing__scrollArrow {
+  display: inline-block;
+  margin-left: 4px;
+  animation: bob 1.7s ease-in-out infinite;
+}
+
+@keyframes bob {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
 }
 
 /* Chapters */
@@ -1653,8 +1680,18 @@ code {
   overflow: hidden;
 }
 
-.landing__mockFill { height: 100%; border-radius: 999px; }
+.landing__mockFill {
+  height: 100%;
+  border-radius: 999px;
+  transform: scaleX(0);
+  transform-origin: left center;
+}
 .landing__mock--danger .landing__mockFill { background: var(--danger); }
+
+/* Bars grow in once the Counters chapter scrolls into view. */
+.reveal--in .landing__mockFill {
+  animation: meterGrow 0.7s var(--ease-out) 0.12s forwards;
+}
 
 /* Chapter art — combo */
 .landing__combo {
@@ -1768,8 +1805,9 @@ code {
 /* Scroll reveal */
 .reveal {
   opacity: 0;
-  transform: translateY(30px);
-  transition: opacity 0.7s var(--ease-out), transform 0.7s var(--ease-out);
+  transform: translateY(22px);
+  transition: opacity 0.55s var(--ease-out), transform 0.55s var(--ease-out);
+  will-change: opacity, transform;
 }
 
 .reveal--in {
@@ -1785,6 +1823,10 @@ code {
 @media (prefers-reduced-motion: reduce) {
   .reveal {
     opacity: 1;
+    transform: none;
+  }
+  /* Bars are normally scaleX(0) until their grow animation runs — show them. */
+  .landing__mockFill {
     transform: none;
   }
 }

@@ -57,7 +57,7 @@ export function Landing({ onEnter }: Props) {
         <div className="landing__glow" aria-hidden="true" />
         <div className="landing__strip" aria-hidden="true">
           {STRIP.map((h) => (
-            <img key={h} src={hero(h)} alt="" loading="lazy" />
+            <img key={h} src={hero(h)} alt="" loading="lazy" decoding="async" width={130} height={73} />
           ))}
         </div>
         <div className="landing__heroInner">
@@ -67,7 +67,9 @@ export function Landing({ onEnter }: Props) {
           <button type="button" className="landing__cta" onClick={onEnter}>
             {t("landing.cta")} <span aria-hidden="true">→</span>
           </button>
-          <p className="landing__scroll" aria-hidden="true">{t("landing.scroll")} ↓</p>
+          <p className="landing__scroll" aria-hidden="true">
+            {t("landing.scroll")} <span className="landing__scrollArrow">↓</span>
+          </p>
         </div>
       </section>
 
