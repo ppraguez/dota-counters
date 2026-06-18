@@ -5,6 +5,7 @@ import { LangToggle } from "./components/LangToggle";
 import { FilterBar, type AttrFilter, type RoleFilter } from "./components/FilterBar";
 import { DraftTeams, DraftSuggestions } from "./components/DraftBoard";
 import { BrandLogo } from "./components/BrandLogo";
+import { Landing } from "./components/Landing";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
 import { rankPicks } from "./draft";
 import { useI18n } from "./i18n";
@@ -17,8 +18,21 @@ type LoadState =
 type Mode = "browse" | "draft";
 const TEAM_SIZE = 5;
 
+/** Show the tool directly (skip the landing) for returning visitors and hero deep-links. */
+function initialView(): "landing" | "app" {
+  try {
+    const h = window.location.hash.replace("#", "");
+    if (h && Number.isFinite(Number(h))) return "app";
+    if (localStorage.getItem("d2p-entered") === "1") return "app";
+  } catch {
+    /* ignore */
+  }
+  return "landing";
+}
+
 export default function App() {
   const { t } = useI18n();
+  const [view, setView] = useState<"landing" | "app">(initialView);
   const [state, setState] = useState<LoadState>({ status: "loading" });
   const [mode, setMode] = useState<Mode>("browse");
   const [search, setSearch] = useState("");
@@ -95,6 +109,21 @@ export default function App() {
   function clearDraft() {
     setAllies([]);
     setEnemies([]);
+  }
+
+  function enterApp() {
+    try {
+      localStorage.setItem("d2p-entered", "1");
+    } catch {
+      /* ignore */
+    }
+    setView("app");
+    window.scrollTo(0, 0);
+  }
+
+  function goHome() {
+    setView("landing");
+    window.scrollTo(0, 0);
   }
 
   const heroes = state.status === "ready" ? state.data.heroes : [];
@@ -178,17 +207,26 @@ export default function App() {
     </div>
   );
 
+  if (view === "landing") {
+    return <Landing onEnter={enterApp} />;
+  }
+
   return (
     <div className="app">
       <header className="topbar">
         <div className="topbar__brand">
-          <BrandLogo />
+          <button type="button" className="topbar__logoBtn" onClick={goHome} aria-label={t("nav.about")}>
+            <BrandLogo />
+          </button>
           <div>
             <h1 className="topbar__title">{t("title")}</h1>
             <p className="topbar__tagline muted">{t("tagline")}</p>
           </div>
         </div>
         <div className="topbar__meta">
+          <button type="button" className="topbar__about" onClick={goHome}>
+            {t("nav.about")}
+          </button>
           {state.status === "ready" && (
             <>
               <span className="badge badge--patch">{t("badge.patch", { patch: state.data.meta.patch })}</span>

@@ -13,6 +13,33 @@
     "placeholder": "Search heroes, roles, attributes…"
   },
   "grid": { "noMatch": "No heroes match your search." },
+  "nav": { "about": "About" },
+  "landing": {
+    "cta": "Start drafting",
+    "open": "Open the tool",
+    "eyebrow": "Free Dota 2 draft helper",
+    "heroTitle": "Draft smarter. Counter harder.",
+    "heroSub": "Instantly see who counters any hero, who they combo with, and the best pick against the enemy team — each with a plain-English reason.",
+    "scroll": "See how it works",
+    "ch1": {
+      "kicker": "Counters",
+      "title": "Know who beats who",
+      "body": "Pick a hero and instantly see who counters it and who it stomps — each backed by real OpenDota win-rate data and a one-line reason."
+    },
+    "ch2": {
+      "kicker": "Combos",
+      "title": "Find your power pairings",
+      "body": "See which heroes combo with your pick — the disables, follow-ups, and synergies that win teamfights."
+    },
+    "ch3": {
+      "kicker": "Draft mode",
+      "title": "Win the draft",
+      "body": "Add your team and the enemy team, and get a ranked list of the best heroes to pick next — by synergy with your allies and matchup against your enemies."
+    },
+    "climaxTitle": "Ready to out-draft them?",
+    "climaxBody": "127 heroes, updated every patch. Works in English and ไทย. No login, completely free.",
+    "footer": "Not affiliated with Valve. Hero data from"
+  },
   "mode": { "browse": "Browse", "draft": "Draft" },
   "draft": {
     "addTo": "Add to",
