@@ -25,10 +25,8 @@ export function Landing({ onEnter }: Props) {
     const io = new IntersectionObserver(
       (entries) => {
         for (const e of entries) {
-          if (e.isIntersecting) {
-            e.target.classList.add("reveal--in");
-            io.unobserve(e.target);
-          }
+          // Toggle (not just add) so chapters re-animate when scrolled back into view.
+          e.target.classList.toggle("reveal--in", e.isIntersecting);
         }
       },
       { threshold: 0.2, rootMargin: "0px 0px -8% 0px" },

@@ -20,9 +20,11 @@ interface Props {
   items: RelationItem[];
   byId: Map<number, HeroWithId>;
   emptyText: string;
+  /** When provided, each row becomes a button that opens that hero's detail. */
+  onSelect?: (id: number) => void;
 }
 
-export function RelationSection({ title, subtitle, accent, items, byId, emptyText }: Props) {
+export function RelationSection({ title, subtitle, accent, items, byId, emptyText, onSelect }: Props) {
   return (
     <section className={`relation relation--${accent}`}>
       <header className="relation__header">
@@ -36,7 +38,12 @@ export function RelationSection({ title, subtitle, accent, items, byId, emptyTex
       ) : (
         <ul className="relation__list">
           {items.map((item) => (
-            <RelationRow key={item.hero_id} item={item} hero={byId.get(item.hero_id)} />
+            <RelationRow
+              key={item.hero_id}
+              item={item}
+              hero={byId.get(item.hero_id)}
+              onSelect={onSelect}
+            />
           ))}
         </ul>
       )}
@@ -44,23 +51,48 @@ export function RelationSection({ title, subtitle, accent, items, byId, emptyTex
   );
 }
 
-function RelationRow({ item, hero }: { item: RelationItem; hero: HeroWithId | undefined }) {
+function RelationRow({
+  item,
+  hero,
+  onSelect,
+}: {
+  item: RelationItem;
+  hero: HeroWithId | undefined;
+  onSelect?: (id: number) => void;
+}) {
   const { t } = useI18n();
   const name = hero?.localized_name ?? t("detail.heroFallback", { id: item.hero_id });
+  const clickable = !!onSelect && !!hero;
+
+  const inner = (
+    <>
+      <span className="row__head">
+        {hero && <HeroAvatar src={hero.icon_url} name={name} width={48} className="row__icon" />}
+        <span className="row__name">{name}</span>
+        {item.value && <span className="row__value">{item.value}</span>}
+        {clickable && <span className="row__go" aria-hidden="true">›</span>}
+      </span>
+      <span className="row__reason">{item.reason}</span>
+      <div className="row__meter" aria-hidden="true">
+        <div className="row__meter-fill" style={{ width: `${Math.round(item.meter * 100)}%` }} />
+      </div>
+    </>
+  );
 
   return (
-    <li className="row">
-      <div className="row__main">
-        <span className="row__head">
-          {hero && <HeroAvatar src={hero.icon_url} name={name} width={48} className="row__icon" />}
-          <span className="row__name">{name}</span>
-          {item.value && <span className="row__value">{item.value}</span>}
-        </span>
-        <span className="row__reason">{item.reason}</span>
-        <div className="row__meter" aria-hidden="true">
-          <div className="row__meter-fill" style={{ width: `${Math.round(item.meter * 100)}%` }} />
-        </div>
-      </div>
+    <li className={`row ${clickable ? "row--link" : ""}`}>
+      {clickable ? (
+        <button
+          type="button"
+          className="row__main row__main--btn"
+          onClick={() => onSelect!(item.hero_id)}
+          title={t("detail.viewHero", { name })}
+        >
+          {inner}
+        </button>
+      ) : (
+        <div className="row__main">{inner}</div>
+      )}
     </li>
   );
 }

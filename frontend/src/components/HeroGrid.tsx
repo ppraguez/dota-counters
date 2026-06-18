@@ -35,7 +35,14 @@ export function HeroGrid({ heroes, selectedId, onSelect, marks }: Props) {
               onClick={() => onSelect(h.id)}
               title={h.localized_name}
             >
-              <HeroAvatar src={h.icon_url} name={h.localized_name} width={96} />
+              <span className="hero-tile__frame">
+                <HeroAvatar src={h.icon_url} name={h.localized_name} width={96} />
+                {mark && (
+                  <span className={`hero-tile__flag hero-tile__flag--${mark}`} aria-hidden="true">
+                    {mark === "ally" ? "✓" : "✕"}
+                  </span>
+                )}
+              </span>
               <span className="hero-tile__name">{h.localized_name}</span>
             </button>
           </li>

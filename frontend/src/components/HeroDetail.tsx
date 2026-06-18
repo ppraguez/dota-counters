@@ -10,9 +10,10 @@ interface Props {
   hero: HeroWithId;
   byId: Map<number, HeroWithId>;
   meta: Meta;
+  onSelect?: (id: number) => void;
 }
 
-export function HeroDetail({ hero, byId, meta }: Props) {
+export function HeroDetail({ hero, byId, meta, onSelect }: Props) {
   const { t, reasonOf } = useI18n();
 
   // Scale each section's meter bars relative to that section's strongest entry,
@@ -80,6 +81,7 @@ export function HeroDetail({ hero, byId, meta }: Props) {
           items={counteredBy}
           byId={byId}
           emptyText={t("sections.counteredBy.empty")}
+          onSelect={onSelect}
         />
         <RelationSection
           title={t("sections.counters.title")}
@@ -88,6 +90,7 @@ export function HeroDetail({ hero, byId, meta }: Props) {
           items={counters}
           byId={byId}
           emptyText={t("sections.counters.empty")}
+          onSelect={onSelect}
         />
         <RelationSection
           title={t("sections.synergies.title")}
@@ -96,6 +99,7 @@ export function HeroDetail({ hero, byId, meta }: Props) {
           items={synergies}
           byId={byId}
           emptyText={t("sections.synergies.empty")}
+          onSelect={onSelect}
         />
       </div>
 

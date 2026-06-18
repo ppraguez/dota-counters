@@ -97,8 +97,9 @@
   "detail": {
     "winrate": "{delta} win rate vs this hero's average",
     "synergy": "Synergy score {score}",
-    "hint": "Bars show how strong each matchup and combo is for this hero.",
-    "heroFallback": "Hero {id}"
+    "hint": "Bars show how strong each matchup and combo is for this hero. Tap any hero to open it.",
+    "heroFallback": "Hero {id}",
+    "viewHero": "View {name}"
   },
   "ability": {
     "title": "Ability counters",

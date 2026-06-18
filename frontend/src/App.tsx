@@ -91,10 +91,14 @@ export default function App() {
   function select(id: number) {
     setSelectedId(id);
     window.location.hash = String(id);
-    // On small screens, bring the detail into view.
-    requestAnimationFrame(() => {
-      document.getElementById("detail-anchor")?.scrollIntoView({ behavior: "smooth", block: "start" });
-    });
+    // On small screens the detail renders below the grid, so scroll it into
+    // view. On wide screens it sits in a side column — scrolling would be
+    // jarring, so skip it. (Matches the layout grid breakpoint at 920px.)
+    if (!window.matchMedia("(min-width: 920px)").matches) {
+      requestAnimationFrame(() => {
+        document.getElementById("detail-anchor")?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
   }
 
   // Add/remove a hero from a draft team. Clicking a hero already on a team
@@ -329,7 +333,7 @@ export default function App() {
             <div id="detail-anchor" />
             <section className="detail-pane">
               {selected ? (
-                <HeroDetail key={selected.id} hero={selected} byId={state.data.byId} meta={state.data.meta} />
+                <HeroDetail key={selected.id} hero={selected} byId={state.data.byId} meta={state.data.meta} onSelect={select} />
               ) : (
                 <div className="placeholder">
                   <p className="placeholder__title">{t("placeholder.title")}</p>
