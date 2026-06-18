@@ -8,6 +8,7 @@ import { BrandLogo } from "./components/BrandLogo";
 import { Landing } from "./components/Landing";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
 import { rankPicks } from "./draft";
+import { encodeDraft, parseDraftFromUrl } from "./draftLink";
 import { useI18n } from "./i18n";
 
 type LoadState =
@@ -32,17 +33,19 @@ function initialView(): "landing" | "app" {
 
 export default function App() {
   const { t } = useI18n();
-  const [view, setView] = useState<"landing" | "app">(initialView);
+  // A shared draft link (?d=...) opens straight into draft mode, pre-filled.
+  const bootDraft = useMemo(parseDraftFromUrl, []);
+  const [view, setView] = useState<"landing" | "app">(() => (bootDraft ? "app" : initialView()));
   const [state, setState] = useState<LoadState>({ status: "loading" });
-  const [mode, setMode] = useState<Mode>("browse");
+  const [mode, setMode] = useState<Mode>(() => (bootDraft ? "draft" : "browse"));
   const [search, setSearch] = useState("");
   const [selectedId, setSelectedId] = useState<number | null>(null);
   const [attrFilter, setAttrFilter] = useState<AttrFilter>(null);
   const [roleFilter, setRoleFilter] = useState<RoleFilter>(null);
 
   // Draft mode state.
-  const [allies, setAllies] = useState<number[]>([]);
-  const [enemies, setEnemies] = useState<number[]>([]);
+  const [allies, setAllies] = useState<number[]>(() => bootDraft?.allies ?? []);
+  const [enemies, setEnemies] = useState<number[]>(() => bootDraft?.enemies ?? []);
   const [addTarget, setAddTarget] = useState<TileMark>("ally");
 
   // Load data once on mount.
@@ -66,6 +69,24 @@ export default function App() {
       cancelled = true;
     };
   }, []);
+
+  // Keep the URL's ?d= param in sync with the draft so the address bar is
+  // always a shareable link and the draft survives a refresh.
+  useEffect(() => {
+    if (view !== "app") return;
+    const params = new URLSearchParams(window.location.search);
+    if (mode === "draft" && (allies.length > 0 || enemies.length > 0)) {
+      params.set("d", encodeDraft(allies, enemies));
+    } else {
+      params.delete("d");
+    }
+    const qs = params.toString();
+    window.history.replaceState(
+      null,
+      "",
+      `${window.location.pathname}${qs ? `?${qs}` : ""}${window.location.hash}`,
+    );
+  }, [view, mode, allies, enemies]);
 
   function select(id: number) {
     setSelectedId(id);

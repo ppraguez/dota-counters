@@ -53,7 +53,12 @@
     "counter": "matchup",
     "clear": "Clear all",
     "remove": "Remove {name}",
-    "addAlly": "Add to your team"
+    "addAlly": "Add to your team",
+    "roles": "Team roles",
+    "roleHave": "{role}: covered",
+    "roleNeed": "{role}: not covered yet",
+    "share": "Share draft",
+    "shareCopied": "Link copied!"
   },
   "placeholder": {
     "title": "Pick a hero",

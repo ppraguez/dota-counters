@@ -1,10 +1,44 @@
+import { useState } from "react";
 import type { HeroWithId } from "../types";
 import type { DraftSuggestion } from "../draft";
 import { formatDelta } from "../lib";
+import { buildDraftUrl } from "../draftLink";
 import { useI18n } from "../i18n";
 import { HeroAvatar } from "./HeroAvatar";
 
 const TEAM_SIZE = 5;
+
+// The roles a balanced Dota draft generally wants covered.
+const KEY_ROLES = ["Carry", "Support", "Initiator", "Disabler", "Durable", "Nuker"] as const;
+
+function RoleCoverage({ heroes }: { heroes: HeroWithId[] }) {
+  const { t } = useI18n();
+  const counts = new Map<string, number>();
+  for (const h of heroes) {
+    for (const r of h.roles) counts.set(r, (counts.get(r) ?? 0) + 1);
+  }
+
+  return (
+    <div className="team-roles">
+      <span className="team-roles__label">{t("draft.roles")}</span>
+      <ul className="team-roles__list">
+        {KEY_ROLES.map((r) => {
+          const n = counts.get(r) ?? 0;
+          return (
+            <li
+              key={r}
+              className={`role-chip ${n > 0 ? "role-chip--have" : "role-chip--need"}`}
+              title={n > 0 ? t("draft.roleHave", { role: t(`roles.${r}`) }) : t("draft.roleNeed", { role: t(`roles.${r}`) })}
+            >
+              {t(`roles.${r}`)}
+              {n > 1 && <span className="role-chip__n"> ×{n}</span>}
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  );
+}
 
 function TeamRow({
   side,
@@ -48,6 +82,7 @@ function TeamRow({
           </li>
         ))}
       </ul>
+      {side === "ally" && heroes.length > 0 && <RoleCoverage heroes={heroes} />}
     </div>
   );
 }
@@ -65,7 +100,21 @@ export function DraftTeams({
   onClear: () => void;
 }) {
   const { t } = useI18n();
+  const [copied, setCopied] = useState(false);
   const hasPicks = allies.length > 0 || enemies.length > 0;
+
+  function share() {
+    const url = buildDraftUrl(allies.map((h) => h.id), enemies.map((h) => h.id));
+    navigator.clipboard
+      ?.writeText(url)
+      .then(() => {
+        setCopied(true);
+        window.setTimeout(() => setCopied(false), 1800);
+      })
+      .catch(() => {
+        /* clipboard blocked — ignore */
+      });
+  }
 
   return (
     <div className="draft-teams">
@@ -74,9 +123,18 @@ export function DraftTeams({
         <TeamRow side="enemy" heroes={enemies} onRemove={onRemove} />
       </div>
       {hasPicks && (
-        <button type="button" className="draft-teams__clear" onClick={onClear}>
-          {t("draft.clear")}
-        </button>
+        <div className="draft-teams__actions">
+          <button type="button" className="draft-teams__share" onClick={share}>
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+              <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+              <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+            </svg>
+            {copied ? t("draft.shareCopied") : t("draft.share")}
+          </button>
+          <button type="button" className="draft-teams__clear" onClick={onClear}>
+            {t("draft.clear")}
+          </button>
+        </div>
       )}
     </div>
   );

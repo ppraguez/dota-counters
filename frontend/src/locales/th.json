@@ -53,7 +53,12 @@
     "counter": "แมตช์อัพ",
     "clear": "ล้างทั้งหมด",
     "remove": "เอา {name} ออก",
-    "addAlly": "เพิ่มเข้าทีมเรา"
+    "addAlly": "เพิ่มเข้าทีมเรา",
+    "roles": "บทบาทในทีม",
+    "roleHave": "{role}: มีแล้ว",
+    "roleNeed": "{role}: ยังไม่มี",
+    "share": "แชร์ดราฟ",
+    "shareCopied": "คัดลอกลิงก์แล้ว!"
   },
   "placeholder": {
     "title": "เลือกฮีโร่",

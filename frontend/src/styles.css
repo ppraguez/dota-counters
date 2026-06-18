@@ -1047,8 +1047,66 @@ code {
   color: var(--danger);
 }
 
+/* Role coverage (ally team composition) */
+.team-roles {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 7px;
+  margin-top: 12px;
+  padding-top: 11px;
+  border-top: 1px solid var(--border-soft);
+}
+
+.team-roles__label {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--muted);
+  margin-right: 2px;
+}
+
+.team-roles__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.role-chip {
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 3px 9px;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  white-space: nowrap;
+}
+
+.role-chip--have {
+  color: var(--good);
+  background: var(--good-soft);
+  border-color: rgba(68, 201, 138, 0.4);
+}
+
+.role-chip--need {
+  color: var(--muted-2);
+  background: transparent;
+  border: 1px dashed var(--border);
+}
+
+.role-chip__n {
+  opacity: 0.8;
+}
+
+.draft-teams__actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
 .draft-teams__clear {
-  align-self: flex-end;
   appearance: none;
   border: 1px solid var(--border);
   background: var(--panel-2);
@@ -1056,7 +1114,7 @@ code {
   font: inherit;
   font-size: 0.74rem;
   font-weight: 600;
-  padding: 4px 12px;
+  padding: 5px 14px;
   border-radius: 999px;
   cursor: pointer;
   transition: background 0.13s, color 0.13s;
@@ -1065,6 +1123,32 @@ code {
 .draft-teams__clear:hover {
   background: var(--panel-3);
   color: var(--text);
+}
+
+.draft-teams__share {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  appearance: none;
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+  font: inherit;
+  font-size: 0.74rem;
+  font-weight: 700;
+  padding: 5px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: 0 0 16px -6px var(--accent);
+  transition: filter 0.13s, transform 0.12s;
+}
+
+.draft-teams__share:hover {
+  filter: brightness(1.08);
+}
+
+.draft-teams__share:active {
+  transform: scale(0.96);
 }
 
 /* ---------- Draft suggestions ---------- */
