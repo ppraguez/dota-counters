@@ -9,6 +9,7 @@ import { Landing } from "./components/Landing";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
 import { rankPicks } from "./draft";
 import { encodeDraft, parseDraftFromUrl } from "./draftLink";
+import { aliasesForName } from "./heroAliases";
 import { useI18n } from "./i18n";
 
 type LoadState =
@@ -154,16 +155,38 @@ export default function App() {
   const heroes = state.status === "ready" ? state.data.heroes : [];
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
-    return heroes.filter((h) => {
+
+    // Rank a hero against the query: higher = better match, -1 = no match.
+    // Exact nickname ("pa") and name-prefix matches rank above loose
+    // substring/role matches so the wanted hero lands top-left and can be
+    // clicked immediately.
+    const score = (h: (typeof heroes)[number]): number => {
+      if (!q) return 0;
+      const name = h.localized_name.toLowerCase();
+      const aliases = aliasesForName(h.name);
+      if (aliases.includes(q)) return 5; // exact nickname, e.g. "pa"
+      if (name.startsWith(q)) return 4; // "anti" -> Anti-Mage
+      if (aliases.some((a) => a.startsWith(q))) return 3; // "po" -> potm (Mirana)
+      if (name.includes(q)) return 2; // "mage" -> Anti-Mage
+      if (aliases.some((a) => a.includes(q))) return 1;
+      if (h.roles.some((r) => r.toLowerCase().includes(q))) return 1;
+      if (h.attributes.primary_attr.toLowerCase().includes(q)) return 1;
+      return -1;
+    };
+
+    const base = heroes.filter((h) => {
       if (attrFilter && h.attributes.primary_attr !== attrFilter) return false;
       if (roleFilter && !h.roles.includes(roleFilter)) return false;
-      if (!q) return true;
-      return (
-        h.localized_name.toLowerCase().includes(q) ||
-        h.roles.some((r) => r.toLowerCase().includes(q)) ||
-        h.attributes.primary_attr.toLowerCase().includes(q)
-      );
+      return true;
     });
+    if (!q) return base;
+
+    // Stable sort by score (filter out non-matches first).
+    return base
+      .map((h, i) => ({ h, i, s: score(h) }))
+      .filter((x) => x.s >= 0)
+      .sort((a, b) => b.s - a.s || a.i - b.i)
+      .map((x) => x.h);
   }, [heroes, search, attrFilter, roleFilter]);
 
   const selected =

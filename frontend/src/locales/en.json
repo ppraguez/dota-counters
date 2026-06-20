@@ -10,7 +10,7 @@
   },
   "search": {
     "label": "Search heroes",
-    "placeholder": "Search heroes, roles, attributes…"
+    "placeholder": "Search heroes or nicknames — pa, wk, qop…"
   },
   "grid": { "noMatch": "No heroes match your search." },
   "nav": { "about": "About" },
