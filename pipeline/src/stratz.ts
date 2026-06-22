@@ -16,8 +16,8 @@ import type { PositionKey, PositionStats, StratzPositionRow } from "./types.js";
 
 const POSITIONS: PositionKey[] = ["pos1", "pos2", "pos3", "pos4", "pos5"];
 
-// Herald → Legend. STRATZ bracket enum values.
-const BRACKETS = "[HERALD, GUARDIAN, CRUSADER, ARCHON, LEGEND]";
+// All skill brackets for overall meta across the full player base.
+const BRACKETS = "[HERALD, GUARDIAN, CRUSADER, ARCHON, LEGEND, ANCIENT, DIVINE, IMMORTAL]";
 
 function buildQuery(): string {
   const field = (key: PositionKey, n: number) =>
