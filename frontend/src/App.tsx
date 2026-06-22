@@ -4,6 +4,7 @@ import { HeroDetail } from "./components/HeroDetail";
 import { LangToggle } from "./components/LangToggle";
 import { FilterBar, type AttrFilter, type RoleFilter } from "./components/FilterBar";
 import { DraftTeams, DraftSuggestions } from "./components/DraftBoard";
+import { RolesMetaView } from "./components/RolesMetaView";
 import { BrandLogo } from "./components/BrandLogo";
 import { Landing } from "./components/Landing";
 import { loadHeroData, formatRelativeTime, type LoadedData } from "./lib";
@@ -17,7 +18,7 @@ type LoadState =
   | { status: "error"; message: string }
   | { status: "ready"; data: LoadedData };
 
-type Mode = "browse" | "draft";
+type Mode = "browse" | "draft" | "meta";
 const TEAM_SIZE = 5;
 
 /** Show the tool directly (skip the landing) for returning visitors and hero deep-links. */
@@ -150,6 +151,12 @@ export default function App() {
   function goHome() {
     setView("landing");
     window.scrollTo(0, 0);
+  }
+
+  // Clicking a hero in the Meta view jumps to its full detail in Browse.
+  function openFromMeta(id: number) {
+    setMode("browse");
+    select(id);
   }
 
   const heroes = state.status === "ready" ? state.data.heroes : [];
@@ -309,6 +316,16 @@ export default function App() {
             <span className="mode-nav__icon" aria-hidden="true">⚔️</span>
             {t("mode.draft")}
           </button>
+          <button
+            type="button"
+            role="tab"
+            aria-selected={mode === "meta"}
+            className={`mode-nav__btn mode-nav__btn--meta ${mode === "meta" ? "mode-nav__btn--active" : ""}`}
+            onClick={() => setMode("meta")}
+          >
+            <span className="mode-nav__icon" aria-hidden="true">📊</span>
+            {t("mode.meta")}
+          </button>
         </nav>
       )}
 
@@ -321,7 +338,25 @@ export default function App() {
         </div>
       )}
 
+      {state.status === "ready" && mode === "meta" && (
+        <main className="meta-layout">
+          {state.data.rolesMeta ? (
+            <RolesMetaView
+              rolesMeta={state.data.rolesMeta}
+              byId={state.data.byId}
+              onSelect={openFromMeta}
+            />
+          ) : (
+            <div className="placeholder">
+              <p className="placeholder__title">{t("meta.title")}</p>
+              <p className="muted">{t("meta.unavailable")}</p>
+            </div>
+          )}
+        </main>
+      )}
+
       {state.status === "ready" &&
+        mode !== "meta" &&
         (mode === "draft" ? (
           <main className="draft-layout">
             <DraftTeams

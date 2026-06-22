@@ -1,9 +1,10 @@
-import type { Hero, HeroDataFile, HeroWithId, Meta } from "./types";
+import type { Hero, HeroDataFile, HeroWithId, Meta, RolesMeta } from "./types";
 
 export interface LoadedData {
   meta: Meta;
   heroes: HeroWithId[];
   byId: Map<number, HeroWithId>;
+  rolesMeta: RolesMeta | null;
 }
 
 /** Fetch + normalize heroData.json into a list + id lookup. */
@@ -16,7 +17,8 @@ export async function loadHeroData(): Promise<LoadedData> {
 
   const heroes: HeroWithId[] = [];
   for (const [key, value] of Object.entries(raw)) {
-    if (key === "meta") continue;
+    // Top-level non-hero keys: skip them (numeric keys are heroes).
+    if (key === "meta" || key === "roles_meta") continue;
     const hero = value as Hero;
     heroes.push({ ...hero, id: Number(key) });
   }
@@ -25,7 +27,7 @@ export async function loadHeroData(): Promise<LoadedData> {
   const byId = new Map<number, HeroWithId>();
   for (const h of heroes) byId.set(h.id, h);
 
-  return { meta: raw.meta, heroes, byId };
+  return { meta: raw.meta, heroes, byId, rolesMeta: raw.roles_meta ?? null };
 }
 
 /** Translate function shape (from i18n). */

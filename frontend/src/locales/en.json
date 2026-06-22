@@ -40,7 +40,20 @@
     "climaxBody": "127 heroes, updated every patch. Works in English and ไทย. No login, completely free.",
     "footer": "Not affiliated with Valve. Hero data from"
   },
-  "mode": { "browse": "Browse", "draft": "Draft" },
+  "mode": { "browse": "Browse", "draft": "Draft", "meta": "Meta" },
+  "meta": {
+    "title": "Current meta by position",
+    "subtitle": "Strongest heroes in each position right now, ranked by win rate from real ranked matches.",
+    "pos1": "Pos 1 · Carry",
+    "pos2": "Pos 2 · Mid",
+    "pos3": "Pos 3 · Offlane",
+    "pos4": "Pos 4 · Support",
+    "pos5": "Pos 5 · Hard Support",
+    "win": "win rate",
+    "pick": "pick rate",
+    "source": "Based on real ranked-match data from OpenDota, updated every patch. Win rate is the share of games won; pick rate is how often the hero is picked.",
+    "unavailable": "Meta data isn't available right now — check back after the next data refresh."
+  },
   "draft": {
     "addTo": "Add to",
     "allies": "Your team",

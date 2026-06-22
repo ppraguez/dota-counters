@@ -18,3 +18,8 @@ data/.cache/
 
 # Local editor/preview config (machine-specific paths)
 .claude/
+
+# STRATZ API token (never commit)
+pipeline/.stratz-token
+pipeline/.env
+pipeline/.env.local

@@ -51,6 +51,9 @@ jobs:
         env:
           # Optional: add an OpenDota API key as a repo secret to raise the rate limit.
           OPENDOTA_API_KEY: ${{ secrets.OPENDOTA_API_KEY }}
+          # STRATZ token (repo secret) — powers the per-position role meta.
+          # Without it the pipeline still runs and just omits roles_meta.
+          STRATZ_API_TOKEN: ${{ secrets.STRATZ_API_TOKEN }}
           # Tuneable thresholds (see pipeline/src/config.ts for all options):
           # MIN_GAMES: "50"
           # LOW_SAMPLE_HOURS: "72"

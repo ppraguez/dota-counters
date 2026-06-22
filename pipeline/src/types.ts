@@ -138,11 +138,42 @@ export interface OutputMeta {
   low_sample_warning: boolean;
 }
 
+/** One hero's standing within a role's current meta (high-skill bracket data). */
+export interface RolesMetaEntry {
+  hero_id: number;
+  /** Win rate 0..1 in the high-skill brackets. */
+  win_rate: number;
+  /** Share of all high-skill picks, 0..1 (popularity). */
+  pick_rate: number;
+}
+
+/** Current meta heroes per role, derived from OpenDota /heroStats. */
+export interface RolesMeta {
+  /** Skill population the rates come from, e.g. "high_skill" (Ancient+Divine+Immortal). */
+  source: string;
+  /** Role name -> ranked meta entries (strongest first). */
+  roles: Record<string, RolesMetaEntry[]>;
+}
+
 export interface HeroDataFile {
   meta: OutputMeta;
+  /** Per-role meta tier lists (optional — omitted if /heroStats was unavailable). */
+  roles_meta?: RolesMeta;
   /** Keyed by stringified hero id. */
-  [heroId: string]: HeroOutput | OutputMeta;
+  [heroId: string]: HeroOutput | OutputMeta | RolesMeta | undefined;
 }
+
+/** One hero's win/pick totals in a single position (from STRATZ heroStats.winWeek). */
+export interface StratzPositionRow {
+  heroId: number;
+  matchCount: number;
+  winCount: number;
+}
+
+export type PositionKey = "pos1" | "pos2" | "pos3" | "pos4" | "pos5";
+
+/** Per-position hero rows, aggregated over the Herald–Legend brackets. */
+export type PositionStats = Record<PositionKey, StratzPositionRow[]>;
 
 /** Persisted patch-detection state (data/patchState.json). */
 export interface PatchState {

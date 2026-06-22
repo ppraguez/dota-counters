@@ -72,8 +72,26 @@ export interface Meta {
   low_sample_warning: boolean;
 }
 
-/** Raw file: { meta, "1": Hero, "2": Hero, ... } */
-export type HeroDataFile = { meta: Meta } & Record<string, Hero | Meta>;
+/** One hero's standing within a role's current meta (high-skill bracket data). */
+export interface RolesMetaEntry {
+  hero_id: number;
+  /** Win rate 0..1 in the high-skill brackets. */
+  win_rate: number;
+  /** Share of all high-skill picks, 0..1 (popularity). */
+  pick_rate: number;
+}
+
+/** Current meta heroes per role, derived from OpenDota /heroStats. */
+export interface RolesMeta {
+  source: string;
+  roles: Record<string, RolesMetaEntry[]>;
+}
+
+/** Raw file: { meta, roles_meta?, "1": Hero, "2": Hero, ... } */
+export type HeroDataFile = { meta: Meta; roles_meta?: RolesMeta } & Record<
+  string,
+  Hero | Meta | RolesMeta | undefined
+>;
 
 /** A hero with its id attached, used throughout the UI. */
 export interface HeroWithId extends Hero {

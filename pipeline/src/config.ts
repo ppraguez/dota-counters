@@ -2,12 +2,28 @@
  * Central configuration. Every knob is overridable via an environment variable so the
  * scheduled GitHub Action (or a local run) can tune behaviour without code changes.
  */
+import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 /** Repo root = two levels up from pipeline/src. */
 const repoRoot = path.resolve(__dirname, "..", "..");
+
+/**
+ * STRATZ API token. In CI it comes from the STRATZ_API_TOKEN secret; for local
+ * runs we also accept a gitignored pipeline/.stratz-token file so the token
+ * never has to be exported by hand. Empty string => role meta is skipped.
+ */
+function readStratzToken(): string {
+  const fromEnv = process.env.STRATZ_API_TOKEN?.trim();
+  if (fromEnv) return fromEnv;
+  try {
+    return fs.readFileSync(path.join(__dirname, "..", ".stratz-token"), "utf8").trim();
+  } catch {
+    return "";
+  }
+}
 
 function num(envVar: string, fallback: number): number {
   const raw = process.env[envVar];
@@ -22,6 +38,12 @@ export const config = {
 
   /** Optional OpenDota API key (raises the free-tier rate limit). */
   apiKey: process.env.OPENDOTA_API_KEY ?? "",
+
+  /** STRATZ GraphQL endpoint (position-based hero stats for the role meta). */
+  stratzBase: process.env.STRATZ_BASE ?? "https://api.stratz.com/graphql",
+
+  /** STRATZ API token (env STRATZ_API_TOKEN or local pipeline/.stratz-token). */
+  stratzToken: readStratzToken(),
 
   /**
    * Delay between API calls in ms. OpenDota's free tier allows ~60 req/min, so ~1100ms

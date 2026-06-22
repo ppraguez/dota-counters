@@ -21,6 +21,9 @@ import {
   fetchAbilityConstants,
   fetchHeroAbilities,
 } from "./opendota.js";
+import { fetchPositionStats } from "./stratz.js";
+import { buildRolesMeta } from "./rolesMeta.js";
+import { readPositionStatsCache, writePositionStatsCache } from "./heroStatsCache.js";
 import {
   buildIconResolver,
   saveAbilityConstantsCache,
@@ -271,6 +274,32 @@ async function main(): Promise<void> {
     synergies.set(a.id, list.slice(0, config.maxSynergiesPerHero));
   }
 
+  // --- 4b. Role meta (per-position win/pick rates from STRATZ) ---
+  // Online: fetch + cache. Offline or on failure: fall back to the cache.
+  // If we have nothing, roles_meta is simply omitted and the UI hides the view.
+  let rolesMeta: HeroDataFile["roles_meta"] | undefined;
+  try {
+    let posStats = config.matchupsOffline ? await readPositionStatsCache() : null;
+    if (!posStats) {
+      try {
+        posStats = await fetchPositionStats();
+        await writePositionStatsCache(posStats);
+      } catch (err) {
+        posStats = await readPositionStatsCache();
+        if (posStats) {
+          console.warn(`  ~ STRATZ fetch failed (${(err as Error).message}); using cached position stats`);
+        } else {
+          throw err;
+        }
+      }
+    }
+    rolesMeta = buildRolesMeta(posStats);
+    const counts = Object.values(rolesMeta.roles).map((r) => r.length);
+    console.log(`  role meta: ${counts.reduce((a, b) => a + b, 0)} entries across ${counts.length} positions`);
+  } catch (err) {
+    console.warn(`  ✗ role meta unavailable: ${(err as Error).message}`);
+  }
+
   // --- 5. Assemble + write ---
   const output: HeroDataFile = {
     meta: {
@@ -279,6 +308,7 @@ async function main(): Promise<void> {
       patch_first_seen: patchState.firstSeen,
       low_sample_warning: patchState.lowSampleWarning,
     },
+    ...(rolesMeta ? { roles_meta: rolesMeta } : {}),
   };
 
   for (const h of heroes) {
