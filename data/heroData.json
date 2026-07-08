@@ -11873,85 +11873,85 @@
     "countered_by": [
       {
         "hero_id": 68,
-        "delta": -0.1588,
+        "delta": -0.1598,
         "reason": "Ancient Apparition snipes from across the map with Ice Blast and shuts off all healing, shutting Necrophos down before it can take over.",
         "reason_th": "Ancient Apparition ยิงข้ามแมพด้วย Ice Blast และตัดการฮีลทั้งหมด และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 15,
-        "delta": -0.1299,
+        "delta": -0.1308,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Necrophos is slow and easy to kite before he ramps up.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Necrophos เดินช้าและถูกไคต์ได้ง่ายก่อนที่จะแรงขึ้น"
       },
       {
         "hero_id": 112,
-        "delta": -0.1077,
+        "delta": -0.1086,
         "reason": "Winter Wyvern bursts targets down with magical nukes, shutting Necrophos down before it can take over.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 51,
-        "delta": -0.1044,
+        "delta": -0.1054,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, shutting Necrophos down before it can take over.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 121,
-        "delta": -0.1041,
+        "delta": -0.1051,
         "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, shutting Necrophos down before it can take over.",
         "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 38,
-        "delta": -0.1002,
+        "delta": -0.1012,
         "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, shutting Necrophos down before it can take over.",
         "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 79,
-        "delta": -0.0986,
+        "delta": -0.0995,
         "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge, shutting Necrophos down before it can take over.",
         "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 83,
-        "delta": -0.0946,
+        "delta": -0.0956,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, shutting Necrophos down before it can take over.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 74,
-        "delta": -0.0883,
-        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Necrophos down before it can take over.",
-        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
         "hero_id": 90,
-        "delta": -0.0866,
+        "delta": -0.0876,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, shutting Necrophos down before it can take over.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 60,
-        "delta": -0.0834,
+        "delta": -0.0844,
         "reason": "Night Stalker owns the night with silence and flight, hunting single targets, shutting Necrophos down before it can take over.",
         "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 65,
-        "delta": -0.0827,
+        "delta": -0.0836,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, shutting Necrophos down before it can take over.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
+        "hero_id": 74,
+        "delta": -0.0831,
+        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Necrophos down before it can take over.",
+        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
         "hero_id": 137,
-        "delta": -0.0791,
+        "delta": -0.0801,
         "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, shutting Necrophos down before it can take over.",
         "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 6,
-        "delta": -0.0763,
+        "delta": -0.0773,
         "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, shutting Necrophos down before it can take over.",
         "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -11959,85 +11959,85 @@
     "counters": [
       {
         "hero_id": 12,
-        "delta": 0.2423,
+        "delta": 0.2414,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 109,
-        "delta": 0.168,
+        "delta": 0.1678,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, soaking Terrorblade's physical damage and winning the long fight.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe รับดาเมจกายภาพของ Terrorblade ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 73,
-        "delta": 0.1394,
+        "delta": 0.1384,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Alchemist down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Alchemist ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 1,
-        "delta": 0.1375,
+        "delta": 0.1365,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, and the lockdown cancels Anti-Mage's escape.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และการล็อกตัดทางหนีของ Anti-Mage"
       },
       {
         "hero_id": 108,
-        "delta": 0.1352,
+        "delta": 0.1342,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, and the lockdown cancels Underlord's escape.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และการล็อกตัดทางหนีของ Underlord"
       },
       {
         "hero_id": 30,
-        "delta": 0.1352,
+        "delta": 0.1342,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 63,
-        "delta": 0.1312,
+        "delta": 0.1303,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, and the lockdown cancels Weaver's escape.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 126,
-        "delta": 0.127,
+        "delta": 0.126,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, and the lockdown cancels Void Spirit's escape.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และการล็อกตัดทางหนีของ Void Spirit"
       },
       {
         "hero_id": 18,
-        "delta": 0.1195,
+        "delta": 0.123,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Sven down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Sven ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 104,
-        "delta": 0.1114,
+        "delta": 0.1104,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Legion Commander down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Legion Commander ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 94,
-        "delta": 0.0965,
+        "delta": 0.0955,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, soaking Medusa's physical damage and winning the long fight.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe รับดาเมจกายภาพของ Medusa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 99,
-        "delta": 0.0951,
+        "delta": 0.0941,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Bristleback down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 7,
-        "delta": 0.0861,
+        "delta": 0.0851,
         "reason": "Necrophos keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Necrophos เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 23,
-        "delta": 0.0849,
+        "delta": 0.084,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Kunkka down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Kunkka ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -12231,171 +12231,171 @@
     "countered_by": [
       {
         "hero_id": 90,
-        "delta": -0.1675,
+        "delta": -0.1671,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 93,
-        "delta": -0.1241,
+        "delta": -0.1238,
         "reason": "Slark steals stats with Essence Shift and escapes in the dark with Shadow Dance — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Slark ขโมยสเตตัสด้วย Essence Shift และหนีในความมืดด้วย Shadow Dance — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 83,
-        "delta": -0.1195,
+        "delta": -0.1191,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and Warlock is squishy and gets blown up quickly.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ส่วน Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 40,
-        "delta": -0.1027,
+        "delta": -0.1023,
         "reason": "Venomancer blankets fights in Poison Nova and Plague Wards — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Venomancer ปกคลุมการต่อสู้ด้วย Poison Nova และ Plague Ward — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 14,
-        "delta": -0.0914,
+        "delta": -0.091,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, while Warlock is squishy and gets blown up quickly.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 155,
-        "delta": -0.0831,
+        "delta": -0.0828,
         "reason": "Largo controls space and tanks the frontline with heavy disables, while Warlock is squishy and gets blown up quickly.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 50,
-        "delta": -0.0744,
+        "delta": -0.0741,
         "reason": "Dazzle bursts targets down with magical nukes — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 111,
-        "delta": -0.0717,
+        "delta": -0.0714,
         "reason": "Oracle bursts targets down with magical nukes — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Oracle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 79,
-        "delta": -0.0678,
+        "delta": -0.0661,
         "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge — Warlock is squishy and gets blown up quickly.",
         "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge — Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 15,
-        "delta": -0.065,
+        "delta": -0.0646,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Warlock is squishy and gets blown up quickly.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 89,
-        "delta": -0.0529,
-        "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and Warlock is squishy and gets blown up quickly.",
-        "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน ส่วน Warlock ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 3,
-        "delta": -0.0526,
+        "delta": -0.0628,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, while Warlock is squishy and gets blown up quickly.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 89,
+        "delta": -0.0546,
+        "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and Warlock is squishy and gets blown up quickly.",
+        "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน ส่วน Warlock ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 114,
-        "delta": -0.0485,
+        "delta": -0.0526,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Warlock is squishy and gets blown up quickly.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ส่วน Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 62,
-        "delta": -0.0452,
-        "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Warlock is squishy and gets blown up quickly.",
-        "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Warlock ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 81,
+        "delta": -0.0507,
+        "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, while Warlock is squishy and gets blown up quickly.",
+        "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       }
     ],
     "counters": [
       {
         "hero_id": 44,
-        "delta": 0.2184,
+        "delta": 0.2188,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
         "hero_id": 42,
-        "delta": 0.1907,
+        "delta": 0.191,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Wraith King down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Wraith King ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 16,
-        "delta": 0.1868,
+        "delta": 0.1871,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Sand King's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Sand King"
       },
       {
         "hero_id": 32,
-        "delta": 0.1802,
+        "delta": 0.1806,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Riki's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Riki"
       },
       {
         "hero_id": 6,
-        "delta": 0.1514,
+        "delta": 0.1518,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Drow Ranger down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Drow Ranger ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 61,
-        "delta": 0.1177,
+        "delta": 0.1181,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Broodmother's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Broodmother"
       },
       {
         "hero_id": 68,
-        "delta": 0.1073,
+        "delta": 0.1077,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, while Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem ขณะที่ Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
-        "hero_id": 12,
-        "delta": 0.0821,
-        "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Phantom Lancer's escape.",
-        "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Phantom Lancer"
-      },
-      {
         "hero_id": 76,
-        "delta": 0.0766,
+        "delta": 0.0919,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Outworld Destroyer down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Outworld Destroyer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
+        "hero_id": 12,
+        "delta": 0.0853,
+        "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Phantom Lancer's escape.",
+        "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Phantom Lancer"
+      },
+      {
         "hero_id": 95,
-        "delta": 0.0754,
+        "delta": 0.0757,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Troll Warlord down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Troll Warlord ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 2,
-        "delta": 0.0744,
+        "delta": 0.073,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Axe down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Axe ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 121,
-        "delta": 0.0724,
+        "delta": 0.0727,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Grimstroke's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Grimstroke"
       },
       {
         "hero_id": 73,
-        "delta": 0.0695,
+        "delta": 0.0698,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Alchemist down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Alchemist ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 35,
-        "delta": 0.0681,
+        "delta": 0.0685,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, shutting Sniper down before it can take over.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และกด Sniper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -15811,85 +15811,85 @@
     "countered_by": [
       {
         "hero_id": 40,
-        "delta": -0.1415,
+        "delta": -0.1409,
         "reason": "Venomancer blankets fights in Poison Nova and Plague Wards, shutting Viper down before it can take over.",
         "reason_th": "Venomancer ปกคลุมการต่อสู้ด้วย Poison Nova และ Plague Ward และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 42,
-        "delta": -0.1099,
+        "delta": -0.1094,
         "reason": "Wraith King stuns with Wraithfire Blast and fights through death with Reincarnation, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Wraith King สตันด้วย Wraithfire Blast และสู้ต่อข้ามความตายด้วย Reincarnation รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 105,
-        "delta": -0.1093,
+        "delta": -0.1087,
         "reason": "Techies litters the map with mines and bursts targets with Blast Off, shutting Viper down before it can take over.",
         "reason_th": "Techies โปรยทุ่นระเบิดทั่วแมพและเบิร์สต์เป้าด้วย Blast Off และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 43,
-        "delta": -0.097,
-        "reason": "Death Prophet pushes towers and melts targets with a swarm of Exorcism spirits, shutting Viper down before it can take over.",
-        "reason_th": "Death Prophet ผลักป้อมและละลายเป้าหมายด้วยฝูงวิญญาณ Exorcism และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
         "hero_id": 3,
-        "delta": -0.0932,
+        "delta": -0.1076,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
+        "hero_id": 43,
+        "delta": -0.0965,
+        "reason": "Death Prophet pushes towers and melts targets with a swarm of Exorcism spirits, shutting Viper down before it can take over.",
+        "reason_th": "Death Prophet ผลักป้อมและละลายเป้าหมายด้วยฝูงวิญญาณ Exorcism และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
         "hero_id": 28,
-        "delta": -0.0919,
+        "delta": -0.0948,
         "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 81,
-        "delta": -0.0916,
+        "delta": -0.0911,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 23,
-        "delta": -0.0824,
+        "delta": -0.0819,
         "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 137,
-        "delta": -0.0819,
+        "delta": -0.0814,
         "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, soaking Viper's physical damage and winning the long fight.",
         "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย รับดาเมจกายภาพของ Viper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 22,
-        "delta": -0.0804,
+        "delta": -0.0798,
         "reason": "Zeus chunks the whole enemy team with no-counterplay magical nukes, while Viper is slow with no escape once enemies build mobility.",
         "reason_th": "Zeus กดเลือดทั้งทีมศัตรูด้วยสกิลเวทย์ที่แทบไม่มีทางเลี่ยง ขณะที่ Viper เดินช้าและไม่มีสกิลหนีเมื่อศัตรูมีของเพิ่มความคล่องตัว"
       },
       {
         "hero_id": 50,
-        "delta": -0.0777,
+        "delta": -0.0771,
         "reason": "Dazzle bursts targets down with magical nukes, shutting Viper down before it can take over.",
         "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 21,
-        "delta": -0.0711,
+        "delta": -0.0706,
         "reason": "Windranger locks a single target in Shackleshot and focuses it down, shutting Viper down before it can take over.",
         "reason_th": "Windranger ล็อกเป้าหมายเดี่ยวด้วย Shackleshot แล้วโฟกัสเก็บ และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 88,
-        "delta": -0.0706,
+        "delta": -0.07,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, shutting Viper down before it can take over.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และกด Viper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 66,
-        "delta": -0.0623,
+        "delta": -0.0617,
         "reason": "Chen swings fights with utility and disables, while Viper is slow with no escape once enemies build mobility.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Viper เดินช้าและไม่มีสกิลหนีเมื่อศัตรูมีของเพิ่มความคล่องตัว"
       }
@@ -15897,85 +15897,85 @@
     "counters": [
       {
         "hero_id": 60,
-        "delta": 0.1786,
+        "delta": 0.1792,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Night Stalker down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 97,
-        "delta": 0.1601,
+        "delta": 0.1606,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, and the lockdown cancels Magnus's escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และการล็อกตัดทางหนีของ Magnus"
       },
       {
         "hero_id": 99,
-        "delta": 0.1405,
+        "delta": 0.1331,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Bristleback down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 41,
-        "delta": 0.1252,
+        "delta": 0.1257,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, and the lockdown cancels Faceless Void's escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และการล็อกตัดทางหนีของ Faceless Void"
       },
       {
         "hero_id": 10,
-        "delta": 0.1183,
+        "delta": 0.1189,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, and the lockdown cancels Morphling's escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และการล็อกตัดทางหนีของ Morphling"
       },
       {
         "hero_id": 75,
-        "delta": 0.1172,
+        "delta": 0.1178,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Silencer down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 68,
-        "delta": 0.1101,
+        "delta": 0.1106,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, while Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง ขณะที่ Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 49,
-        "delta": 0.0889,
+        "delta": 0.0894,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Dragon Knight down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Dragon Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 62,
-        "delta": 0.0836,
+        "delta": 0.0841,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, and the lockdown cancels Bounty Hunter's escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และการล็อกตัดทางหนีของ Bounty Hunter"
       },
       {
         "hero_id": 73,
-        "delta": 0.0787,
+        "delta": 0.0793,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Alchemist down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Alchemist ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 29,
-        "delta": 0.077,
+        "delta": 0.0776,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Tidehunter down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Tidehunter ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 101,
-        "delta": 0.077,
+        "delta": 0.0776,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, while Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง ขณะที่ Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
       },
       {
         "hero_id": 45,
-        "delta": 0.0744,
+        "delta": 0.0749,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, while Pugna is squishy and dies to lockdown before he drains a target.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง ขณะที่ Pugna ตัวบางและตายให้กับการคุมก่อนที่จะดูดเป้าหมาย"
       },
       {
         "hero_id": 71,
-        "delta": 0.07,
+        "delta": 0.0705,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และการล็อกตัดทางหนีของ Spirit Breaker"
       }
@@ -36276,173 +36276,173 @@
     "countered_by": [
       {
         "hero_id": 3,
-        "delta": -0.1438,
+        "delta": -0.1444,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 91,
-        "delta": -0.1227,
+        "delta": -0.1233,
         "reason": "Io bursts targets down with magical nukes, while Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Io เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ขณะที่ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
         "hero_id": 83,
-        "delta": -0.1006,
+        "delta": -0.1042,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 13,
-        "delta": -0.0988,
+        "delta": -0.0995,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 77,
-        "delta": -0.0916,
+        "delta": -0.0852,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Ember Spirit's physical damage and winning the long fight.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Ember Spirit ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 56,
-        "delta": -0.0842,
+        "delta": -0.0848,
         "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, while Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk ขณะที่ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
         "hero_id": 66,
-        "delta": -0.0677,
+        "delta": -0.0683,
         "reason": "Chen swings fights with utility and disables, while Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
         "hero_id": 80,
-        "delta": -0.0677,
+        "delta": -0.0683,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, soaking Ember Spirit's physical damage and winning the long fight.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม รับดาเมจกายภาพของ Ember Spirit ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 38,
-        "delta": -0.0659,
+        "delta": -0.0666,
         "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 104,
-        "delta": -0.0659,
+        "delta": -0.0666,
         "reason": "Legion Commander forces an inescapable 1v1 with Duel and snowballs the damage, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Legion Commander บังคับ 1v1 ที่หนีไม่ได้ด้วย Duel และสะสมดาเมจให้พุ่ง และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 138,
-        "delta": -0.0658,
+        "delta": -0.0664,
         "reason": "Muerta kills from range and ignores physical attacks during Pierce the Veil, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Muerta เก็บคิลจากระยะไกลและกันการโจมตีกายภาพระหว่าง Pierce the Veil และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
+        "hero_id": 54,
+        "delta": -0.0647,
+        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and the lockdown cancels Ember Spirit's escape.",
+        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ และการล็อกตัดทางหนีของ Ember Spirit"
+      },
+      {
         "hero_id": 92,
-        "delta": -0.0621,
+        "delta": -0.0627,
         "reason": "Visage swarms with Familiars that stun and shred armored targets, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Visage รุมด้วย Familiars ที่สตันและลดเกราะเป้าหมาย และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
-        "hero_id": 155,
-        "delta": -0.0611,
-        "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Ember Spirit's escape.",
-        "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Ember Spirit"
-      },
-      {
-        "hero_id": 54,
-        "delta": -0.0601,
-        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and the lockdown cancels Ember Spirit's escape.",
-        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ และการล็อกตัดทางหนีของ Ember Spirit"
+        "hero_id": 121,
+        "delta": -0.0543,
+        "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, and the lockdown cancels Ember Spirit's escape.",
+        "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell และการล็อกตัดทางหนีของ Ember Spirit"
       }
     ],
     "counters": [
       {
         "hero_id": 44,
-        "delta": 0.1568,
+        "delta": 0.1562,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
         "hero_id": 30,
-        "delta": 0.15,
+        "delta": 0.1494,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 42,
-        "delta": 0.1412,
+        "delta": 0.1406,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, shutting Wraith King down before it can take over.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และกด Wraith King ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 40,
-        "delta": 0.1207,
+        "delta": 0.1201,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Venomancer is squishy and gets blown up quickly.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Venomancer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 35,
-        "delta": 0.1172,
+        "delta": 0.1165,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 126,
-        "delta": 0.1077,
+        "delta": 0.1103,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Void Spirit's escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Void Spirit"
       },
       {
         "hero_id": 1,
-        "delta": 0.0963,
+        "delta": 0.0956,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Anti-Mage's escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Anti-Mage"
       },
       {
-        "hero_id": 10,
-        "delta": 0.082,
-        "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Morphling's escape.",
-        "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Morphling"
-      },
-      {
         "hero_id": 55,
-        "delta": 0.0811,
+        "delta": 0.0874,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Dark Seer's escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Dark Seer"
       },
       {
         "hero_id": 112,
-        "delta": 0.0795,
+        "delta": 0.0865,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
+        "hero_id": 10,
+        "delta": 0.0855,
+        "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Morphling's escape.",
+        "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Morphling"
+      },
+      {
         "hero_id": 33,
-        "delta": 0.0779,
+        "delta": 0.0773,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 29,
-        "delta": 0.0748,
+        "delta": 0.0762,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, shutting Tidehunter down before it can take over.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และกด Tidehunter ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 119,
-        "delta": 0.063,
-        "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Dark Willow"
-      },
-      {
         "hero_id": 21,
-        "delta": 0.0611,
+        "delta": 0.0645,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Windranger's escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Windranger"
+      },
+      {
+        "hero_id": 119,
+        "delta": 0.0642,
+        "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และการล็อกตัดทางหนีของ Dark Willow"
       }
     ],
     "synergies": [
@@ -38377,171 +38377,171 @@
     "countered_by": [
       {
         "hero_id": 22,
-        "delta": -0.1721,
+        "delta": -0.1561,
         "reason": "Zeus chunks the whole enemy team with no-counterplay magical nukes — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Zeus กดเลือดทั้งทีมศัตรูด้วยสกิลเวทย์ที่แทบไม่มีทางเลี่ยง — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
         "hero_id": 136,
-        "delta": -0.0876,
+        "delta": -0.0872,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose ส่วน Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
         "hero_id": 84,
-        "delta": -0.0866,
+        "delta": -0.0862,
         "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, while Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
-        "hero_id": 54,
-        "delta": -0.083,
-        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Winter Wyvern is slow and squishy if caught out of position.",
-        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
-      },
-      {
         "hero_id": 14,
-        "delta": -0.083,
+        "delta": -0.0826,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, while Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
+        "hero_id": 54,
+        "delta": -0.0826,
+        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Winter Wyvern is slow and squishy if caught out of position.",
+        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
+      },
+      {
         "hero_id": 128,
-        "delta": -0.0747,
+        "delta": -0.079,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
-        "hero_id": 2,
-        "delta": -0.065,
-        "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, while Winter Wyvern is slow and squishy if caught out of position.",
-        "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
-      },
-      {
         "hero_id": 106,
-        "delta": -0.0637,
+        "delta": -0.071,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
+        "hero_id": 53,
+        "delta": -0.0672,
+        "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Winter Wyvern is slow and squishy if caught out of position.",
+        "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
+      },
+      {
+        "hero_id": 2,
+        "delta": -0.0646,
+        "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, while Winter Wyvern is slow and squishy if caught out of position.",
+        "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
+      },
+      {
         "hero_id": 129,
-        "delta": -0.0633,
+        "delta": -0.0629,
         "reason": "Mars spears enemies into Arena of Blood and blocks ranged attacks, while Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Mars พุ่งหอกดันศัตรูเข้า Arena of Blood และบล็อกการโจมตีระยะไกล ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
         "hero_id": 21,
-        "delta": -0.0625,
+        "delta": -0.0621,
         "reason": "Windranger locks a single target in Shackleshot and focuses it down — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Windranger ล็อกเป้าหมายเดี่ยวด้วย Shackleshot แล้วโฟกัสเก็บ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
         "hero_id": 114,
-        "delta": -0.0613,
+        "delta": -0.0609,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ส่วน Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
-        "hero_id": 53,
-        "delta": -0.0573,
-        "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Winter Wyvern is slow and squishy if caught out of position.",
-        "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
+        "hero_id": 25,
+        "delta": -0.0554,
+        "reason": "Lina deletes squishy targets with huge single-target burst — Winter Wyvern is slow and squishy if caught out of position.",
+        "reason_th": "Lina ลบเป้าหมายตัวบางด้วยเบิร์สต์เดี่ยวที่รุนแรง — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
-        "hero_id": 11,
-        "delta": -0.0516,
-        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls — Winter Wyvern is slow and squishy if caught out of position.",
-        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
-      },
-      {
-        "hero_id": 49,
-        "delta": -0.0509,
-        "reason": "Dragon Knight tanks fights in Dragon Form and stuns with Dragon Tail, while Winter Wyvern is slow and squishy if caught out of position.",
-        "reason_th": "Dragon Knight ทนการต่อสู้ในร่าง Dragon Form และสตันด้วย Dragon Tail ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
+        "hero_id": 46,
+        "delta": -0.0505,
+        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Winter Wyvern is slow and squishy if caught out of position.",
+        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       }
     ],
     "counters": [
       {
         "hero_id": 36,
-        "delta": 0.1324,
+        "delta": 0.1328,
         "reason": "Winter Wyvern bursts targets down with magical nukes, shutting Necrophos down before it can take over.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 73,
-        "delta": 0.1324,
+        "delta": 0.1328,
         "reason": "Winter Wyvern bursts targets down with magical nukes, shutting Alchemist down before it can take over.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Alchemist ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 28,
-        "delta": 0.1099,
+        "delta": 0.1103,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Slardar's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Slardar"
       },
       {
-        "hero_id": 108,
-        "delta": 0.1082,
-        "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Underlord's escape.",
-        "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Underlord"
-      },
-      {
         "hero_id": 119,
-        "delta": 0.1082,
+        "delta": 0.1086,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
+        "hero_id": 108,
+        "delta": 0.1086,
+        "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Underlord's escape.",
+        "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Underlord"
+      },
+      {
         "hero_id": 126,
-        "delta": 0.0924,
+        "delta": 0.0928,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Void Spirit's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Void Spirit"
       },
       {
         "hero_id": 35,
-        "delta": 0.0824,
+        "delta": 0.0828,
         "reason": "Winter Wyvern bursts targets down with magical nukes — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 13,
-        "delta": 0.0759,
+        "delta": 0.0763,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Puck's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Puck"
       },
       {
         "hero_id": 145,
-        "delta": 0.0753,
+        "delta": 0.0757,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Kez's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Kez"
       },
       {
         "hero_id": 131,
-        "delta": 0.0574,
+        "delta": 0.0578,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Ringmaster's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Ringmaster"
       },
       {
         "hero_id": 27,
-        "delta": 0.057,
+        "delta": 0.0574,
         "reason": "Winter Wyvern bursts targets down with magical nukes — Shadow Shaman is squishy and gets blown up quickly.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Shadow Shaman ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 120,
-        "delta": 0.0562,
+        "delta": 0.0566,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 123,
-        "delta": 0.0555,
+        "delta": 0.0559,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Hoodwink's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Hoodwink"
       },
       {
         "hero_id": 74,
-        "delta": 0.0552,
+        "delta": 0.0555,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Invoker's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Invoker"
       }
@@ -38962,171 +38962,171 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.2828,
+        "delta": -0.269,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 80,
-        "delta": -0.252,
+        "delta": -0.2525,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, soaking Monkey King's physical damage and winning the long fight.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม รับดาเมจกายภาพของ Monkey King ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 66,
-        "delta": -0.2111,
+        "delta": -0.2117,
         "reason": "Chen swings fights with utility and disables, while Monkey King is fragile under focus.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Monkey King ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 155,
-        "delta": -0.1547,
+        "delta": -0.1552,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 88,
-        "delta": -0.1191,
+        "delta": -0.1196,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 91,
-        "delta": -0.1166,
+        "delta": -0.1172,
         "reason": "Io bursts targets down with magical nukes, while Monkey King is fragile under focus.",
         "reason_th": "Io เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ขณะที่ Monkey King ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 89,
-        "delta": -0.1127,
+        "delta": -0.1132,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 5,
-        "delta": -0.1018,
+        "delta": -0.1023,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 22,
-        "delta": -0.101,
+        "delta": -0.1016,
         "reason": "Zeus chunks the whole enemy team with no-counterplay magical nukes, while Monkey King is fragile under focus.",
         "reason_th": "Zeus กดเลือดทั้งทีมศัตรูด้วยสกิลเวทย์ที่แทบไม่มีทางเลี่ยง ขณะที่ Monkey King ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 55,
-        "delta": -0.0986,
+        "delta": -0.0992,
         "reason": "Dark Seer walls off fights with Wall of Replica and snowballs with Ion Shell, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Dark Seer กั้นการต่อสู้ด้วย Wall of Replica และสโนว์บอลด้วย Ion Shell และการล็อกตัดทางหนีของ Monkey King"
       },
       {
         "hero_id": 98,
-        "delta": -0.0909,
+        "delta": -0.0914,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Monkey King's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Monkey King ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
-        "hero_id": 135,
-        "delta": -0.0831,
-        "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, soaking Monkey King's physical damage and winning the long fight.",
-        "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ รับดาเมจกายภาพของ Monkey King ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
-      },
-      {
         "hero_id": 28,
-        "delta": -0.0823,
+        "delta": -0.0878,
         "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, and the lockdown cancels Monkey King's escape.",
         "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ และการล็อกตัดทางหนีของ Monkey King"
       },
       {
-        "hero_id": 56,
-        "delta": -0.0743,
-        "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, while Monkey King is fragile under focus.",
-        "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk ขณะที่ Monkey King ตัวเปราะเมื่อโดนโฟกัส"
+        "hero_id": 135,
+        "delta": -0.0837,
+        "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, soaking Monkey King's physical damage and winning the long fight.",
+        "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ รับดาเมจกายภาพของ Monkey King ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+      },
+      {
+        "hero_id": 136,
+        "delta": -0.0736,
+        "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and the lockdown cancels Monkey King's escape.",
+        "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และการล็อกตัดทางหนีของ Monkey King"
       }
     ],
     "counters": [
       {
         "hero_id": 85,
-        "delta": 0.1394,
+        "delta": 0.1389,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Undying is slow and can be kited.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 77,
-        "delta": 0.1388,
+        "delta": 0.1383,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Lycan's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 7,
-        "delta": 0.1384,
+        "delta": 0.1378,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Earthshaker is fragile under focus.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 43,
-        "delta": 0.129,
-        "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Death Prophet down before it can take over.",
-        "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Death Prophet ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
         "hero_id": 59,
-        "delta": 0.1219,
+        "delta": 0.1214,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Huskar down before it can take over.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
+        "hero_id": 43,
+        "delta": 0.1209,
+        "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Death Prophet down before it can take over.",
+        "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Death Prophet ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
         "hero_id": 63,
-        "delta": 0.1151,
+        "delta": 0.1146,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Weaver's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 25,
-        "delta": 0.097,
+        "delta": 0.0964,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Lina down before it can take over.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Lina ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 60,
-        "delta": 0.0965,
+        "delta": 0.0959,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Night Stalker down before it can take over.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 101,
-        "delta": 0.0957,
+        "delta": 0.0951,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ส่วน Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
       },
       {
         "hero_id": 108,
-        "delta": 0.0947,
+        "delta": 0.0941,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Underlord's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Underlord"
       },
       {
         "hero_id": 46,
-        "delta": 0.0895,
+        "delta": 0.0857,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 3,
-        "delta": 0.0835,
+        "delta": 0.083,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Bane is slow and can be kited.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 51,
-        "delta": 0.0678,
+        "delta": 0.0673,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Clockwerk is slow and can be kited.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Clockwerk เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 129,
-        "delta": 0.0661,
+        "delta": 0.0656,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Mars down before it can take over.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Mars ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -39327,173 +39327,173 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.1363,
+        "delta": -0.1352,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
-        "hero_id": 78,
-        "delta": -0.1107,
-        "reason": "Brewmaster splits into elemental spirits that cyclone and stun during Primal Split, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Brewmaster แยกเป็นวิญญาณธาตุที่ไซโคลนและสตันระหว่าง Primal Split และการล็อกตัดทางหนีของ Dark Willow"
-      },
-      {
         "hero_id": 131,
-        "delta": -0.1021,
+        "delta": -0.1009,
         "reason": "Ringmaster tangles the enemy with Tame the Beasts and Escape Act tricks, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Ringmaster พันศัตรูด้วย Tame the Beasts และลูกเล่น Escape Act และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
-        "hero_id": 38,
-        "delta": -0.0798,
-        "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และการล็อกตัดทางหนีของ Dark Willow"
+        "hero_id": 78,
+        "delta": -0.0982,
+        "reason": "Brewmaster splits into elemental spirits that cyclone and stun during Primal Split, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Brewmaster แยกเป็นวิญญาณธาตุที่ไซโคลนและสตันระหว่าง Primal Split และการล็อกตัดทางหนีของ Dark Willow"
+      },
+      {
+        "hero_id": 95,
+        "delta": -0.0854,
+        "reason": "Troll Warlord out-DPSes other carries and self-disables with Battle Trance, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Troll Warlord DPS เหนือกว่าแครรี่ตัวอื่นและปลดการคุมตัวเองด้วย Battle Trance และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 12,
-        "delta": -0.0781,
+        "delta": -0.0843,
         "reason": "Phantom Lancer drowns the enemy in an endless army of illusions — Dark Willow is squishy and gets blown up quickly.",
         "reason_th": "Phantom Lancer จมศัตรูด้วยกองทัพอิลลูชันไม่รู้จบ — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 109,
+        "delta": -0.0793,
+        "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks — Dark Willow is squishy and gets blown up quickly.",
+        "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 38,
+        "delta": -0.0786,
+        "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และการล็อกตัดทางหนีของ Dark Willow"
+      },
+      {
         "hero_id": 88,
-        "delta": -0.0778,
+        "delta": -0.0766,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 59,
-        "delta": -0.0743,
+        "delta": -0.0732,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
-        "hero_id": 105,
-        "delta": -0.0743,
-        "reason": "Techies litters the map with mines and bursts targets with Blast Off, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Techies โปรยทุ่นระเบิดทั่วแมพและเบิร์สต์เป้าด้วย Blast Off และการล็อกตัดทางหนีของ Dark Willow"
-      },
-      {
-        "hero_id": 95,
-        "delta": -0.0743,
-        "reason": "Troll Warlord out-DPSes other carries and self-disables with Battle Trance, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Troll Warlord DPS เหนือกว่าแครรี่ตัวอื่นและปลดการคุมตัวเองด้วย Battle Trance และการล็อกตัดทางหนีของ Dark Willow"
-      },
-      {
         "hero_id": 45,
-        "delta": -0.0723,
+        "delta": -0.0711,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain — Dark Willow is squishy and gets blown up quickly.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 109,
-        "delta": -0.0713,
-        "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks — Dark Willow is squishy and gets blown up quickly.",
-        "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 60,
+        "delta": -0.0669,
+        "reason": "Night Stalker owns the night with silence and flight, hunting single targets, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 73,
-        "delta": -0.0681,
+        "delta": -0.0669,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 53,
-        "delta": -0.0671,
+        "delta": -0.066,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Dark Willow is squishy and gets blown up quickly.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 60,
-        "delta": -0.0616,
-        "reason": "Night Stalker owns the night with silence and flight, hunting single targets, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Dark Willow"
+        "hero_id": 13,
+        "delta": -0.0614,
+        "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil และการล็อกตัดทางหนีของ Dark Willow"
       }
     ],
     "counters": [
       {
         "hero_id": 81,
-        "delta": 0.2014,
+        "delta": 0.1935,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, shutting Chaos Knight down before it can take over.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และกด Chaos Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 9,
-        "delta": 0.1819,
+        "delta": 0.1831,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Mirana's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Mirana"
       },
       {
         "hero_id": 30,
-        "delta": 0.1553,
+        "delta": 0.1564,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 63,
-        "delta": 0.1071,
+        "delta": 0.1101,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Weaver's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 17,
-        "delta": 0.0868,
+        "delta": 0.088,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Storm Spirit's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Storm Spirit"
       },
       {
         "hero_id": 48,
-        "delta": 0.0843,
+        "delta": 0.0824,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down — Luna is short-ranged for a carry and dies to lockdown.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ — Luna ระยะสั้นสำหรับแครรี่และตายให้กับการคุม"
       },
       {
         "hero_id": 69,
-        "delta": 0.0812,
+        "delta": 0.0824,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, shutting Doom down before it can take over.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และกด Doom ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 43,
-        "delta": 0.0741,
+        "delta": 0.0752,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down — Death Prophet is immobile during Exorcism and vulnerable to burst.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ — Death Prophet เคลื่อนที่ช้าระหว่าง Exorcism และเสี่ยงต่อเบิร์สต์"
       },
       {
         "hero_id": 41,
-        "delta": 0.0729,
+        "delta": 0.074,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Faceless Void's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Faceless Void"
       },
       {
         "hero_id": 85,
-        "delta": 0.0664,
+        "delta": 0.0675,
         "reason": "Dark Willow keeps the distance while Undying is slow and can be kited.",
         "reason_th": "Dark Willow เล่นรักษาระยะ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 46,
-        "delta": 0.0654,
+        "delta": 0.064,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 44,
-        "delta": 0.059,
+        "delta": 0.0601,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
-        "hero_id": 97,
-        "delta": 0.0581,
-        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Magnus's escape.",
-        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Magnus"
-      },
-      {
         "hero_id": 66,
-        "delta": 0.0576,
+        "delta": 0.0587,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down — Chen is helpless if his creeps die and he is caught out.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ — Chen ทำอะไรไม่ได้ถ้าครีปตายและตัวเองโดนจับ"
+      },
+      {
+        "hero_id": 19,
+        "delta": 0.0562,
+        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, shutting Tiny down before it can take over.",
+        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และกด Tiny ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
     ],
     "synergies": [
@@ -39682,171 +39682,171 @@
     "countered_by": [
       {
         "hero_id": 80,
-        "delta": -0.1836,
+        "delta": -0.1837,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, soaking Pangolier's physical damage and winning the long fight.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม รับดาเมจกายภาพของ Pangolier ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 89,
-        "delta": -0.148,
+        "delta": -0.1482,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 155,
-        "delta": -0.1416,
+        "delta": -0.1418,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 83,
-        "delta": -0.1059,
+        "delta": -0.106,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 53,
-        "delta": -0.1017,
+        "delta": -0.0997,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, while Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
-        "hero_id": 62,
-        "delta": -0.1013,
-        "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss, while Pangolier is vulnerable once its escape and cooldowns are down.",
-        "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
-      },
-      {
         "hero_id": 104,
-        "delta": -0.0995,
+        "delta": -0.0997,
         "reason": "Legion Commander forces an inescapable 1v1 with Duel and snowballs the damage, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Legion Commander บังคับ 1v1 ที่หนีไม่ได้ด้วย Duel และสะสมดาเมจให้พุ่ง และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 8,
-        "delta": -0.0966,
+        "delta": -0.0967,
         "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, while Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
+        "hero_id": 62,
+        "delta": -0.0939,
+        "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss, while Pangolier is vulnerable once its escape and cooldowns are down.",
+        "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
+      },
+      {
         "hero_id": 59,
-        "delta": -0.0741,
+        "delta": -0.0743,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 45,
-        "delta": -0.0727,
+        "delta": -0.0728,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, while Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
         "hero_id": 23,
-        "delta": -0.071,
+        "delta": -0.0711,
         "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 51,
-        "delta": -0.0623,
+        "delta": -0.0614,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault และการล็อกตัดทางหนีของ Pangolier"
       },
       {
-        "hero_id": 3,
-        "delta": -0.0598,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Pangolier's escape.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Pangolier"
+        "hero_id": 114,
+        "delta": -0.061,
+        "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Pangolier's escape.",
+        "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Pangolier"
       },
       {
-        "hero_id": 121,
-        "delta": -0.0594,
-        "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, and the lockdown cancels Pangolier's escape.",
-        "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell และการล็อกตัดทางหนีของ Pangolier"
+        "hero_id": 3,
+        "delta": -0.06,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Pangolier's escape.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Pangolier"
       }
     ],
     "counters": [
       {
         "hero_id": 25,
-        "delta": 0.1518,
+        "delta": 0.1517,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, shutting Lina down before it can take over.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และกด Lina ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 56,
-        "delta": 0.1188,
+        "delta": 0.1186,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and the lockdown cancels Clinkz's escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และการล็อกตัดทางหนีของ Clinkz"
       },
       {
         "hero_id": 81,
-        "delta": 0.1087,
+        "delta": 0.1086,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, out-trading Chaos Knight in melee range.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และเทรดดาเมจชนะ Chaos Knight ในระยะประชิด"
       },
       {
         "hero_id": 43,
-        "delta": 0.1067,
+        "delta": 0.1066,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, soaking Death Prophet's physical damage and winning the long fight.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle รับดาเมจกายภาพของ Death Prophet ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 91,
-        "delta": 0.0931,
+        "delta": 0.0929,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and the lockdown cancels Io's escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และการล็อกตัดทางหนีของ Io"
       },
       {
-        "hero_id": 18,
-        "delta": 0.091,
-        "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, out-trading Sven in melee range.",
-        "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และเทรดดาเมจชนะ Sven ในระยะประชิด"
-      },
-      {
         "hero_id": 38,
-        "delta": 0.0872,
+        "delta": 0.087,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, while Beastmaster is slow and can be kited.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ขณะที่ Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
+        "hero_id": 18,
+        "delta": 0.0868,
+        "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, out-trading Sven in melee range.",
+        "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และเทรดดาเมจชนะ Sven ในระยะประชิด"
+      },
+      {
         "hero_id": 26,
-        "delta": 0.0828,
+        "delta": 0.0826,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and Lion is extremely squishy with no escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ส่วน Lion ตัวบางมากและไม่มีสกิลหนี"
       },
       {
         "hero_id": 75,
-        "delta": 0.0803,
+        "delta": 0.0802,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, shutting Silencer down before it can take over.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 64,
-        "delta": 0.0782,
+        "delta": 0.0781,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and Jakiro is squishy and gets blown up quickly.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ส่วน Jakiro ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 88,
-        "delta": 0.0758,
+        "delta": 0.0756,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and the lockdown cancels Nyx Assassin's escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และการล็อกตัดทางหนีของ Nyx Assassin"
       },
       {
         "hero_id": 9,
-        "delta": 0.0729,
+        "delta": 0.0728,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and the lockdown cancels Mirana's escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และการล็อกตัดทางหนีของ Mirana"
       },
       {
         "hero_id": 33,
-        "delta": 0.0729,
+        "delta": 0.0728,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ส่วน Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 39,
-        "delta": 0.0719,
+        "delta": 0.0721,
         "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and the lockdown cancels Queen of Pain's escape.",
         "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle และการล็อกตัดทางหนีของ Queen of Pain"
       }
@@ -44286,7 +44286,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-07-08T17:12:48.155Z",
+    "last_updated": "2026-07-08T21:51:50.249Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
