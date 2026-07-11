@@ -17559,171 +17559,171 @@
     "countered_by": [
       {
         "hero_id": 121,
-        "delta": -0.168,
+        "delta": -0.1695,
         "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell — Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 83,
-        "delta": -0.1312,
+        "delta": -0.1243,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, shutting Leshrac down before it can take over.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 59,
-        "delta": -0.1278,
+        "delta": -0.1203,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, shutting Leshrac down before it can take over.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 135,
-        "delta": -0.102,
+        "delta": -0.1015,
         "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, while Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 97,
-        "delta": -0.0975,
-        "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe — Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 3,
-        "delta": -0.0963,
+        "delta": -0.0977,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Leshrac down before it can take over.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 102,
-        "delta": -0.0822,
-        "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 66,
-        "delta": -0.0794,
-        "reason": "Chen swings fights with utility and disables, while Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 97,
+        "delta": -0.0931,
+        "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe — Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 89,
-        "delta": -0.0767,
+        "delta": -0.0808,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, shutting Leshrac down before it can take over.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
+        "hero_id": 66,
+        "delta": -0.0808,
+        "reason": "Chen swings fights with utility and disables, while Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 102,
+        "delta": -0.0766,
+        "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 111,
-        "delta": -0.073,
+        "delta": -0.0744,
         "reason": "Oracle bursts targets down with magical nukes — Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Oracle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 50,
+        "delta": -0.0728,
+        "reason": "Dazzle bursts targets down with magical nukes — Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 62,
-        "delta": -0.0697,
+        "delta": -0.0712,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 23,
+        "delta": -0.0646,
+        "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, shutting Leshrac down before it can take over.",
+        "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
         "hero_id": 65,
-        "delta": -0.0656,
+        "delta": -0.0604,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, shutting Leshrac down before it can take over.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
-        "hero_id": 22,
-        "delta": -0.0642,
-        "reason": "Zeus chunks the whole enemy team with no-counterplay magical nukes — Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Zeus กดเลือดทั้งทีมศัตรูด้วยสกิลเวทย์ที่แทบไม่มีทางเลี่ยง — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 50,
-        "delta": -0.0635,
-        "reason": "Dazzle bursts targets down with magical nukes — Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       }
     ],
     "counters": [
       {
         "hero_id": 76,
-        "delta": 0.2156,
+        "delta": 0.2141,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Outworld Destroyer is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Outworld Destroyer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 25,
+        "delta": 0.1272,
+        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Lina is fragile and dies quickly to early lockdown.",
+        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
+      },
+      {
         "hero_id": 68,
-        "delta": 0.1241,
+        "delta": 0.1227,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 75,
-        "delta": 0.1213,
+        "delta": 0.1199,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 25,
-        "delta": 0.1196,
-        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Lina is fragile and dies quickly to early lockdown.",
-        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
-      },
-      {
         "hero_id": 138,
-        "delta": 0.1065,
+        "delta": 0.1051,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Muerta is immobile and dies to gap-closers and lockdown.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Muerta เคลื่อนที่ช้าและตายให้กับการเข้าระยะและการคุม"
       },
       {
-        "hero_id": 93,
-        "delta": 0.1012,
-        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Slark's escape.",
-        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Slark"
-      },
-      {
         "hero_id": 34,
-        "delta": 0.0995,
+        "delta": 0.098,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Tinker is extremely squishy and dies to any gap-closer.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Tinker ตัวบางมากและตายให้กับการเข้าระยะ"
       },
       {
+        "hero_id": 93,
+        "delta": 0.0938,
+        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Slark's escape.",
+        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Slark"
+      },
+      {
         "hero_id": 77,
-        "delta": 0.093,
+        "delta": 0.0915,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Lycan's escape.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 31,
-        "delta": 0.0712,
+        "delta": 0.0698,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Lich is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 2,
-        "delta": 0.0665,
+        "delta": 0.065,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, shutting Axe down before it can take over.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และกด Axe ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 44,
-        "delta": 0.0616,
-        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Phantom Assassin's escape.",
-        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Phantom Assassin"
-      },
-      {
         "hero_id": 27,
-        "delta": 0.0573,
+        "delta": 0.0622,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Shadow Shaman is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Shadow Shaman ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 44,
+        "delta": 0.0601,
+        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Phantom Assassin's escape.",
+        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Phantom Assassin"
+      },
+      {
         "hero_id": 30,
-        "delta": 0.0573,
+        "delta": 0.0558,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 86,
-        "delta": 0.0549,
+        "delta": 0.0542,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Rubick is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Rubick ตัวบางและถูกเก็บได้ไวมาก"
       }
@@ -44280,7 +44280,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-07-11T15:32:56.688Z",
+    "last_updated": "2026-07-11T20:32:20.247Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
