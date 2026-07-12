@@ -722,85 +722,85 @@
     "countered_by": [
       {
         "hero_id": 41,
-        "delta": -0.2022,
+        "delta": -0.2025,
         "reason": "Faceless Void freezes a fight inside Chronosphere and dodges damage with Time Walk, while Bane is slow and can be kited.",
         "reason_th": "Faceless Void หยุดเวลาการต่อสู้ด้วย Chronosphere และหลบดาเมจด้วย Time Walk ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 114,
-        "delta": -0.1885,
+        "delta": -0.1888,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Bane is slow and can be kited.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 101,
-        "delta": -0.107,
+        "delta": -0.1074,
         "reason": "Skywrath Mage deletes squishy heroes with stacked magical burst and a silence, while Bane is slow and can be kited.",
         "reason_th": "Skywrath Mage ลบฮีโร่ตัวบางด้วยเบิร์สต์เวทย์ที่ซ้อนกันและไซเลนซ์ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
+        "hero_id": 38,
+        "delta": -0.1064,
+        "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, while Bane is slow and can be kited.",
+        "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
         "hero_id": 137,
-        "delta": -0.1032,
+        "delta": -0.1035,
         "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, while Bane is slow and can be kited.",
         "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 50,
-        "delta": -0.1032,
+        "delta": -0.1035,
         "reason": "Dazzle bursts targets down with magical nukes, while Bane is slow and can be kited.",
         "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 129,
-        "delta": -0.1006,
+        "delta": -0.1009,
         "reason": "Mars spears enemies into Arena of Blood and blocks ranged attacks, while Bane is slow and can be kited.",
         "reason_th": "Mars พุ่งหอกดันศัตรูเข้า Arena of Blood และบล็อกการโจมตีระยะไกล ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 38,
-        "delta": -0.1003,
-        "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, while Bane is slow and can be kited.",
-        "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 88,
-        "delta": -0.0926,
+        "delta": -0.0929,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, while Bane is slow and can be kited.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 84,
-        "delta": -0.0871,
+        "delta": -0.0875,
         "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, while Bane is slow and can be kited.",
         "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 93,
-        "delta": -0.084,
+        "delta": -0.0844,
         "reason": "Slark steals stats with Essence Shift and escapes in the dark with Shadow Dance, while Bane is slow and can be kited.",
         "reason_th": "Slark ขโมยสเตตัสด้วย Essence Shift และหนีในความมืดด้วย Shadow Dance ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 119,
-        "delta": -0.0827,
-        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, while Bane is slow and can be kited.",
-        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 138,
-        "delta": -0.0762,
+        "delta": -0.0766,
         "reason": "Muerta kills from range and ignores physical attacks during Pierce the Veil, while Bane is slow and can be kited.",
         "reason_th": "Muerta เก็บคิลจากระยะไกลและกันการโจมตีกายภาพระหว่าง Pierce the Veil ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
+        "hero_id": 11,
+        "delta": -0.0738,
+        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls, while Bane is slow and can be kited.",
+        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
         "hero_id": 54,
-        "delta": -0.0712,
+        "delta": -0.0716,
         "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, while Bane is slow and can be kited.",
         "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 89,
-        "delta": -0.0712,
+        "delta": -0.0716,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, while Bane is slow and can be kited.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       }
@@ -808,85 +808,85 @@
     "counters": [
       {
         "hero_id": 12,
-        "delta": 0.2261,
+        "delta": 0.2257,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 2,
-        "delta": 0.1268,
+        "delta": 0.1265,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Axe down before it can take over.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Axe ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 15,
-        "delta": 0.1197,
+        "delta": 0.1194,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, soaking Razor's physical damage and winning the long fight.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip รับดาเมจกายภาพของ Razor ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 40,
-        "delta": 0.109,
+        "delta": 0.1086,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, while Venomancer is squishy and gets blown up quickly.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ขณะที่ Venomancer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 18,
-        "delta": 0.0945,
+        "delta": 0.0941,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Sven down before it can take over.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Sven ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 46,
-        "delta": 0.0929,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Templar Assassin's escape.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Templar Assassin"
-      },
-      {
         "hero_id": 105,
-        "delta": 0.0893,
+        "delta": 0.089,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, while Techies is squishy and gets blown up quickly.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ขณะที่ Techies ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 46,
+        "delta": 0.0883,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Templar Assassin's escape.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Templar Assassin"
+      },
+      {
         "hero_id": 95,
-        "delta": 0.0756,
+        "delta": 0.0753,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, soaking Troll Warlord's physical damage and winning the long fight.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip รับดาเมจกายภาพของ Troll Warlord ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 99,
-        "delta": 0.0749,
+        "delta": 0.0746,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Bristleback down before it can take over.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 7,
-        "delta": 0.0724,
+        "delta": 0.0721,
         "reason": "Bane keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Bane เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 126,
-        "delta": 0.0712,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Void Spirit's escape.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Void Spirit"
-      },
-      {
         "hero_id": 19,
-        "delta": 0.0697,
+        "delta": 0.0694,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Tiny down before it can take over.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Tiny ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 106,
-        "delta": 0.0673,
+        "delta": 0.0669,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
+        "hero_id": 126,
+        "delta": 0.0669,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Void Spirit's escape.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Void Spirit"
+      },
+      {
         "hero_id": 21,
-        "delta": 0.0577,
+        "delta": 0.0573,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Windranger's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Windranger"
       }
@@ -1325,85 +1325,85 @@
     "countered_by": [
       {
         "hero_id": 88,
-        "delta": -0.2196,
+        "delta": -0.2198,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 66,
-        "delta": -0.2023,
+        "delta": -0.2025,
         "reason": "Chen swings fights with utility and disables, while Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 15,
-        "delta": -0.1879,
+        "delta": -0.188,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 41,
-        "delta": -0.1553,
+        "delta": -0.1555,
         "reason": "Faceless Void freezes a fight inside Chronosphere and dodges damage with Time Walk, and Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Faceless Void หยุดเวลาการต่อสู้ด้วย Chronosphere และหลบดาเมจด้วย Time Walk ส่วน Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 77,
-        "delta": -0.154,
+        "delta": -0.1542,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 65,
-        "delta": -0.1417,
+        "delta": -0.1419,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, and Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม ส่วน Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 9,
-        "delta": -0.1402,
+        "delta": -0.1404,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 155,
-        "delta": -0.0951,
+        "delta": -0.0953,
         "reason": "Largo controls space and tanks the frontline with heavy disables, while Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ ขณะที่ Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 23,
-        "delta": -0.0828,
+        "delta": -0.083,
         "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, while Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล ขณะที่ Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 13,
-        "delta": -0.0796,
+        "delta": -0.0798,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 105,
-        "delta": -0.0767,
+        "delta": -0.0769,
         "reason": "Techies litters the map with mines and bursts targets with Blast Off — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Techies โปรยทุ่นระเบิดทั่วแมพและเบิร์สต์เป้าด้วย Blast Off — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 145,
-        "delta": -0.0767,
+        "delta": -0.0769,
         "reason": "Kez switches stances to dash, parry, and burst single targets, and Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว ส่วน Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 90,
-        "delta": -0.0767,
+        "delta": -0.0769,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 40,
-        "delta": -0.072,
+        "delta": -0.0722,
         "reason": "Venomancer blankets fights in Poison Nova and Plague Wards — Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Venomancer ปกคลุมการต่อสู้ด้วย Poison Nova และ Plague Ward — Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       }
@@ -1411,85 +1411,85 @@
     "counters": [
       {
         "hero_id": 6,
-        "delta": 0.1551,
+        "delta": 0.1549,
         "reason": "Crystal Maiden bursts targets down with magical nukes — Drow Ranger is helpless when gap-closed and her aura drops near enemies.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Drow Ranger ทำอะไรไม่ได้เมื่อโดนเข้าระยะ และออร่าหายเมื่ออยู่ใกล้ศัตรู"
       },
       {
         "hero_id": 111,
-        "delta": 0.1263,
+        "delta": 0.1261,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Oracle's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Oracle"
       },
       {
         "hero_id": 76,
-        "delta": 0.0999,
+        "delta": 0.0998,
         "reason": "Crystal Maiden bursts targets down with magical nukes — Outworld Destroyer is squishy and gets blown up quickly.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Outworld Destroyer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 12,
-        "delta": 0.0947,
+        "delta": 0.0945,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 60,
-        "delta": 0.0904,
+        "delta": 0.0902,
         "reason": "Crystal Maiden bursts targets down with magical nukes, shutting Night Stalker down before it can take over.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 35,
-        "delta": 0.0898,
+        "delta": 0.0896,
         "reason": "Crystal Maiden bursts targets down with magical nukes — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 83,
-        "delta": 0.0893,
+        "delta": 0.0891,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Treant Protector's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Treant Protector"
       },
       {
         "hero_id": 1,
-        "delta": 0.0865,
+        "delta": 0.0863,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Anti-Mage's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Anti-Mage"
       },
       {
         "hero_id": 45,
-        "delta": 0.082,
+        "delta": 0.0818,
         "reason": "Crystal Maiden bursts targets down with magical nukes — Pugna is squishy and dies to lockdown before he drains a target.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Pugna ตัวบางและตายให้กับการคุมก่อนที่จะดูดเป้าหมาย"
       },
       {
         "hero_id": 81,
-        "delta": 0.0765,
+        "delta": 0.0763,
         "reason": "Crystal Maiden bursts targets down with magical nukes, shutting Chaos Knight down before it can take over.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Chaos Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 16,
-        "delta": 0.0753,
+        "delta": 0.0751,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and the lockdown cancels Sand King's escape.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Sand King"
       },
       {
         "hero_id": 57,
-        "delta": 0.0736,
+        "delta": 0.0734,
         "reason": "Crystal Maiden keeps the distance while Omniknight is slow and can be kited.",
         "reason_th": "Crystal Maiden เล่นรักษาระยะ ขณะที่ Omniknight เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 104,
-        "delta": 0.0713,
+        "delta": 0.0711,
         "reason": "Crystal Maiden bursts targets down with magical nukes, shutting Legion Commander down before it can take over.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Legion Commander ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 48,
-        "delta": 0.0673,
+        "delta": 0.0671,
         "reason": "Crystal Maiden bursts targets down with magical nukes — Luna is short-ranged for a carry and dies to lockdown.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Luna ระยะสั้นสำหรับแครรี่และตายให้กับการคุม"
       }
@@ -2042,85 +2042,85 @@
     "countered_by": [
       {
         "hero_id": 114,
-        "delta": -0.1749,
+        "delta": -0.1752,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, while Earthshaker is fragile under focus.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 59,
-        "delta": -0.1589,
+        "delta": -0.1591,
         "reason": "Huskar keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Huskar เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 3,
-        "delta": -0.129,
+        "delta": -0.1292,
         "reason": "Bane keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Bane เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 61,
-        "delta": -0.1118,
+        "delta": -0.112,
         "reason": "Broodmother overwhelms a lane with spiderlings and webs, while Earthshaker is fragile under focus.",
         "reason_th": "Broodmother ถล่มเลนด้วยสไปเดอร์ลิงและใยแมงมุม ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 81,
-        "delta": -0.1067,
+        "delta": -0.1069,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, while Earthshaker is fragile under focus.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 62,
-        "delta": -0.0989,
+        "delta": -0.0991,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss, while Earthshaker is fragile under focus.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 126,
-        "delta": -0.0941,
+        "delta": -0.0943,
         "reason": "Void Spirit blinks through the fight with Dissimilate and bursts with Resonant Pulse, while Earthshaker is fragile under focus.",
         "reason_th": "Void Spirit blink ทะลุการต่อสู้ด้วย Dissimilate และเบิร์สต์ด้วย Resonant Pulse ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 36,
-        "delta": -0.0926,
+        "delta": -0.0928,
         "reason": "Necrophos keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Necrophos เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 71,
-        "delta": -0.0889,
+        "delta": -0.0891,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, while Earthshaker is fragile under focus.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 58,
-        "delta": -0.0851,
+        "delta": -0.0853,
         "reason": "Enchantress keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Enchantress เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 135,
-        "delta": -0.0785,
+        "delta": -0.0787,
         "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, while Earthshaker is fragile under focus.",
         "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 43,
-        "delta": -0.0778,
+        "delta": -0.078,
         "reason": "Death Prophet keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Death Prophet เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 93,
-        "delta": -0.0746,
+        "delta": -0.0749,
         "reason": "Slark steals stats with Essence Shift and escapes in the dark with Shadow Dance, while Earthshaker is fragile under focus.",
         "reason_th": "Slark ขโมยสเตตัสด้วย Essence Shift และหนีในความมืดด้วย Shadow Dance ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 40,
-        "delta": -0.0733,
+        "delta": -0.0736,
         "reason": "Venomancer keeps the distance while Earthshaker is fragile under focus.",
         "reason_th": "Venomancer เล่นรักษาระยะ ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       }
@@ -2128,85 +2128,85 @@
     "counters": [
       {
         "hero_id": 42,
-        "delta": 0.1678,
+        "delta": 0.1676,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, shutting Wraith King down before it can take over.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และกด Wraith King ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 137,
-        "delta": 0.1615,
+        "delta": 0.1613,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, while Primal Beast is slow and can be kited.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 18,
-        "delta": 0.1515,
+        "delta": 0.1513,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, shutting Sven down before it can take over.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และกด Sven ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 34,
-        "delta": 0.1456,
+        "delta": 0.1453,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Tinker is extremely squishy and dies to any gap-closer.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Tinker ตัวบางมากและตายให้กับการเข้าระยะ"
       },
       {
         "hero_id": 90,
-        "delta": 0.1261,
+        "delta": 0.1259,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Keeper of the Light is squishy and gets blown up quickly.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Keeper of the Light ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 107,
-        "delta": 0.1261,
+        "delta": 0.1259,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, and the lockdown cancels Earth Spirit's escape.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และการล็อกตัดทางหนีของ Earth Spirit"
       },
       {
         "hero_id": 33,
-        "delta": 0.1011,
+        "delta": 0.1009,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 85,
-        "delta": 0.092,
+        "delta": 0.0918,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, while Undying is slow and can be kited.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 145,
-        "delta": 0.0881,
+        "delta": 0.0879,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, and the lockdown cancels Kez's escape.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และการล็อกตัดทางหนีของ Kez"
       },
       {
         "hero_id": 35,
-        "delta": 0.0868,
+        "delta": 0.0866,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 2,
-        "delta": 0.0791,
+        "delta": 0.0815,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, shutting Axe down before it can take over.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และกด Axe ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 94,
-        "delta": 0.067,
+        "delta": 0.0668,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, shutting Medusa down before it can take over.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และกด Medusa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 30,
-        "delta": 0.0663,
+        "delta": 0.0661,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 138,
-        "delta": 0.0652,
+        "delta": 0.065,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Muerta is immobile and dies to gap-closers and lockdown.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Muerta เคลื่อนที่ช้าและตายให้กับการเข้าระยะและการคุม"
       }
@@ -44280,7 +44280,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-07-12T15:39:29.102Z",
+    "last_updated": "2026-07-12T20:27:55.466Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
