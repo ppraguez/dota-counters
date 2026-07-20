@@ -25238,85 +25238,85 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.2531,
+        "delta": -0.2529,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Invoker's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 62,
-        "delta": -0.1522,
+        "delta": -0.1521,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 33,
-        "delta": -0.1314,
+        "delta": -0.1313,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Invoker's escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 66,
-        "delta": -0.1286,
+        "delta": -0.1285,
         "reason": "Chen swings fights with utility and disables, while Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 34,
-        "delta": -0.1166,
+        "delta": -0.1164,
         "reason": "Tinker rearms to spam Laser and missiles, deleting heroes from afar — Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Tinker Rearm เพื่อสแปม Laser และมิสไซล์ ลบฮีโร่จากระยะไกล — Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 89,
-        "delta": -0.1143,
+        "delta": -0.1141,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and the lockdown cancels Invoker's escape.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 80,
-        "delta": -0.1125,
+        "delta": -0.1123,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, while Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม ขณะที่ Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 88,
-        "delta": -0.1099,
+        "delta": -0.1097,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, and the lockdown cancels Invoker's escape.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 111,
-        "delta": -0.1064,
+        "delta": -0.1063,
         "reason": "Oracle bursts targets down with magical nukes, and the lockdown cancels Invoker's escape.",
         "reason_th": "Oracle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 114,
-        "delta": -0.0897,
+        "delta": -0.0896,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Invoker's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Invoker"
       },
       {
         "hero_id": 77,
-        "delta": -0.0802,
+        "delta": -0.08,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
-        "hero_id": 3,
-        "delta": -0.074,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Invoker's escape.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Invoker"
-      },
-      {
         "hero_id": 46,
-        "delta": -0.0726,
+        "delta": -0.0754,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
+        "hero_id": 3,
+        "delta": -0.0738,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Invoker's escape.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Invoker"
+      },
+      {
         "hero_id": 13,
-        "delta": -0.0703,
+        "delta": -0.0702,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil, and the lockdown cancels Invoker's escape.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil และการล็อกตัดทางหนีของ Invoker"
       }
@@ -25324,85 +25324,85 @@
     "counters": [
       {
         "hero_id": 55,
-        "delta": 0.1981,
+        "delta": 0.1983,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Dark Seer's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Dark Seer"
       },
       {
         "hero_id": 25,
-        "delta": 0.1306,
+        "delta": 0.1308,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Lina is fragile and dies quickly to early lockdown.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 95,
-        "delta": 0.1152,
+        "delta": 0.1154,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Troll Warlord down before it can take over.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Troll Warlord ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 63,
-        "delta": 0.1118,
+        "delta": 0.1084,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Weaver's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 81,
-        "delta": 0.103,
+        "delta": 0.1031,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Chaos Knight down before it can take over.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Chaos Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 97,
-        "delta": 0.0866,
+        "delta": 0.0868,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Magnus's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Magnus"
       },
       {
         "hero_id": 68,
-        "delta": 0.0833,
+        "delta": 0.0835,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 76,
-        "delta": 0.0818,
+        "delta": 0.082,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Outworld Destroyer is squishy and gets blown up quickly.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Outworld Destroyer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 40,
-        "delta": 0.0769,
+        "delta": 0.0771,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Venomancer is squishy and gets blown up quickly.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Venomancer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 31,
-        "delta": 0.0763,
+        "delta": 0.0765,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Lich is squishy and gets blown up quickly.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 75,
-        "delta": 0.0686,
+        "delta": 0.0687,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 131,
-        "delta": 0.066,
+        "delta": 0.0662,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Ringmaster's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Ringmaster"
       },
       {
         "hero_id": 78,
-        "delta": 0.065,
+        "delta": 0.0652,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Brewmaster down before it can take over.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Brewmaster ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 36,
-        "delta": 0.0635,
+        "delta": 0.0636,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Necrophos down before it can take over.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Necrophos ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -25592,85 +25592,85 @@
     "countered_by": [
       {
         "hero_id": 62,
-        "delta": -0.2258,
+        "delta": -0.2261,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 155,
-        "delta": -0.2029,
+        "delta": -0.2032,
         "reason": "Largo controls space and tanks the frontline with heavy disables, shutting Silencer down before it can take over.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 83,
-        "delta": -0.1682,
+        "delta": -0.1685,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, shutting Silencer down before it can take over.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 59,
-        "delta": -0.1545,
+        "delta": -0.1548,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, shutting Silencer down before it can take over.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 15,
-        "delta": -0.1289,
+        "delta": -0.1292,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Silencer is squishy and gets blown up quickly.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 66,
-        "delta": -0.1182,
+        "delta": -0.1185,
         "reason": "Chen swings fights with utility and disables, while Silencer is squishy and gets blown up quickly.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 61,
-        "delta": -0.1133,
+        "delta": -0.1137,
         "reason": "Broodmother overwhelms a lane with spiderlings and webs — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Broodmother ถล่มเลนด้วยสไปเดอร์ลิงและใยแมงมุม — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 52,
-        "delta": -0.1124,
+        "delta": -0.1127,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 90,
-        "delta": -0.095,
+        "delta": -0.0954,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 71,
-        "delta": -0.0886,
+        "delta": -0.0889,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, shutting Silencer down before it can take over.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 47,
-        "delta": -0.0825,
+        "delta": -0.0828,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Silencer down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 51,
-        "delta": -0.0806,
+        "delta": -0.0809,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, shutting Silencer down before it can take over.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 42,
-        "delta": -0.0711,
+        "delta": -0.0715,
         "reason": "Wraith King stuns with Wraithfire Blast and fights through death with Reincarnation, shutting Silencer down before it can take over.",
         "reason_th": "Wraith King สตันด้วย Wraithfire Blast และสู้ต่อข้ามความตายด้วย Reincarnation และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 96,
-        "delta": -0.0682,
+        "delta": -0.0685,
         "reason": "Centaur Warrunner blinks in with a huge Hoof Stomp and returns damage to attackers, shutting Silencer down before it can take over.",
         "reason_th": "Centaur Warrunner blink เข้ามาด้วย Hoof Stomp และสะท้อนดาเมจใส่ผู้โจมตี และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -25678,85 +25678,85 @@
     "counters": [
       {
         "hero_id": 63,
-        "delta": 0.154,
+        "delta": 0.1537,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Weaver's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 43,
-        "delta": 0.15,
+        "delta": 0.1497,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Death Prophet is immobile during Exorcism and vulnerable to burst.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Death Prophet เคลื่อนที่ช้าระหว่าง Exorcism และเสี่ยงต่อเบิร์สต์"
       },
       {
         "hero_id": 44,
-        "delta": 0.1318,
+        "delta": 0.1315,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
         "hero_id": 25,
-        "delta": 0.1235,
+        "delta": 0.1232,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Lina is fragile and dies quickly to early lockdown.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 56,
-        "delta": 0.1188,
+        "delta": 0.1184,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Clinkz's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Clinkz"
       },
       {
         "hero_id": 81,
-        "delta": 0.1076,
+        "delta": 0.1072,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, shutting Chaos Knight down before it can take over.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และกด Chaos Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 68,
-        "delta": 0.1068,
+        "delta": 0.1065,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 98,
-        "delta": 0.0982,
+        "delta": 0.0979,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 20,
-        "delta": 0.0959,
+        "delta": 0.0956,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Vengeful Spirit's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Vengeful Spirit"
       },
       {
         "hero_id": 12,
-        "delta": 0.085,
+        "delta": 0.0847,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 88,
-        "delta": 0.0652,
+        "delta": 0.0648,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Nyx Assassin's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Nyx Assassin"
       },
       {
         "hero_id": 70,
-        "delta": 0.0632,
+        "delta": 0.0629,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, shutting Ursa down before it can take over.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 121,
-        "delta": 0.0596,
+        "delta": 0.0593,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Grimstroke's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Grimstroke"
       },
       {
         "hero_id": 99,
-        "delta": 0.0581,
+        "delta": 0.0578,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, shutting Bristleback down before it can take over.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -44250,7 +44250,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-07-20T09:24:25.634Z",
+    "last_updated": "2026-07-20T14:18:01.378Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
