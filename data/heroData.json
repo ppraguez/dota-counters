@@ -24040,16 +24040,16 @@
         "reason_th": "บาชแข็งเพื่อล็อกเป้าหมาย"
       },
       {
-        "item": "Monkey King Bar",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/monkey_king_bar.png",
-        "reason": "True strike and bonus magic damage.",
-        "reason_th": "true strike และดาเมจเวทย์เสริม"
-      },
-      {
         "item": "Aghanim's Shard",
         "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aghanims_shard.png",
         "reason": "An ability upgrade for extra utility.",
         "reason_th": "อัปเกรดสกิลเพื่อยูทิลิตี้เสริม"
+      },
+      {
+        "item": "Monkey King Bar",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/monkey_king_bar.png",
+        "reason": "True strike and bonus magic damage.",
+        "reason_th": "true strike และดาเมจเวทย์เสริม"
       }
     ],
     "ability_counters": [
@@ -44101,7 +44101,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-08-29T16:30:47.196Z",
+    "last_updated": "2026-08-29T20:44:32.430Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
