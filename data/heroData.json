@@ -15380,173 +15380,173 @@
     "countered_by": [
       {
         "hero_id": 89,
-        "delta": -0.1511,
+        "delta": -0.1509,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 3,
-        "delta": -0.1454,
+        "delta": -0.1452,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 83,
-        "delta": -0.1359,
+        "delta": -0.1357,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 62,
-        "delta": -0.1344,
+        "delta": -0.1342,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Templar Assassin is shut down by detection and AoE that strips Refraction.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Templar Assassin ถูกกดด้วยการเปิดแมพและ AoE ที่ลอก Refraction"
       },
       {
         "hero_id": 99,
-        "delta": -0.133,
+        "delta": -0.1328,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 16,
-        "delta": -0.1182,
+        "delta": -0.118,
         "reason": "Sand King blinks in for an AoE Epicenter and Burrowstrike stun, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Sand King blink เข้ามาด้วย Epicenter AoE และสตันจาก Burrowstrike และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 121,
-        "delta": -0.116,
+        "delta": -0.1158,
         "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 12,
-        "delta": -0.1123,
+        "delta": -0.1121,
         "reason": "Phantom Lancer drowns the enemy in an endless army of illusions — Templar Assassin is shut down by detection and AoE that strips Refraction.",
         "reason_th": "Phantom Lancer จมศัตรูด้วยกองทัพอิลลูชันไม่รู้จบ — Templar Assassin ถูกกดด้วยการเปิดแมพและ AoE ที่ลอก Refraction"
       },
       {
         "hero_id": 114,
-        "delta": -0.1034,
+        "delta": -0.1032,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 17,
-        "delta": -0.0908,
+        "delta": -0.0906,
         "reason": "Storm Spirit zips around the map with Ball Lightning to pick off stragglers, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Storm Spirit ซิ่งทั่วแมพด้วย Ball Lightning เพื่อเก็บคนที่หลุดกลุ่ม และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 155,
-        "delta": -0.0868,
+        "delta": -0.0866,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 72,
-        "delta": -0.0832,
+        "delta": -0.083,
         "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 145,
-        "delta": -0.0825,
+        "delta": -0.0823,
         "reason": "Kez switches stances to dash, parry, and burst single targets, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
-        "hero_id": 42,
-        "delta": -0.0765,
-        "reason": "Wraith King stuns with Wraithfire Blast and fights through death with Reincarnation, and the lockdown cancels Templar Assassin's escape.",
-        "reason_th": "Wraith King สตันด้วย Wraithfire Blast และสู้ต่อข้ามความตายด้วย Reincarnation และการล็อกตัดทางหนีของ Templar Assassin"
+        "hero_id": 21,
+        "delta": -0.0722,
+        "reason": "Windranger locks a single target in Shackleshot and focuses it down, and the lockdown cancels Templar Assassin's escape.",
+        "reason_th": "Windranger ล็อกเป้าหมายเดี่ยวด้วย Shackleshot แล้วโฟกัสเก็บ และการล็อกตัดทางหนีของ Templar Assassin"
       }
     ],
     "counters": [
       {
-        "hero_id": 107,
-        "delta": 0.1243,
-        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Earth Spirit is vulnerable once its escape and cooldowns are down.",
-        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Earth Spirit เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
-      },
-      {
         "hero_id": 23,
-        "delta": 0.1183,
+        "delta": 0.1269,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Kunkka is melee with no escape and easy to kite.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Kunkka เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
+        "hero_id": 107,
+        "delta": 0.1245,
+        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Earth Spirit is vulnerable once its escape and cooldowns are down.",
+        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Earth Spirit เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
+      },
+      {
         "hero_id": 44,
-        "delta": 0.1113,
+        "delta": 0.1116,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Phantom Assassin is countered by armor, evasion break, and burst before items.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Phantom Assassin ถูกเคาน์เตอร์ด้วยเกราะ การล้าง evasion และเบิร์สต์ก่อนมีของ"
       },
       {
         "hero_id": 5,
-        "delta": 0.0846,
+        "delta": 0.0848,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Crystal Maiden is slow, squishy, and easily killed once caught.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Crystal Maiden เดินช้า ตัวบาง และตายง่ายเมื่อโดนจับได้"
       },
       {
         "hero_id": 95,
-        "delta": 0.0832,
+        "delta": 0.0834,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Troll Warlord is melee with no escape and dies to kiting and lockdown.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Troll Warlord เป็นสายประชิดที่ไม่มีสกิลหนีและตายให้กับการไคต์และการคุม"
       },
       {
         "hero_id": 55,
-        "delta": 0.0832,
+        "delta": 0.0834,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Dark Seer is fragile under focus.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Dark Seer ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 135,
-        "delta": 0.0829,
+        "delta": 0.0831,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Dawnbreaker is melee with no escape and easy to kite.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Dawnbreaker เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
         "hero_id": 56,
-        "delta": 0.0828,
+        "delta": 0.083,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Clinkz is extremely fragile and dies to detection and burst.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Clinkz ตัวบางมากและตายให้กับการเปิดแมพและเบิร์สต์"
       },
       {
         "hero_id": 63,
-        "delta": 0.073,
+        "delta": 0.0732,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Weaver dies to detection and AoE that catches him out of Shukuchi.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi"
       },
       {
         "hero_id": 18,
-        "delta": 0.0712,
+        "delta": 0.0714,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Sven is melee with no escape and easy to kite.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Sven เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
-        "hero_id": 98,
-        "delta": 0.0698,
-        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Timbersaw struggles against pure damage and break effects.",
-        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Timbersaw ลำบากเมื่อเจอ pure damage และเอฟเฟกต์ Break"
-      },
-      {
         "hero_id": 74,
-        "delta": 0.0698,
+        "delta": 0.07,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Invoker is slow to come online and vulnerable to early aggression.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Invoker ขึ้นช้าและเสี่ยงต่อการโดนกดดันตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 137,
-        "delta": 0.0697,
+        "delta": 0.0699,
         "reason": "Templar Assassin keeps the distance while Primal Beast is slow and can be kited.",
         "reason_th": "Templar Assassin เล่นรักษาระยะ ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 70,
-        "delta": 0.0673,
+        "delta": 0.0675,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Ursa is kited easily and has no answer to being disabled at range.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล"
+      },
+      {
+        "hero_id": 98,
+        "delta": 0.0673,
+        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Timbersaw struggles against pure damage and break effects.",
+        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Timbersaw ลำบากเมื่อเจอ pure damage และเอฟเฟกต์ Break"
       }
     ],
     "synergies": [
@@ -44101,7 +44101,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-01T11:24:40.229Z",
+    "last_updated": "2026-09-01T16:20:50.605Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
