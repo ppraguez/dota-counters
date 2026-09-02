@@ -9852,173 +9852,173 @@
     "countered_by": [
       {
         "hero_id": 6,
-        "delta": -0.2338,
+        "delta": -0.2283,
         "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, while Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล ขณะที่ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 60,
-        "delta": -0.1695,
+        "delta": -0.1619,
         "reason": "Night Stalker owns the night with silence and flight, hunting single targets, while Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว ขณะที่ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 35,
-        "delta": -0.1559,
-        "reason": "Sniper kills from extreme range before melee heroes can close in — Witch Doctor is squishy and easy to blow up once focused.",
-        "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
-      },
-      {
         "hero_id": 106,
-        "delta": -0.1505,
+        "delta": -0.1521,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
+        "hero_id": 35,
+        "delta": -0.1464,
+        "reason": "Sniper kills from extreme range before melee heroes can close in — Witch Doctor is squishy and easy to blow up once focused.",
+        "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
+      },
+      {
+        "hero_id": 54,
+        "delta": -0.1461,
+        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Witch Doctor is squishy and easy to blow up once focused.",
+        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
+      },
+      {
         "hero_id": 15,
-        "delta": -0.135,
+        "delta": -0.1366,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 36,
-        "delta": -0.132,
+        "delta": -0.1336,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 3,
-        "delta": -0.1171,
+        "delta": -0.1187,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, while Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ขณะที่ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 54,
-        "delta": -0.1109,
-        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Witch Doctor is squishy and easy to blow up once focused.",
-        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
-      },
-      {
         "hero_id": 126,
-        "delta": -0.1029,
+        "delta": -0.1045,
         "reason": "Void Spirit blinks through the fight with Dissimilate and bursts with Resonant Pulse — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Void Spirit blink ทะลุการต่อสู้ด้วย Dissimilate และเบิร์สต์ด้วย Resonant Pulse — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 9,
-        "delta": -0.0967,
+        "delta": -0.0983,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 128,
-        "delta": -0.0933,
+        "delta": -0.0949,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 98,
-        "delta": -0.0876,
+        "delta": -0.0892,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 8,
-        "delta": -0.0838,
-        "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, and Witch Doctor is squishy and easy to blow up once focused.",
-        "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
-      },
-      {
         "hero_id": 43,
-        "delta": -0.0838,
+        "delta": -0.0854,
         "reason": "Death Prophet pushes towers and melts targets with a swarm of Exorcism spirits — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Death Prophet ผลักป้อมและละลายเป้าหมายด้วยฝูงวิญญาณ Exorcism — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
+      },
+      {
+        "hero_id": 101,
+        "delta": -0.0803,
+        "reason": "Skywrath Mage deletes squishy heroes with stacked magical burst and a silence — Witch Doctor is squishy and easy to blow up once focused.",
+        "reason_th": "Skywrath Mage ลบฮีโร่ตัวบางด้วยเบิร์สต์เวทย์ที่ซ้อนกันและไซเลนซ์ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       }
     ],
     "counters": [
       {
         "hero_id": 109,
-        "delta": 0.1525,
+        "delta": 0.151,
         "reason": "Witch Doctor bursts targets down with magical nukes, shutting Terrorblade down before it can take over.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Terrorblade ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 120,
-        "delta": 0.1162,
+        "delta": 0.1146,
         "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 72,
-        "delta": 0.1031,
+        "delta": 0.1015,
         "reason": "Witch Doctor bursts targets down with magical nukes — Gyrocopter is squishy and gets blown up quickly.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Gyrocopter ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 31,
+        "delta": 0.1003,
+        "reason": "Witch Doctor bursts targets down with magical nukes — Lich is squishy and gets blown up quickly.",
+        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 20,
+        "delta": 0.0964,
+        "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Vengeful Spirit's escape.",
+        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Vengeful Spirit"
+      },
+      {
         "hero_id": 107,
-        "delta": 0.0968,
+        "delta": 0.0952,
         "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Earth Spirit's escape.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Earth Spirit"
       },
       {
         "hero_id": 99,
-        "delta": 0.0968,
+        "delta": 0.0952,
         "reason": "Witch Doctor bursts targets down with magical nukes, shutting Bristleback down before it can take over.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 29,
-        "delta": 0.0945,
+        "delta": 0.0929,
         "reason": "Witch Doctor bursts targets down with magical nukes, shutting Tidehunter down before it can take over.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Tidehunter ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 20,
-        "delta": 0.0876,
-        "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Vengeful Spirit's escape.",
-        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Vengeful Spirit"
-      },
-      {
-        "hero_id": 31,
-        "delta": 0.0856,
-        "reason": "Witch Doctor bursts targets down with magical nukes — Lich is squishy and gets blown up quickly.",
-        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 85,
-        "delta": 0.0854,
-        "reason": "Witch Doctor keeps the distance while Undying is slow and can be kited.",
-        "reason_th": "Witch Doctor เล่นรักษาระยะ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 108,
-        "delta": 0.0844,
+        "delta": 0.0828,
         "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Underlord's escape.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Underlord"
       },
       {
-        "hero_id": 137,
-        "delta": 0.0803,
-        "reason": "Witch Doctor keeps the distance while Primal Beast is slow and can be kited.",
-        "reason_th": "Witch Doctor เล่นรักษาระยะ ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 19,
-        "delta": 0.0772,
+        "delta": 0.0825,
         "reason": "Witch Doctor bursts targets down with magical nukes, shutting Tiny down before it can take over.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Tiny ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 70,
-        "delta": 0.0655,
-        "reason": "Witch Doctor bursts targets down with magical nukes, shutting Ursa down before it can take over.",
-        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+        "hero_id": 85,
+        "delta": 0.0791,
+        "reason": "Witch Doctor keeps the distance while Undying is slow and can be kited.",
+        "reason_th": "Witch Doctor เล่นรักษาระยะ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 11,
-        "delta": 0.0632,
-        "reason": "Witch Doctor bursts targets down with magical nukes — Shadow Fiend is fragile and easily disrupted out of his ultimate.",
-        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Shadow Fiend ตัวเปราะและถูกขัดจังหวะอัลติได้ง่าย"
+        "hero_id": 137,
+        "delta": 0.0787,
+        "reason": "Witch Doctor keeps the distance while Primal Beast is slow and can be kited.",
+        "reason_th": "Witch Doctor เล่นรักษาระยะ ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
+        "hero_id": 63,
+        "delta": 0.0771,
+        "reason": "Witch Doctor bursts targets down with magical nukes, and the lockdown cancels Weaver's escape.",
+        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Weaver"
+      },
+      {
+        "hero_id": 70,
+        "delta": 0.0717,
+        "reason": "Witch Doctor bursts targets down with magical nukes, shutting Ursa down before it can take over.",
+        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
     ],
     "synergies": [
@@ -10209,173 +10209,173 @@
     "countered_by": [
       {
         "hero_id": 88,
-        "delta": -0.1837,
+        "delta": -0.176,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters — Lich is squishy and gets blown up quickly.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 81,
-        "delta": -0.1576,
+        "delta": -0.156,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, while Lich is squishy and gets blown up quickly.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 83,
-        "delta": -0.137,
-        "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and Lich is squishy and gets blown up quickly.",
-        "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 58,
-        "delta": -0.1358,
+        "delta": -0.1343,
         "reason": "Enchantress kites with Impetus while tanking with healing and creeps, while Lich is squishy and gets blown up quickly.",
         "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 83,
+        "delta": -0.1308,
+        "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and Lich is squishy and gets blown up quickly.",
+        "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 145,
-        "delta": -0.1166,
+        "delta": -0.115,
         "reason": "Kez switches stances to dash, parry, and burst single targets, and Lich is squishy and gets blown up quickly.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 35,
-        "delta": -0.0983,
-        "reason": "Sniper kills from extreme range before melee heroes can close in — Lich is squishy and gets blown up quickly.",
-        "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 76,
-        "delta": -0.0948,
+        "delta": -0.1107,
         "reason": "Outworld Destroyer bursts with Arcane Orb and removes a target with Astral Imprisonment — Lich is squishy and gets blown up quickly.",
         "reason_th": "Outworld Destroyer เบิร์สต์ด้วย Arcane Orb และถอดเป้าหมายด้วย Astral Imprisonment — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 138,
+        "hero_id": 35,
+        "delta": -0.0968,
+        "reason": "Sniper kills from extreme range before melee heroes can close in — Lich is squishy and gets blown up quickly.",
+        "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 1,
+        "delta": -0.0944,
+        "reason": "Anti-Mage burns away the mana of spell-reliant heroes and blinks out of danger — Lich is squishy and gets blown up quickly.",
+        "reason_th": "Anti-Mage เผามานาของฮีโร่ที่พึ่งสกิลและ blink หนีจากอันตราย — Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 110,
         "delta": -0.0868,
+        "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova — Lich is squishy and gets blown up quickly.",
+        "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova — Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
+        "hero_id": 138,
+        "delta": -0.0853,
         "reason": "Muerta kills from range and ignores physical attacks during Pierce the Veil — Lich is squishy and gets blown up quickly.",
         "reason_th": "Muerta เก็บคิลจากระยะไกลและกันการโจมตีกายภาพระหว่าง Pierce the Veil — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 90,
-        "delta": -0.0866,
+        "delta": -0.085,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana — Lich is squishy and gets blown up quickly.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 110,
-        "delta": -0.0837,
-        "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova — Lich is squishy and gets blown up quickly.",
-        "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova — Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 1,
-        "delta": -0.0837,
-        "reason": "Anti-Mage burns away the mana of spell-reliant heroes and blinks out of danger — Lich is squishy and gets blown up quickly.",
-        "reason_th": "Anti-Mage เผามานาของฮีโร่ที่พึ่งสกิลและ blink หนีจากอันตราย — Lich ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 6,
+        "delta": -0.0719,
+        "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, while Lich is squishy and gets blown up quickly.",
+        "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 114,
-        "delta": -0.0712,
+        "delta": -0.0696,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Lich is squishy and gets blown up quickly.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 14,
-        "delta": -0.0659,
-        "reason": "Pudge yanks a single target out of position with Hook and Dismember, while Lich is squishy and gets blown up quickly.",
-        "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 6,
-        "delta": -0.0659,
-        "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, while Lich is squishy and gets blown up quickly.",
-        "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 30,
+        "delta": -0.0678,
+        "reason": "Witch Doctor bursts targets down with magical nukes — Lich is squishy and gets blown up quickly.",
+        "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       }
     ],
     "counters": [
       {
         "hero_id": 18,
-        "delta": 0.1592,
+        "delta": 0.1607,
         "reason": "Lich keeps the distance while Sven is melee with no escape and easy to kite.",
         "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Sven เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
         "hero_id": 16,
-        "delta": 0.1082,
+        "delta": 0.1097,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst, while Sand King is fragile under focus.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล ขณะที่ Sand King ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 70,
-        "delta": 0.105,
+        "delta": 0.0999,
         "reason": "Lich keeps the distance while Ursa is kited easily and has no answer to being disabled at range.",
         "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล"
       },
       {
         "hero_id": 22,
-        "delta": 0.0921,
+        "delta": 0.0849,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst — Zeus has no escape and folds to gap-closers.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล — Zeus ไม่มีสกิลหนีและตายให้กับฮีโร่ที่เข้าระยะได้ไว"
       },
       {
-        "hero_id": 42,
-        "delta": 0.0878,
-        "reason": "Lich keeps the distance while Wraith King is kited and useless while Reincarnation is on cooldown.",
-        "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Wraith King ถูกไคต์และไร้ประโยชน์ขณะ Reincarnation ติดคูลดาวน์"
-      },
-      {
         "hero_id": 131,
-        "delta": 0.0826,
+        "delta": 0.0842,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst — Ringmaster is squishy and gets blown up quickly.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล — Ringmaster ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 42,
+        "delta": 0.0804,
+        "reason": "Lich keeps the distance while Wraith King is kited and useless while Reincarnation is on cooldown.",
+        "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Wraith King ถูกไคต์และไร้ประโยชน์ขณะ Reincarnation ติดคูลดาวน์"
+      },
+      {
         "hero_id": 112,
-        "delta": 0.0735,
+        "delta": 0.075,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst — Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล — Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
         "hero_id": 15,
-        "delta": 0.0735,
+        "delta": 0.075,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst, while Razor is short-ranged and kited if he cannot link a target.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล ขณะที่ Razor ระยะสั้นและถูกไคต์ถ้าลิงก์เป้าไม่ได้"
       },
       {
-        "hero_id": 102,
-        "delta": 0.0674,
-        "reason": "Lich keeps the distance while Abaddon is melee with no escape and easy to kite.",
-        "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Abaddon เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
-      },
-      {
         "hero_id": 73,
-        "delta": 0.0639,
+        "delta": 0.0655,
         "reason": "Lich keeps the distance while Alchemist is melee with no escape and easy to kite.",
         "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Alchemist เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
         "hero_id": 29,
-        "delta": 0.0635,
+        "delta": 0.0651,
         "reason": "Lich keeps the distance while Tidehunter is melee with no escape and easy to kite.",
         "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Tidehunter เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
         "hero_id": 101,
-        "delta": 0.0635,
+        "delta": 0.0651,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst — Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล — Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
       },
       {
-        "hero_id": 72,
-        "delta": 0.0618,
-        "reason": "Lich bounces Chain Frost between clustered enemies for massive burst — Gyrocopter is squishy and gets blown up quickly.",
-        "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล — Gyrocopter ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 44,
-        "delta": 0.0618,
+        "delta": 0.0633,
         "reason": "Lich bounces Chain Frost between clustered enemies for massive burst, while Phantom Assassin is countered by armor, evasion break, and burst before items.",
         "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล ขณะที่ Phantom Assassin ถูกเคาน์เตอร์ด้วยเกราะ การล้าง evasion และเบิร์สต์ก่อนมีของ"
+      },
+      {
+        "hero_id": 38,
+        "delta": 0.0618,
+        "reason": "Lich keeps the distance while Beastmaster is slow and can be kited.",
+        "reason_th": "Lich เล่นรักษาระยะ ขณะที่ Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
+        "hero_id": 3,
+        "delta": 0.0603,
+        "reason": "Lich bounces Chain Frost between clustered enemies for massive burst, while Bane is slow and can be kited.",
+        "reason_th": "Lich เด้ง Chain Frost ระหว่างศัตรูที่รวมกลุ่มเพื่อเบิร์สต์มหาศาล ขณะที่ Bane เคลื่อนที่ช้าและถูกไคต์ได้"
       }
     ],
     "synergies": [
@@ -10757,171 +10757,171 @@
     "countered_by": [
       {
         "hero_id": 106,
-        "delta": -0.1909,
+        "delta": -0.1907,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 53,
-        "delta": -0.1849,
+        "delta": -0.1847,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 14,
-        "delta": -0.1495,
+        "delta": -0.1493,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, while Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ขณะที่ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 39,
-        "delta": -0.145,
+        "delta": -0.1448,
         "reason": "Queen of Pain blinks in, bursts a target, and blinks out before retaliation — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Queen of Pain blink เข้ามาเบิร์สต์เป้าหมายแล้ว blink ออกก่อนโดนสวน — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 45,
-        "delta": -0.1022,
+        "delta": -0.1021,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 79,
-        "delta": -0.1007,
+        "delta": -0.1006,
         "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 123,
-        "delta": -0.0814,
+        "delta": -0.0875,
         "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
-        "hero_id": 120,
-        "delta": -0.0691,
-        "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and Enigma is helpless if interrupted before Black Hole lands.",
-        "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ส่วน Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
-      },
-      {
         "hero_id": 7,
-        "delta": -0.0691,
+        "delta": -0.069,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 51,
-        "delta": -0.0647,
+        "delta": -0.0646,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, while Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault ขณะที่ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
-        "hero_id": 100,
-        "delta": -0.0614,
-        "reason": "Tusk isolates a target with Snowball and Walrus Punch — Enigma is helpless if interrupted before Black Hole lands.",
-        "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
-      },
-      {
         "hero_id": 128,
-        "delta": -0.0608,
+        "delta": -0.0607,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 86,
-        "delta": -0.0597,
+        "delta": -0.0596,
         "reason": "Rubick steals and turns the enemy's best spell against them — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 102,
-        "delta": -0.0558,
+        "delta": -0.0557,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
+      },
+      {
+        "hero_id": 100,
+        "delta": -0.0539,
+        "reason": "Tusk isolates a target with Snowball and Walrus Punch — Enigma is helpless if interrupted before Black Hole lands.",
+        "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
+      },
+      {
+        "hero_id": 120,
+        "delta": -0.0539,
+        "reason": "Pangolier rolls through the team with Rolling Thunder and Swashbuckle, and Enigma is helpless if interrupted before Black Hole lands.",
+        "reason_th": "Pangolier กลิ้งทะลุทีมด้วย Rolling Thunder และ Swashbuckle ส่วน Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       }
     ],
     "counters": [
       {
         "hero_id": 69,
-        "delta": 0.227,
+        "delta": 0.2271,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, shutting Doom down before it can take over.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และกด Doom ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 107,
-        "delta": 0.1936,
+        "delta": 0.1938,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Earth Spirit's escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Earth Spirit"
       },
       {
         "hero_id": 26,
-        "delta": 0.1676,
+        "delta": 0.1677,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, while Lion is extremely squishy with no escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ ขณะที่ Lion ตัวบางมากและไม่มีสกิลหนี"
       },
       {
         "hero_id": 19,
-        "delta": 0.1347,
+        "delta": 0.1348,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, shutting Tiny down before it can take over.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และกด Tiny ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 65,
-        "delta": 0.127,
+        "delta": 0.1271,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Batrider's escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Batrider"
       },
       {
-        "hero_id": 21,
-        "delta": 0.116,
-        "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Windranger's escape.",
-        "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Windranger"
-      },
-      {
         "hero_id": 11,
-        "delta": 0.1125,
+        "delta": 0.1176,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, shutting Shadow Fiend down before it can take over.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และกด Shadow Fiend ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
+        "hero_id": 21,
+        "delta": 0.1162,
+        "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Windranger's escape.",
+        "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Windranger"
+      },
+      {
         "hero_id": 70,
-        "delta": 0.1061,
+        "delta": 0.1063,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, shutting Ursa down before it can take over.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 87,
-        "delta": 0.0697,
+        "delta": 0.0698,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, while Disruptor is squishy and gets blown up quickly.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ ขณะที่ Disruptor ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 131,
-        "delta": 0.0485,
+        "delta": 0.0487,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Ringmaster's escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Ringmaster"
       },
       {
-        "hero_id": 85,
-        "delta": 0.0457,
-        "reason": "Enigma keeps the distance while Undying is slow and can be kited.",
-        "reason_th": "Enigma เล่นรักษาระยะ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 17,
-        "delta": 0.0353,
+        "delta": 0.0354,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, and the lockdown cancels Storm Spirit's escape.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และการล็อกตัดทางหนีของ Storm Spirit"
       },
       {
         "hero_id": 64,
-        "delta": 0.0317,
+        "delta": 0.0318,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, while Jakiro is squishy and gets blown up quickly.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ ขณะที่ Jakiro ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 85,
+        "delta": 0.0318,
+        "reason": "Enigma keeps the distance while Undying is slow and can be kited.",
+        "reason_th": "Enigma เล่นรักษาระยะ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
         "hero_id": 84,
-        "delta": 0.027,
+        "delta": 0.0271,
         "reason": "Enigma keeps the distance while Ogre Magi is slow and can be kited.",
         "reason_th": "Enigma เล่นรักษาระยะ ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       }
@@ -11460,85 +11460,85 @@
     "countered_by": [
       {
         "hero_id": 106,
-        "delta": -0.1726,
+        "delta": -0.1712,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 34,
-        "delta": -0.1295,
+        "delta": -0.1281,
         "reason": "Tinker rearms to spam Laser and missiles, deleting heroes from afar — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Tinker Rearm เพื่อสแปม Laser และมิสไซล์ ลบฮีโร่จากระยะไกล — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 93,
-        "delta": -0.1171,
+        "delta": -0.1157,
         "reason": "Slark steals stats with Essence Shift and escapes in the dark with Shadow Dance — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Slark ขโมยสเตตัสด้วย Essence Shift และหนีในความมืดด้วย Shadow Dance — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 53,
-        "delta": -0.1138,
+        "delta": -0.1124,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 7,
-        "delta": -0.1084,
+        "delta": -0.1069,
         "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
-        "hero_id": 5,
-        "delta": -0.0856,
-        "reason": "Crystal Maiden bursts targets down with magical nukes — Sniper has no escape and dies instantly to any gap-closer.",
-        "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
-      },
-      {
         "hero_id": 68,
-        "delta": -0.0833,
+        "delta": -0.0958,
         "reason": "Ancient Apparition snipes from across the map with Ice Blast and shuts off all healing — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Ancient Apparition ยิงข้ามแมพด้วย Ice Blast และตัดการฮีลทั้งหมด — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
-        "hero_id": 48,
-        "delta": -0.0789,
-        "reason": "Luna bounces Lucent Beams and clears teams with Moon Glaives and Eclipse — Sniper has no escape and dies instantly to any gap-closer.",
-        "reason_th": "Luna เด้ง Lucent Beam และเคลียร์ทีมด้วย Moon Glaives และ Eclipse — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
+        "hero_id": 5,
+        "delta": -0.0842,
+        "reason": "Crystal Maiden bursts targets down with magical nukes — Sniper has no escape and dies instantly to any gap-closer.",
+        "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
         "hero_id": 2,
-        "delta": -0.0716,
+        "delta": -0.083,
         "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, soaking Sniper's physical damage and winning the long fight.",
         "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call รับดาเมจกายภาพของ Sniper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
+        "hero_id": 76,
+        "delta": -0.0786,
+        "reason": "Outworld Destroyer bursts with Arcane Orb and removes a target with Astral Imprisonment — Sniper has no escape and dies instantly to any gap-closer.",
+        "reason_th": "Outworld Destroyer เบิร์สต์ด้วย Arcane Orb และถอดเป้าหมายด้วย Astral Imprisonment — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
+      },
+      {
+        "hero_id": 6,
+        "delta": -0.0786,
+        "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, shutting Sniper down before it can take over.",
+        "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล และกด Sniper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
+        "hero_id": 48,
+        "delta": -0.0774,
+        "reason": "Luna bounces Lucent Beams and clears teams with Moon Glaives and Eclipse — Sniper has no escape and dies instantly to any gap-closer.",
+        "reason_th": "Luna เด้ง Lucent Beam และเคลียร์ทีมด้วย Moon Glaives และ Eclipse — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
+      },
+      {
         "hero_id": 29,
-        "delta": -0.0715,
+        "delta": -0.0701,
         "reason": "Tidehunter flips fights with the AoE Ravage stun and tanks return damage, soaking Sniper's physical damage and winning the long fight.",
         "reason_th": "Tidehunter พลิกการต่อสู้ด้วยสตัน AoE จาก Ravage และทนรับดาเมจ รับดาเมจกายภาพของ Sniper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 131,
-        "delta": -0.0707,
+        "delta": -0.0693,
         "reason": "Ringmaster tangles the enemy with Tame the Beasts and Escape Act tricks — Sniper has no escape and dies instantly to any gap-closer.",
         "reason_th": "Ringmaster พันศัตรูด้วย Tame the Beasts และลูกเล่น Escape Act — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
       },
       {
-        "hero_id": 6,
-        "delta": -0.0674,
-        "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, shutting Sniper down before it can take over.",
-        "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล และกด Sniper ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
-        "hero_id": 76,
-        "delta": -0.0674,
-        "reason": "Outworld Destroyer bursts with Arcane Orb and removes a target with Astral Imprisonment — Sniper has no escape and dies instantly to any gap-closer.",
-        "reason_th": "Outworld Destroyer เบิร์สต์ด้วย Arcane Orb และถอดเป้าหมายด้วย Astral Imprisonment — Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ"
-      },
-      {
         "hero_id": 107,
-        "delta": -0.0645,
+        "delta": -0.0631,
         "reason": "Earth Spirit rolls in with Rolling Boulder and chains Geomagnetic Grip and Boulder Smash stuns, soaking Sniper's physical damage and winning the long fight.",
         "reason_th": "Earth Spirit กลิ้งเข้ามาด้วย Rolling Boulder และร้อยสตันจาก Geomagnetic Grip และ Boulder Smash รับดาเมจกายภาพของ Sniper ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       }
@@ -11546,87 +11546,87 @@
     "counters": [
       {
         "hero_id": 43,
-        "delta": 0.1681,
+        "delta": 0.1834,
         "reason": "Sniper kills from extreme range before melee heroes can close in — Death Prophet is immobile during Exorcism and vulnerable to burst.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Death Prophet เคลื่อนที่ช้าระหว่าง Exorcism และเสี่ยงต่อเบิร์สต์"
       },
       {
         "hero_id": 137,
-        "delta": 0.1646,
+        "delta": 0.166,
         "reason": "Sniper keeps the distance while Primal Beast is slow and can be kited.",
         "reason_th": "Sniper เล่นรักษาระยะ ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 30,
-        "delta": 0.1603,
+        "delta": 0.1506,
         "reason": "Sniper kills from extreme range before melee heroes can close in — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 10,
-        "delta": 0.1403,
+        "delta": 0.1417,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Morphling is item-reliant and dies before he has them.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Morphling พึ่งไอเทมและตายก่อนที่จะมีของ"
       },
       {
         "hero_id": 63,
-        "delta": 0.1403,
+        "delta": 0.1417,
         "reason": "Sniper kills from extreme range before melee heroes can close in — Weaver dies to detection and AoE that catches him out of Shukuchi.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi"
       },
       {
         "hero_id": 58,
-        "delta": 0.1368,
+        "delta": 0.1382,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Enchantress is squishy if caught without distance.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 1,
-        "delta": 0.1098,
+        "delta": 0.1112,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Anti-Mage is fragile early and hates being caught by lockdown.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Anti-Mage ต้นเกมตัวบางและกลัวการโดนล็อก"
       },
       {
         "hero_id": 31,
-        "delta": 0.1028,
+        "delta": 0.1042,
         "reason": "Sniper kills from extreme range before melee heroes can close in — Lich is squishy and gets blown up quickly.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 18,
-        "delta": 0.101,
+        "delta": 0.1025,
         "reason": "Sniper keeps the distance while Sven is melee with no escape and easy to kite.",
         "reason_th": "Sniper เล่นรักษาระยะ ขณะที่ Sven เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
-        "hero_id": 65,
-        "delta": 0.0992,
-        "reason": "Sniper kills from extreme range before melee heroes can close in — Batrider is squishy and gets blown up quickly.",
-        "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Batrider ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 95,
-        "delta": 0.0953,
+        "delta": 0.0967,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Troll Warlord is melee with no escape and dies to kiting and lockdown.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Troll Warlord เป็นสายประชิดที่ไม่มีสกิลหนีและตายให้กับการไคต์และการคุม"
       },
       {
         "hero_id": 12,
-        "delta": 0.0934,
+        "delta": 0.0948,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Phantom Lancer is weak before items and dies to AoE that clears illusions.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Phantom Lancer อ่อนแอก่อนมีของและตายให้กับ AoE ที่ล้างอิลลูชัน"
       },
       {
         "hero_id": 121,
-        "delta": 0.0919,
+        "delta": 0.0933,
         "reason": "Sniper kills from extreme range before melee heroes can close in — Grimstroke is squishy and gets blown up quickly.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง — Grimstroke ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 8,
-        "delta": 0.0836,
+        "delta": 0.0918,
         "reason": "Sniper kills from extreme range before melee heroes can close in, while Juggernaut can be kited and burst before Omnislash comes online.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง ขณะที่ Juggernaut ถูกไคต์และเบิร์สต์ได้ก่อนที่ Omnislash จะพร้อม"
+      },
+      {
+        "hero_id": 99,
+        "delta": 0.0817,
+        "reason": "Sniper keeps the distance while Bristleback struggles against magical burst and percent-based damage.",
+        "reason_th": "Sniper เล่นรักษาระยะ ขณะที่ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       }
     ],
     "synergies": [
@@ -44095,7 +44095,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-02T16:19:08.301Z",
+    "last_updated": "2026-09-02T20:50:06.577Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
