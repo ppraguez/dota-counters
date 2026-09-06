@@ -33098,7 +33098,7 @@
       },
       {
         "hero_id": 86,
-        "delta": -0.0919,
+        "delta": -0.0918,
         "reason": "Rubick steals and turns the enemy's best spell against them, and the lockdown cancels Magnus's escape.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ และการล็อกตัดทางหนีของ Magnus"
       },
@@ -33116,7 +33116,7 @@
       },
       {
         "hero_id": 74,
-        "delta": -0.0755,
+        "delta": -0.0754,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Magnus's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Magnus"
       },
@@ -33166,7 +33166,7 @@
       },
       {
         "hero_id": 18,
-        "delta": 0.1177,
+        "delta": 0.1178,
         "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe, shutting Sven down before it can take over.",
         "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี และกด Sven ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
@@ -33190,21 +33190,21 @@
       },
       {
         "hero_id": 101,
-        "delta": 0.0923,
+        "delta": 0.0924,
         "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe — Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
         "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี — Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
+      },
+      {
+        "hero_id": 17,
+        "delta": 0.0915,
+        "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe, and the lockdown cancels Storm Spirit's escape.",
+        "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี และการล็อกตัดทางหนีของ Storm Spirit"
       },
       {
         "hero_id": 75,
         "delta": 0.0836,
         "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี — Silencer ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 17,
-        "delta": 0.0807,
-        "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe, and the lockdown cancels Storm Spirit's escape.",
-        "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี และการล็อกตัดทางหนีของ Storm Spirit"
       },
       {
         "hero_id": 48,
@@ -33220,7 +33220,7 @@
       },
       {
         "hero_id": 102,
-        "delta": 0.0718,
+        "delta": 0.0719,
         "reason": "Magnus Reverse Polarity stuns a clumped team for a guaranteed wipe, shutting Abaddon down before it can take over.",
         "reason_th": "Magnus Reverse Polarity สตันทีมที่รวมกลุ่มเพื่อล้างทั้งทีมแบบการันตี และกด Abaddon ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       }
@@ -33420,171 +33420,171 @@
     "countered_by": [
       {
         "hero_id": 3,
-        "delta": -0.1769,
+        "delta": -0.1728,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 42,
-        "delta": -0.1675,
+        "delta": -0.1681,
         "reason": "Wraith King stuns with Wraithfire Blast and fights through death with Reincarnation, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Wraith King สตันด้วย Wraithfire Blast และสู้ต่อข้ามความตายด้วย Reincarnation และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 88,
-        "delta": -0.1449,
+        "delta": -0.1455,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 62,
-        "delta": -0.1235,
+        "delta": -0.1241,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss, while Timbersaw struggles against pure damage and break effects.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss ขณะที่ Timbersaw ลำบากเมื่อเจอ pure damage และเอฟเฟกต์ Break"
       },
       {
         "hero_id": 107,
-        "delta": -0.1215,
+        "delta": -0.1155,
         "reason": "Earth Spirit rolls in with Rolling Boulder and chains Geomagnetic Grip and Boulder Smash stuns, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Earth Spirit กลิ้งเข้ามาด้วย Rolling Boulder และร้อยสตันจาก Geomagnetic Grip และ Boulder Smash และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 104,
-        "delta": -0.1144,
+        "delta": -0.1151,
         "reason": "Legion Commander forces an inescapable 1v1 with Duel and snowballs the damage, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Legion Commander บังคับ 1v1 ที่หนีไม่ได้ด้วย Duel และสะสมดาเมจให้พุ่ง และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 155,
-        "delta": -0.1119,
+        "delta": -0.1125,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 73,
-        "delta": -0.1008,
+        "delta": -0.1014,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 70,
-        "delta": -0.0906,
+        "delta": -0.0912,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 75,
-        "delta": -0.0903,
+        "delta": -0.0909,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 39,
-        "delta": -0.0841,
+        "delta": -0.0848,
         "reason": "Queen of Pain blinks in, bursts a target, and blinks out before retaliation, while Timbersaw struggles against pure damage and break effects.",
         "reason_th": "Queen of Pain blink เข้ามาเบิร์สต์เป้าหมายแล้ว blink ออกก่อนโดนสวน ขณะที่ Timbersaw ลำบากเมื่อเจอ pure damage และเอฟเฟกต์ Break"
       },
       {
         "hero_id": 83,
-        "delta": -0.0811,
+        "delta": -0.0817,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 34,
-        "delta": -0.0753,
+        "delta": -0.0759,
         "reason": "Tinker rearms to spam Laser and missiles, deleting heroes from afar, while Timbersaw struggles against pure damage and break effects.",
         "reason_th": "Tinker Rearm เพื่อสแปม Laser และมิสไซล์ ลบฮีโร่จากระยะไกล ขณะที่ Timbersaw ลำบากเมื่อเจอ pure damage และเอฟเฟกต์ Break"
       },
       {
         "hero_id": 131,
-        "delta": -0.0722,
+        "delta": -0.0728,
         "reason": "Ringmaster tangles the enemy with Tame the Beasts and Escape Act tricks, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Ringmaster พันศัตรูด้วย Tame the Beasts และลูกเล่น Escape Act และการล็อกตัดทางหนีของ Timbersaw"
       }
     ],
     "counters": [
       {
-        "hero_id": 76,
-        "delta": 0.1308,
-        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Outworld Destroyer is squishy and gets blown up quickly.",
-        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Outworld Destroyer ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 95,
-        "delta": 0.1242,
+        "delta": 0.1369,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Troll Warlord's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Troll Warlord ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
+        "hero_id": 76,
+        "delta": 0.1302,
+        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Outworld Destroyer is squishy and gets blown up quickly.",
+        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Outworld Destroyer ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 54,
-        "delta": 0.1159,
+        "delta": 0.1152,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, out-trading Lifestealer in melee range.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain และเทรดดาเมจชนะ Lifestealer ในระยะประชิด"
       },
       {
         "hero_id": 25,
-        "delta": 0.1159,
+        "delta": 0.1152,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Lina is fragile and dies quickly to early lockdown.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
       },
       {
         "hero_id": 30,
-        "delta": 0.1146,
+        "delta": 0.114,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 10,
-        "delta": 0.1094,
+        "delta": 0.1087,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Morphling's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Morphling ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 12,
-        "delta": 0.1053,
+        "delta": 0.1046,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Phantom Lancer's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Phantom Lancer ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 20,
-        "delta": 0.0992,
+        "delta": 0.0986,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Vengeful Spirit is squishy and gets blown up quickly.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Vengeful Spirit ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 1,
-        "delta": 0.091,
+        "delta": 0.0943,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Anti-Mage's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Anti-Mage ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 53,
-        "delta": 0.0895,
+        "delta": 0.086,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Nature's Prophet's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Nature's Prophet ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 6,
-        "delta": 0.0781,
+        "delta": 0.0775,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Drow Ranger's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Drow Ranger ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 96,
-        "delta": 0.0775,
+        "delta": 0.0769,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, while Centaur Warrunner is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ขณะที่ Centaur Warrunner เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
-        "hero_id": 8,
-        "delta": 0.0757,
-        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Juggernaut's physical damage and winning the long fight.",
-        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Juggernaut ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+        "hero_id": 7,
+        "delta": 0.0736,
+        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, while Earthshaker is fragile under focus.",
+        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ขณะที่ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 121,
-        "delta": 0.0737,
+        "delta": 0.073,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Grimstroke is squishy and gets blown up quickly.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Grimstroke ตัวบางและถูกเก็บได้ไวมาก"
       }
@@ -33767,85 +33767,85 @@
     "countered_by": [
       {
         "hero_id": 88,
-        "delta": -0.1297,
+        "delta": -0.1294,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, shutting Bristleback down before it can take over.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 80,
-        "delta": -0.1297,
+        "delta": -0.1294,
         "reason": "Lone Druid keeps the distance while Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Lone Druid เล่นรักษาระยะ ขณะที่ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
-        "hero_id": 3,
-        "delta": -0.1216,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Bristleback down before it can take over.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
         "hero_id": 91,
-        "delta": -0.1193,
+        "delta": -0.119,
         "reason": "Io bursts targets down with magical nukes, and Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Io เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ส่วน Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
+        "hero_id": 3,
+        "delta": -0.1128,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, shutting Bristleback down before it can take over.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
         "hero_id": 109,
-        "delta": -0.1124,
+        "delta": -0.1121,
         "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks, while Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis ขณะที่ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
         "hero_id": 65,
-        "delta": -0.1065,
+        "delta": -0.1031,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, shutting Bristleback down before it can take over.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 23,
-        "delta": -0.0977,
+        "delta": -0.0974,
         "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, out-trading Bristleback in melee range.",
         "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล และเทรดดาเมจชนะ Bristleback ในระยะประชิด"
       },
       {
         "hero_id": 47,
-        "delta": -0.0927,
+        "delta": -0.0924,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Bristleback down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 66,
-        "delta": -0.0902,
+        "delta": -0.0899,
         "reason": "Chen keeps the distance while Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Chen เล่นรักษาระยะ ขณะที่ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
         "hero_id": 36,
-        "delta": -0.0899,
+        "delta": -0.0896,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe, shutting Bristleback down before it can take over.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 114,
-        "delta": -0.0847,
+        "delta": -0.0844,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Bristleback down before it can take over.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 90,
-        "delta": -0.0797,
+        "delta": -0.0794,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, shutting Bristleback down before it can take over.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 110,
-        "delta": -0.0795,
+        "delta": -0.0792,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, shutting Bristleback down before it can take over.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova และกด Bristleback ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 84,
-        "delta": -0.0772,
+        "delta": -0.0769,
         "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, out-trading Bristleback in melee range.",
         "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ และเทรดดาเมจชนะ Bristleback ในระยะประชิด"
       }
@@ -33853,87 +33853,87 @@
     "counters": [
       {
         "hero_id": 78,
-        "delta": 0.2036,
+        "delta": 0.1976,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, soaking Brewmaster's physical damage and winning the long fight.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill รับดาเมจกายภาพของ Brewmaster ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 46,
-        "delta": 0.1883,
+        "delta": 0.1886,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Templar Assassin's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Templar Assassin"
       },
       {
         "hero_id": 45,
-        "delta": 0.1322,
+        "delta": 0.1325,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, while Pugna is squishy and dies to lockdown before he drains a target.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill ขณะที่ Pugna ตัวบางและตายให้กับการคุมก่อนที่จะดูดเป้าหมาย"
       },
       {
         "hero_id": 105,
-        "delta": 0.1315,
+        "delta": 0.1318,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, while Techies is squishy and gets blown up quickly.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill ขณะที่ Techies ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 16,
-        "delta": 0.1203,
+        "delta": 0.1206,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Sand King's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Sand King"
       },
       {
         "hero_id": 15,
-        "delta": 0.1022,
+        "delta": 0.1025,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, soaking Razor's physical damage and winning the long fight.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill รับดาเมจกายภาพของ Razor ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 52,
-        "delta": 0.0892,
+        "delta": 0.0895,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, shutting Leshrac down before it can take over.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 49,
-        "delta": 0.0881,
+        "delta": 0.0884,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, out-trading Dragon Knight in melee range.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และเทรดดาเมจชนะ Dragon Knight ในระยะประชิด"
       },
       {
         "hero_id": 119,
-        "delta": 0.0869,
+        "delta": 0.0872,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 126,
-        "delta": 0.0817,
+        "delta": 0.082,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Void Spirit's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Void Spirit"
       },
       {
         "hero_id": 108,
-        "delta": 0.0727,
+        "delta": 0.073,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Underlord's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Underlord"
       },
       {
         "hero_id": 121,
-        "delta": 0.0714,
+        "delta": 0.0717,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and the lockdown cancels Grimstroke's escape.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และการล็อกตัดทางหนีของ Grimstroke"
       },
       {
-        "hero_id": 94,
-        "delta": 0.0608,
-        "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, soaking Medusa's physical damage and winning the long fight.",
-        "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill รับดาเมจกายภาพของ Medusa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+        "hero_id": 37,
+        "delta": 0.0632,
+        "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, while Warlock is squishy and gets blown up quickly.",
+        "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill ขณะที่ Warlock ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 29,
-        "delta": 0.0604,
-        "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, out-trading Tidehunter in melee range.",
-        "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และเทรดดาเมจชนะ Tidehunter ในระยะประชิด"
+        "hero_id": 94,
+        "delta": 0.0611,
+        "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, soaking Medusa's physical damage and winning the long fight.",
+        "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill รับดาเมจกายภาพของ Medusa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       }
     ],
     "synergies": [
@@ -44083,7 +44083,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-06T10:38:32.747Z",
+    "last_updated": "2026-09-06T15:14:44.642Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
