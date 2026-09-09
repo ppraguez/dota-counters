@@ -23697,173 +23697,173 @@
     "countered_by": [
       {
         "hero_id": 9,
-        "delta": -0.2313,
+        "delta": -0.2305,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, shutting Ursa down before it can take over.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 66,
-        "delta": -0.1335,
+        "delta": -0.1326,
         "reason": "Chen keeps the distance while Ursa is kited easily and has no answer to being disabled at range.",
         "reason_th": "Chen เล่นรักษาระยะ ขณะที่ Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล"
       },
       {
         "hero_id": 83,
-        "delta": -0.1329,
+        "delta": -0.132,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, soaking Ursa's physical damage and winning the long fight.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 33,
-        "delta": -0.1196,
+        "delta": -0.1188,
         "reason": "Enigma catches grouped enemies in Black Hole for the team to delete, shutting Ursa down before it can take over.",
         "reason_th": "Enigma จับศัตรูที่รวมกลุ่มด้วย Black Hole ให้ทีมรุมลบ และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 62,
-        "delta": -0.116,
+        "delta": -0.1151,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss, and Ursa is kited easily and has no answer to being disabled at range.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss ส่วน Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล"
       },
       {
         "hero_id": 77,
-        "delta": -0.1063,
+        "delta": -0.1109,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Ursa's physical damage and winning the long fight.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 73,
-        "delta": -0.0995,
+        "delta": -0.0986,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, soaking Ursa's physical damage and winning the long fight.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 60,
-        "delta": -0.0967,
+        "delta": -0.0958,
         "reason": "Night Stalker owns the night with silence and flight, hunting single targets, soaking Ursa's physical damage and winning the long fight.",
         "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 89,
-        "delta": -0.0967,
+        "delta": -0.0958,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, shutting Ursa down before it can take over.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 136,
-        "delta": -0.0946,
+        "delta": -0.0937,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, shutting Ursa down before it can take over.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 155,
-        "delta": -0.0686,
-        "reason": "Largo controls space and tanks the frontline with heavy disables, soaking Ursa's physical damage and winning the long fight.",
-        "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
-      },
-      {
-        "hero_id": 41,
-        "delta": -0.0667,
-        "reason": "Faceless Void freezes a fight inside Chronosphere and dodges damage with Time Walk, soaking Ursa's physical damage and winning the long fight.",
-        "reason_th": "Faceless Void หยุดเวลาการต่อสู้ด้วย Chronosphere และหลบดาเมจด้วย Time Walk รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
-      },
-      {
         "hero_id": 61,
-        "delta": -0.0667,
+        "delta": -0.0805,
         "reason": "Broodmother overwhelms a lane with spiderlings and webs, and Ursa is kited easily and has no answer to being disabled at range.",
         "reason_th": "Broodmother ถล่มเลนด้วยสไปเดอร์ลิงและใยแมงมุม ส่วน Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล"
       },
       {
-        "hero_id": 58,
-        "delta": -0.0647,
-        "reason": "Enchantress kites with Impetus while tanking with healing and creeps, soaking Ursa's physical damage and winning the long fight.",
-        "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+        "hero_id": 155,
+        "delta": -0.0678,
+        "reason": "Largo controls space and tanks the frontline with heavy disables, soaking Ursa's physical damage and winning the long fight.",
+        "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+      },
+      {
+        "hero_id": 16,
+        "delta": -0.0674,
+        "reason": "Sand King blinks in for an AoE Epicenter and Burrowstrike stun, shutting Ursa down before it can take over.",
+        "reason_th": "Sand King blink เข้ามาด้วย Epicenter AoE และสตันจาก Burrowstrike และกด Ursa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
+        "hero_id": 41,
+        "delta": -0.0658,
+        "reason": "Faceless Void freezes a fight inside Chronosphere and dodges damage with Time Walk, soaking Ursa's physical damage and winning the long fight.",
+        "reason_th": "Faceless Void หยุดเวลาการต่อสู้ด้วย Chronosphere และหลบดาเมจด้วย Time Walk รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       }
     ],
     "counters": [
       {
         "hero_id": 108,
-        "delta": 0.1589,
+        "delta": 0.1598,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Underlord's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Underlord"
       },
       {
         "hero_id": 12,
-        "delta": 0.1233,
+        "delta": 0.1242,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 98,
-        "delta": 0.1093,
+        "delta": 0.1102,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Timbersaw's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Timbersaw"
       },
       {
         "hero_id": 119,
-        "delta": 0.1079,
+        "delta": 0.1088,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 138,
-        "delta": 0.1075,
+        "delta": 0.1084,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, shutting Muerta down before it can take over.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และกด Muerta ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 121,
-        "delta": 0.1007,
+        "delta": 0.1016,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Grimstroke's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Grimstroke"
       },
       {
         "hero_id": 55,
-        "delta": 0.0901,
+        "delta": 0.091,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Dark Seer's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Dark Seer"
       },
       {
-        "hero_id": 97,
-        "delta": 0.0876,
-        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Magnus's escape.",
-        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Magnus"
-      },
-      {
         "hero_id": 44,
-        "delta": 0.0876,
+        "delta": 0.0885,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
         "hero_id": 112,
-        "delta": 0.0868,
+        "delta": 0.0877,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, while Winter Wyvern is slow and squishy if caught out of position.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ ขณะที่ Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง"
       },
       {
+        "hero_id": 97,
+        "delta": 0.0809,
+        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Magnus's escape.",
+        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Magnus"
+      },
+      {
         "hero_id": 10,
-        "delta": 0.0691,
+        "delta": 0.07,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, and the lockdown cancels Morphling's escape.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และการล็อกตัดทางหนีของ Morphling"
       },
       {
-        "hero_id": 18,
-        "delta": 0.0678,
-        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, out-trading Sven in melee range.",
-        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และเทรดดาเมจชนะ Sven ในระยะประชิด"
-      },
-      {
         "hero_id": 40,
-        "delta": 0.0666,
+        "delta": 0.0675,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, while Venomancer is squishy and gets blown up quickly.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ ขณะที่ Venomancer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 43,
-        "delta": 0.0663,
+        "delta": 0.0672,
         "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, soaking Death Prophet's physical damage and winning the long fight.",
         "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ รับดาเมจกายภาพของ Death Prophet ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+      },
+      {
+        "hero_id": 18,
+        "delta": 0.065,
+        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, out-trading Sven in melee range.",
+        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ และเทรดดาเมจชนะ Sven ในระยะประชิด"
       }
     ],
     "synergies": [
@@ -24063,85 +24063,85 @@
     "countered_by": [
       {
         "hero_id": 91,
-        "delta": -0.303,
+        "delta": -0.3032,
         "reason": "Io bursts targets down with magical nukes, while Spirit Breaker is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Io เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ขณะที่ Spirit Breaker เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
         "hero_id": 83,
-        "delta": -0.2158,
+        "delta": -0.216,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 3,
-        "delta": -0.1756,
+        "delta": -0.1758,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 9,
-        "delta": -0.1305,
+        "delta": -0.1407,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 90,
-        "delta": -0.1229,
+        "delta": -0.1232,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 59,
-        "delta": -0.12,
+        "delta": -0.1202,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 6,
-        "delta": -0.1089,
+        "delta": -0.117,
         "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 155,
-        "delta": -0.0889,
+        "delta": -0.0974,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 15,
-        "delta": -0.0836,
+        "delta": -0.0838,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Spirit Breaker is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Spirit Breaker เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
         "hero_id": 114,
-        "delta": -0.0789,
+        "delta": -0.0791,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 73,
-        "delta": -0.0756,
+        "delta": -0.0758,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 112,
-        "delta": -0.0689,
+        "delta": -0.0691,
         "reason": "Winter Wyvern bursts targets down with magical nukes, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 136,
-        "delta": -0.0633,
+        "delta": -0.0635,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และการล็อกตัดทางหนีของ Spirit Breaker"
       },
       {
         "hero_id": 145,
-        "delta": -0.0631,
+        "delta": -0.0633,
         "reason": "Kez switches stances to dash, parry, and burst single targets, and the lockdown cancels Spirit Breaker's escape.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Spirit Breaker"
       }
@@ -24149,85 +24149,85 @@
     "counters": [
       {
         "hero_id": 56,
-        "delta": 0.1578,
+        "delta": 0.1575,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Clinkz's escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Clinkz"
       },
       {
         "hero_id": 1,
-        "delta": 0.1578,
+        "delta": 0.1575,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Anti-Mage's escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Anti-Mage"
       },
       {
         "hero_id": 68,
-        "delta": 0.1419,
+        "delta": 0.1417,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ส่วน Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 34,
-        "delta": 0.1339,
+        "delta": 0.1337,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, shutting Tinker down before it can take over.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และกด Tinker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 43,
-        "delta": 0.1326,
+        "delta": 0.1324,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, soaking Death Prophet's physical damage and winning the long fight.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว รับดาเมจกายภาพของ Death Prophet ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 75,
-        "delta": 0.1303,
+        "delta": 0.13,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, shutting Silencer down before it can take over.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 44,
-        "delta": 0.1227,
+        "delta": 0.1224,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Phantom Assassin's escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Phantom Assassin"
       },
       {
         "hero_id": 135,
-        "delta": 0.0969,
+        "delta": 0.1025,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, out-trading Dawnbreaker in melee range.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และเทรดดาเมจชนะ Dawnbreaker ในระยะประชิด"
       },
       {
         "hero_id": 12,
-        "delta": 0.0953,
+        "delta": 0.095,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Phantom Lancer's escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Phantom Lancer"
       },
       {
         "hero_id": 93,
-        "delta": 0.094,
+        "delta": 0.0938,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Slark's escape.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Slark"
       },
       {
         "hero_id": 95,
-        "delta": 0.0879,
+        "delta": 0.0876,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, soaking Troll Warlord's physical damage and winning the long fight.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว รับดาเมจกายภาพของ Troll Warlord ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 109,
-        "delta": 0.0744,
+        "delta": 0.0742,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, soaking Terrorblade's physical damage and winning the long fight.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว รับดาเมจกายภาพของ Terrorblade ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 105,
-        "delta": 0.0668,
+        "delta": 0.0666,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and Techies is squishy and gets blown up quickly.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ส่วน Techies ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 27,
-        "delta": 0.0635,
+        "delta": 0.0633,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and Shadow Shaman is squishy and gets blown up quickly.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ส่วน Shadow Shaman ตัวบางและถูกเก็บได้ไวมาก"
       }
@@ -44083,7 +44083,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-09T16:17:36.258Z",
+    "last_updated": "2026-09-09T20:44:58.928Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
