@@ -25466,171 +25466,171 @@
     "countered_by": [
       {
         "hero_id": 66,
-        "delta": -0.1933,
+        "delta": -0.1924,
         "reason": "Chen swings fights with utility and disables, while Silencer is squishy and gets blown up quickly.",
         "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 155,
-        "delta": -0.1775,
+        "delta": -0.1767,
         "reason": "Largo controls space and tanks the frontline with heavy disables, shutting Silencer down before it can take over.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 83,
-        "delta": -0.1599,
+        "delta": -0.1591,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, shutting Silencer down before it can take over.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 59,
-        "delta": -0.1399,
+        "delta": -0.1391,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, shutting Silencer down before it can take over.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 90,
-        "delta": -0.1273,
+        "delta": -0.1265,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 71,
-        "delta": -0.1052,
+        "delta": -0.1043,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, shutting Silencer down before it can take over.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 15,
-        "delta": -0.1024,
+        "delta": -0.1015,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field, while Silencer is squishy and gets blown up quickly.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ขณะที่ Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 9,
-        "delta": -0.0993,
+        "delta": -0.0985,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 13,
-        "delta": -0.0991,
+        "delta": -0.0983,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 111,
-        "delta": -0.0946,
+        "delta": -0.0937,
         "reason": "Oracle bursts targets down with magical nukes — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Oracle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 47,
-        "delta": -0.0803,
+        "delta": -0.0795,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Silencer down before it can take over.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 60,
-        "delta": -0.0771,
+        "delta": -0.0763,
         "reason": "Night Stalker owns the night with silence and flight, hunting single targets, shutting Silencer down before it can take over.",
         "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 145,
-        "delta": -0.066,
+        "delta": -0.0652,
         "reason": "Kez switches stances to dash, parry, and burst single targets, shutting Silencer down before it can take over.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว และกด Silencer ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 123,
-        "delta": -0.0649,
+        "delta": -0.0641,
         "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees — Silencer is squishy and gets blown up quickly.",
         "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ — Silencer ตัวบางและถูกเก็บได้ไวมาก"
       }
     ],
     "counters": [
       {
-        "hero_id": 44,
-        "delta": 0.1393,
-        "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Phantom Assassin's escape.",
-        "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Phantom Assassin"
-      },
-      {
         "hero_id": 56,
-        "delta": 0.1298,
+        "delta": 0.1435,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Clinkz's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Clinkz"
       },
       {
+        "hero_id": 44,
+        "delta": 0.1401,
+        "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Phantom Assassin's escape.",
+        "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Phantom Assassin"
+      },
+      {
         "hero_id": 63,
-        "delta": 0.1286,
+        "delta": 0.1294,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Weaver's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Weaver"
       },
       {
         "hero_id": 25,
-        "delta": 0.1262,
+        "delta": 0.1231,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Lina is fragile and dies quickly to early lockdown.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม"
       },
       {
-        "hero_id": 98,
-        "delta": 0.121,
-        "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Timbersaw's escape.",
-        "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Timbersaw"
-      },
-      {
         "hero_id": 43,
-        "delta": 0.1194,
+        "delta": 0.1202,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Death Prophet is immobile during Exorcism and vulnerable to burst.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Death Prophet เคลื่อนที่ช้าระหว่าง Exorcism และเสี่ยงต่อเบิร์สต์"
       },
       {
+        "hero_id": 98,
+        "delta": 0.1172,
+        "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Timbersaw's escape.",
+        "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Timbersaw"
+      },
+      {
         "hero_id": 119,
-        "delta": 0.1016,
+        "delta": 0.1024,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 81,
-        "delta": 0.1001,
+        "delta": 0.1009,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, shutting Chaos Knight down before it can take over.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และกด Chaos Knight ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 20,
-        "delta": 0.0985,
+        "delta": 0.0993,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Vengeful Spirit's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Vengeful Spirit"
       },
       {
         "hero_id": 88,
-        "delta": 0.0866,
+        "delta": 0.0875,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Nyx Assassin's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Nyx Assassin"
       },
       {
         "hero_id": 94,
-        "delta": 0.0807,
+        "delta": 0.0815,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, shutting Medusa down before it can take over.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และกด Medusa ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 68,
-        "delta": 0.0795,
+        "delta": 0.0803,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 64,
-        "delta": 0.0773,
+        "delta": 0.0781,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence — Jakiro is squishy and gets blown up quickly.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence — Jakiro ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 137,
-        "delta": 0.0725,
+        "delta": 0.0733,
         "reason": "Silencer keeps the distance while Primal Beast is slow and can be kited.",
         "reason_th": "Silencer เล่นรักษาระยะ ขณะที่ Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้"
       }
@@ -26159,173 +26159,173 @@
     "countered_by": [
       {
         "hero_id": 52,
-        "delta": -0.2096,
+        "delta": -0.2009,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Lycan's escape.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 105,
-        "delta": -0.1572,
+        "delta": -0.1592,
         "reason": "Techies litters the map with mines and bursts targets with Blast Off, and the lockdown cancels Lycan's escape.",
         "reason_th": "Techies โปรยทุ่นระเบิดทั่วแมพและเบิร์สต์เป้าด้วย Blast Off และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 109,
-        "delta": -0.1347,
+        "delta": -0.1368,
         "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks, while Lycan is kited by slows and falls off if the game stalls.",
         "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis ขณะที่ Lycan ถูกไคต์ด้วยสโลว์และอ่อนลงถ้าเกมยืดเยื้อ"
       },
       {
         "hero_id": 38,
-        "delta": -0.1283,
+        "delta": -0.1304,
         "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, and the lockdown cancels Lycan's escape.",
         "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 89,
-        "delta": -0.1279,
+        "delta": -0.13,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, and the lockdown cancels Lycan's escape.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 98,
-        "delta": -0.1204,
+        "delta": -0.1225,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, out-trading Lycan in melee range.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain และเทรดดาเมจชนะ Lycan ในระยะประชิด"
       },
       {
         "hero_id": 29,
-        "delta": -0.1191,
+        "delta": -0.1212,
         "reason": "Tidehunter flips fights with the AoE Ravage stun and tanks return damage, and the lockdown cancels Lycan's escape.",
         "reason_th": "Tidehunter พลิกการต่อสู้ด้วยสตัน AoE จาก Ravage และทนรับดาเมจ และการล็อกตัดทางหนีของ Lycan"
       },
       {
         "hero_id": 100,
-        "delta": -0.1171,
+        "delta": -0.1192,
         "reason": "Tusk isolates a target with Snowball and Walrus Punch, and the lockdown cancels Lycan's escape.",
         "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch และการล็อกตัดทางหนีของ Lycan"
       },
       {
-        "hero_id": 69,
-        "delta": -0.1072,
-        "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom, and the lockdown cancels Lycan's escape.",
-        "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom และการล็อกตัดทางหนีของ Lycan"
-      },
-      {
         "hero_id": 3,
-        "delta": -0.1011,
+        "delta": -0.1032,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and the lockdown cancels Lycan's escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และการล็อกตัดทางหนีของ Lycan"
       },
       {
+        "hero_id": 69,
+        "delta": -0.0983,
+        "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom, and the lockdown cancels Lycan's escape.",
+        "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom และการล็อกตัดทางหนีของ Lycan"
+      },
+      {
         "hero_id": 45,
-        "delta": -0.0877,
+        "delta": -0.0898,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, while Lycan is kited by slows and falls off if the game stalls.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain ขณะที่ Lycan ถูกไคต์ด้วยสโลว์และอ่อนลงถ้าเกมยืดเยื้อ"
       },
       {
-        "hero_id": 84,
-        "delta": -0.0798,
-        "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, and the lockdown cancels Lycan's escape.",
-        "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ และการล็อกตัดทางหนีของ Lycan"
-      },
-      {
         "hero_id": 46,
-        "delta": -0.0776,
+        "delta": -0.0797,
         "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, while Lycan is kited by slows and falls off if the game stalls.",
         "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ขณะที่ Lycan ถูกไคต์ด้วยสโลว์และอ่อนลงถ้าเกมยืดเยื้อ"
       },
       {
-        "hero_id": 128,
-        "delta": -0.0655,
-        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, and the lockdown cancels Lycan's escape.",
-        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และการล็อกตัดทางหนีของ Lycan"
+        "hero_id": 84,
+        "delta": -0.0708,
+        "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, and the lockdown cancels Lycan's escape.",
+        "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ และการล็อกตัดทางหนีของ Lycan"
+      },
+      {
+        "hero_id": 119,
+        "delta": -0.0676,
+        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Lycan's escape.",
+        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Lycan"
       }
     ],
     "counters": [
       {
         "hero_id": 126,
-        "delta": 0.1789,
+        "delta": 0.1769,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Void Spirit's physical damage and winning the long fight.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Void Spirit ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 18,
-        "delta": 0.1724,
+        "delta": 0.1703,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Sven in melee range.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Sven ในระยะประชิด"
       },
       {
         "hero_id": 131,
-        "delta": 0.1535,
+        "delta": 0.1627,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Ringmaster is squishy and gets blown up quickly.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Ringmaster ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 108,
-        "delta": 0.1413,
+        "delta": 0.1392,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, while Underlord is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ขณะที่ Underlord เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
-        "hero_id": 2,
-        "delta": 0.1042,
-        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Axe in melee range.",
-        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Axe ในระยะประชิด"
-      },
-      {
         "hero_id": 70,
-        "delta": 0.1042,
+        "delta": 0.1021,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Ursa's physical damage and winning the long fight.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Ursa ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
-        "hero_id": 28,
-        "delta": 0.0994,
-        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Slardar in melee range.",
-        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Slardar ในระยะประชิด"
+        "hero_id": 2,
+        "delta": 0.1021,
+        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Axe in melee range.",
+        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Axe ในระยะประชิด"
       },
       {
         "hero_id": 135,
-        "delta": 0.0994,
+        "delta": 0.0973,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Dawnbreaker in melee range.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Dawnbreaker ในระยะประชิด"
       },
       {
-        "hero_id": 6,
-        "delta": 0.0807,
-        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Drow Ranger's physical damage and winning the long fight.",
-        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Drow Ranger ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+        "hero_id": 28,
+        "delta": 0.0973,
+        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Slardar in melee range.",
+        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Slardar ในระยะประชิด"
       },
       {
         "hero_id": 65,
-        "delta": 0.0789,
+        "delta": 0.0943,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Batrider is squishy and gets blown up quickly.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Batrider ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
+        "hero_id": 6,
+        "delta": 0.0787,
+        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, soaking Drow Ranger's physical damage and winning the long fight.",
+        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง รับดาเมจกายภาพของ Drow Ranger ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+      },
+      {
         "hero_id": 27,
-        "delta": 0.0789,
+        "delta": 0.0769,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Shadow Shaman is squishy and gets blown up quickly.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Shadow Shaman ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 123,
-        "delta": 0.072,
+        "delta": 0.0699,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Hoodwink is fragile and dies if her escape is cut off.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Hoodwink ตัวบางและตายถ้าทางหนีถูกตัด"
       },
       {
-        "hero_id": 101,
-        "delta": 0.0631,
-        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
-        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
+        "hero_id": 99,
+        "delta": 0.0658,
+        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, out-trading Bristleback in melee range.",
+        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง และเทรดดาเมจชนะ Bristleback ในระยะประชิด"
       },
       {
-        "hero_id": 14,
-        "delta": 0.0587,
-        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, while Pudge is slow and can be kited.",
-        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ขณะที่ Pudge เคลื่อนที่ช้าและถูกไคต์ได้"
+        "hero_id": 101,
+        "delta": 0.061,
+        "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, and Skywrath Mage is one of the squishiest heroes and dies to any lockdown.",
+        "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง ส่วน Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด"
       }
     ],
     "synergies": [
@@ -44039,7 +44039,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-15T16:39:22.483Z",
+    "last_updated": "2026-09-15T21:04:07.997Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
