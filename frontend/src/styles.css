@@ -1361,33 +1361,70 @@ code {
 .meta__brackets {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 14px;
+  gap: 8px;
+  margin-top: 16px;
 }
 
 .meta__bracket-btn {
   appearance: none;
   background: var(--panel-2);
   border: 1px solid var(--border-soft);
-  border-radius: 999px;
-  color: var(--muted-2);
+  border-radius: var(--radius);
+  color: var(--muted);
   cursor: pointer;
   font: inherit;
-  font-size: 0.82rem;
+  font-size: 0.75rem;
   font-weight: 600;
-  padding: 5px 14px;
-  transition: background 0.14s, border-color 0.14s, color 0.14s;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  transition: background 0.14s, border-color 0.14s, color 0.14s, box-shadow 0.14s;
+  min-width: 108px;
 }
 
 .meta__bracket-btn:hover {
   border-color: var(--synergy);
   color: var(--text);
+  background: var(--panel-3);
 }
 
 .meta__bracket-btn--active {
-  background: var(--synergy);
+  background: color-mix(in srgb, var(--synergy) 12%, var(--panel-2));
   border-color: var(--synergy);
-  color: #000;
+  color: var(--synergy);
+  box-shadow: 0 0 0 1px var(--synergy), inset 0 0 24px color-mix(in srgb, var(--synergy) 8%, transparent);
+}
+
+.meta__bracket-icons {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.meta__rank-icon {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));
+}
+
+.meta__bracket-btn--active .meta__rank-icon {
+  filter: drop-shadow(0 2px 6px color-mix(in srgb, var(--synergy) 50%, transparent));
+}
+
+.meta__bracket-dash {
+  font-size: 0.75rem;
+  color: var(--muted-2);
+  margin: 0 1px;
+  line-height: 1;
+}
+
+.meta__bracket-label {
+  font-size: 0.72rem;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
 }
 
 .meta__grid {
