@@ -2,6 +2,7 @@ name: Deploy site
 
 # Builds the static frontend and publishes it to GitHub Pages. Runs whenever the data or the
 # frontend changes (so a data refresh commit auto-redeploys), plus on manual trigger.
+# Also triggers after a successful data refresh (bot commits don't fire push triggers).
 # To use this: in the repo Settings -> Pages, set "Source" to "GitHub Actions".
 on:
   push:
@@ -10,6 +11,10 @@ on:
       - "frontend/**"
       - "data/heroData.json"
       - ".github/workflows/deploy.yml"
+  workflow_run:
+    workflows: ["Refresh hero data"]
+    types: [completed]
+    branches: [main]
   workflow_dispatch: {}
 
 permissions:
@@ -24,6 +29,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
