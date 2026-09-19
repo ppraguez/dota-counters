@@ -5,6 +5,17 @@ import { HeroAvatar } from "./HeroAvatar";
 
 const ROLE_ORDER = ["pos1", "pos2", "pos3", "pos4", "pos5"];
 
+const RANK_ICON = (n: number) =>
+  `https://www.opendota.com/assets/images/dota2/rank_icons/rank_icon_${n}.png`;
+
+/** [low rank icon index, high rank icon index] for each bracket */
+const BRACKET_ICONS: Record<BracketKey, [number, number]> = {
+  all:      [1, 8],
+  crusader: [1, 3],
+  legend:   [4, 5],
+  divine:   [6, 8],
+};
+
 const BRACKET_KEYS: BracketKey[] = ["all", "crusader", "legend", "divine"];
 
 function meterOf(winRate: number): number {
@@ -34,18 +45,30 @@ export function RolesMetaView({ rolesMeta, byId, onSelect }: Props) {
         <p className="meta__subtitle muted">{t("meta.subtitle")}</p>
 
         <div className="meta__brackets" role="tablist" aria-label={t("meta.bracketLabel")}>
-          {BRACKET_KEYS.map((bKey) => (
-            <button
-              key={bKey}
-              type="button"
-              role="tab"
-              aria-selected={bracket === bKey}
-              className={`meta__bracket-btn ${bracket === bKey ? "meta__bracket-btn--active" : ""}`}
-              onClick={() => setBracket(bKey)}
-            >
-              {t(`meta.bracket.${bKey}`)}
-            </button>
-          ))}
+          {BRACKET_KEYS.map((bKey) => {
+            const [lo, hi] = BRACKET_ICONS[bKey];
+            return (
+              <button
+                key={bKey}
+                type="button"
+                role="tab"
+                aria-selected={bracket === bKey}
+                className={`meta__bracket-btn ${bracket === bKey ? "meta__bracket-btn--active" : ""}`}
+                onClick={() => setBracket(bKey)}
+              >
+                <span className="meta__bracket-icons">
+                  <img src={RANK_ICON(lo)} alt="" className="meta__rank-icon" />
+                  {lo !== hi && (
+                    <>
+                      <span className="meta__bracket-dash">–</span>
+                      <img src={RANK_ICON(hi)} alt="" className="meta__rank-icon" />
+                    </>
+                  )}
+                </span>
+                <span className="meta__bracket-label">{t(`meta.bracket.${bKey}`)}</span>
+              </button>
+            );
+          })}
         </div>
       </header>
 

@@ -30,8 +30,8 @@ import {
   loadAbilityConstantsCache,
   type IconResolver,
 } from "./abilityIcons.js";
-import { buildTagIndex } from "./heroTags.js";
-import { counterReason, synergyReason } from "./reasons.js";
+import { buildTagIndex, type HeroTags } from "./heroTags.js";
+import { counterReason, counterRuleIndex, synergyReason } from "./reasons.js";
 import { counterReasonTh, synergyReasonTh } from "./reasonsTh.js";
 import { synergyScore } from "./synergy.js";
 import { resolvePatchState, loadStoredPatchState } from "./patch.js";
@@ -132,6 +132,25 @@ async function main(): Promise<void> {
   // own matchup feed (plus the global tag index for reasons).
   const counteredBy = new Map<number, CounterEntry[]>();
   const counters = new Map<number, CounterEntry[]>();
+
+  /** Fill `reason`/`reason_th` for one hero's sorted list, rotating phrasings per rule. */
+  const assignCounterReasons = (
+    list: CounterEntry[],
+    pair: (opp: HeroTags) => [HeroTags, HeroTags],
+    lead: "winner" | "loser",
+  ): void => {
+    const seen = new Map<number, number>();
+    for (const e of list) {
+      const opp = tags.get(e.hero_id);
+      if (!opp) continue;
+      const [w, l] = pair(opp);
+      const rule = counterRuleIndex(w, l);
+      const variant = seen.get(rule) ?? 0;
+      seen.set(rule, variant + 1);
+      e.reason = counterReason(w, l, { lead, variant });
+      e.reason_th = counterReasonTh(w, l, { lead, variant });
+    }
+  };
   const recommendedItems = new Map<number, RecommendedItemEntry[]>();
   const failedHeroes: string[] = [];
   const stats = { fetched: 0, cachedFresh: 0, cachedStale: 0, failed: 0 };
@@ -200,27 +219,20 @@ async function main(): Promise<void> {
 
     for (const m of matchups) {
       if (m.games_played < config.minGames) continue; // drop noisy small samples
-      const oppTags = tags.get(m.hero_id);
-      if (!oppTags) continue;
+      if (!tags.get(m.hero_id)) continue;
 
-      const wr = m.wins / m.games_played;
-      const delta = wr - overall;
+      // Empirical-Bayes shrinkage: pretend each matchup also had `shrinkGames` games at the
+      // hero's overall win rate. Small samples get pulled hard toward 0 (a 30-game fluke no
+      // longer reads as -23%), large samples barely move, and ranking favours matchups that are
+      // both strong AND well-evidenced.
+      //   shrunkWr - overall = (wins - games*overall) / (games + k)
+      const delta = (m.wins - m.games_played * overall) / (m.games_played + config.shrinkGames);
       if (delta < 0) {
         // The opponent beats this hero -> opponent counters h.
-        counteredBy.get(h.id)!.push({
-          hero_id: m.hero_id,
-          delta: round4(delta),
-          reason: counterReason(oppTags, hTags),
-          reason_th: counterReasonTh(oppTags, hTags),
-        });
+        counteredBy.get(h.id)!.push({ hero_id: m.hero_id, delta: round4(delta), reason: "", reason_th: "" });
       } else if (delta > 0) {
         // This hero beats the opponent.
-        counters.get(h.id)!.push({
-          hero_id: m.hero_id,
-          delta: round4(delta),
-          reason: counterReason(hTags, oppTags),
-          reason_th: counterReasonTh(hTags, oppTags),
-        });
+        counters.get(h.id)!.push({ hero_id: m.hero_id, delta: round4(delta), reason: "", reason_th: "" });
       }
     }
 
@@ -229,8 +241,15 @@ async function main(): Promise<void> {
     // Strongest counters first = largest magnitude delta.
     cb.sort((a, b) => a.delta - b.delta); // most negative first
     co.sort((a, b) => b.delta - a.delta); // most positive first
-    counteredBy.set(h.id, cb.slice(0, config.maxCountersPerHero));
-    counters.set(h.id, co.slice(0, config.maxCountersPerHero));
+    const cbTop = cb.slice(0, config.maxCountersPerHero);
+    const coTop = co.slice(0, config.maxCountersPerHero);
+    // Reasons are written after sorting so phrasing rotates in the order users read the list.
+    // "Countered by": the opponent (winner) varies, so it leads. "Counters": the opponent
+    // (loser) varies, so it leads — h's own signature line is no longer repeated 14 times.
+    assignCounterReasons(cbTop, (opp) => [opp, hTags], "winner");
+    assignCounterReasons(coTop, (opp) => [hTags, opp], "loser");
+    counteredBy.set(h.id, cbTop);
+    counters.set(h.id, coTop);
 
     // Recommended (best-suited) items from real itemPopularity. Same cache/offline policy as
     // matchups; failures just leave this hero's recommended_items empty.
@@ -267,11 +286,18 @@ async function main(): Promise<void> {
       if (a.id === b.id) continue;
       const score = synergyScore(a, b);
       if (score >= config.minSynergyScore) {
-        list.push({ hero_id: b.id, score, reason: synergyReason(a, b), reason_th: synergyReasonTh(a, b) });
+        list.push({ hero_id: b.id, score, reason: "", reason_th: "" });
       }
     }
     list.sort((x, y) => y.score - x.score);
-    synergies.set(a.id, list.slice(0, config.maxSynergiesPerHero));
+    const top = list.slice(0, config.maxSynergiesPerHero);
+    // Alternate phrasing down the list so hero `a`'s own setup line isn't repeated every row.
+    top.forEach((e, idx) => {
+      const b = tags.get(e.hero_id)!;
+      e.reason = synergyReason(a, b, idx);
+      e.reason_th = synergyReasonTh(a, b, idx);
+    });
+    synergies.set(a.id, top);
   }
 
   // --- 4b. Role meta (per-position win/pick rates from STRATZ) ---

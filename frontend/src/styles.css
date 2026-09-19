@@ -675,6 +675,19 @@ code {
   gap: 16px;
 }
 
+/* The three columns need ~250px each for a hero name and its value to sit side by side.
+   Size by the detail pane itself (not the viewport): in the two-column desktop layout the
+   pane is only ~550px wide at 1024px, which is what made names collide with percentages. */
+.detail-pane {
+  container-type: inline-size;
+}
+@container (max-width: 780px) {
+  .detail-pane .detail__sections,
+  .detail-pane .item-panels {
+    grid-template-columns: 1fr;
+  }
+}
+
 .relation {
   background: var(--panel);
   border: 1px solid var(--border-soft);
@@ -1714,6 +1727,9 @@ code {
   .mode-nav__btn {
     flex: 1;
     justify-content: center;
+    min-width: 0;
+    padding: 11px 8px;
+    gap: 6px;
   }
 }
 

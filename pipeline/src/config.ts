@@ -93,6 +93,13 @@ export const config = {
    */
   minGames: num("MIN_GAMES", 30),
 
+  /**
+   * Shrinkage strength for matchup deltas, in "phantom games" at the hero's overall win rate.
+   * delta = (wins - games*overall) / (games + SHRINK_GAMES). With the default 100, a 30-game
+   * sample keeps ~23% of its raw delta and a 1000-game sample keeps ~91%. 0 disables it.
+   */
+  shrinkGames: num("SHRINK_GAMES", 100),
+
   /** Max counter/synergy entries kept per hero per section (sorted by strength). */
   maxCountersPerHero: num("MAX_COUNTERS", 14),
   maxSynergiesPerHero: num("MAX_SYNERGIES", 14),

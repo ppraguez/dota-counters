@@ -25,11 +25,15 @@ export function Landing({ onEnter }: Props) {
     const io = new IntersectionObserver(
       (entries) => {
         for (const e of entries) {
-          // Toggle (not just add) so chapters re-animate when scrolled back into view.
-          e.target.classList.toggle("reveal--in", e.isIntersecting);
+          // Reveal once and stay revealed. Toggling off on exit left blank gaps when scrolling
+          // back up, and a 20% threshold kept tall sections dark until well into the viewport.
+          if (e.isIntersecting) {
+            e.target.classList.add("reveal--in");
+            io.unobserve(e.target);
+          }
         }
       },
-      { threshold: 0.2, rootMargin: "0px 0px -8% 0px" },
+      { threshold: 0, rootMargin: "0px 0px -5% 0px" },
     );
     els.forEach((el) => io.observe(el));
     return () => io.disconnect();
@@ -79,9 +83,9 @@ export function Landing({ onEnter }: Props) {
           <p className="landing__chapBody">{t("landing.ch1.body")}</p>
         </div>
         <div className="landing__chapArt">
-          <MockRow name="Anti-Mage" img="antimage" value="-14.1%" meter={1} accent="danger" />
-          <MockRow name="Sven" img="sven" value="-9.4%" meter={0.66} accent="danger" />
-          <MockRow name="Lion" img="lion" value="-7.8%" meter={0.5} accent="danger" />
+          <MockRow name="Anti-Mage" img="antimage" value="-5.8%" meter={1} accent="danger" />
+          <MockRow name="Sven" img="sven" value="-4.2%" meter={0.72} accent="danger" />
+          <MockRow name="Lion" img="lion" value="-3.1%" meter={0.53} accent="danger" />
         </div>
       </section>
 
@@ -125,7 +129,7 @@ export function Landing({ onEnter }: Props) {
               <img src={hero("phantom_assassin")} alt="Phantom Assassin" />
               <div>
                 <strong>Phantom Assassin</strong>
-                <span className="landing__pickTag">+21.9% best pick</span>
+                <span className="landing__pickTag">+11.4% best pick</span>
               </div>
             </div>
           </div>
@@ -143,7 +147,9 @@ export function Landing({ onEnter }: Props) {
 
       <footer className="landing__footer muted">
         {t("landing.footer")}{" "}
-        <a href="https://www.opendota.com" target="_blank" rel="noreferrer">OpenDota</a>.
+        <a href="https://www.opendota.com" target="_blank" rel="noreferrer">OpenDota</a>{" "}
+        {t("landing.footerAnd")}{" "}
+        <a href="https://stratz.com" target="_blank" rel="noreferrer">STRATZ</a>.
       </footer>
     </div>
   );

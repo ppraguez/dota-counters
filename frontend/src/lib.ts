@@ -1,4 +1,4 @@
-import type { Hero, HeroDataFile, HeroWithId, Meta, RolesMetaByBracket } from "./types";
+import type { BracketKey, Hero, HeroDataFile, HeroWithId, Meta, RolesMeta, RolesMetaByBracket } from "./types";
 
 export interface LoadedData {
   meta: Meta;
@@ -27,7 +27,22 @@ export async function loadHeroData(): Promise<LoadedData> {
   const byId = new Map<number, HeroWithId>();
   for (const h of heroes) byId.set(h.id, h);
 
-  return { meta: raw.meta, heroes, byId, rolesMeta: raw.roles_meta ?? null };
+  return { meta: raw.meta, heroes, byId, rolesMeta: normalizeRolesMeta(raw.roles_meta) };
+}
+
+const BRACKET_KEYS: BracketKey[] = ["all", "crusader", "legend", "divine"];
+const EMPTY_META: RolesMeta = { source: "pub", roles: {} };
+
+/** Handle old single-bracket format (roles_meta.roles) and new per-bracket format. */
+function normalizeRolesMeta(raw: HeroDataFile["roles_meta"]): RolesMetaByBracket | null {
+  if (!raw) return null;
+  // New format: keyed by bracket key
+  if ("all" in raw) return raw as unknown as RolesMetaByBracket;
+  // Old format: single RolesMeta object — surface it under "all", others empty
+  const single = raw as unknown as RolesMeta;
+  return Object.fromEntries(
+    BRACKET_KEYS.map((k) => [k, k === "all" ? single : EMPTY_META]),
+  ) as RolesMetaByBracket;
 }
 
 /** Translate function shape (from i18n). */

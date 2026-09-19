@@ -412,6 +412,10 @@ export default function App() {
             <a href="https://www.opendota.com" target="_blank" rel="noreferrer">
               OpenDota
             </a>
+            {t("footer.and")}
+            <a href="https://stratz.com" target="_blank" rel="noreferrer">
+              STRATZ
+            </a>
             {t("footer.post")}
           </>
         ) : (
@@ -419,6 +423,10 @@ export default function App() {
             {t("footer.fallbackPre")}
             <a href="https://www.opendota.com" target="_blank" rel="noreferrer">
               OpenDota
+            </a>
+            {t("footer.and")}
+            <a href="https://stratz.com" target="_blank" rel="noreferrer">
+              STRATZ
             </a>
             {t("footer.fallbackPost")}
           </>
