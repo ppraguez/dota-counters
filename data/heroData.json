@@ -44014,224 +44014,871 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-19T10:37:47.597Z",
+    "last_updated": "2026-09-19T12:13:14.294Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
   },
   "roles_meta": {
-    "source": "pub",
-    "roles": {
-      "pos1": [
-        {
-          "hero_id": 42,
-          "win_rate": 0.5502,
-          "pick_rate": 0.0164
-        },
-        {
-          "hero_id": 67,
-          "win_rate": 0.5447,
-          "pick_rate": 0.0518
-        },
-        {
-          "hero_id": 12,
-          "win_rate": 0.5392,
-          "pick_rate": 0.0531
-        },
-        {
-          "hero_id": 20,
-          "win_rate": 0.5371,
-          "pick_rate": 0.0111
-        },
-        {
-          "hero_id": 54,
-          "win_rate": 0.5352,
-          "pick_rate": 0.0753
-        },
-        {
-          "hero_id": 44,
-          "win_rate": 0.5272,
-          "pick_rate": 0.0583
-        },
-        {
-          "hero_id": 8,
-          "win_rate": 0.526,
-          "pick_rate": 0.0781
-        },
-        {
-          "hero_id": 94,
-          "win_rate": 0.515,
-          "pick_rate": 0.0105
-        }
-      ],
-      "pos2": [
-        {
-          "hero_id": 76,
-          "win_rate": 0.5351,
-          "pick_rate": 0.0336
-        },
-        {
-          "hero_id": 113,
-          "win_rate": 0.5293,
-          "pick_rate": 0.0192
-        },
-        {
-          "hero_id": 14,
-          "win_rate": 0.5277,
-          "pick_rate": 0.0195
-        },
-        {
-          "hero_id": 84,
-          "win_rate": 0.5256,
-          "pick_rate": 0.0101
-        },
-        {
-          "hero_id": 35,
-          "win_rate": 0.5169,
-          "pick_rate": 0.0581
-        },
-        {
-          "hero_id": 36,
-          "win_rate": 0.5138,
-          "pick_rate": 0.0367
-        },
-        {
-          "hero_id": 7,
-          "win_rate": 0.5118,
-          "pick_rate": 0.0195
-        },
-        {
-          "hero_id": 74,
-          "win_rate": 0.5101,
-          "pick_rate": 0.0689
-        }
-      ],
-      "pos3": [
-        {
-          "hero_id": 42,
-          "win_rate": 0.5552,
-          "pick_rate": 0.0366
-        },
-        {
-          "hero_id": 104,
-          "win_rate": 0.5309,
-          "pick_rate": 0.0534
-        },
-        {
-          "hero_id": 81,
-          "win_rate": 0.5247,
-          "pick_rate": 0.0146
-        },
-        {
-          "hero_id": 135,
-          "win_rate": 0.5219,
-          "pick_rate": 0.0347
-        },
-        {
-          "hero_id": 14,
-          "win_rate": 0.5215,
-          "pick_rate": 0.0314
-        },
-        {
-          "hero_id": 36,
-          "win_rate": 0.5162,
-          "pick_rate": 0.0279
-        },
-        {
-          "hero_id": 60,
-          "win_rate": 0.5153,
-          "pick_rate": 0.0306
-        },
-        {
-          "hero_id": 96,
-          "win_rate": 0.5123,
-          "pick_rate": 0.0331
-        }
-      ],
-      "pos4": [
-        {
-          "hero_id": 62,
-          "win_rate": 0.5459,
-          "pick_rate": 0.031
-        },
-        {
-          "hero_id": 88,
-          "win_rate": 0.5345,
-          "pick_rate": 0.0142
-        },
-        {
-          "hero_id": 20,
-          "win_rate": 0.5331,
-          "pick_rate": 0.0151
-        },
-        {
-          "hero_id": 9,
-          "win_rate": 0.5277,
-          "pick_rate": 0.0319
-        },
-        {
-          "hero_id": 31,
-          "win_rate": 0.5259,
-          "pick_rate": 0.015
-        },
-        {
-          "hero_id": 68,
-          "win_rate": 0.5238,
-          "pick_rate": 0.0122
-        },
-        {
-          "hero_id": 71,
-          "win_rate": 0.5229,
-          "pick_rate": 0.0451
-        },
-        {
-          "hero_id": 30,
-          "win_rate": 0.5226,
-          "pick_rate": 0.0236
-        }
-      ],
-      "pos5": [
-        {
-          "hero_id": 20,
-          "win_rate": 0.5351,
-          "pick_rate": 0.0176
-        },
-        {
-          "hero_id": 31,
-          "win_rate": 0.5307,
-          "pick_rate": 0.032
-        },
-        {
-          "hero_id": 30,
-          "win_rate": 0.524,
-          "pick_rate": 0.0461
-        },
-        {
-          "hero_id": 68,
-          "win_rate": 0.5228,
-          "pick_rate": 0.0179
-        },
-        {
-          "hero_id": 50,
-          "win_rate": 0.5223,
-          "pick_rate": 0.0152
-        },
-        {
-          "hero_id": 27,
-          "win_rate": 0.5211,
-          "pick_rate": 0.0459
-        },
-        {
-          "hero_id": 9,
-          "win_rate": 0.5207,
-          "pick_rate": 0.0207
-        },
-        {
-          "hero_id": 5,
-          "win_rate": 0.5192,
-          "pick_rate": 0.0449
-        }
-      ]
+    "all": {
+      "source": "pub",
+      "roles": {
+        "pos1": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5502,
+            "pick_rate": 0.0164
+          },
+          {
+            "hero_id": 67,
+            "win_rate": 0.5447,
+            "pick_rate": 0.0518
+          },
+          {
+            "hero_id": 12,
+            "win_rate": 0.5392,
+            "pick_rate": 0.0531
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5371,
+            "pick_rate": 0.0111
+          },
+          {
+            "hero_id": 54,
+            "win_rate": 0.5352,
+            "pick_rate": 0.0753
+          },
+          {
+            "hero_id": 44,
+            "win_rate": 0.5272,
+            "pick_rate": 0.0583
+          },
+          {
+            "hero_id": 8,
+            "win_rate": 0.526,
+            "pick_rate": 0.0781
+          },
+          {
+            "hero_id": 94,
+            "win_rate": 0.515,
+            "pick_rate": 0.0105
+          }
+        ],
+        "pos2": [
+          {
+            "hero_id": 76,
+            "win_rate": 0.5351,
+            "pick_rate": 0.0336
+          },
+          {
+            "hero_id": 113,
+            "win_rate": 0.5293,
+            "pick_rate": 0.0192
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5277,
+            "pick_rate": 0.0195
+          },
+          {
+            "hero_id": 84,
+            "win_rate": 0.5256,
+            "pick_rate": 0.0101
+          },
+          {
+            "hero_id": 35,
+            "win_rate": 0.5169,
+            "pick_rate": 0.0581
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5138,
+            "pick_rate": 0.0367
+          },
+          {
+            "hero_id": 7,
+            "win_rate": 0.5118,
+            "pick_rate": 0.0195
+          },
+          {
+            "hero_id": 74,
+            "win_rate": 0.5101,
+            "pick_rate": 0.0689
+          }
+        ],
+        "pos3": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5552,
+            "pick_rate": 0.0366
+          },
+          {
+            "hero_id": 104,
+            "win_rate": 0.5309,
+            "pick_rate": 0.0534
+          },
+          {
+            "hero_id": 81,
+            "win_rate": 0.5247,
+            "pick_rate": 0.0146
+          },
+          {
+            "hero_id": 135,
+            "win_rate": 0.5219,
+            "pick_rate": 0.0347
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5215,
+            "pick_rate": 0.0314
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5162,
+            "pick_rate": 0.0279
+          },
+          {
+            "hero_id": 60,
+            "win_rate": 0.5153,
+            "pick_rate": 0.0306
+          },
+          {
+            "hero_id": 96,
+            "win_rate": 0.5123,
+            "pick_rate": 0.0331
+          }
+        ],
+        "pos4": [
+          {
+            "hero_id": 62,
+            "win_rate": 0.5459,
+            "pick_rate": 0.031
+          },
+          {
+            "hero_id": 88,
+            "win_rate": 0.5345,
+            "pick_rate": 0.0142
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5331,
+            "pick_rate": 0.0151
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.5277,
+            "pick_rate": 0.0319
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5259,
+            "pick_rate": 0.015
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.5238,
+            "pick_rate": 0.0122
+          },
+          {
+            "hero_id": 71,
+            "win_rate": 0.5229,
+            "pick_rate": 0.0451
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.5226,
+            "pick_rate": 0.0236
+          }
+        ],
+        "pos5": [
+          {
+            "hero_id": 20,
+            "win_rate": 0.5351,
+            "pick_rate": 0.0176
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5307,
+            "pick_rate": 0.032
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.524,
+            "pick_rate": 0.0461
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.5228,
+            "pick_rate": 0.0179
+          },
+          {
+            "hero_id": 50,
+            "win_rate": 0.5223,
+            "pick_rate": 0.0152
+          },
+          {
+            "hero_id": 27,
+            "win_rate": 0.5211,
+            "pick_rate": 0.0459
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.5207,
+            "pick_rate": 0.0207
+          },
+          {
+            "hero_id": 5,
+            "win_rate": 0.5192,
+            "pick_rate": 0.0449
+          }
+        ]
+      }
+    },
+    "crusader": {
+      "source": "pub",
+      "roles": {
+        "pos1": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5652,
+            "pick_rate": 0.016
+          },
+          {
+            "hero_id": 67,
+            "win_rate": 0.5556,
+            "pick_rate": 0.0454
+          },
+          {
+            "hero_id": 95,
+            "win_rate": 0.5471,
+            "pick_rate": 0.0115
+          },
+          {
+            "hero_id": 12,
+            "win_rate": 0.5448,
+            "pick_rate": 0.0493
+          },
+          {
+            "hero_id": 44,
+            "win_rate": 0.5384,
+            "pick_rate": 0.0688
+          },
+          {
+            "hero_id": 54,
+            "win_rate": 0.5357,
+            "pick_rate": 0.0493
+          },
+          {
+            "hero_id": 48,
+            "win_rate": 0.5254,
+            "pick_rate": 0.0322
+          },
+          {
+            "hero_id": 8,
+            "win_rate": 0.5234,
+            "pick_rate": 0.0707
+          }
+        ],
+        "pos2": [
+          {
+            "hero_id": 84,
+            "win_rate": 0.5466,
+            "pick_rate": 0.0109
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5354,
+            "pick_rate": 0.0216
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.533,
+            "pick_rate": 0.0378
+          },
+          {
+            "hero_id": 35,
+            "win_rate": 0.5299,
+            "pick_rate": 0.0623
+          },
+          {
+            "hero_id": 113,
+            "win_rate": 0.5192,
+            "pick_rate": 0.0208
+          },
+          {
+            "hero_id": 61,
+            "win_rate": 0.5188,
+            "pick_rate": 0.0102
+          },
+          {
+            "hero_id": 76,
+            "win_rate": 0.5173,
+            "pick_rate": 0.0233
+          },
+          {
+            "hero_id": 56,
+            "win_rate": 0.5125,
+            "pick_rate": 0.0119
+          }
+        ],
+        "pos3": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5692,
+            "pick_rate": 0.0355
+          },
+          {
+            "hero_id": 81,
+            "win_rate": 0.5328,
+            "pick_rate": 0.0188
+          },
+          {
+            "hero_id": 104,
+            "win_rate": 0.5322,
+            "pick_rate": 0.0486
+          },
+          {
+            "hero_id": 108,
+            "win_rate": 0.529,
+            "pick_rate": 0.0254
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5285,
+            "pick_rate": 0.0231
+          },
+          {
+            "hero_id": 99,
+            "win_rate": 0.5276,
+            "pick_rate": 0.0406
+          },
+          {
+            "hero_id": 96,
+            "win_rate": 0.5271,
+            "pick_rate": 0.023
+          },
+          {
+            "hero_id": 29,
+            "win_rate": 0.527,
+            "pick_rate": 0.0225
+          }
+        ],
+        "pos4": [
+          {
+            "hero_id": 9,
+            "win_rate": 0.5362,
+            "pick_rate": 0.0179
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5353,
+            "pick_rate": 0.0158
+          },
+          {
+            "hero_id": 5,
+            "win_rate": 0.5331,
+            "pick_rate": 0.0227
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5312,
+            "pick_rate": 0.0147
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.5312,
+            "pick_rate": 0.0266
+          },
+          {
+            "hero_id": 88,
+            "win_rate": 0.5305,
+            "pick_rate": 0.011
+          },
+          {
+            "hero_id": 84,
+            "win_rate": 0.529,
+            "pick_rate": 0.0335
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.5278,
+            "pick_rate": 0.0127
+          }
+        ],
+        "pos5": [
+          {
+            "hero_id": 20,
+            "win_rate": 0.5432,
+            "pick_rate": 0.0178
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5403,
+            "pick_rate": 0.0237
+          },
+          {
+            "hero_id": 5,
+            "win_rate": 0.5335,
+            "pick_rate": 0.0449
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.5323,
+            "pick_rate": 0.0435
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.532,
+            "pick_rate": 0.0157
+          },
+          {
+            "hero_id": 84,
+            "win_rate": 0.5259,
+            "pick_rate": 0.0328
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.524,
+            "pick_rate": 0.0145
+          },
+          {
+            "hero_id": 75,
+            "win_rate": 0.5228,
+            "pick_rate": 0.0167
+          }
+        ]
+      }
+    },
+    "legend": {
+      "source": "pub",
+      "roles": {
+        "pos1": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5456,
+            "pick_rate": 0.0174
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5447,
+            "pick_rate": 0.0121
+          },
+          {
+            "hero_id": 67,
+            "win_rate": 0.5426,
+            "pick_rate": 0.0553
+          },
+          {
+            "hero_id": 12,
+            "win_rate": 0.5391,
+            "pick_rate": 0.0537
+          },
+          {
+            "hero_id": 54,
+            "win_rate": 0.5374,
+            "pick_rate": 0.0801
+          },
+          {
+            "hero_id": 8,
+            "win_rate": 0.5264,
+            "pick_rate": 0.0821
+          },
+          {
+            "hero_id": 44,
+            "win_rate": 0.5242,
+            "pick_rate": 0.0613
+          },
+          {
+            "hero_id": 94,
+            "win_rate": 0.5153,
+            "pick_rate": 0.0116
+          }
+        ],
+        "pos2": [
+          {
+            "hero_id": 76,
+            "win_rate": 0.5385,
+            "pick_rate": 0.0345
+          },
+          {
+            "hero_id": 113,
+            "win_rate": 0.5344,
+            "pick_rate": 0.0187
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5261,
+            "pick_rate": 0.0205
+          },
+          {
+            "hero_id": 84,
+            "win_rate": 0.5188,
+            "pick_rate": 0.0115
+          },
+          {
+            "hero_id": 35,
+            "win_rate": 0.5173,
+            "pick_rate": 0.0619
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5126,
+            "pick_rate": 0.038
+          },
+          {
+            "hero_id": 90,
+            "win_rate": 0.5113,
+            "pick_rate": 0.0162
+          },
+          {
+            "hero_id": 7,
+            "win_rate": 0.5108,
+            "pick_rate": 0.0188
+          }
+        ],
+        "pos3": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5525,
+            "pick_rate": 0.0412
+          },
+          {
+            "hero_id": 104,
+            "win_rate": 0.5308,
+            "pick_rate": 0.0583
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5241,
+            "pick_rate": 0.0327
+          },
+          {
+            "hero_id": 135,
+            "win_rate": 0.5232,
+            "pick_rate": 0.0355
+          },
+          {
+            "hero_id": 81,
+            "win_rate": 0.5221,
+            "pick_rate": 0.0147
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5146,
+            "pick_rate": 0.0299
+          },
+          {
+            "hero_id": 96,
+            "win_rate": 0.5135,
+            "pick_rate": 0.037
+          },
+          {
+            "hero_id": 60,
+            "win_rate": 0.5134,
+            "pick_rate": 0.0314
+          }
+        ],
+        "pos4": [
+          {
+            "hero_id": 62,
+            "win_rate": 0.5416,
+            "pick_rate": 0.0286
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5361,
+            "pick_rate": 0.0162
+          },
+          {
+            "hero_id": 88,
+            "win_rate": 0.5355,
+            "pick_rate": 0.0144
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.5347,
+            "pick_rate": 0.0333
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.5268,
+            "pick_rate": 0.0133
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5263,
+            "pick_rate": 0.0156
+          },
+          {
+            "hero_id": 22,
+            "win_rate": 0.524,
+            "pick_rate": 0.0258
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.5224,
+            "pick_rate": 0.0254
+          }
+        ],
+        "pos5": [
+          {
+            "hero_id": 20,
+            "win_rate": 0.5331,
+            "pick_rate": 0.0189
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5295,
+            "pick_rate": 0.0328
+          },
+          {
+            "hero_id": 50,
+            "win_rate": 0.525,
+            "pick_rate": 0.0158
+          },
+          {
+            "hero_id": 30,
+            "win_rate": 0.5246,
+            "pick_rate": 0.0512
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.5241,
+            "pick_rate": 0.0212
+          },
+          {
+            "hero_id": 68,
+            "win_rate": 0.5234,
+            "pick_rate": 0.0193
+          },
+          {
+            "hero_id": 27,
+            "win_rate": 0.5224,
+            "pick_rate": 0.0484
+          },
+          {
+            "hero_id": 121,
+            "win_rate": 0.5201,
+            "pick_rate": 0.0167
+          }
+        ]
+      }
+    },
+    "divine": {
+      "source": "pub",
+      "roles": {
+        "pos1": [
+          {
+            "hero_id": 42,
+            "win_rate": 0.5393,
+            "pick_rate": 0.0153
+          },
+          {
+            "hero_id": 67,
+            "win_rate": 0.5366,
+            "pick_rate": 0.054
+          },
+          {
+            "hero_id": 12,
+            "win_rate": 0.5334,
+            "pick_rate": 0.0569
+          },
+          {
+            "hero_id": 54,
+            "win_rate": 0.5318,
+            "pick_rate": 0.0999
+          },
+          {
+            "hero_id": 36,
+            "win_rate": 0.5308,
+            "pick_rate": 0.0116
+          },
+          {
+            "hero_id": 8,
+            "win_rate": 0.5282,
+            "pick_rate": 0.0806
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5195,
+            "pick_rate": 0.0139
+          },
+          {
+            "hero_id": 18,
+            "win_rate": 0.5162,
+            "pick_rate": 0.0393
+          }
+        ],
+        "pos2": [
+          {
+            "hero_id": 76,
+            "win_rate": 0.5423,
+            "pick_rate": 0.0451
+          },
+          {
+            "hero_id": 113,
+            "win_rate": 0.5349,
+            "pick_rate": 0.0179
+          },
+          {
+            "hero_id": 90,
+            "win_rate": 0.5331,
+            "pick_rate": 0.0194
+          },
+          {
+            "hero_id": 49,
+            "win_rate": 0.5265,
+            "pick_rate": 0.0135
+          },
+          {
+            "hero_id": 107,
+            "win_rate": 0.5229,
+            "pick_rate": 0.0235
+          },
+          {
+            "hero_id": 74,
+            "win_rate": 0.5219,
+            "pick_rate": 0.0823
+          },
+          {
+            "hero_id": 7,
+            "win_rate": 0.5179,
+            "pick_rate": 0.0216
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.5176,
+            "pick_rate": 0.015
+          }
+        ],
+        "pos3": [
+          {
+            "hero_id": 33,
+            "win_rate": 0.5602,
+            "pick_rate": 0.015
+          },
+          {
+            "hero_id": 42,
+            "win_rate": 0.5407,
+            "pick_rate": 0.0302
+          },
+          {
+            "hero_id": 104,
+            "win_rate": 0.5295,
+            "pick_rate": 0.0508
+          },
+          {
+            "hero_id": 60,
+            "win_rate": 0.5279,
+            "pick_rate": 0.0436
+          },
+          {
+            "hero_id": 14,
+            "win_rate": 0.526,
+            "pick_rate": 0.0316
+          },
+          {
+            "hero_id": 135,
+            "win_rate": 0.5196,
+            "pick_rate": 0.0496
+          },
+          {
+            "hero_id": 49,
+            "win_rate": 0.5174,
+            "pick_rate": 0.0166
+          },
+          {
+            "hero_id": 21,
+            "win_rate": 0.5143,
+            "pick_rate": 0.0128
+          }
+        ],
+        "pos4": [
+          {
+            "hero_id": 62,
+            "win_rate": 0.5687,
+            "pick_rate": 0.0464
+          },
+          {
+            "hero_id": 88,
+            "win_rate": 0.5362,
+            "pick_rate": 0.018
+          },
+          {
+            "hero_id": 71,
+            "win_rate": 0.5273,
+            "pick_rate": 0.0501
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5227,
+            "pick_rate": 0.0121
+          },
+          {
+            "hero_id": 27,
+            "win_rate": 0.5203,
+            "pick_rate": 0.0159
+          },
+          {
+            "hero_id": 121,
+            "win_rate": 0.5194,
+            "pick_rate": 0.0154
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.518,
+            "pick_rate": 0.0143
+          },
+          {
+            "hero_id": 7,
+            "win_rate": 0.516,
+            "pick_rate": 0.0225
+          }
+        ],
+        "pos5": [
+          {
+            "hero_id": 50,
+            "win_rate": 0.5342,
+            "pick_rate": 0.0152
+          },
+          {
+            "hero_id": 20,
+            "win_rate": 0.5274,
+            "pick_rate": 0.015
+          },
+          {
+            "hero_id": 31,
+            "win_rate": 0.5255,
+            "pick_rate": 0.0409
+          },
+          {
+            "hero_id": 71,
+            "win_rate": 0.5193,
+            "pick_rate": 0.0102
+          },
+          {
+            "hero_id": 121,
+            "win_rate": 0.5192,
+            "pick_rate": 0.0196
+          },
+          {
+            "hero_id": 27,
+            "win_rate": 0.5186,
+            "pick_rate": 0.04
+          },
+          {
+            "hero_id": 111,
+            "win_rate": 0.518,
+            "pick_rate": 0.0175
+          },
+          {
+            "hero_id": 9,
+            "win_rate": 0.514,
+            "pick_rate": 0.0275
+          }
+        ]
+      }
     }
   }
 }
