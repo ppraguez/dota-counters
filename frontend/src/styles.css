@@ -815,7 +815,8 @@ code {
   font-size: 0.86rem;
   font-weight: 600;
   flex: 1;
-  min-width: 0;
+  /* auto (not 0): never shrink below the longest word, or the name spills into the value. */
+  min-width: auto;
 }
 
 .row__value {
