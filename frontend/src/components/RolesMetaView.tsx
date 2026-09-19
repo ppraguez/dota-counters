@@ -1,12 +1,12 @@
-import type { HeroWithId, RolesMeta } from "../types";
+import { useState } from "react";
+import type { BracketKey, HeroWithId, RolesMetaByBracket } from "../types";
 import { useI18n } from "../i18n";
 import { HeroAvatar } from "./HeroAvatar";
 
-// Lane positions in display order — keys match the pipeline's roles_meta output.
 const ROLE_ORDER = ["pos1", "pos2", "pos3", "pos4", "pos5"];
 
-// Map a win rate to a 0..1 bar fill, anchored to a 46%–56% window so the
-// spread between ~50% and ~54% reads clearly (a raw 0–100% bar would barely move).
+const BRACKET_KEYS: BracketKey[] = ["all", "crusader", "legend", "divine"];
+
 function meterOf(winRate: number): number {
   const v = (winRate - 0.46) / (0.56 - 0.46);
   return Math.max(0.06, Math.min(1, v));
@@ -15,20 +15,38 @@ function meterOf(winRate: number): number {
 const pct = (n: number): string => `${(n * 100).toFixed(1)}%`;
 
 interface Props {
-  rolesMeta: RolesMeta;
+  rolesMeta: RolesMetaByBracket;
   byId: Map<number, HeroWithId>;
   onSelect: (id: number) => void;
 }
 
 export function RolesMetaView({ rolesMeta, byId, onSelect }: Props) {
   const { t } = useI18n();
-  const roles = ROLE_ORDER.filter((r) => (rolesMeta.roles[r]?.length ?? 0) > 0);
+  const [bracket, setBracket] = useState<BracketKey>("all");
+
+  const current = rolesMeta[bracket];
+  const roles = ROLE_ORDER.filter((r) => (current?.roles[r]?.length ?? 0) > 0);
 
   return (
     <section className="meta">
       <header className="meta__head">
         <h2 className="meta__title">{t("meta.title")}</h2>
         <p className="meta__subtitle muted">{t("meta.subtitle")}</p>
+
+        <div className="meta__brackets" role="tablist" aria-label={t("meta.bracketLabel")}>
+          {BRACKET_KEYS.map((bKey) => (
+            <button
+              key={bKey}
+              type="button"
+              role="tab"
+              aria-selected={bracket === bKey}
+              className={`meta__bracket-btn ${bracket === bKey ? "meta__bracket-btn--active" : ""}`}
+              onClick={() => setBracket(bKey)}
+            >
+              {t(`meta.bracket.${bKey}`)}
+            </button>
+          ))}
+        </div>
       </header>
 
       <div className="meta__grid">
@@ -36,7 +54,7 @@ export function RolesMetaView({ rolesMeta, byId, onSelect }: Props) {
           <div key={role} className="meta-card">
             <h3 className="meta-card__title">{t(`meta.${role}`)}</h3>
             <ol className="meta-card__list">
-              {(rolesMeta.roles[role] ?? []).map((e, i) => {
+              {(current?.roles[role] ?? []).map((e, i) => {
                 const hero = byId.get(e.hero_id);
                 const name = hero?.localized_name ?? t("detail.heroFallback", { id: e.hero_id });
                 return (

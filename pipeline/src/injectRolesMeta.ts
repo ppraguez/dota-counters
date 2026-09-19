@@ -25,8 +25,8 @@ async function main(): Promise<void> {
   const stats = await fetchPositionStats();
   await writePositionStatsCache(stats);
   const rolesMeta = buildRolesMeta(stats);
-  const total = Object.values(rolesMeta.roles).reduce((a, r) => a + r.length, 0);
-  console.log(`Built role meta: ${total} entries across ${Object.keys(rolesMeta.roles).length} positions.`);
+  const total = Object.values(rolesMeta).flatMap((b) => Object.values(b.roles)).reduce((a, r) => a + r.length, 0);
+  console.log(`Built role meta: ${total} entries across 4 bracket groups × 5 positions.`);
 
   for (const path of targets) {
     const data = JSON.parse(await fs.readFile(path, "utf8")) as HeroDataFile;

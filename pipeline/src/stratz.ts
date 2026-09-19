@@ -1,39 +1,48 @@
 /**
  * STRATZ GraphQL client for position-based hero stats.
  *
- * OpenDota only exposes capability-role tags (Carry/Support/Nuker…), not lane
- * position, so a flexible hero floods every list. STRATZ has true per-position
- * win/pick rates (POSITION_1..5 = carry / mid / offlane / soft sup / hard sup),
- * which is what the role meta needs.
+ * Fetches per-position win/pick data for four bracket groups in a single
+ * GraphQL request (via aliases) so the IP-lock only applies once per run.
  *
- * IMPORTANT: STRATZ binds a token to the caller's IP and rejects requests from a
- * different IP ("You cannot use different IP Addresses"). We therefore fetch all
- * five positions in a SINGLE request (GraphQL aliases) so one pipeline run only
- * ever touches one IP.
+ * Bracket groups:
+ *   all      — Herald → Immortal (full player base)
+ *   crusader — Herald → Crusader (low skill)
+ *   legend   — Archon  → Legend  (mid skill)
+ *   divine   — Ancient → Immortal (high skill)
  */
 import { config } from "./config.js";
-import type { PositionKey, PositionStats, StratzPositionRow } from "./types.js";
+import type { BracketKey, BracketPositionStats, PositionKey, PositionStats, StratzPositionRow } from "./types.js";
 
 const POSITIONS: PositionKey[] = ["pos1", "pos2", "pos3", "pos4", "pos5"];
 
-// All skill brackets for overall meta across the full player base.
-const BRACKETS = "[HERALD, GUARDIAN, CRUSADER, ARCHON, LEGEND, ANCIENT, DIVINE, IMMORTAL]";
+export const BRACKET_GROUPS: Record<BracketKey, string> = {
+  all:      "[HERALD, GUARDIAN, CRUSADER, ARCHON, LEGEND, ANCIENT, DIVINE, IMMORTAL]",
+  crusader: "[HERALD, GUARDIAN, CRUSADER]",
+  legend:   "[ARCHON, LEGEND]",
+  divine:   "[ANCIENT, DIVINE, IMMORTAL]",
+};
+
+const BRACKET_KEYS = Object.keys(BRACKET_GROUPS) as BracketKey[];
 
 function buildQuery(): string {
-  const field = (key: PositionKey, n: number) =>
-    `${key}: winWeek(take: 1, positionIds: [POSITION_${n}], bracketIds: ${BRACKETS}) ` +
-    `{ heroId matchCount winCount }`;
-  const fields = POSITIONS.map((k, i) => field(k, i + 1)).join(" ");
-  return `{ heroStats { ${fields} } }`;
+  const fields: string[] = [];
+  for (const [bKey, brackets] of Object.entries(BRACKET_GROUPS)) {
+    for (const [i, posKey] of POSITIONS.entries()) {
+      fields.push(
+        `${bKey}_${posKey}: winWeek(take: 1, positionIds: [POSITION_${i + 1}], bracketIds: ${brackets}) { heroId matchCount winCount }`,
+      );
+    }
+  }
+  return `{ heroStats { ${fields.join(" ")} } }`;
 }
 
 interface GraphQLResponse {
-  data?: { heroStats?: Partial<Record<PositionKey, StratzPositionRow[]>> };
+  data?: { heroStats?: Record<string, StratzPositionRow[]> };
   errors?: { message: string }[];
 }
 
-/** Fetch per-position hero win/pick rows in one request. Throws on any failure. */
-export async function fetchPositionStats(): Promise<PositionStats> {
+/** Fetch per-position hero win/pick rows for all bracket groups in one request. */
+export async function fetchPositionStats(): Promise<BracketPositionStats> {
   if (!config.stratzToken) {
     throw new Error("no STRATZ token (set STRATZ_API_TOKEN or pipeline/.stratz-token)");
   }
@@ -47,7 +56,6 @@ export async function fetchPositionStats(): Promise<PositionStats> {
       headers: {
         Authorization: `Bearer ${config.stratzToken}`,
         "Content-Type": "application/json",
-        // STRATZ rejects the default fetch UA; this identifies us as an API client.
         "User-Agent": "STRATZ_API",
       },
       body: JSON.stringify({ query: buildQuery() }),
@@ -66,7 +74,6 @@ export async function fetchPositionStats(): Promise<PositionStats> {
   try {
     json = JSON.parse(text) as GraphQLResponse;
   } catch {
-    // STRATZ returns plaintext for some errors (e.g. the IP-lock message).
     throw new Error(`STRATZ non-JSON response: ${text.slice(0, 160)}`);
   }
   if (json.errors?.length) {
@@ -76,13 +83,18 @@ export async function fetchPositionStats(): Promise<PositionStats> {
   const hs = json.data?.heroStats;
   if (!hs) throw new Error("STRATZ response missing heroStats");
 
-  const out = {} as PositionStats;
-  for (const key of POSITIONS) {
-    const rows = hs[key];
-    if (!Array.isArray(rows) || rows.length === 0) {
-      throw new Error(`STRATZ response missing rows for ${key}`);
+  const out = {} as BracketPositionStats;
+  for (const bKey of BRACKET_KEYS) {
+    const posStats = {} as PositionStats;
+    for (const posKey of POSITIONS) {
+      const alias = `${bKey}_${posKey}`;
+      const rows = hs[alias];
+      if (!Array.isArray(rows) || rows.length === 0) {
+        throw new Error(`STRATZ response missing rows for ${alias}`);
+      }
+      posStats[posKey] = rows;
     }
-    out[key] = rows;
+    out[bKey] = posStats;
   }
   return out;
 }

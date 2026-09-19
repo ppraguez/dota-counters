@@ -44,6 +44,13 @@
   "meta": {
     "title": "Current meta by position",
     "subtitle": "Strongest heroes in each position right now, ranked by win rate from real ranked matches.",
+    "bracketLabel": "Rank bracket",
+    "bracket": {
+      "all": "All Ranks",
+      "crusader": "Herald–Crusader",
+      "legend": "Archon–Legend",
+      "divine": "Ancient–Immortal"
+    },
     "pos1": "Pos 1 · Carry",
     "pos2": "Pos 2 · Mid",
     "pos3": "Pos 3 · Offlane",

@@ -1358,6 +1358,38 @@ code {
   max-width: 680px;
 }
 
+.meta__brackets {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 14px;
+}
+
+.meta__bracket-btn {
+  appearance: none;
+  background: var(--panel-2);
+  border: 1px solid var(--border-soft);
+  border-radius: 999px;
+  color: var(--muted-2);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 5px 14px;
+  transition: background 0.14s, border-color 0.14s, color 0.14s;
+}
+
+.meta__bracket-btn:hover {
+  border-color: var(--synergy);
+  color: var(--text);
+}
+
+.meta__bracket-btn--active {
+  background: var(--synergy);
+  border-color: var(--synergy);
+  color: #000;
+}
+
 .meta__grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

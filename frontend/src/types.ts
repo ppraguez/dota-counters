@@ -81,16 +81,22 @@ export interface RolesMetaEntry {
   pick_rate: number;
 }
 
-/** Current meta heroes per role, derived from OpenDota /heroStats. */
+/** Current meta heroes per role for one bracket group. */
 export interface RolesMeta {
   source: string;
   roles: Record<string, RolesMetaEntry[]>;
 }
 
+/** Bracket keys for the rank filter. */
+export type BracketKey = "all" | "crusader" | "legend" | "divine";
+
+/** Meta tier lists keyed by bracket group. */
+export type RolesMetaByBracket = Record<BracketKey, RolesMeta>;
+
 /** Raw file: { meta, roles_meta?, "1": Hero, "2": Hero, ... } */
-export type HeroDataFile = { meta: Meta; roles_meta?: RolesMeta } & Record<
+export type HeroDataFile = { meta: Meta; roles_meta?: RolesMetaByBracket } & Record<
   string,
-  Hero | Meta | RolesMeta | undefined
+  Hero | Meta | RolesMetaByBracket | undefined
 >;
 
 /** A hero with its id attached, used throughout the UI. */

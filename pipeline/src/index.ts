@@ -294,8 +294,8 @@ async function main(): Promise<void> {
       }
     }
     rolesMeta = buildRolesMeta(posStats);
-    const counts = Object.values(rolesMeta.roles).map((r) => r.length);
-    console.log(`  role meta: ${counts.reduce((a, b) => a + b, 0)} entries across ${counts.length} positions`);
+    const totalEntries = Object.values(rolesMeta).flatMap((b) => Object.values(b.roles)).reduce((a, r) => a + r.length, 0);
+    console.log(`  role meta: ${totalEntries} entries across 4 bracket groups × 5 positions`);
   } catch (err) {
     console.warn(`  ✗ role meta unavailable: ${(err as Error).message}`);
   }

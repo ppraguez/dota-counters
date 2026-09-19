@@ -1,10 +1,10 @@
-import type { Hero, HeroDataFile, HeroWithId, Meta, RolesMeta } from "./types";
+import type { Hero, HeroDataFile, HeroWithId, Meta, RolesMetaByBracket } from "./types";
 
 export interface LoadedData {
   meta: Meta;
   heroes: HeroWithId[];
   byId: Map<number, HeroWithId>;
-  rolesMeta: RolesMeta | null;
+  rolesMeta: RolesMetaByBracket | null;
 }
 
 /** Fetch + normalize heroData.json into a list + id lookup. */

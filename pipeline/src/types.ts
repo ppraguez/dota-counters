@@ -149,18 +149,24 @@ export interface RolesMetaEntry {
 
 /** Current meta heroes per role, derived from OpenDota /heroStats. */
 export interface RolesMeta {
-  /** Skill population the rates come from, e.g. "high_skill" (Ancient+Divine+Immortal). */
+  /** Skill population the rates come from, e.g. "pub". */
   source: string;
   /** Role name -> ranked meta entries (strongest first). */
   roles: Record<string, RolesMetaEntry[]>;
 }
 
+/** Bracket keys used for the rank filter. */
+export type BracketKey = "all" | "crusader" | "legend" | "divine";
+
+/** Meta tier lists keyed by bracket group. */
+export type RolesMetaByBracket = Record<BracketKey, RolesMeta>;
+
 export interface HeroDataFile {
   meta: OutputMeta;
-  /** Per-role meta tier lists (optional — omitted if /heroStats was unavailable). */
-  roles_meta?: RolesMeta;
+  /** Per-role meta tier lists per bracket group (optional — omitted if STRATZ was unavailable). */
+  roles_meta?: RolesMetaByBracket;
   /** Keyed by stringified hero id. */
-  [heroId: string]: HeroOutput | OutputMeta | RolesMeta | undefined;
+  [heroId: string]: HeroOutput | OutputMeta | RolesMetaByBracket | undefined;
 }
 
 /** One hero's win/pick totals in a single position (from STRATZ heroStats.winWeek). */
@@ -172,8 +178,11 @@ export interface StratzPositionRow {
 
 export type PositionKey = "pos1" | "pos2" | "pos3" | "pos4" | "pos5";
 
-/** Per-position hero rows, aggregated over the Herald–Legend brackets. */
+/** Per-position hero rows for one bracket group. */
 export type PositionStats = Record<PositionKey, StratzPositionRow[]>;
+
+/** Per-position stats keyed by bracket group. */
+export type BracketPositionStats = Record<BracketKey, PositionStats>;
 
 /** Persisted patch-detection state (data/patchState.json). */
 export interface PatchState {
