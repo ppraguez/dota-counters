@@ -19572,171 +19572,171 @@
     "countered_by": [
       {
         "hero_id": 90,
-        "delta": -0.05,
+        "delta": -0.0507,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, while Enchantress is squishy if caught without distance.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 35,
-        "delta": -0.0415,
+        "delta": -0.042,
         "reason": "Sniper kills from extreme range before melee heroes can close in, and Enchantress is squishy if caught without distance.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 8,
-        "delta": -0.0401,
+        "delta": -0.0407,
         "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks; meanwhile Enchantress is squishy if caught without distance.",
         "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
-        "hero_id": 45,
-        "delta": -0.0365,
-        "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, while Enchantress is squishy if caught without distance.",
-        "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
-      },
-      {
         "hero_id": 72,
-        "delta": -0.0362,
-        "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, and Enchantress is squishy if caught without distance.",
-        "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "delta": -0.037,
+        "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, while Enchantress is squishy if caught without distance.",
+        "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
-        "hero_id": 69,
-        "delta": -0.0305,
-        "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom; meanwhile Enchantress is squishy if caught without distance.",
-        "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
-      },
-      {
-        "hero_id": 28,
-        "delta": -0.03,
-        "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, while Enchantress is squishy if caught without distance.",
-        "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "hero_id": 45,
+        "delta": -0.0337,
+        "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, and Enchantress is squishy if caught without distance.",
+        "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 46,
-        "delta": -0.028,
-        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives, and Enchantress is squishy if caught without distance.",
-        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "delta": -0.032,
+        "reason": "Templar Assassin bursts squishy heroes through her Refraction-protected dives; meanwhile Enchantress is squishy if caught without distance.",
+        "reason_th": "Templar Assassin เบิร์สต์ฮีโร่ตัวบางผ่านการไดฟ์ที่มี Refraction ป้องกัน ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
-        "hero_id": 59,
-        "delta": -0.0267,
-        "reason": "Huskar dives low-health heroes and gets stronger the lower his HP; meanwhile Enchantress is squishy if caught without distance.",
-        "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "hero_id": 69,
+        "delta": -0.0313,
+        "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom, while Enchantress is squishy if caught without distance.",
+        "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+      },
+      {
+        "hero_id": 28,
+        "delta": -0.0312,
+        "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, and Enchantress is squishy if caught without distance.",
+        "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 110,
-        "delta": -0.0262,
-        "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, while Enchantress is squishy if caught without distance.",
-        "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "delta": -0.0272,
+        "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova; meanwhile Enchantress is squishy if caught without distance.",
+        "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+      },
+      {
+        "hero_id": 59,
+        "delta": -0.0272,
+        "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, while Enchantress is squishy if caught without distance.",
+        "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 136,
-        "delta": -0.0256,
+        "delta": -0.0263,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and Enchantress is squishy if caught without distance.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 19,
-        "delta": -0.023,
+        "delta": -0.024,
         "reason": "Tiny tosses and stuns a single target for instant burst; meanwhile Enchantress is squishy if caught without distance.",
         "reason_th": "Tiny Toss และสตันเป้าหมายเดี่ยวเพื่อเบิร์สต์ทันที ส่วน Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
         "hero_id": 10,
-        "delta": -0.0224,
+        "delta": -0.023,
         "reason": "Morphling shifts stats to burst with Adaptive Strike and dodges damage with Waveform, while Enchantress is squishy if caught without distance.",
         "reason_th": "Morphling สลับสเตตัสเพื่อเบิร์สต์ด้วย Adaptive Strike และหลบดาเมจด้วย Waveform ขณะที่ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       },
       {
-        "hero_id": 17,
-        "delta": -0.0205,
-        "reason": "Storm Spirit zips around the map with Ball Lightning to pick off stragglers, and Enchantress is squishy if caught without distance.",
-        "reason_th": "Storm Spirit ซิ่งทั่วแมพด้วย Ball Lightning เพื่อเก็บคนที่หลุดกลุ่ม และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
+        "hero_id": 52,
+        "delta": -0.0229,
+        "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and Enchantress is squishy if caught without distance.",
+        "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และ Enchantress ตัวบางถ้าโดนจับโดยไม่มีระยะ"
       }
     ],
     "counters": [
       {
         "hero_id": 22,
-        "delta": 0.049,
+        "delta": 0.0485,
         "reason": "Enchantress's disables stop Zeus from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Enchantress ทำให้ Zeus ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 15,
-        "delta": 0.0414,
+        "delta": 0.041,
         "reason": "Razor's right-clicks struggle to get through Enchantress's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Razor ตีไม่เข้าความถึกของ Enchantress"
       },
       {
         "hero_id": 31,
-        "delta": 0.0405,
+        "delta": 0.0399,
         "reason": "Lich is squishy and gets blown up quickly, and Enchantress is well placed to exploit it.",
         "reason_th": "Lich ตัวบางและถูกเก็บได้ไวมาก และ Enchantress อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 70,
-        "delta": 0.0401,
+        "delta": 0.0392,
         "reason": "Enchantress soaks Ursa's physical damage and wins the long fight.",
         "reason_th": "Enchantress รับดาเมจกายภาพของ Ursa ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
       },
       {
         "hero_id": 39,
-        "delta": 0.0375,
+        "delta": 0.0364,
         "reason": "Queen of Pain lives on escapes, and Enchantress's lockdown lands before Queen of Pain can use them.",
         "reason_th": "Queen of Pain พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Enchantress จับได้ก่อนจะหนีทัน"
       },
       {
-        "hero_id": 126,
-        "delta": 0.029,
-        "reason": "Enchantress's disables pin Void Spirit in place, taking away the mobility Void Spirit depends on.",
-        "reason_th": "สกิลคุมของ Enchantress ตรึง Void Spirit ไว้กับที่ ตัดความคล่องตัวที่ Void Spirit ต้องพึ่ง"
-      },
-      {
         "hero_id": 60,
-        "delta": 0.0271,
+        "delta": 0.0304,
         "reason": "Night Stalker is melee with no escape and easy to kite, and Enchantress's lockdown makes the early game miserable.",
         "reason_th": "Night Stalker เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และสกิลล็อกของ Enchantress ทำให้ต้นเกมลำบากมาก"
       },
       {
-        "hero_id": 51,
-        "delta": 0.026,
-        "reason": "Clockwerk is slow and can be kited, and Enchantress fights from range.",
-        "reason_th": "Clockwerk เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Enchantress สู้จากระยะไกลได้"
-      },
-      {
         "hero_id": 7,
-        "delta": 0.0259,
-        "reason": "Enchantress kites Earthshaker from range, and Earthshaker struggles to close the gap.",
-        "reason_th": "Enchantress ไคต์ Earthshaker จากระยะไกล และ Earthshaker เข้าประชิดได้ยาก"
-      },
-      {
-        "hero_id": 63,
-        "delta": 0.0256,
-        "reason": "Weaver dies to detection and AoE that catches him out of Shukuchi, and Enchantress has the lockdown to exploit that.",
-        "reason_th": "Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi และ Enchantress มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
-      },
-      {
-        "hero_id": 87,
-        "delta": 0.0249,
-        "reason": "Enchantress tends to have the edge here: Disruptor is squishy and gets blown up quickly.",
-        "reason_th": "Enchantress มักได้เปรียบในแมตช์นี้ เพราะ Disruptor ตัวบางและถูกเก็บได้ไวมาก"
+        "delta": 0.0291,
+        "reason": "Earthshaker is fragile under focus, and Enchantress fights from range.",
+        "reason_th": "Earthshaker ตัวเปราะเมื่อโดนโฟกัส ส่วน Enchantress สู้จากระยะไกลได้"
       },
       {
         "hero_id": 123,
-        "delta": 0.0232,
-        "reason": "Hoodwink lives on escapes, and Enchantress's lockdown lands before Hoodwink can use them.",
-        "reason_th": "Hoodwink พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Enchantress จับได้ก่อนจะหนีทัน"
+        "delta": 0.026,
+        "reason": "Enchantress's disables pin Hoodwink in place, taking away the mobility Hoodwink depends on.",
+        "reason_th": "สกิลคุมของ Enchantress ตรึง Hoodwink ไว้กับที่ ตัดความคล่องตัวที่ Hoodwink ต้องพึ่ง"
+      },
+      {
+        "hero_id": 126,
+        "delta": 0.0256,
+        "reason": "Void Spirit is mana-reliant and vulnerable once his escape is down, and Enchantress has the lockdown to exploit that.",
+        "reason_th": "Void Spirit พึ่งมานาและเสี่ยงเมื่อสกิลหนีหมด และ Enchantress มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+      },
+      {
+        "hero_id": 51,
+        "delta": 0.0251,
+        "reason": "Enchantress kites Clockwerk from range, and Clockwerk struggles to close the gap.",
+        "reason_th": "Enchantress ไคต์ Clockwerk จากระยะไกล และ Clockwerk เข้าประชิดได้ยาก"
+      },
+      {
+        "hero_id": 63,
+        "delta": 0.0251,
+        "reason": "Weaver lives on escapes, and Enchantress's lockdown lands before Weaver can use them.",
+        "reason_th": "Weaver พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Enchantress จับได้ก่อนจะหนีทัน"
+      },
+      {
+        "hero_id": 99,
+        "delta": 0.025,
+        "reason": "Enchantress can chain-disable Bristleback before Bristleback's items come online.",
+        "reason_th": "Enchantress ร้อยสกิลคุมใส่ Bristleback ได้ก่อนที่ไอเทมของ Bristleback จะมาครบ"
       },
       {
         "hero_id": 23,
-        "delta": 0.0228,
-        "reason": "Enchantress can chain-disable Kunkka before Kunkka's items come online.",
-        "reason_th": "Enchantress ร้อยสกิลคุมใส่ Kunkka ได้ก่อนที่ไอเทมของ Kunkka จะมาครบ"
+        "delta": 0.0223,
+        "reason": "Enchantress's disables stop Kunkka from farming freely or fighting back.",
+        "reason_th": "สกิลคุมของ Enchantress ทำให้ Kunkka ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 128,
-        "delta": 0.0208,
+        "delta": 0.0218,
         "reason": "Enchantress's disables pin Snapfire in place, taking away the mobility Snapfire depends on.",
         "reason_th": "สกิลคุมของ Enchantress ตรึง Snapfire ไว้กับที่ ตัดความคล่องตัวที่ Snapfire ต้องพึ่ง"
       }
@@ -19924,85 +19924,85 @@
     "countered_by": [
       {
         "hero_id": 123,
-        "delta": -0.0669,
+        "delta": -0.0667,
         "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees, shutting Huskar down before the farm comes online.",
         "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 114,
-        "delta": -0.054,
+        "delta": -0.0538,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, keeping Huskar from farming or fighting freely.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ทำให้ Huskar ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 40,
-        "delta": -0.0438,
+        "delta": -0.0437,
         "reason": "Venomancer blankets fights in Poison Nova and Plague Wards, and Huskar can't farm through that pressure.",
         "reason_th": "Venomancer ปกคลุมการต่อสู้ด้วย Poison Nova และ Plague Ward และ Huskar ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 136,
-        "delta": -0.0415,
+        "delta": -0.0414,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, shutting Huskar down before the farm comes online.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 45,
-        "delta": -0.0373,
+        "delta": -0.0372,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, while Huskar is melted by pure damage and break effects like Silver Edge.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain ขณะที่ Huskar ละลายเมื่อเจอ pure damage และเอฟเฟกต์ Break อย่าง Silver Edge"
       },
       {
         "hero_id": 53,
-        "delta": -0.0354,
+        "delta": -0.0353,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Huskar is melted by pure damage and break effects like Silver Edge.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ ส่วน Huskar ละลายเมื่อเจอ pure damage และเอฟเฟกต์ Break อย่าง Silver Edge"
       },
       {
         "hero_id": 68,
-        "delta": -0.0331,
+        "delta": -0.0329,
         "reason": "Ancient Apparition snipes from across the map with Ice Blast and shuts off all healing, keeping Huskar from farming or fighting freely.",
         "reason_th": "Ancient Apparition ยิงข้ามแมพด้วย Ice Blast และตัดการฮีลทั้งหมด ทำให้ Huskar ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 27,
-        "delta": -0.0328,
+        "delta": -0.0327,
         "reason": "Shadow Shaman chains Shackles and Hex while pushing with Mass Serpent Ward, and Huskar can't farm through that pressure.",
         "reason_th": "Shadow Shaman ร้อย Shackles และ Hex พร้อมผลักด้วย Mass Serpent Ward และ Huskar ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 49,
-        "delta": -0.0321,
+        "delta": -0.0319,
         "reason": "Dragon Knight tanks fights in Dragon Form and stuns with Dragon Tail, shutting Huskar down before the farm comes online.",
         "reason_th": "Dragon Knight ทนการต่อสู้ในร่าง Dragon Form และสตันด้วย Dragon Tail และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 86,
-        "delta": -0.0291,
+        "delta": -0.0312,
         "reason": "Rubick steals and turns the enemy's best spell against them, keeping Huskar from farming or fighting freely.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ ทำให้ Huskar ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 38,
-        "delta": -0.0263,
+        "delta": -0.0261,
         "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, and Huskar can't farm through that pressure.",
         "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar และ Huskar ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 102,
-        "delta": -0.0261,
+        "delta": -0.026,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, and Huskar is melted by pure damage and break effects like Silver Edge.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time และ Huskar ละลายเมื่อเจอ pure damage และเอฟเฟกต์ Break อย่าง Silver Edge"
       },
       {
-        "hero_id": 21,
-        "delta": -0.0223,
-        "reason": "Windranger locks a single target in Shackleshot and focuses it down, shutting Huskar down before the farm comes online.",
-        "reason_th": "Windranger ล็อกเป้าหมายเดี่ยวด้วย Shackleshot แล้วโฟกัสเก็บ และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+        "hero_id": 137,
+        "delta": -0.0226,
+        "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, shutting Huskar down before the farm comes online.",
+        "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย และกด Huskar ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 69,
-        "delta": -0.0223,
+        "delta": -0.0222,
         "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom, keeping Huskar from farming or fighting freely.",
         "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom ทำให้ Huskar ฟาร์มหรือสู้ได้ไม่สะดวก"
       }
@@ -20010,87 +20010,87 @@
     "counters": [
       {
         "hero_id": 75,
-        "delta": 0.0459,
+        "delta": 0.046,
         "reason": "Huskar's disables stop Silencer from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Huskar ทำให้ Silencer ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 17,
-        "delta": 0.0454,
+        "delta": 0.0456,
         "reason": "Storm Spirit lives on escapes, and Huskar's lockdown lands before Storm Spirit can use them.",
         "reason_th": "Storm Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Huskar จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 29,
-        "delta": 0.0362,
+        "delta": 0.0363,
         "reason": "Tidehunter is melee with no escape and easy to kite, and Huskar's lockdown makes the early game miserable.",
         "reason_th": "Tidehunter เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และสกิลล็อกของ Huskar ทำให้ต้นเกมลำบากมาก"
       },
       {
         "hero_id": 129,
-        "delta": 0.0324,
+        "delta": 0.0326,
         "reason": "Huskar can chain-disable Mars before Mars's items come online.",
         "reason_th": "Huskar ร้อยสกิลคุมใส่ Mars ได้ก่อนที่ไอเทมของ Mars จะมาครบ"
       },
       {
         "hero_id": 26,
-        "delta": 0.0323,
+        "delta": 0.0325,
         "reason": "Lion is extremely squishy with no escape, and Huskar is well placed to exploit it.",
         "reason_th": "Lion ตัวบางมากและไม่มีสกิลหนี และ Huskar อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 15,
-        "delta": 0.0322,
+        "delta": 0.0323,
         "reason": "Razor's right-clicks struggle to get through Huskar's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Razor ตีไม่เข้าความถึกของ Huskar"
       },
       {
         "hero_id": 71,
-        "delta": 0.0298,
+        "delta": 0.0299,
         "reason": "Huskar's disables pin Spirit Breaker in place, taking away the mobility Spirit Breaker depends on.",
         "reason_th": "สกิลคุมของ Huskar ตรึง Spirit Breaker ไว้กับที่ ตัดความคล่องตัวที่ Spirit Breaker ต้องพึ่ง"
       },
       {
         "hero_id": 110,
-        "delta": 0.0295,
+        "delta": 0.0297,
         "reason": "Phoenix is squishy and gets blown up quickly, and Huskar has the lockdown to exploit that.",
         "reason_th": "Phoenix ตัวบางและถูกเก็บได้ไวมาก และ Huskar มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
         "hero_id": 131,
-        "delta": 0.0289,
+        "delta": 0.0291,
         "reason": "Ringmaster lives on escapes, and Huskar's lockdown lands before Ringmaster can use them.",
         "reason_th": "Ringmaster พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Huskar จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 19,
-        "delta": 0.0275,
+        "delta": 0.0277,
         "reason": "Huskar's disables stop Tiny from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Huskar ทำให้ Tiny ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 39,
-        "delta": 0.0244,
+        "delta": 0.0246,
         "reason": "Huskar's disables pin Queen of Pain in place, taking away the mobility Queen of Pain depends on.",
         "reason_th": "สกิลคุมของ Huskar ตรึง Queen of Pain ไว้กับที่ ตัดความคล่องตัวที่ Queen of Pain ต้องพึ่ง"
       },
       {
         "hero_id": 13,
-        "delta": 0.0243,
+        "delta": 0.0244,
         "reason": "Puck is squishy and gets blown up quickly, and Huskar has the lockdown to exploit that.",
         "reason_th": "Puck ตัวบางและถูกเก็บได้ไวมาก และ Huskar มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 37,
-        "delta": 0.0241,
-        "reason": "Huskar tends to have the edge here: Warlock is squishy and gets blown up quickly.",
-        "reason_th": "Huskar มักได้เปรียบในแมตช์นี้ เพราะ Warlock ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 138,
-        "delta": 0.0239,
+        "delta": 0.024,
         "reason": "Muerta is immobile and dies to gap-closers and lockdown, and Huskar's lockdown makes the early game miserable.",
         "reason_th": "Muerta เคลื่อนที่ช้าและตายให้กับการเข้าระยะและการคุม และสกิลล็อกของ Huskar ทำให้ต้นเกมลำบากมาก"
+      },
+      {
+        "hero_id": 2,
+        "delta": 0.0232,
+        "reason": "Huskar can chain-disable Axe before Axe's items come online.",
+        "reason_th": "Huskar ร้อยสกิลคุมใส่ Axe ได้ก่อนที่ไอเทมของ Axe จะมาครบ"
       }
     ],
     "synergies": [
@@ -20284,85 +20284,85 @@
     "countered_by": [
       {
         "hero_id": 114,
-        "delta": -0.0554,
+        "delta": -0.0551,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, shutting Night Stalker down before the farm comes online.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 89,
-        "delta": -0.0501,
+        "delta": -0.0497,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, keeping Night Stalker from farming or fighting freely.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน ทำให้ Night Stalker ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 65,
-        "delta": -0.0461,
+        "delta": -0.0458,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, and Night Stalker can't farm through that pressure.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และ Night Stalker ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
+        "hero_id": 45,
+        "delta": -0.042,
+        "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, fighting from range while Night Stalker is melee with no escape and easy to kite.",
+        "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain สู้จากระยะไกล ขณะที่ Night Stalker เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
+      },
+      {
         "hero_id": 85,
-        "delta": -0.0406,
+        "delta": -0.0402,
         "reason": "Undying drains strength with Decay and tanks fights with a Tombstone zombie horde, out-trading Night Stalker in melee range.",
         "reason_th": "Undying ดูดพลังด้วย Decay และทนการต่อสู้ด้วยฝูงซอมบี้จาก Tombstone และเทรดดาเมจชนะ Night Stalker ในระยะประชิด"
       },
       {
         "hero_id": 11,
-        "delta": -0.0393,
-        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls, fighting from range while Night Stalker is melee with no escape and easy to kite.",
-        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ สู้จากระยะไกล ขณะที่ Night Stalker เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
-      },
-      {
-        "hero_id": 45,
-        "delta": -0.0387,
-        "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, and Night Stalker struggles to close the gap.",
-        "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain และ Night Stalker เข้าประชิดได้ยาก"
+        "delta": -0.0386,
+        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls, and Night Stalker struggles to close the gap.",
+        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ และ Night Stalker เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 47,
-        "delta": -0.0353,
+        "delta": -0.035,
         "reason": "Viper slows and corrodes armor, winning every early lane trade, shutting Night Stalker down before the farm comes online.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 90,
-        "delta": -0.0341,
+        "delta": -0.0337,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, keeping Night Stalker from farming or fighting freely.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม ทำให้ Night Stalker ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
+        "hero_id": 58,
+        "delta": -0.0331,
+        "reason": "Enchantress kites with Impetus while tanking with healing and creeps, and Night Stalker can't farm through that pressure.",
+        "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป และ Night Stalker ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
+      },
+      {
         "hero_id": 64,
-        "delta": -0.0303,
-        "reason": "Jakiro zones teams off objectives with layered AoE damage, and Night Stalker can't farm through that pressure.",
-        "reason_th": "Jakiro กันทีมศัตรูออกจากออบเจกทีฟด้วยดาเมจ AoE ที่ซ้อนกัน และ Night Stalker ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
+        "delta": -0.0297,
+        "reason": "Jakiro zones teams off objectives with layered AoE damage, shutting Night Stalker down before the farm comes online.",
+        "reason_th": "Jakiro กันทีมศัตรูออกจากออบเจกทีฟด้วยดาเมจ AoE ที่ซ้อนกัน และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 74,
-        "delta": -0.0298,
-        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Night Stalker down before the farm comes online.",
-        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Night Stalker ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+        "delta": -0.0293,
+        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, keeping Night Stalker from farming or fighting freely.",
+        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ทำให้ Night Stalker ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 54,
-        "delta": -0.0298,
+        "delta": -0.0293,
         "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, winning the melee brawl against Night Stalker.",
         "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ชนะการตะลุมบอนกับ Night Stalker"
       },
       {
-        "hero_id": 58,
-        "delta": -0.0297,
-        "reason": "Enchantress kites with Impetus while tanking with healing and creeps, keeping Night Stalker from farming or fighting freely.",
-        "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป ทำให้ Night Stalker ฟาร์มหรือสู้ได้ไม่สะดวก"
-      },
-      {
         "hero_id": 86,
-        "delta": -0.0267,
+        "delta": -0.0259,
         "reason": "Rubick steals and turns the enemy's best spell against them, and Night Stalker can't farm through that pressure.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ และ Night Stalker ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 28,
-        "delta": -0.0254,
+        "delta": -0.0248,
         "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, and Night Stalker can't match that up close.",
         "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ และ Night Stalker สู้ไม่ได้ในระยะประชิด"
       }
@@ -20370,87 +20370,87 @@
     "counters": [
       {
         "hero_id": 75,
-        "delta": 0.0596,
+        "delta": 0.0601,
         "reason": "Night Stalker's disables stop Silencer from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Night Stalker ทำให้ Silencer ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
-        "hero_id": 70,
-        "delta": 0.0495,
-        "reason": "Ursa's right-clicks struggle to get through Night Stalker's tankiness.",
-        "reason_th": "ดาเมจกายภาพของ Ursa ตีไม่เข้าความถึกของ Night Stalker"
-      },
-      {
         "hero_id": 30,
-        "delta": 0.0473,
+        "delta": 0.0477,
         "reason": "Witch Doctor is squishy and easy to blow up once focused, and Night Stalker is well placed to exploit it.",
         "reason_th": "Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส และ Night Stalker อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
+        "hero_id": 70,
+        "delta": 0.0472,
+        "reason": "Ursa's right-clicks struggle to get through Night Stalker's tankiness.",
+        "reason_th": "ดาเมจกายภาพของ Ursa ตีไม่เข้าความถึกของ Night Stalker"
+      },
+      {
         "hero_id": 68,
-        "delta": 0.0427,
+        "delta": 0.0431,
         "reason": "Night Stalker tends to have the edge here: Ancient Apparition is squishy and immobile with no escape.",
         "reason_th": "Night Stalker มักได้เปรียบในแมตช์นี้ เพราะ Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี"
       },
       {
         "hero_id": 36,
-        "delta": 0.0398,
+        "delta": 0.0401,
         "reason": "Necrophos is slow and easy to kite before he ramps up, and Night Stalker's lockdown makes the early game miserable.",
         "reason_th": "Necrophos เดินช้าและถูกไคต์ได้ง่ายก่อนที่จะแรงขึ้น และสกิลล็อกของ Night Stalker ทำให้ต้นเกมลำบากมาก"
       },
       {
         "hero_id": 17,
-        "delta": 0.0382,
+        "delta": 0.0387,
         "reason": "Storm Spirit lives on escapes, and Night Stalker's lockdown lands before Storm Spirit can use them.",
         "reason_th": "Storm Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Night Stalker จับได้ก่อนจะหนีทัน"
       },
       {
-        "hero_id": 110,
-        "delta": 0.0367,
-        "reason": "Night Stalker's disables pin Phoenix in place, taking away the mobility Phoenix depends on.",
-        "reason_th": "สกิลคุมของ Night Stalker ตรึง Phoenix ไว้กับที่ ตัดความคล่องตัวที่ Phoenix ต้องพึ่ง"
+        "hero_id": 13,
+        "delta": 0.0365,
+        "reason": "Night Stalker's disables pin Puck in place, taking away the mobility Puck depends on.",
+        "reason_th": "สกิลคุมของ Night Stalker ตรึง Puck ไว้กับที่ ตัดความคล่องตัวที่ Puck ต้องพึ่ง"
       },
       {
         "hero_id": 112,
-        "delta": 0.0362,
+        "delta": 0.0365,
         "reason": "Winter Wyvern is slow and squishy if caught out of position, which suits Night Stalker's game plan.",
         "reason_th": "Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง ซึ่งเข้าทางแผนการเล่นของ Night Stalker"
       },
       {
         "hero_id": 22,
-        "delta": 0.0359,
+        "delta": 0.0364,
         "reason": "Night Stalker can chain-disable Zeus before Zeus's items come online.",
         "reason_th": "Night Stalker ร้อยสกิลคุมใส่ Zeus ได้ก่อนที่ไอเทมของ Zeus จะมาครบ"
       },
       {
-        "hero_id": 13,
-        "delta": 0.0357,
-        "reason": "Puck is squishy and gets blown up quickly, and Night Stalker has the lockdown to exploit that.",
-        "reason_th": "Puck ตัวบางและถูกเก็บได้ไวมาก และ Night Stalker มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+        "hero_id": 119,
+        "delta": 0.0353,
+        "reason": "Dark Willow is squishy and gets blown up quickly, and Night Stalker has the lockdown to exploit that.",
+        "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก และ Night Stalker มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 119,
-        "delta": 0.0348,
-        "reason": "Dark Willow lives on escapes, and Night Stalker's lockdown lands before Dark Willow can use them.",
-        "reason_th": "Dark Willow พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Night Stalker จับได้ก่อนจะหนีทัน"
+        "hero_id": 110,
+        "delta": 0.0344,
+        "reason": "Phoenix lives on escapes, and Night Stalker's lockdown lands before Phoenix can use them.",
+        "reason_th": "Phoenix พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Night Stalker จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 8,
-        "delta": 0.0308,
+        "delta": 0.0312,
         "reason": "Night Stalker's disables pin Juggernaut in place, taking away the mobility Juggernaut depends on.",
         "reason_th": "สกิลคุมของ Night Stalker ตรึง Juggernaut ไว้กับที่ ตัดความคล่องตัวที่ Juggernaut ต้องพึ่ง"
       },
       {
-        "hero_id": 120,
-        "delta": 0.0279,
-        "reason": "Pangolier is vulnerable once its escape and cooldowns are down, and Night Stalker has the lockdown to exploit that.",
-        "reason_th": "Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Night Stalker มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
-      },
-      {
         "hero_id": 95,
-        "delta": 0.026,
+        "delta": 0.0265,
         "reason": "Night Stalker soaks Troll Warlord's physical damage and wins the long fight.",
         "reason_th": "Night Stalker รับดาเมจกายภาพของ Troll Warlord ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
+      },
+      {
+        "hero_id": 108,
+        "delta": 0.0265,
+        "reason": "Underlord is vulnerable once its escape and cooldowns are down, and Night Stalker has the lockdown to exploit that.",
+        "reason_th": "Underlord เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Night Stalker มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       }
     ],
     "synergies": [
@@ -44015,7 +44015,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-23T16:31:59.410Z",
+    "last_updated": "2026-09-23T21:19:26.114Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
