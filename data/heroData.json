@@ -9846,85 +9846,85 @@
     "countered_by": [
       {
         "hero_id": 106,
-        "delta": -0.0609,
+        "delta": -0.0614,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 35,
-        "delta": -0.0586,
+        "delta": -0.0591,
         "reason": "Sniper kills from extreme range before melee heroes can close in, and Witch Doctor can't survive the burst.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง และ Witch Doctor ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 128,
-        "delta": -0.051,
+        "delta": -0.0517,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, more damage than Witch Doctor's low HP can take.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast ซึ่ง Witch Doctor เลือดน้อยเกินจะรับไหว"
       },
       {
         "hero_id": 36,
-        "delta": -0.0473,
+        "delta": -0.0477,
         "reason": "Necrophos out-sustains enemies and executes low-health heroes with Reaper's Scythe — Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Necrophos อึดกว่าศัตรูและปิดจ๊อบฮีโร่เลือดน้อยด้วย Reaper's Scythe — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 6,
-        "delta": -0.0469,
+        "delta": -0.0473,
         "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, while Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล ขณะที่ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
         "hero_id": 101,
-        "delta": -0.041,
+        "delta": -0.0416,
         "reason": "Skywrath Mage deletes squishy heroes with stacked magical burst and a silence, and Witch Doctor can't survive the burst.",
         "reason_th": "Skywrath Mage ลบฮีโร่ตัวบางด้วยเบิร์สต์เวทย์ที่ซ้อนกันและไซเลนซ์ และ Witch Doctor ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 60,
-        "delta": -0.0404,
+        "delta": -0.0374,
         "reason": "Night Stalker owns the night with silence and flight, hunting single targets, and Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Night Stalker ครองเวลากลางคืนด้วยไซเลนซ์และการบิน ไล่ล่าเป้าหมายเดี่ยว และ Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 54,
-        "delta": -0.0345,
-        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Witch Doctor is squishy and easy to blow up once focused.",
-        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
-      },
-      {
         "hero_id": 126,
-        "delta": -0.0337,
+        "delta": -0.0341,
         "reason": "Void Spirit blinks through the fight with Dissimilate and bursts with Resonant Pulse, more damage than Witch Doctor's low HP can take.",
         "reason_th": "Void Spirit blink ทะลุการต่อสู้ด้วย Dissimilate และเบิร์สต์ด้วย Resonant Pulse ซึ่ง Witch Doctor เลือดน้อยเกินจะรับไหว"
       },
       {
         "hero_id": 15,
-        "delta": -0.0329,
+        "delta": -0.0333,
         "reason": "Razor steals damage with Static Link and chases with Plasma Field; meanwhile Witch Doctor is squishy and easy to blow up once focused.",
         "reason_th": "Razor ขโมยดาเมจด้วย Static Link และไล่ด้วย Plasma Field ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
       },
       {
+        "hero_id": 54,
+        "delta": -0.0319,
+        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Witch Doctor is squishy and easy to blow up once focused.",
+        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ ส่วน Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
+      },
+      {
+        "hero_id": 53,
+        "delta": -0.0312,
+        "reason": "Nature's Prophet teleports anywhere to split-push and summons treants — Witch Doctor is squishy and easy to blow up once focused.",
+        "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
+      },
+      {
         "hero_id": 98,
-        "delta": -0.0294,
+        "delta": -0.0298,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, catching Witch Doctor out of position.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain จับ Witch Doctor ได้ตอนยืนผิดตำแหน่ง"
       },
       {
         "hero_id": 7,
-        "delta": -0.0279,
-        "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams — Witch Doctor is squishy and easy to blow up once focused.",
-        "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม — Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส"
-      },
-      {
-        "hero_id": 53,
-        "delta": -0.027,
-        "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Witch Doctor can't survive the burst.",
-        "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ และ Witch Doctor ไม่รอดจากเบิร์สต์นั้น"
+        "delta": -0.0283,
+        "reason": "Earthshaker combos Echo Slam off blink to wipe clustered teams, and Witch Doctor can't survive the burst.",
+        "reason_th": "Earthshaker คอมโบ Echo Slam หลัง blink เพื่อล้างทีมที่รวมกลุ่ม และ Witch Doctor ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 9,
-        "delta": -0.0258,
+        "delta": -0.0262,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, more damage than Witch Doctor's low HP can take.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm ซึ่ง Witch Doctor เลือดน้อยเกินจะรับไหว"
       }
@@ -9932,85 +9932,85 @@
     "counters": [
       {
         "hero_id": 31,
-        "delta": 0.0505,
+        "delta": 0.0499,
         "reason": "Lich is squishy and gets blown up quickly, which Witch Doctor's burst punishes hard.",
         "reason_th": "Lich ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Witch Doctor ลงโทษหนัก"
       },
       {
-        "hero_id": 109,
-        "delta": 0.0501,
-        "reason": "Witch Doctor's disables stop Terrorblade from farming freely or fighting back.",
-        "reason_th": "สกิลคุมของ Witch Doctor ทำให้ Terrorblade ฟาร์มหรือสู้กลับได้ไม่สะดวก"
+        "hero_id": 19,
+        "delta": 0.0485,
+        "reason": "Witch Doctor's disables stop Tiny from farming freely or fighting back.",
+        "reason_th": "สกิลคุมของ Witch Doctor ทำให้ Tiny ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
-        "hero_id": 19,
-        "delta": 0.0491,
-        "reason": "Tiny is melee with no escape and easy to kite, and Witch Doctor's lockdown makes the early game miserable.",
-        "reason_th": "Tiny เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และสกิลล็อกของ Witch Doctor ทำให้ต้นเกมลำบากมาก"
+        "hero_id": 109,
+        "delta": 0.0462,
+        "reason": "Terrorblade is extremely fragile early and dies to ganks before items, and Witch Doctor's lockdown makes the early game miserable.",
+        "reason_th": "Terrorblade ต้นเกมตัวเปราะมากและตายให้กับการแกงค์ก่อนมีของ และสกิลล็อกของ Witch Doctor ทำให้ต้นเกมลำบากมาก"
       },
       {
         "hero_id": 108,
-        "delta": 0.0414,
+        "delta": 0.041,
         "reason": "Underlord lives on escapes, and Witch Doctor's lockdown lands before Underlord can use them.",
         "reason_th": "Underlord พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Witch Doctor จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 120,
-        "delta": 0.0406,
+        "delta": 0.0401,
         "reason": "Witch Doctor's disables pin Pangolier in place, taking away the mobility Pangolier depends on.",
         "reason_th": "สกิลคุมของ Witch Doctor ตรึง Pangolier ไว้กับที่ ตัดความคล่องตัวที่ Pangolier ต้องพึ่ง"
       },
       {
         "hero_id": 29,
-        "delta": 0.0402,
+        "delta": 0.0396,
         "reason": "Witch Doctor can chain-disable Tidehunter before Tidehunter's items come online.",
         "reason_th": "Witch Doctor ร้อยสกิลคุมใส่ Tidehunter ได้ก่อนที่ไอเทมของ Tidehunter จะมาครบ"
       },
       {
         "hero_id": 11,
-        "delta": 0.0362,
+        "delta": 0.0353,
         "reason": "Witch Doctor can burst Shadow Fiend from full health before Shadow Fiend gets to act.",
         "reason_th": "Witch Doctor เบิร์สต์ Shadow Fiend จากเลือดเต็มให้ตายได้ก่อนที่ Shadow Fiend จะได้ทำอะไร"
       },
       {
+        "hero_id": 86,
+        "delta": 0.028,
+        "reason": "Rubick has too little HP to survive Witch Doctor's magical burst.",
+        "reason_th": "Rubick เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Witch Doctor"
+      },
+      {
         "hero_id": 87,
-        "delta": 0.0282,
-        "reason": "Disruptor has too little HP to survive Witch Doctor's magical burst.",
-        "reason_th": "Disruptor เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Witch Doctor"
+        "delta": 0.0275,
+        "reason": "Disruptor is squishy and gets blown up quickly, which Witch Doctor's burst punishes hard.",
+        "reason_th": "Disruptor ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Witch Doctor ลงโทษหนัก"
       },
       {
         "hero_id": 72,
-        "delta": 0.0272,
-        "reason": "Gyrocopter is squishy and gets blown up quickly, which Witch Doctor's burst punishes hard.",
-        "reason_th": "Gyrocopter ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Witch Doctor ลงโทษหนัก"
-      },
-      {
-        "hero_id": 86,
         "delta": 0.0268,
-        "reason": "Witch Doctor can burst Rubick from full health before Rubick gets to act.",
-        "reason_th": "Witch Doctor เบิร์สต์ Rubick จากเลือดเต็มให้ตายได้ก่อนที่ Rubick จะได้ทำอะไร"
+        "reason": "Witch Doctor can burst Gyrocopter from full health before Gyrocopter gets to act.",
+        "reason_th": "Witch Doctor เบิร์สต์ Gyrocopter จากเลือดเต็มให้ตายได้ก่อนที่ Gyrocopter จะได้ทำอะไร"
       },
       {
         "hero_id": 70,
-        "delta": 0.0265,
+        "delta": 0.0259,
         "reason": "Witch Doctor's disables stop Ursa from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Witch Doctor ทำให้ Ursa ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
-        "hero_id": 107,
-        "delta": 0.0239,
-        "reason": "Earth Spirit is vulnerable once its escape and cooldowns are down, and Witch Doctor has the lockdown to exploit that.",
-        "reason_th": "Earth Spirit เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Witch Doctor มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
-      },
-      {
         "hero_id": 137,
-        "delta": 0.0239,
+        "delta": 0.0235,
         "reason": "Primal Beast is slow and can be kited, and Witch Doctor fights from range.",
         "reason_th": "Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Witch Doctor สู้จากระยะไกลได้"
       },
       {
+        "hero_id": 107,
+        "delta": 0.0235,
+        "reason": "Earth Spirit is vulnerable once its escape and cooldowns are down, and Witch Doctor has the lockdown to exploit that.",
+        "reason_th": "Earth Spirit เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Witch Doctor มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+      },
+      {
         "hero_id": 37,
-        "delta": 0.0238,
+        "delta": 0.0234,
         "reason": "Warlock has too little HP to survive Witch Doctor's magical burst.",
         "reason_th": "Warlock เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Witch Doctor"
       }
@@ -10203,7 +10203,7 @@
     "countered_by": [
       {
         "hero_id": 88,
-        "delta": -0.0629,
+        "delta": -0.0668,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters — Lich is squishy and gets blown up quickly.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
@@ -10215,19 +10215,19 @@
       },
       {
         "hero_id": 35,
-        "delta": -0.052,
+        "delta": -0.0519,
         "reason": "Sniper kills from extreme range before melee heroes can close in, and Lich can't survive the burst.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง และ Lich ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 81,
-        "delta": -0.0515,
+        "delta": -0.0514,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, while Lich is squishy and gets blown up quickly.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 14,
-        "delta": -0.0508,
+        "delta": -0.049,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, and Lich is squishy and gets blown up quickly.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember และ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
@@ -10239,7 +10239,7 @@
       },
       {
         "hero_id": 110,
-        "delta": -0.046,
+        "delta": -0.0459,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, more damage than Lich's low HP can take.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova ซึ่ง Lich เลือดน้อยเกินจะรับไหว"
       },
@@ -10274,34 +10274,34 @@
         "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 6,
-        "delta": -0.0298,
-        "reason": "Drow Ranger kites melee heroes with Gust silence and long-range physical damage, while Lich is squishy and gets blown up quickly.",
-        "reason_th": "Drow Ranger ไคต์สายประชิดด้วยไซเลนซ์ Gust และดาเมจกายภาพระยะไกล ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
+        "hero_id": 76,
+        "delta": -0.0314,
+        "reason": "Outworld Destroyer bursts with Arcane Orb and removes a target with Astral Imprisonment, and Lich can't survive the burst.",
+        "reason_th": "Outworld Destroyer เบิร์สต์ด้วย Arcane Orb และถอดเป้าหมายด้วย Astral Imprisonment และ Lich ไม่รอดจากเบิร์สต์นั้น"
       },
       {
-        "hero_id": 28,
-        "delta": -0.0295,
-        "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, turning Lich into an easy pickoff.",
-        "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ ทำให้ Lich เป็นเป้าเก็บง่าย"
+        "hero_id": 128,
+        "delta": -0.0303,
+        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, more damage than Lich's low HP can take.",
+        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast ซึ่ง Lich เลือดน้อยเกินจะรับไหว"
       }
     ],
     "counters": [
       {
         "hero_id": 70,
-        "delta": 0.0593,
+        "delta": 0.0594,
         "reason": "Ursa is kited easily and has no answer to being disabled at range, and Lich fights from range.",
         "reason_th": "Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล ส่วน Lich สู้จากระยะไกลได้"
       },
       {
         "hero_id": 18,
-        "delta": 0.0548,
+        "delta": 0.0516,
         "reason": "Lich kites Sven from range, and Sven struggles to close the gap.",
         "reason_th": "Lich ไคต์ Sven จากระยะไกล และ Sven เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 29,
-        "delta": 0.0434,
+        "delta": 0.0435,
         "reason": "Tidehunter has trouble reaching Lich, who fights from a distance.",
         "reason_th": "Tidehunter เข้าถึงตัว Lich ได้ยากเพราะ Lich สู้จากระยะไกล"
       },
@@ -10312,16 +10312,22 @@
         "reason_th": "Sand King ตัวเปราะเมื่อโดนโฟกัส และ Lich อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
-        "hero_id": 22,
-        "delta": 0.0396,
-        "reason": "Zeus has no escape and folds to gap-closers, which Lich's burst punishes hard.",
-        "reason_th": "Zeus ไม่มีสกิลหนีและตายให้กับฮีโร่ที่เข้าระยะได้ไว ซึ่งโดนเบิร์สต์ของ Lich ลงโทษหนัก"
-      },
-      {
         "hero_id": 131,
         "delta": 0.0379,
-        "reason": "Lich can burst Ringmaster from full health before Ringmaster gets to act.",
-        "reason_th": "Lich เบิร์สต์ Ringmaster จากเลือดเต็มให้ตายได้ก่อนที่ Ringmaster จะได้ทำอะไร"
+        "reason": "Ringmaster is squishy and gets blown up quickly, which Lich's burst punishes hard.",
+        "reason_th": "Ringmaster ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Lich ลงโทษหนัก"
+      },
+      {
+        "hero_id": 22,
+        "delta": 0.0371,
+        "reason": "Lich can burst Zeus from full health before Zeus gets to act.",
+        "reason_th": "Lich เบิร์สต์ Zeus จากเลือดเต็มให้ตายได้ก่อนที่ Zeus จะได้ทำอะไร"
+      },
+      {
+        "hero_id": 15,
+        "delta": 0.0361,
+        "reason": "Lich tends to have the edge here: Razor is short-ranged and kited if he cannot link a target.",
+        "reason_th": "Lich มักได้เปรียบในแมตช์นี้ เพราะ Razor ระยะสั้นและถูกไคต์ถ้าลิงก์เป้าไม่ได้"
       },
       {
         "hero_id": 38,
@@ -10334,12 +10340,6 @@
         "delta": 0.034,
         "reason": "Skywrath Mage has too little HP to survive Lich's magical burst.",
         "reason_th": "Skywrath Mage เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Lich"
-      },
-      {
-        "hero_id": 15,
-        "delta": 0.033,
-        "reason": "Lich tends to have the edge here: Razor is short-ranged and kited if he cannot link a target.",
-        "reason_th": "Lich มักได้เปรียบในแมตช์นี้ เพราะ Razor ระยะสั้นและถูกไคต์ถ้าลิงก์เป้าไม่ได้"
       },
       {
         "hero_id": 112,
@@ -10360,16 +10360,16 @@
         "reason_th": "Lich ไคต์ Axe จากระยะไกล และ Axe เข้าประชิดได้ยาก"
       },
       {
-        "hero_id": 54,
-        "delta": 0.0291,
-        "reason": "Lifestealer is purely melee and is kited by slows and disengage, which suits Lich's game plan.",
-        "reason_th": "Lifestealer เป็นสายประชิดล้วนและถูกไคต์ด้วยสโลว์และการถอย ซึ่งเข้าทางแผนการเล่นของ Lich"
-      },
-      {
         "hero_id": 13,
         "delta": 0.027,
         "reason": "Puck has too little HP to survive Lich's magical burst.",
         "reason_th": "Puck เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Lich"
+      },
+      {
+        "hero_id": 54,
+        "delta": 0.0266,
+        "reason": "Lifestealer is purely melee and is kited by slows and disengage, which suits Lich's game plan.",
+        "reason_th": "Lifestealer เป็นสายประชิดล้วนและถูกไคต์ด้วยสโลว์และการถอย ซึ่งเข้าทางแผนการเล่นของ Lich"
       }
     ],
     "synergies": [
@@ -43984,7 +43984,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-26T16:07:09.298Z",
+    "last_updated": "2026-09-26T20:52:30.417Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
