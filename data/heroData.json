@@ -17242,16 +17242,16 @@
         "reason_th": "Clockwerk เทรดดาเมจชนะ Tidehunter ในระยะประชิด"
       },
       {
-        "hero_id": 120,
-        "delta": 0.0532,
-        "reason": "Pangolier lives on escapes, and Clockwerk's lockdown lands before Pangolier can use them.",
-        "reason_th": "Pangolier พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
-      },
-      {
         "hero_id": 20,
         "delta": 0.0517,
-        "reason": "Clockwerk's disables pin Vengeful Spirit in place, taking away the mobility Vengeful Spirit depends on.",
-        "reason_th": "สกิลคุมของ Clockwerk ตรึง Vengeful Spirit ไว้กับที่ ตัดความคล่องตัวที่ Vengeful Spirit ต้องพึ่ง"
+        "reason": "Vengeful Spirit lives on escapes, and Clockwerk's lockdown lands before Vengeful Spirit can use them.",
+        "reason_th": "Vengeful Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
+      },
+      {
+        "hero_id": 120,
+        "delta": 0.0509,
+        "reason": "Clockwerk's disables pin Pangolier in place, taking away the mobility Pangolier depends on.",
+        "reason_th": "สกิลคุมของ Clockwerk ตรึง Pangolier ไว้กับที่ ตัดความคล่องตัวที่ Pangolier ต้องพึ่ง"
       },
       {
         "hero_id": 48,
@@ -17260,46 +17260,46 @@
         "reason_th": "ดาเมจกายภาพของ Luna ตีไม่เข้าความถึกของ Clockwerk"
       },
       {
+        "hero_id": 43,
+        "delta": 0.0494,
+        "reason": "Clockwerk soaks Death Prophet's physical damage and wins the long fight.",
+        "reason_th": "Clockwerk รับดาเมจกายภาพของ Death Prophet ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
+      },
+      {
         "hero_id": 108,
         "delta": 0.0469,
         "reason": "Underlord is vulnerable once its escape and cooldowns are down, and Clockwerk has the lockdown to exploit that.",
         "reason_th": "Underlord เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Clockwerk มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 43,
-        "delta": 0.0461,
-        "reason": "Clockwerk soaks Death Prophet's physical damage and wins the long fight.",
-        "reason_th": "Clockwerk รับดาเมจกายภาพของ Death Prophet ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
+        "hero_id": 21,
+        "delta": 0.0439,
+        "reason": "Windranger lives on escapes, and Clockwerk's lockdown lands before Windranger can use them.",
+        "reason_th": "Windranger พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 126,
-        "delta": 0.0455,
-        "reason": "Void Spirit lives on escapes, and Clockwerk's lockdown lands before Void Spirit can use them.",
-        "reason_th": "Void Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
-      },
-      {
-        "hero_id": 21,
-        "delta": 0.0439,
-        "reason": "Clockwerk's disables pin Windranger in place, taking away the mobility Windranger depends on.",
-        "reason_th": "สกิลคุมของ Clockwerk ตรึง Windranger ไว้กับที่ ตัดความคล่องตัวที่ Windranger ต้องพึ่ง"
+        "delta": 0.0432,
+        "reason": "Clockwerk's disables pin Void Spirit in place, taking away the mobility Void Spirit depends on.",
+        "reason_th": "สกิลคุมของ Clockwerk ตรึง Void Spirit ไว้กับที่ ตัดความคล่องตัวที่ Void Spirit ต้องพึ่ง"
       },
       {
         "hero_id": 119,
-        "delta": 0.0411,
+        "delta": 0.0388,
         "reason": "Dark Willow is squishy and gets blown up quickly, and Clockwerk has the lockdown to exploit that.",
         "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก และ Clockwerk มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 75,
-        "delta": 0.038,
-        "reason": "Clockwerk's disables stop Silencer from farming freely or fighting back.",
-        "reason_th": "สกิลคุมของ Clockwerk ทำให้ Silencer ฟาร์มหรือสู้กลับได้ไม่สะดวก"
+        "hero_id": 93,
+        "delta": 0.0378,
+        "reason": "Slark lives on escapes, and Clockwerk's lockdown lands before Slark can use them.",
+        "reason_th": "Slark พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 39,
         "delta": 0.0373,
-        "reason": "Queen of Pain lives on escapes, and Clockwerk's lockdown lands before Queen of Pain can use them.",
-        "reason_th": "Queen of Pain พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Clockwerk จับได้ก่อนจะหนีทัน"
+        "reason": "Clockwerk's disables pin Queen of Pain in place, taking away the mobility Queen of Pain depends on.",
+        "reason_th": "สกิลคุมของ Clockwerk ตรึง Queen of Pain ไว้กับที่ ตัดความคล่องตัวที่ Queen of Pain ต้องพึ่ง"
       },
       {
         "hero_id": 135,
@@ -17308,16 +17308,16 @@
         "reason_th": "Dawnbreaker ต้องสู้กับ Clockwerk ในระยะประชิด ซึ่ง Clockwerk ทั้งแรงกว่าและถึกกว่า"
       },
       {
-        "hero_id": 93,
-        "delta": 0.0344,
-        "reason": "Clockwerk's disables pin Slark in place, taking away the mobility Slark depends on.",
-        "reason_th": "สกิลคุมของ Clockwerk ตรึง Slark ไว้กับที่ ตัดความคล่องตัวที่ Slark ต้องพึ่ง"
+        "hero_id": 75,
+        "delta": 0.0354,
+        "reason": "Clockwerk's disables stop Silencer from farming freely or fighting back.",
+        "reason_th": "สกิลคุมของ Clockwerk ทำให้ Silencer ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
-        "hero_id": 6,
-        "delta": 0.0318,
-        "reason": "Drow Ranger needs long fights to deal damage, and Clockwerk is built to survive them.",
-        "reason_th": "Drow Ranger ต้องการไฟต์ยาวเพื่อทำดาเมจ แต่ Clockwerk ยืนระยะในไฟต์แบบนั้นได้สบาย"
+        "hero_id": 99,
+        "delta": 0.0333,
+        "reason": "Bristleback struggles against magical burst and percent-based damage, and Clockwerk wins the melee brawl.",
+        "reason_th": "Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์ และ Clockwerk ชนะการตะลุมบอนระยะประชิด"
       }
     ],
     "synergies": [
@@ -17428,16 +17428,16 @@
         "reason_th": "ไอเทมคอร์ยอดนิยมของฮีโร่นี้"
       },
       {
-        "item": "Glimmer Cape",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png",
-        "reason": "A magic-resist save with invisibility.",
-        "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
-      },
-      {
         "item": "Solar Crest",
         "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/solar_crest.png",
         "reason": "Armor manipulation to amplify a target.",
         "reason_th": "ปรับเกราะเพื่อเสริมพลังเป้าหมาย"
+      },
+      {
+        "item": "Glimmer Cape",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png",
+        "reason": "A magic-resist save with invisibility.",
+        "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
       },
       {
         "item": "Aeon Disk",
@@ -17493,171 +17493,171 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.0428,
+        "delta": -0.0424,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, shutting Leshrac down before the farm comes online.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 11,
-        "delta": -0.0419,
-        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls — Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 87,
-        "delta": -0.0402,
-        "reason": "Disruptor silences and pins a whole team inside Static Storm, and Leshrac can't survive the burst.",
-        "reason_th": "Disruptor ไซเลนซ์และตรึงทั้งทีมไว้ใน Static Storm และ Leshrac ไม่รอดจากเบิร์สต์นั้น"
-      },
-      {
         "hero_id": 19,
-        "delta": -0.0394,
+        "delta": -0.0414,
         "reason": "Tiny tosses and stuns a single target for instant burst, keeping Leshrac from farming or fighting freely.",
         "reason_th": "Tiny Toss และสตันเป้าหมายเดี่ยวเพื่อเบิร์สต์ทันที ทำให้ Leshrac ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
+        "hero_id": 11,
+        "delta": -0.041,
+        "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls — Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 109,
-        "delta": -0.0379,
-        "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks, more damage than Leshrac's low HP can take.",
-        "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis ซึ่ง Leshrac เลือดน้อยเกินจะรับไหว"
+        "delta": -0.0404,
+        "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks, and Leshrac can't survive the burst.",
+        "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis และ Leshrac ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 79,
-        "delta": -0.0365,
-        "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge — Leshrac is squishy and gets blown up quickly.",
-        "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
+        "delta": -0.0388,
+        "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge, more damage than Leshrac's low HP can take.",
+        "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge ซึ่ง Leshrac เลือดน้อยเกินจะรับไหว"
+      },
+      {
+        "hero_id": 87,
+        "delta": -0.0355,
+        "reason": "Disruptor silences and pins a whole team inside Static Storm — Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Disruptor ไซเลนซ์และตรึงทั้งทีมไว้ใน Static Storm — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 126,
-        "delta": -0.035,
+        "delta": -0.0344,
         "reason": "Void Spirit blinks through the fight with Dissimilate and bursts with Resonant Pulse, and Leshrac can't survive the burst.",
         "reason_th": "Void Spirit blink ทะลุการต่อสู้ด้วย Dissimilate และเบิร์สต์ด้วย Resonant Pulse และ Leshrac ไม่รอดจากเบิร์สต์นั้น"
       },
       {
-        "hero_id": 74,
-        "delta": -0.0301,
-        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, more damage than Leshrac's low HP can take.",
-        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ซึ่ง Leshrac เลือดน้อยเกินจะรับไหว"
-      },
-      {
         "hero_id": 102,
-        "delta": -0.0299,
+        "delta": -0.0293,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 69,
-        "delta": -0.0295,
+        "delta": -0.0292,
         "reason": "Doom silences and disarms a key hero for a full 16 seconds with Doom, and Leshrac can't farm through that pressure.",
         "reason_th": "Doom ไซเลนซ์และปลดอาวุธฮีโร่สำคัญนานถึง 16 วินาทีด้วย Doom และ Leshrac ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 65,
-        "delta": -0.0291,
+        "delta": -0.0287,
         "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, shutting Leshrac down before the farm comes online.",
         "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และกด Leshrac ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 59,
-        "delta": -0.0257,
+        "delta": -0.0253,
         "reason": "Huskar dives low-health heroes and gets stronger the lower his HP, keeping Leshrac from farming or fighting freely.",
         "reason_th": "Huskar ไดฟ์ฮีโร่เลือดน้อยและยิ่งเลือดน้อยยิ่งแรง ทำให้ Leshrac ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
+        "hero_id": 74,
+        "delta": -0.0242,
+        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, more damage than Leshrac's low HP can take.",
+        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ซึ่ง Leshrac เลือดน้อยเกินจะรับไหว"
+      },
+      {
         "hero_id": 135,
-        "delta": -0.0243,
+        "delta": -0.0238,
         "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, and Leshrac is squishy and gets blown up quickly.",
         "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ และ Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
-        "hero_id": 99,
-        "delta": -0.0239,
-        "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and Leshrac can't farm through that pressure.",
-        "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill และ Leshrac ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
+        "hero_id": 128,
+        "delta": -0.0223,
+        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast — Leshrac is squishy and gets blown up quickly.",
+        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast — Leshrac ตัวบางและถูกเก็บได้ไวมาก"
       }
     ],
     "counters": [
       {
         "hero_id": 68,
-        "delta": 0.0499,
+        "delta": 0.0502,
         "reason": "Ancient Apparition is squishy and immobile with no escape, which Leshrac's burst punishes hard.",
         "reason_th": "Ancient Apparition ตัวบางและเคลื่อนที่ช้าไม่มีสกิลหนี ซึ่งโดนเบิร์สต์ของ Leshrac ลงโทษหนัก"
       },
       {
         "hero_id": 93,
-        "delta": 0.0438,
+        "delta": 0.0443,
         "reason": "Slark lives on escapes, and Leshrac's lockdown lands before Slark can use them.",
         "reason_th": "Slark พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Leshrac จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 51,
-        "delta": 0.0402,
+        "delta": 0.0407,
         "reason": "Clockwerk is slow and can be kited, and Leshrac fights from range.",
         "reason_th": "Clockwerk เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Leshrac สู้จากระยะไกลได้"
       },
       {
         "hero_id": 86,
-        "delta": 0.0397,
+        "delta": 0.0382,
         "reason": "Leshrac can burst Rubick from full health before Rubick gets to act.",
         "reason_th": "Leshrac เบิร์สต์ Rubick จากเลือดเต็มให้ตายได้ก่อนที่ Rubick จะได้ทำอะไร"
       },
       {
         "hero_id": 20,
-        "delta": 0.034,
+        "delta": 0.0344,
         "reason": "Leshrac's disables pin Vengeful Spirit in place, taking away the mobility Vengeful Spirit depends on.",
         "reason_th": "สกิลคุมของ Leshrac ตรึง Vengeful Spirit ไว้กับที่ ตัดความคล่องตัวที่ Vengeful Spirit ต้องพึ่ง"
       },
       {
-        "hero_id": 129,
-        "delta": 0.0326,
-        "reason": "Leshrac's disables stop Mars from farming freely or fighting back.",
-        "reason_th": "สกิลคุมของ Leshrac ทำให้ Mars ฟาร์มหรือสู้กลับได้ไม่สะดวก"
-      },
-      {
         "hero_id": 2,
-        "delta": 0.0321,
-        "reason": "Axe is melee with no escape and easy to kite, and Leshrac's lockdown makes the early game miserable.",
-        "reason_th": "Axe เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และสกิลล็อกของ Leshrac ทำให้ต้นเกมลำบากมาก"
-      },
-      {
-        "hero_id": 95,
-        "delta": 0.032,
-        "reason": "Leshrac can chain-disable Troll Warlord before Troll Warlord's items come online.",
-        "reason_th": "Leshrac ร้อยสกิลคุมใส่ Troll Warlord ได้ก่อนที่ไอเทมของ Troll Warlord จะมาครบ"
+        "delta": 0.0328,
+        "reason": "Leshrac's disables stop Axe from farming freely or fighting back.",
+        "reason_th": "สกิลคุมของ Leshrac ทำให้ Axe ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 25,
-        "delta": 0.032,
+        "delta": 0.0324,
         "reason": "Lina has too little HP to survive Leshrac's magical burst.",
         "reason_th": "Lina เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Leshrac"
       },
       {
+        "hero_id": 100,
+        "delta": 0.0297,
+        "reason": "Leshrac kites Tusk from range, and Tusk struggles to close the gap.",
+        "reason_th": "Leshrac ไคต์ Tusk จากระยะไกล และ Tusk เข้าประชิดได้ยาก"
+      },
+      {
+        "hero_id": 95,
+        "delta": 0.0295,
+        "reason": "Troll Warlord is melee with no escape and dies to kiting and lockdown, and Leshrac's lockdown makes the early game miserable.",
+        "reason_th": "Troll Warlord เป็นสายประชิดที่ไม่มีสกิลหนีและตายให้กับการไคต์และการคุม และสกิลล็อกของ Leshrac ทำให้ต้นเกมลำบากมาก"
+      },
+      {
         "hero_id": 75,
-        "delta": 0.0281,
+        "delta": 0.0286,
         "reason": "Silencer is squishy and gets blown up quickly, which Leshrac's burst punishes hard.",
         "reason_th": "Silencer ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Leshrac ลงโทษหนัก"
       },
       {
         "hero_id": 46,
-        "delta": 0.0277,
+        "delta": 0.0283,
         "reason": "Templar Assassin is shut down by detection and AoE that strips Refraction, and Leshrac has the lockdown to exploit that.",
         "reason_th": "Templar Assassin ถูกกดด้วยการเปิดแมพและ AoE ที่ลอก Refraction และ Leshrac มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 100,
-        "delta": 0.0265,
-        "reason": "Leshrac kites Tusk from range, and Tusk struggles to close the gap.",
-        "reason_th": "Leshrac ไคต์ Tusk จากระยะไกล และ Tusk เข้าประชิดได้ยาก"
+        "hero_id": 129,
+        "delta": 0.0276,
+        "reason": "Leshrac can chain-disable Mars before Mars's items come online.",
+        "reason_th": "Leshrac ร้อยสกิลคุมใส่ Mars ได้ก่อนที่ไอเทมของ Mars จะมาครบ"
       },
       {
         "hero_id": 14,
-        "delta": 0.0246,
+        "delta": 0.0252,
         "reason": "Pudge has trouble reaching Leshrac, who fights from a distance.",
         "reason_th": "Pudge เข้าถึงตัว Leshrac ได้ยากเพราะ Leshrac สู้จากระยะไกล"
       },
       {
         "hero_id": 31,
-        "delta": 0.0239,
+        "delta": 0.0245,
         "reason": "Leshrac can burst Lich from full health before Lich gets to act.",
         "reason_th": "Leshrac เบิร์สต์ Lich จากเลือดเต็มให้ตายได้ก่อนที่ Lich จะได้ทำอะไร"
       }
@@ -17846,85 +17846,85 @@
     "countered_by": [
       {
         "hero_id": 56,
-        "delta": -0.0559,
+        "delta": -0.0553,
         "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, and Nature's Prophet is squishy and dies if caught without his teleport.",
         "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk ส่วน Nature's Prophet ตัวบางและตายถ้าโดนจับโดยไม่มีเทเลพอร์ต"
       },
       {
-        "hero_id": 137,
-        "delta": -0.0538,
-        "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, and the lockdown cancels Nature's Prophet's escape.",
-        "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย และการล็อกตัดทางหนีของ Nature's Prophet"
-      },
-      {
         "hero_id": 98,
-        "delta": -0.0535,
+        "delta": -0.0547,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, soaking Nature's Prophet's physical damage and winning the long fight.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain รับดาเมจกายภาพของ Nature's Prophet ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
+        "hero_id": 137,
+        "delta": -0.0527,
+        "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, and the lockdown cancels Nature's Prophet's escape.",
+        "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย และการล็อกตัดทางหนีของ Nature's Prophet"
+      },
+      {
         "hero_id": 8,
-        "delta": -0.0486,
+        "delta": -0.0475,
         "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, catching Nature's Prophet out of position.",
         "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ จับ Nature's Prophet ได้ตอนยืนผิดตำแหน่ง"
       },
       {
-        "hero_id": 71,
-        "delta": -0.0441,
-        "reason": "Spirit Breaker charges across the map to stun and isolate a single target, so Nature's Prophet gets caught before escaping.",
-        "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ทำให้ Nature's Prophet หนีไม่รอด"
-      },
-      {
         "hero_id": 14,
-        "delta": -0.0435,
-        "reason": "Pudge yanks a single target out of position with Hook and Dismember, pinning Nature's Prophet down before any escape.",
-        "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember จับ Nature's Prophet ได้ก่อนจะหนีทัน"
+        "delta": -0.0443,
+        "reason": "Pudge yanks a single target out of position with Hook and Dismember, so Nature's Prophet gets caught before escaping.",
+        "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ทำให้ Nature's Prophet หนีไม่รอด"
       },
       {
         "hero_id": 9,
-        "delta": -0.0418,
-        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, and the lockdown cancels Nature's Prophet's escape.",
-        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm และการล็อกตัดทางหนีของ Nature's Prophet"
+        "delta": -0.044,
+        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, pinning Nature's Prophet down before any escape.",
+        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm จับ Nature's Prophet ได้ก่อนจะหนีทัน"
       },
       {
-        "hero_id": 74,
-        "delta": -0.0379,
-        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, so Nature's Prophet gets caught before escaping.",
-        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ทำให้ Nature's Prophet หนีไม่รอด"
+        "hero_id": 71,
+        "delta": -0.0409,
+        "reason": "Spirit Breaker charges across the map to stun and isolate a single target, and the lockdown cancels Nature's Prophet's escape.",
+        "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Nature's Prophet"
       },
       {
         "hero_id": 22,
-        "delta": -0.0364,
+        "delta": -0.0386,
         "reason": "Zeus chunks the whole enemy team with no-counterplay magical nukes — Nature's Prophet is squishy and dies if caught without his teleport.",
         "reason_th": "Zeus กดเลือดทั้งทีมศัตรูด้วยสกิลเวทย์ที่แทบไม่มีทางเลี่ยง — Nature's Prophet ตัวบางและตายถ้าโดนจับโดยไม่มีเทเลพอร์ต"
       },
       {
+        "hero_id": 74,
+        "delta": -0.0369,
+        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, so Nature's Prophet gets caught before escaping.",
+        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ทำให้ Nature's Prophet หนีไม่รอด"
+      },
+      {
         "hero_id": 81,
-        "delta": -0.0346,
+        "delta": -0.034,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, pinning Nature's Prophet down before any escape.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm จับ Nature's Prophet ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 73,
-        "delta": -0.0313,
+        "delta": -0.0306,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and the lockdown cancels Nature's Prophet's escape.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และการล็อกตัดทางหนีของ Nature's Prophet"
       },
       {
         "hero_id": 101,
-        "delta": -0.031,
+        "delta": -0.0298,
         "reason": "Skywrath Mage deletes squishy heroes with stacked magical burst and a silence, so Nature's Prophet gets caught before escaping.",
         "reason_th": "Skywrath Mage ลบฮีโร่ตัวบางด้วยเบิร์สต์เวทย์ที่ซ้อนกันและไซเลนซ์ ทำให้ Nature's Prophet หนีไม่รอด"
       },
       {
         "hero_id": 106,
-        "delta": -0.0291,
+        "delta": -0.0279,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, pinning Nature's Prophet down before any escape.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ จับ Nature's Prophet ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 145,
-        "delta": -0.0284,
+        "delta": -0.0274,
         "reason": "Kez switches stances to dash, parry, and burst single targets, and the lockdown cancels Nature's Prophet's escape.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว และการล็อกตัดทางหนีของ Nature's Prophet"
       }
@@ -17932,87 +17932,87 @@
     "counters": [
       {
         "hero_id": 120,
-        "delta": 0.0561,
+        "delta": 0.0554,
         "reason": "Pangolier is vulnerable once its escape and cooldowns are down, and Nature's Prophet is well placed to exploit it.",
         "reason_th": "Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Nature's Prophet อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 95,
-        "delta": 0.0543,
+        "delta": 0.0494,
         "reason": "Nature's Prophet catches Troll Warlord out of position, and Troll Warlord is melee with no escape and dies to kiting and lockdown.",
         "reason_th": "Nature's Prophet จับ Troll Warlord ได้ตอนยืนผิดตำแหน่ง และ Troll Warlord เป็นสายประชิดที่ไม่มีสกิลหนีและตายให้กับการไคต์และการคุม"
       },
       {
-        "hero_id": 13,
-        "delta": 0.0486,
-        "reason": "Puck is squishy and gets blown up quickly, which Nature's Prophet's burst punishes hard.",
-        "reason_th": "Puck ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Nature's Prophet ลงโทษหนัก"
-      },
-      {
         "hero_id": 119,
-        "delta": 0.0483,
-        "reason": "Nature's Prophet can burst Dark Willow from full health before Dark Willow gets to act.",
-        "reason_th": "Nature's Prophet เบิร์สต์ Dark Willow จากเลือดเต็มให้ตายได้ก่อนที่ Dark Willow จะได้ทำอะไร"
+        "delta": 0.0457,
+        "reason": "Dark Willow is squishy and gets blown up quickly, which Nature's Prophet's burst punishes hard.",
+        "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Nature's Prophet ลงโทษหนัก"
       },
       {
-        "hero_id": 109,
-        "delta": 0.0446,
-        "reason": "Terrorblade is extremely fragile early and dies to ganks before items, which makes Terrorblade an easy pickoff for Nature's Prophet.",
-        "reason_th": "Terrorblade ต้นเกมตัวเปราะมากและตายให้กับการแกงค์ก่อนมีของ ทำให้เป็นเป้าเก็บง่ายสำหรับ Nature's Prophet"
+        "hero_id": 13,
+        "delta": 0.0453,
+        "reason": "Nature's Prophet can burst Puck from full health before Puck gets to act.",
+        "reason_th": "Nature's Prophet เบิร์สต์ Puck จากเลือดเต็มให้ตายได้ก่อนที่ Puck จะได้ทำอะไร"
       },
       {
         "hero_id": 51,
-        "delta": 0.0425,
+        "delta": 0.0436,
         "reason": "Clockwerk is slow and can be kited, and Nature's Prophet fights from range.",
         "reason_th": "Clockwerk เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Nature's Prophet สู้จากระยะไกลได้"
       },
       {
+        "hero_id": 109,
+        "delta": 0.0426,
+        "reason": "Terrorblade is extremely fragile early and dies to ganks before items, which makes Terrorblade an easy pickoff for Nature's Prophet.",
+        "reason_th": "Terrorblade ต้นเกมตัวเปราะมากและตายให้กับการแกงค์ก่อนมีของ ทำให้เป็นเป้าเก็บง่ายสำหรับ Nature's Prophet"
+      },
+      {
+        "hero_id": 46,
+        "delta": 0.0382,
+        "reason": "Templar Assassin has too little HP to survive Nature's Prophet's magical burst.",
+        "reason_th": "Templar Assassin เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Nature's Prophet"
+      },
+      {
         "hero_id": 6,
-        "delta": 0.0363,
-        "reason": "Drow Ranger has too little HP to survive Nature's Prophet's magical burst.",
-        "reason_th": "Drow Ranger เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Nature's Prophet"
+        "delta": 0.0369,
+        "reason": "Drow Ranger is helpless when gap-closed and her aura drops near enemies, which Nature's Prophet's burst punishes hard.",
+        "reason_th": "Drow Ranger ทำอะไรไม่ได้เมื่อโดนเข้าระยะ และออร่าหายเมื่ออยู่ใกล้ศัตรู ซึ่งโดนเบิร์สต์ของ Nature's Prophet ลงโทษหนัก"
       },
       {
         "hero_id": 15,
-        "delta": 0.0356,
+        "delta": 0.0361,
         "reason": "Razor can't get away once Nature's Prophet commits to a gank.",
         "reason_th": "Razor หนีไม่พ้นเมื่อ Nature's Prophet ตัดสินใจเข้าแกงค์"
       },
       {
-        "hero_id": 46,
-        "delta": 0.0346,
-        "reason": "Templar Assassin is shut down by detection and AoE that strips Refraction, which Nature's Prophet's burst punishes hard.",
-        "reason_th": "Templar Assassin ถูกกดด้วยการเปิดแมพและ AoE ที่ลอก Refraction ซึ่งโดนเบิร์สต์ของ Nature's Prophet ลงโทษหนัก"
-      },
-      {
-        "hero_id": 30,
-        "delta": 0.0344,
-        "reason": "Nature's Prophet can burst Witch Doctor from full health before Witch Doctor gets to act.",
-        "reason_th": "Nature's Prophet เบิร์สต์ Witch Doctor จากเลือดเต็มให้ตายได้ก่อนที่ Witch Doctor จะได้ทำอะไร"
-      },
-      {
         "hero_id": 99,
-        "delta": 0.0314,
+        "delta": 0.036,
         "reason": "Nature's Prophet catches Bristleback out of position, and Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Nature's Prophet จับ Bristleback ได้ตอนยืนผิดตำแหน่ง และ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
-        "hero_id": 38,
-        "delta": 0.0306,
-        "reason": "Nature's Prophet kites Beastmaster from range, and Beastmaster struggles to close the gap.",
-        "reason_th": "Nature's Prophet ไคต์ Beastmaster จากระยะไกล และ Beastmaster เข้าประชิดได้ยาก"
+        "hero_id": 30,
+        "delta": 0.0351,
+        "reason": "Nature's Prophet can burst Witch Doctor from full health before Witch Doctor gets to act.",
+        "reason_th": "Nature's Prophet เบิร์สต์ Witch Doctor จากเลือดเต็มให้ตายได้ก่อนที่ Witch Doctor จะได้ทำอะไร"
       },
       {
         "hero_id": 20,
-        "delta": 0.0301,
+        "delta": 0.0348,
         "reason": "Vengeful Spirit has too little HP to survive Nature's Prophet's magical burst.",
         "reason_th": "Vengeful Spirit เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Nature's Prophet"
       },
       {
-        "hero_id": 72,
-        "delta": 0.0288,
-        "reason": "Gyrocopter is squishy and gets blown up quickly, which Nature's Prophet's burst punishes hard.",
-        "reason_th": "Gyrocopter ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Nature's Prophet ลงโทษหนัก"
+        "hero_id": 38,
+        "delta": 0.0295,
+        "reason": "Nature's Prophet kites Beastmaster from range, and Beastmaster struggles to close the gap.",
+        "reason_th": "Nature's Prophet ไคต์ Beastmaster จากระยะไกล และ Beastmaster เข้าประชิดได้ยาก"
+      },
+      {
+        "hero_id": 102,
+        "delta": 0.0291,
+        "reason": "Abaddon is melee with no escape and easy to kite, which makes Abaddon an easy pickoff for Nature's Prophet.",
+        "reason_th": "Abaddon เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย ทำให้เป็นเป้าเก็บง่ายสำหรับ Nature's Prophet"
       }
     ],
     "synergies": [
@@ -28527,57 +28527,57 @@
     "countered_by": [
       {
         "hero_id": 110,
-        "delta": -0.0727,
+        "delta": -0.0726,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, fighting from range while Ogre Magi is slow and can be kited.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova สู้จากระยะไกล ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 45,
-        "delta": -0.0555,
+        "delta": -0.0586,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain, and Ogre Magi struggles to close the gap.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain และ Ogre Magi เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 83,
-        "delta": -0.0526,
+        "delta": -0.0525,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, while Ogre Magi is slow and can be kited.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 61,
-        "delta": -0.0427,
+        "delta": -0.0426,
         "reason": "Broodmother overwhelms a lane with spiderlings and webs, and Ogre Magi is slow and can be kited.",
         "reason_th": "Broodmother ถล่มเลนด้วยสไปเดอร์ลิงและใยแมงมุม และ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 47,
-        "delta": -0.0425,
+        "delta": -0.0424,
         "reason": "Viper slows and corrodes armor, winning every early lane trade while staying out of Ogre Magi's reach.",
         "reason_th": "Viper สโลว์และลดเกราะ ชนะการเทรดในเลนช่วงต้นเกมทุกครั้ง โดยอยู่นอกระยะของ Ogre Magi"
       },
       {
         "hero_id": 73,
-        "delta": -0.0394,
+        "delta": -0.0393,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone; meanwhile Ogre Magi is slow and can be kited.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร ส่วน Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 8,
-        "delta": -0.039,
-        "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, while Ogre Magi is slow and can be kited.",
-        "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
         "hero_id": 2,
-        "delta": -0.0375,
-        "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, and Ogre Magi is slow and can be kited.",
-        "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call และ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
+        "delta": -0.0386,
+        "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, while Ogre Magi is slow and can be kited.",
+        "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 9,
         "delta": -0.0374,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, fighting from range while Ogre Magi is slow and can be kited.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm สู้จากระยะไกล ขณะที่ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
+        "hero_id": 8,
+        "delta": -0.0373,
+        "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, and Ogre Magi is slow and can be kited.",
+        "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ และ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 62,
@@ -28593,39 +28593,39 @@
       },
       {
         "hero_id": 107,
-        "delta": -0.0342,
+        "delta": -0.0341,
         "reason": "Earth Spirit rolls in with Rolling Boulder and chains Geomagnetic Grip and Boulder Smash stuns, and Ogre Magi is slow and can be kited.",
         "reason_th": "Earth Spirit กลิ้งเข้ามาด้วย Rolling Boulder และร้อยสตันจาก Geomagnetic Grip และ Boulder Smash และ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 56,
-        "delta": -0.0314,
+        "delta": -0.0313,
         "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, and Ogre Magi struggles to close the gap.",
         "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk และ Ogre Magi เข้าประชิดได้ยาก"
       },
       {
-        "hero_id": 145,
-        "delta": -0.0303,
-        "reason": "Kez switches stances to dash, parry, and burst single targets; meanwhile Ogre Magi is slow and can be kited.",
-        "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว ส่วน Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
+        "hero_id": 48,
+        "delta": -0.0305,
+        "reason": "Luna bounces Lucent Beams and clears teams with Moon Glaives and Eclipse while staying out of Ogre Magi's reach.",
+        "reason_th": "Luna เด้ง Lucent Beam และเคลียร์ทีมด้วย Moon Glaives และ Eclipse โดยอยู่นอกระยะของ Ogre Magi"
       }
     ],
     "counters": [
       {
         "hero_id": 94,
-        "delta": 0.0777,
+        "delta": 0.0778,
         "reason": "Medusa's right-clicks struggle to get through Ogre Magi's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Medusa ตีไม่เข้าความถึกของ Ogre Magi"
       },
       {
         "hero_id": 99,
-        "delta": 0.0692,
+        "delta": 0.0693,
         "reason": "Ogre Magi out-trades Bristleback in melee range.",
         "reason_th": "Ogre Magi เทรดดาเมจชนะ Bristleback ในระยะประชิด"
       },
       {
         "hero_id": 22,
-        "delta": 0.0644,
+        "delta": 0.0645,
         "reason": "Ogre Magi's disables stop Zeus from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Ogre Magi ทำให้ Zeus ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
@@ -28637,7 +28637,7 @@
       },
       {
         "hero_id": 112,
-        "delta": 0.0418,
+        "delta": 0.0419,
         "reason": "Winter Wyvern is slow and squishy if caught out of position, and Ogre Magi is well placed to exploit it.",
         "reason_th": "Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง และ Ogre Magi อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
@@ -28655,7 +28655,7 @@
       },
       {
         "hero_id": 63,
-        "delta": 0.0342,
+        "delta": 0.0343,
         "reason": "Weaver dies to detection and AoE that catches him out of Shukuchi, and Ogre Magi has the lockdown to exploit that.",
         "reason_th": "Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi และ Ogre Magi มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
@@ -28667,19 +28667,19 @@
       },
       {
         "hero_id": 46,
-        "delta": 0.0327,
+        "delta": 0.0328,
         "reason": "Templar Assassin lives on escapes, and Ogre Magi's lockdown lands before Templar Assassin can use them.",
         "reason_th": "Templar Assassin พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Ogre Magi จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 12,
-        "delta": 0.0308,
+        "delta": 0.0309,
         "reason": "Ogre Magi's disables pin Phantom Lancer in place, taking away the mobility Phantom Lancer depends on.",
         "reason_th": "สกิลคุมของ Ogre Magi ตรึง Phantom Lancer ไว้กับที่ ตัดความคล่องตัวที่ Phantom Lancer ต้องพึ่ง"
       },
       {
         "hero_id": 137,
-        "delta": 0.0297,
+        "delta": 0.0298,
         "reason": "Primal Beast is slow and can be kited, which suits Ogre Magi's game plan.",
         "reason_th": "Primal Beast เคลื่อนที่ช้าและถูกไคต์ได้ ซึ่งเข้าทางแผนการเล่นของ Ogre Magi"
       },
@@ -28691,7 +28691,7 @@
       },
       {
         "hero_id": 126,
-        "delta": 0.0289,
+        "delta": 0.029,
         "reason": "Void Spirit lives on escapes, and Ogre Magi's lockdown lands before Void Spirit can use them.",
         "reason_th": "Void Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Ogre Magi จับได้ก่อนจะหนีทัน"
       }
@@ -28868,173 +28868,173 @@
     "countered_by": [
       {
         "hero_id": 64,
-        "delta": -0.0552,
+        "delta": -0.0549,
         "reason": "Jakiro zones teams off objectives with layered AoE damage, fighting from range while Undying is slow and can be kited.",
         "reason_th": "Jakiro กันทีมศัตรูออกจากออบเจกทีฟด้วยดาเมจ AoE ที่ซ้อนกัน สู้จากระยะไกล ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 106,
-        "delta": -0.0545,
+        "delta": -0.0542,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, while Undying is slow and can be kited.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
+        "hero_id": 90,
+        "delta": -0.0515,
+        "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, and Undying struggles to close the gap.",
+        "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และ Undying เข้าประชิดได้ยาก"
+      },
+      {
         "hero_id": 114,
-        "delta": -0.0525,
+        "delta": -0.0495,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Undying is slow and can be kited.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike และ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 9,
-        "delta": -0.0495,
-        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, and Undying struggles to close the gap.",
-        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm และ Undying เข้าประชิดได้ยาก"
-      },
-      {
-        "hero_id": 90,
-        "delta": -0.0487,
-        "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana while staying out of Undying's reach.",
-        "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม โดยอยู่นอกระยะของ Undying"
+        "delta": -0.0493,
+        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm while staying out of Undying's reach.",
+        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm โดยอยู่นอกระยะของ Undying"
       },
       {
         "hero_id": 83,
-        "delta": -0.0459,
+        "delta": -0.0458,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth; meanwhile Undying is slow and can be kited.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ส่วน Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 73,
-        "delta": -0.0457,
+        "delta": -0.0455,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, while Undying is slow and can be kited.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 86,
-        "delta": -0.0425,
+        "delta": -0.0427,
         "reason": "Rubick steals and turns the enemy's best spell against them, fighting from range while Undying is slow and can be kited.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ สู้จากระยะไกล ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 80,
-        "delta": -0.04,
+        "delta": -0.0399,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, and Undying struggles to close the gap.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม และ Undying เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 112,
-        "delta": -0.0359,
+        "delta": -0.0383,
         "reason": "Winter Wyvern bursts targets down with magical nukes while staying out of Undying's reach.",
         "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ โดยอยู่นอกระยะของ Undying"
       },
       {
         "hero_id": 56,
-        "delta": -0.0356,
+        "delta": -0.0354,
         "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, fighting from range while Undying is slow and can be kited.",
         "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk สู้จากระยะไกล ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 18,
-        "delta": -0.0348,
+        "delta": -0.0346,
         "reason": "Sven stuns then cleaves entire teams during God's Strength, and Undying is slow and can be kited.",
         "reason_th": "Sven สตันแล้วฟันโดนทั้งทีมในช่วง God's Strength และ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 136,
-        "delta": -0.031,
+        "delta": -0.0309,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose; meanwhile Undying is slow and can be kited.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose ส่วน Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 65,
-        "delta": -0.029,
-        "reason": "Batrider lassos a target with Flaming Lasso and drags it into the team, and Undying struggles to close the gap.",
-        "reason_th": "Batrider ล็อกเป้าด้วย Flaming Lasso แล้วลากเข้าหาทีม และ Undying เข้าประชิดได้ยาก"
+        "hero_id": 29,
+        "delta": -0.0273,
+        "reason": "Tidehunter flips fights with the AoE Ravage stun and tanks return damage, while Undying is slow and can be kited.",
+        "reason_th": "Tidehunter พลิกการต่อสู้ด้วยสตัน AoE จาก Ravage และทนรับดาเมจ ขณะที่ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
       }
     ],
     "counters": [
       {
         "hero_id": 70,
-        "delta": 0.0543,
+        "delta": 0.0517,
         "reason": "Ursa's right-clicks struggle to get through Undying's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Ursa ตีไม่เข้าความถึกของ Undying"
       },
       {
+        "hero_id": 74,
+        "delta": 0.0494,
+        "reason": "Invoker lives on escapes, and Undying's lockdown lands before Invoker can use them.",
+        "reason_th": "Invoker พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Undying จับได้ก่อนจะหนีทัน"
+      },
+      {
         "hero_id": 60,
-        "delta": 0.0493,
+        "delta": 0.0494,
         "reason": "Undying out-trades Night Stalker in melee range.",
         "reason_th": "Undying เทรดดาเมจชนะ Night Stalker ในระยะประชิด"
       },
       {
         "hero_id": 27,
-        "delta": 0.0475,
+        "delta": 0.0477,
         "reason": "Shadow Shaman is squishy and gets blown up quickly, and Undying is well placed to exploit it.",
         "reason_th": "Shadow Shaman ตัวบางและถูกเก็บได้ไวมาก และ Undying อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 26,
-        "delta": 0.0455,
+        "delta": 0.0457,
         "reason": "Undying tends to have the edge here: Lion is extremely squishy with no escape.",
         "reason_th": "Undying มักได้เปรียบในแมตช์นี้ เพราะ Lion ตัวบางมากและไม่มีสกิลหนี"
       },
       {
-        "hero_id": 74,
-        "delta": 0.0434,
-        "reason": "Invoker lives on escapes, and Undying's lockdown lands before Invoker can use them.",
-        "reason_th": "Invoker พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Undying จับได้ก่อนจะหนีทัน"
-      },
-      {
         "hero_id": 37,
-        "delta": 0.0431,
+        "delta": 0.0433,
         "reason": "Warlock is squishy and gets blown up quickly, which suits Undying's game plan.",
         "reason_th": "Warlock ตัวบางและถูกเก็บได้ไวมาก ซึ่งเข้าทางแผนการเล่นของ Undying"
       },
       {
         "hero_id": 31,
-        "delta": 0.0395,
+        "delta": 0.0397,
         "reason": "Lich is squishy and gets blown up quickly, and Undying is well placed to exploit it.",
         "reason_th": "Lich ตัวบางและถูกเก็บได้ไวมาก และ Undying อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
-        "hero_id": 84,
-        "delta": 0.0372,
-        "reason": "Undying tends to have the edge here: Ogre Magi is slow and can be kited.",
-        "reason_th": "Undying มักได้เปรียบในแมตช์นี้ เพราะ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
-        "hero_id": 126,
-        "delta": 0.0348,
-        "reason": "Undying's disables pin Void Spirit in place, taking away the mobility Void Spirit depends on.",
-        "reason_th": "สกิลคุมของ Undying ตรึง Void Spirit ไว้กับที่ ตัดความคล่องตัวที่ Void Spirit ต้องพึ่ง"
-      },
-      {
         "hero_id": 49,
-        "delta": 0.0346,
+        "delta": 0.0375,
         "reason": "Dragon Knight has to fight Undying up close, where Undying is stronger and tankier.",
         "reason_th": "Dragon Knight ต้องสู้กับ Undying ในระยะประชิด ซึ่ง Undying ทั้งแรงกว่าและถึกกว่า"
       },
       {
-        "hero_id": 123,
-        "delta": 0.0326,
-        "reason": "Hoodwink is fragile and dies if her escape is cut off, and Undying has the lockdown to exploit that.",
-        "reason_th": "Hoodwink ตัวบางและตายถ้าทางหนีถูกตัด และ Undying มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+        "hero_id": 84,
+        "delta": 0.0374,
+        "reason": "Undying tends to have the edge here: Ogre Magi is slow and can be kited.",
+        "reason_th": "Undying มักได้เปรียบในแมตช์นี้ เพราะ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 10,
-        "delta": 0.0318,
-        "reason": "Morphling lives on escapes, and Undying's lockdown lands before Morphling can use them.",
-        "reason_th": "Morphling พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Undying จับได้ก่อนจะหนีทัน"
+        "hero_id": 94,
+        "delta": 0.0315,
+        "reason": "Undying soaks Medusa's physical damage and wins the long fight.",
+        "reason_th": "Undying รับดาเมจกายภาพของ Medusa ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
+      },
+      {
+        "hero_id": 123,
+        "delta": 0.0311,
+        "reason": "Undying's disables pin Hoodwink in place, taking away the mobility Hoodwink depends on.",
+        "reason_th": "สกิลคุมของ Undying ตรึง Hoodwink ไว้กับที่ ตัดความคล่องตัวที่ Hoodwink ต้องพึ่ง"
       },
       {
         "hero_id": 109,
-        "delta": 0.0309,
-        "reason": "Undying soaks Terrorblade's physical damage and wins the long fight.",
-        "reason_th": "Undying รับดาเมจกายภาพของ Terrorblade ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
+        "delta": 0.0311,
+        "reason": "Terrorblade needs long fights to deal damage, and Undying is built to survive them.",
+        "reason_th": "Terrorblade ต้องการไฟต์ยาวเพื่อทำดาเมจ แต่ Undying ยืนระยะในไฟต์แบบนั้นได้สบาย"
       },
       {
-        "hero_id": 129,
-        "delta": 0.0303,
-        "reason": "Mars is melee with no escape and easy to kite, and Undying wins the melee brawl.",
-        "reason_th": "Mars เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และ Undying ชนะการตะลุมบอนระยะประชิด"
+        "hero_id": 2,
+        "delta": 0.0304,
+        "reason": "Axe is melee with no escape and easy to kite, and Undying wins the melee brawl.",
+        "reason_th": "Axe เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และ Undying ชนะการตะลุมบอนระยะประชิด"
+      },
+      {
+        "hero_id": 126,
+        "delta": 0.0296,
+        "reason": "Void Spirit is mana-reliant and vulnerable once his escape is down, and Undying has the lockdown to exploit that.",
+        "reason_th": "Void Spirit พึ่งมานาและเสี่ยงเมื่อสกิลหนีหมด และ Undying มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       }
     ],
     "synergies": [
@@ -29169,22 +29169,22 @@
         "reason_th": "ภูมิคุ้มกันเวทย์เพื่อสู้ต่อท่ามกลางการคุมและดาเมจเวทย์"
       },
       {
-        "item": "Glimmer Cape",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png",
-        "reason": "A magic-resist save with invisibility.",
-        "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
-      },
-      {
         "item": "Lotus Orb",
         "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/lotus_orb.png",
         "reason": "A reflecting, dispelling save.",
         "reason_th": "สกิลเซฟที่สะท้อนและดิสเพลได้"
       },
       {
-        "item": "Blade Mail",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blade_mail.png",
-        "reason": "To return burst damage to attackers.",
-        "reason_th": "สะท้อนดาเมจเบิร์สต์ใส่ผู้โจมตี"
+        "item": "Glimmer Cape",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png",
+        "reason": "A magic-resist save with invisibility.",
+        "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
+      },
+      {
+        "item": "Crella's Crozier",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/crellas_crozier.png",
+        "reason": "A popular core pickup on this hero.",
+        "reason_th": "ไอเทมคอร์ยอดนิยมของฮีโร่นี้"
       }
     ],
     "ability_counters": [
@@ -29220,85 +29220,85 @@
     "countered_by": [
       {
         "hero_id": 107,
-        "delta": -0.071,
+        "delta": -0.0713,
         "reason": "Earth Spirit rolls in with Rolling Boulder and chains Geomagnetic Grip and Boulder Smash stuns, and Rubick is squishy and gets blown up quickly.",
         "reason_th": "Earth Spirit กลิ้งเข้ามาด้วย Rolling Boulder และร้อยสตันจาก Geomagnetic Grip และ Boulder Smash ส่วน Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 102,
-        "delta": -0.0643,
+        "delta": -0.0627,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Rubick is squishy and gets blown up quickly.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 80,
-        "delta": -0.0568,
+        "delta": -0.0569,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, and Rubick is squishy and gets blown up quickly.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม และ Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 52,
-        "delta": -0.0546,
+        "delta": -0.0526,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova — Rubick is squishy and gets blown up quickly.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova — Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 77,
-        "delta": -0.0502,
+        "delta": -0.0504,
         "reason": "Lycan transforms into a wolf pack and pushes objectives relentlessly, catching Rubick out of position.",
         "reason_th": "Lycan แปลงร่างเป็นฝูงหมาป่าและผลักออบเจกทีฟอย่างต่อเนื่อง จับ Rubick ได้ตอนยืนผิดตำแหน่ง"
       },
       {
-        "hero_id": 3,
-        "delta": -0.0449,
-        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip; meanwhile Rubick is squishy and gets blown up quickly.",
-        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ส่วน Rubick ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 110,
-        "delta": -0.0446,
+        "delta": -0.045,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, and Rubick can't survive the burst.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova และ Rubick ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 66,
-        "delta": -0.0437,
-        "reason": "Chen swings fights with utility and disables, while Rubick is squishy and gets blown up quickly.",
-        "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ขณะที่ Rubick ตัวบางและถูกเก็บได้ไวมาก"
+        "delta": -0.0438,
+        "reason": "Chen swings fights with utility and disables; meanwhile Rubick is squishy and gets blown up quickly.",
+        "reason_th": "Chen พลิกการต่อสู้ด้วยสกิลซัพพอร์ตและการคุม ส่วน Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 73,
-        "delta": -0.042,
-        "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and Rubick is squishy and gets blown up quickly.",
-        "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และ Rubick ตัวบางและถูกเก็บได้ไวมาก"
+        "delta": -0.0422,
+        "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, while Rubick is squishy and gets blown up quickly.",
+        "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร ขณะที่ Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 100,
-        "delta": -0.0413,
+        "delta": -0.0416,
         "reason": "Tusk isolates a target with Snowball and Walrus Punch, more damage than Rubick's low HP can take.",
         "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch ซึ่ง Rubick เลือดน้อยเกินจะรับไหว"
       },
       {
+        "hero_id": 3,
+        "delta": -0.0409,
+        "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, and Rubick is squishy and gets blown up quickly.",
+        "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip และ Rubick ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 9,
-        "delta": -0.0335,
+        "delta": -0.0337,
         "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm — Rubick is squishy and gets blown up quickly.",
         "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm — Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 51,
-        "delta": -0.0315,
+        "delta": -0.0318,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault; meanwhile Rubick is squishy and gets blown up quickly.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault ส่วน Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 89,
-        "delta": -0.0301,
+        "delta": -0.0302,
         "reason": "Naga Siren ensnares a target and overwhelms with a wall of illusions, turning Rubick into an easy pickoff.",
         "reason_th": "Naga Siren จับเป้าด้วย Ensnare และถล่มด้วยกำแพงอิลลูชัน ทำให้ Rubick เป็นเป้าเก็บง่าย"
       },
       {
         "hero_id": 114,
-        "delta": -0.0294,
+        "delta": -0.0297,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, and Rubick is squishy and gets blown up quickly.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ส่วน Rubick ตัวบางและถูกเก็บได้ไวมาก"
       }
@@ -29306,87 +29306,87 @@
     "counters": [
       {
         "hero_id": 44,
-        "delta": 0.057,
+        "delta": 0.0568,
         "reason": "Phantom Assassin lives on escapes, and Rubick's lockdown lands before Phantom Assassin can use them.",
         "reason_th": "Phantom Assassin พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Rubick จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 97,
-        "delta": 0.0486,
+        "delta": 0.0484,
         "reason": "Rubick's disables pin Magnus in place, taking away the mobility Magnus depends on.",
         "reason_th": "สกิลคุมของ Rubick ตรึง Magnus ไว้กับที่ ตัดความคล่องตัวที่ Magnus ต้องพึ่ง"
       },
       {
-        "hero_id": 63,
-        "delta": 0.0466,
-        "reason": "Weaver dies to detection and AoE that catches him out of Shukuchi, and Rubick has the lockdown to exploit that.",
-        "reason_th": "Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi และ Rubick มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
-      },
-      {
         "hero_id": 85,
-        "delta": 0.0465,
+        "delta": 0.0467,
         "reason": "Undying is slow and can be kited, and Rubick fights from range.",
         "reason_th": "Undying เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Rubick สู้จากระยะไกลได้"
       },
       {
+        "hero_id": 63,
+        "delta": 0.0464,
+        "reason": "Weaver dies to detection and AoE that catches him out of Shukuchi, and Rubick has the lockdown to exploit that.",
+        "reason_th": "Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi และ Rubick มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+      },
+      {
         "hero_id": 119,
-        "delta": 0.0439,
+        "delta": 0.0436,
         "reason": "Dark Willow lives on escapes, and Rubick's lockdown lands before Dark Willow can use them.",
         "reason_th": "Dark Willow พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Rubick จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 108,
-        "delta": 0.0434,
+        "delta": 0.0432,
         "reason": "Rubick's disables pin Underlord in place, taking away the mobility Underlord depends on.",
         "reason_th": "สกิลคุมของ Rubick ตรึง Underlord ไว้กับที่ ตัดความคล่องตัวที่ Underlord ต้องพึ่ง"
       },
       {
         "hero_id": 25,
-        "delta": 0.0427,
+        "delta": 0.0413,
         "reason": "Lina is fragile and dies quickly to early lockdown, which Rubick's burst punishes hard.",
         "reason_th": "Lina ตัวเปราะและตายไวเมื่อโดนล็อกตั้งแต่ต้นเกม ซึ่งโดนเบิร์สต์ของ Rubick ลงโทษหนัก"
       },
       {
         "hero_id": 94,
-        "delta": 0.0391,
+        "delta": 0.0389,
         "reason": "Rubick's disables stop Medusa from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Rubick ทำให้ Medusa ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
-        "hero_id": 136,
-        "delta": 0.0364,
-        "reason": "Marci is fragile under focus, and Rubick has the lockdown to exploit that.",
-        "reason_th": "Marci ตัวเปราะเมื่อโดนโฟกัส และ Rubick มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
-      },
-      {
         "hero_id": 43,
-        "delta": 0.0361,
+        "delta": 0.0379,
         "reason": "Rubick can burst Death Prophet from full health before Death Prophet gets to act.",
         "reason_th": "Rubick เบิร์สต์ Death Prophet จากเลือดเต็มให้ตายได้ก่อนที่ Death Prophet จะได้ทำอะไร"
       },
       {
+        "hero_id": 136,
+        "delta": 0.0362,
+        "reason": "Marci is fragile under focus, and Rubick has the lockdown to exploit that.",
+        "reason_th": "Marci ตัวเปราะเมื่อโดนโฟกัส และ Rubick มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
+      },
+      {
         "hero_id": 20,
-        "delta": 0.035,
+        "delta": 0.0348,
         "reason": "Vengeful Spirit lives on escapes, and Rubick's lockdown lands before Vengeful Spirit can use them.",
         "reason_th": "Vengeful Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Rubick จับได้ก่อนจะหนีทัน"
       },
       {
-        "hero_id": 75,
-        "delta": 0.0338,
-        "reason": "Silencer has too little HP to survive Rubick's magical burst.",
-        "reason_th": "Silencer เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Rubick"
-      },
-      {
         "hero_id": 12,
-        "delta": 0.033,
+        "delta": 0.0328,
         "reason": "Rubick's disables pin Phantom Lancer in place, taking away the mobility Phantom Lancer depends on.",
         "reason_th": "สกิลคุมของ Rubick ตรึง Phantom Lancer ไว้กับที่ ตัดความคล่องตัวที่ Phantom Lancer ต้องพึ่ง"
       },
       {
         "hero_id": 70,
-        "delta": 0.0327,
+        "delta": 0.0324,
         "reason": "Ursa is kited easily and has no answer to being disabled at range, and Rubick's lockdown makes the early game miserable.",
         "reason_th": "Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล และสกิลล็อกของ Rubick ทำให้ต้นเกมลำบากมาก"
+      },
+      {
+        "hero_id": 75,
+        "delta": 0.0324,
+        "reason": "Silencer has too little HP to survive Rubick's magical burst.",
+        "reason_th": "Silencer เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Rubick"
       }
     ],
     "synergies": [
@@ -29515,16 +29515,16 @@
         "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
       },
       {
-        "item": "Aether Lens",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aether_lens.png",
-        "reason": "Extra cast range and mana.",
-        "reason_th": "เพิ่มระยะร่ายและมานา"
-      },
-      {
         "item": "Aghanim's Shard",
         "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aghanims_shard.png",
         "reason": "An ability upgrade for extra utility.",
         "reason_th": "อัปเกรดสกิลเพื่อยูทิลิตี้เสริม"
+      },
+      {
+        "item": "Aether Lens",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/aether_lens.png",
+        "reason": "Extra cast range and mana.",
+        "reason_th": "เพิ่มระยะร่ายและมานา"
       },
       {
         "item": "Aeon Disk",
@@ -43978,7 +43978,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-09-27T11:45:28.549Z",
+    "last_updated": "2026-09-27T16:43:35.872Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
