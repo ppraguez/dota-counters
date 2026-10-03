@@ -10202,85 +10202,85 @@
     "countered_by": [
       {
         "hero_id": 88,
-        "delta": -0.0639,
+        "delta": -0.0609,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters — Lich is squishy and gets blown up quickly.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 81,
-        "delta": -0.0553,
+        "delta": -0.0552,
         "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, while Lich is squishy and gets blown up quickly.",
         "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm ขณะที่ Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 83,
-        "delta": -0.0532,
+        "delta": -0.053,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and Lich is squishy and gets blown up quickly.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 35,
-        "delta": -0.0517,
+        "delta": -0.0515,
         "reason": "Sniper kills from extreme range before melee heroes can close in, and Lich can't survive the burst.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง และ Lich ไม่รอดจากเบิร์สต์นั้น"
       },
       {
+        "hero_id": 14,
+        "delta": -0.0473,
+        "reason": "Pudge yanks a single target out of position with Hook and Dismember, and Lich is squishy and gets blown up quickly.",
+        "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember และ Lich ตัวบางและถูกเก็บได้ไวมาก"
+      },
+      {
         "hero_id": 145,
-        "delta": -0.0474,
+        "delta": -0.0473,
         "reason": "Kez switches stances to dash, parry, and burst single targets, catching Lich out of position.",
         "reason_th": "Kez สลับสแตนซ์เพื่อพุ่ง ปัด และเบิร์สต์เป้าหมายเดี่ยว จับ Lich ได้ตอนยืนผิดตำแหน่ง"
       },
       {
         "hero_id": 110,
-        "delta": -0.0456,
+        "delta": -0.0455,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, more damage than Lich's low HP can take.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova ซึ่ง Lich เลือดน้อยเกินจะรับไหว"
       },
       {
-        "hero_id": 14,
-        "delta": -0.0452,
-        "reason": "Pudge yanks a single target out of position with Hook and Dismember, and Lich is squishy and gets blown up quickly.",
-        "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember และ Lich ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
         "hero_id": 20,
-        "delta": -0.0373,
+        "delta": -0.0372,
         "reason": "Vengeful Spirit swaps a target out of position with Nether Swap and shreds its armor — Lich is squishy and gets blown up quickly.",
         "reason_th": "Vengeful Spirit สลับเป้าหมายออกจากตำแหน่งด้วย Nether Swap และลดเกราะ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 90,
-        "delta": -0.0354,
+        "delta": -0.0353,
         "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, and Lich can't survive the burst.",
         "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และ Lich ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 58,
-        "delta": -0.0353,
+        "delta": -0.0352,
         "reason": "Enchantress kites with Impetus while tanking with healing and creeps; meanwhile Lich is squishy and gets blown up quickly.",
         "reason_th": "Enchantress ไคต์ด้วย Impetus พร้อมทนด้วยการฮีลและครีป ส่วน Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 138,
-        "delta": -0.0314,
+        "delta": -0.0313,
         "reason": "Muerta kills from range and ignores physical attacks during Pierce the Veil, more damage than Lich's low HP can take.",
         "reason_th": "Muerta เก็บคิลจากระยะไกลและกันการโจมตีกายภาพระหว่าง Pierce the Veil ซึ่ง Lich เลือดน้อยเกินจะรับไหว"
       },
       {
         "hero_id": 28,
-        "delta": -0.0311,
+        "delta": -0.0309,
         "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, turning Lich into an easy pickoff.",
         "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ ทำให้ Lich เป็นเป้าเก็บง่าย"
       },
       {
         "hero_id": 30,
-        "delta": -0.0307,
+        "delta": -0.0306,
         "reason": "Witch Doctor bursts targets down with magical nukes — Lich is squishy and gets blown up quickly.",
         "reason_th": "Witch Doctor เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ — Lich ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 128,
-        "delta": -0.0285,
+        "delta": -0.0283,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, and Lich can't survive the burst.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และ Lich ไม่รอดจากเบิร์สต์นั้น"
       }
@@ -10288,85 +10288,85 @@
     "counters": [
       {
         "hero_id": 70,
-        "delta": 0.0575,
+        "delta": 0.0576,
         "reason": "Ursa is kited easily and has no answer to being disabled at range, and Lich fights from range.",
         "reason_th": "Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล ส่วน Lich สู้จากระยะไกลได้"
       },
       {
         "hero_id": 18,
-        "delta": 0.0554,
+        "delta": 0.0523,
         "reason": "Lich kites Sven from range, and Sven struggles to close the gap.",
         "reason_th": "Lich ไคต์ Sven จากระยะไกล และ Sven เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 29,
-        "delta": 0.0458,
+        "delta": 0.046,
         "reason": "Tidehunter has trouble reaching Lich, who fights from a distance.",
         "reason_th": "Tidehunter เข้าถึงตัว Lich ได้ยากเพราะ Lich สู้จากระยะไกล"
       },
       {
-        "hero_id": 16,
-        "delta": 0.0382,
-        "reason": "Sand King is fragile under focus, and Lich is well placed to exploit it.",
-        "reason_th": "Sand King ตัวเปราะเมื่อโดนโฟกัส และ Lich อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
-      },
-      {
         "hero_id": 131,
-        "delta": 0.0381,
+        "delta": 0.0383,
         "reason": "Ringmaster is squishy and gets blown up quickly, which Lich's burst punishes hard.",
         "reason_th": "Ringmaster ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Lich ลงโทษหนัก"
       },
       {
+        "hero_id": 16,
+        "delta": 0.0383,
+        "reason": "Sand King is fragile under focus, and Lich is well placed to exploit it.",
+        "reason_th": "Sand King ตัวเปราะเมื่อโดนโฟกัส และ Lich อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
+      },
+      {
         "hero_id": 22,
-        "delta": 0.0375,
+        "delta": 0.0377,
         "reason": "Lich can burst Zeus from full health before Zeus gets to act.",
         "reason_th": "Lich เบิร์สต์ Zeus จากเลือดเต็มให้ตายได้ก่อนที่ Zeus จะได้ทำอะไร"
       },
       {
         "hero_id": 101,
-        "delta": 0.0368,
+        "delta": 0.037,
         "reason": "Skywrath Mage has too little HP to survive Lich's magical burst.",
         "reason_th": "Skywrath Mage เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Lich"
       },
       {
         "hero_id": 38,
-        "delta": 0.034,
+        "delta": 0.0341,
         "reason": "Beastmaster is slow and can be kited, and Lich fights from range.",
         "reason_th": "Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Lich สู้จากระยะไกลได้"
       },
       {
         "hero_id": 15,
-        "delta": 0.0334,
+        "delta": 0.0335,
         "reason": "Lich tends to have the edge here: Razor is short-ranged and kited if he cannot link a target.",
         "reason_th": "Lich มักได้เปรียบในแมตช์นี้ เพราะ Razor ระยะสั้นและถูกไคต์ถ้าลิงก์เป้าไม่ได้"
       },
       {
-        "hero_id": 37,
-        "delta": 0.0331,
-        "reason": "Warlock is squishy and gets blown up quickly, which Lich's burst punishes hard.",
-        "reason_th": "Warlock ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Lich ลงโทษหนัก"
+        "hero_id": 112,
+        "delta": 0.0332,
+        "reason": "Winter Wyvern is slow and squishy if caught out of position, which Lich's burst punishes hard.",
+        "reason_th": "Winter Wyvern เดินช้าและตัวบางถ้าโดนจับนอกตำแหน่ง ซึ่งโดนเบิร์สต์ของ Lich ลงโทษหนัก"
       },
       {
-        "hero_id": 112,
-        "delta": 0.0331,
-        "reason": "Lich can burst Winter Wyvern from full health before Winter Wyvern gets to act.",
-        "reason_th": "Lich เบิร์สต์ Winter Wyvern จากเลือดเต็มให้ตายได้ก่อนที่ Winter Wyvern จะได้ทำอะไร"
+        "hero_id": 37,
+        "delta": 0.0311,
+        "reason": "Lich can burst Warlock from full health before Warlock gets to act.",
+        "reason_th": "Lich เบิร์สต์ Warlock จากเลือดเต็มให้ตายได้ก่อนที่ Warlock จะได้ทำอะไร"
       },
       {
         "hero_id": 2,
-        "delta": 0.0307,
+        "delta": 0.0309,
         "reason": "Lich kites Axe from range, and Axe struggles to close the gap.",
         "reason_th": "Lich ไคต์ Axe จากระยะไกล และ Axe เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 13,
-        "delta": 0.0272,
+        "delta": 0.0274,
         "reason": "Puck has too little HP to survive Lich's magical burst.",
         "reason_th": "Puck เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Lich"
       },
       {
         "hero_id": 54,
-        "delta": 0.0269,
+        "delta": 0.027,
         "reason": "Lifestealer is purely melee and is kited by slows and disengage, which suits Lich's game plan.",
         "reason_th": "Lifestealer เป็นสายประชิดล้วนและถูกไคต์ด้วยสโลว์และการถอย ซึ่งเข้าทางแผนการเล่นของ Lich"
       }
@@ -10750,85 +10750,85 @@
     "countered_by": [
       {
         "hero_id": 106,
-        "delta": -0.0467,
+        "delta": -0.0464,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 14,
-        "delta": -0.0452,
+        "delta": -0.045,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, while Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember ขณะที่ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 123,
-        "delta": -0.0438,
+        "delta": -0.0434,
         "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees, and Enigma can't survive the burst.",
         "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ และ Enigma ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 128,
-        "delta": -0.0349,
+        "delta": -0.038,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, more damage than Enigma's low HP can take.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast ซึ่ง Enigma เลือดน้อยเกินจะรับไหว"
       },
       {
         "hero_id": 79,
-        "delta": -0.0317,
+        "delta": -0.0314,
         "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 51,
-        "delta": -0.0312,
+        "delta": -0.031,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, and Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault และ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 100,
-        "delta": -0.0244,
+        "delta": -0.024,
         "reason": "Tusk isolates a target with Snowball and Walrus Punch, and Enigma can't survive the burst.",
         "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch และ Enigma ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 98,
-        "delta": -0.0172,
+        "delta": -0.0169,
         "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, and Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain ส่วน Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 86,
-        "delta": -0.0128,
+        "delta": -0.0125,
         "reason": "Rubick steals and turns the enemy's best spell against them, more damage than Enigma's low HP can take.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ ซึ่ง Enigma เลือดน้อยเกินจะรับไหว"
       },
       {
         "hero_id": 99,
-        "delta": -0.0107,
+        "delta": -0.0104,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks; meanwhile Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Bristleback ทนดาเมจจากด้านหน้าและสโนว์บอลด้วยสแต็ก Quill ส่วน Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 72,
-        "delta": -0.0084,
+        "delta": -0.0081,
         "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down — Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down — Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 13,
-        "delta": -0.0052,
+        "delta": -0.0049,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil, and Enigma can't survive the burst.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil และ Enigma ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 129,
-        "delta": -0.0024,
+        "delta": -0.0021,
         "reason": "Mars spears enemies into Arena of Blood and blocks ranged attacks, while Enigma is helpless if interrupted before Black Hole lands.",
         "reason_th": "Mars พุ่งหอกดันศัตรูเข้า Arena of Blood และบล็อกการโจมตีระยะไกล ขณะที่ Enigma ทำอะไรไม่ได้ถ้าถูกขัดก่อนปล่อย Black Hole"
       },
       {
         "hero_id": 28,
-        "delta": -0.0009,
+        "delta": -0.0007,
         "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, catching Enigma out of position.",
         "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ จับ Enigma ได้ตอนยืนผิดตำแหน่ง"
       }
@@ -10836,85 +10836,85 @@
     "counters": [
       {
         "hero_id": 19,
-        "delta": 0.0406,
+        "delta": 0.0409,
         "reason": "Enigma's disables stop Tiny from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Enigma ทำให้ Tiny ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 11,
-        "delta": 0.0402,
+        "delta": 0.0406,
         "reason": "Shadow Fiend is fragile and easily disrupted out of his ultimate, and Enigma's lockdown makes the early game miserable.",
         "reason_th": "Shadow Fiend ตัวเปราะและถูกขัดจังหวะอัลติได้ง่าย และสกิลล็อกของ Enigma ทำให้ต้นเกมลำบากมาก"
       },
       {
         "hero_id": 21,
-        "delta": 0.0353,
+        "delta": 0.0357,
         "reason": "Windranger lives on escapes, and Enigma's lockdown lands before Windranger can use them.",
         "reason_th": "Windranger พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Enigma จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 70,
-        "delta": 0.035,
+        "delta": 0.0353,
         "reason": "Enigma can chain-disable Ursa before Ursa's items come online.",
         "reason_th": "Enigma ร้อยสกิลคุมใส่ Ursa ได้ก่อนที่ไอเทมของ Ursa จะมาครบ"
       },
       {
         "hero_id": 26,
-        "delta": 0.0335,
+        "delta": 0.0338,
         "reason": "Lion is extremely squishy with no escape, and Enigma is well placed to exploit it.",
         "reason_th": "Lion ตัวบางมากและไม่มีสกิลหนี และ Enigma อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 87,
-        "delta": 0.0323,
+        "delta": 0.0326,
         "reason": "Enigma tends to have the edge here: Disruptor is squishy and gets blown up quickly.",
         "reason_th": "Enigma มักได้เปรียบในแมตช์นี้ เพราะ Disruptor ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 65,
-        "delta": 0.0276,
+        "delta": 0.0278,
         "reason": "Enigma's disables pin Batrider in place, taking away the mobility Batrider depends on.",
         "reason_th": "สกิลคุมของ Enigma ตรึง Batrider ไว้กับที่ ตัดความคล่องตัวที่ Batrider ต้องพึ่ง"
       },
       {
         "hero_id": 119,
-        "delta": 0.024,
+        "delta": 0.0243,
         "reason": "Dark Willow is squishy and gets blown up quickly, and Enigma has the lockdown to exploit that.",
         "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก และ Enigma มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 64,
-        "delta": 0.0087,
-        "reason": "Jakiro is squishy and gets blown up quickly, which suits Enigma's game plan.",
-        "reason_th": "Jakiro ตัวบางและถูกเก็บได้ไวมาก ซึ่งเข้าทางแผนการเล่นของ Enigma"
-      },
-      {
         "hero_id": 37,
-        "delta": 0.0087,
-        "reason": "Warlock is squishy and gets blown up quickly, and Enigma is well placed to exploit it.",
-        "reason_th": "Warlock ตัวบางและถูกเก็บได้ไวมาก และ Enigma อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
+        "delta": 0.0089,
+        "reason": "Warlock is squishy and gets blown up quickly, which suits Enigma's game plan.",
+        "reason_th": "Warlock ตัวบางและถูกเก็บได้ไวมาก ซึ่งเข้าทางแผนการเล่นของ Enigma"
       },
       {
         "hero_id": 131,
-        "delta": 0.0076,
+        "delta": 0.0078,
         "reason": "Ringmaster lives on escapes, and Enigma's lockdown lands before Ringmaster can use them.",
         "reason_th": "Ringmaster พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Enigma จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 2,
-        "delta": 0.0057,
+        "delta": 0.006,
         "reason": "Enigma's disables stop Axe from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Enigma ทำให้ Axe ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
+        "hero_id": 64,
+        "delta": 0.0051,
+        "reason": "Jakiro is squishy and gets blown up quickly, and Enigma is well placed to exploit it.",
+        "reason_th": "Jakiro ตัวบางและถูกเก็บได้ไวมาก และ Enigma อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
+      },
+      {
         "hero_id": 155,
-        "delta": 0.0043,
+        "delta": 0.0045,
         "reason": "Largo is slow and can be kited, and Enigma fights from range.",
         "reason_th": "Largo เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Enigma สู้จากระยะไกลได้"
       },
       {
         "hero_id": 74,
-        "delta": 0.0033,
+        "delta": 0.0035,
         "reason": "Enigma's disables pin Invoker in place, taking away the mobility Invoker depends on.",
         "reason_th": "สกิลคุมของ Enigma ตรึง Invoker ไว้กับที่ ตัดความคล่องตัวที่ Invoker ต้องพึ่ง"
       }
@@ -30984,85 +30984,85 @@
     "countered_by": [
       {
         "hero_id": 17,
-        "delta": -0.044,
+        "delta": -0.0436,
         "reason": "Storm Spirit zips around the map with Ball Lightning to pick off stragglers, and the lockdown cancels Io's escape.",
         "reason_th": "Storm Spirit ซิ่งทั่วแมพด้วย Ball Lightning เพื่อเก็บคนที่หลุดกลุ่ม และการล็อกตัดทางหนีของ Io"
       },
       {
         "hero_id": 86,
-        "delta": -0.0346,
+        "delta": -0.0339,
         "reason": "Rubick steals and turns the enemy's best spell against them, so Io gets caught before escaping.",
         "reason_th": "Rubick ขโมยสกิลที่ดีที่สุดของศัตรูมาใช้สวนกลับ ทำให้ Io หนีไม่รอด"
       },
       {
         "hero_id": 13,
-        "delta": -0.0329,
+        "delta": -0.0325,
         "reason": "Puck phases in and out with Illusory Orb and Phase Shift, then silences with Dream Coil, pinning Io down before any escape.",
         "reason_th": "Puck เข้าออกด้วย Illusory Orb และ Phase Shift แล้วไซเลนซ์ด้วย Dream Coil จับ Io ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 11,
-        "delta": -0.0262,
+        "delta": -0.0257,
         "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls — Io is squishy and gets blown up quickly.",
         "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ — Io ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 37,
-        "delta": -0.0214,
+        "delta": -0.021,
         "reason": "Warlock amplifies a clumped fight with Fatal Bonds and a Golem, and the lockdown cancels Io's escape.",
         "reason_th": "Warlock ขยายความเสียหายในการต่อสู้ที่รวมกลุ่มด้วย Fatal Bonds และ Golem และการล็อกตัดทางหนีของ Io"
       },
       {
         "hero_id": 26,
-        "delta": -0.0197,
+        "delta": -0.0193,
         "reason": "Lion chains two disables into a point-blank Finger of Death execute, so Io gets caught before escaping.",
         "reason_th": "Lion ร้อยสองสกิลคุมก่อนปิดจ๊อบด้วย Finger of Death ระยะประชิด ทำให้ Io หนีไม่รอด"
       },
       {
         "hero_id": 109,
-        "delta": -0.0175,
+        "delta": -0.0171,
         "reason": "Terrorblade shreds armor with illusions and Metamorphosis right-clicks, and Io can't survive the burst.",
         "reason_th": "Terrorblade ลดเกราะด้วยอิลลูชันและการตีจาก Metamorphosis และ Io ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 68,
-        "delta": -0.0171,
+        "delta": -0.0168,
         "reason": "Ancient Apparition snipes from across the map with Ice Blast and shuts off all healing, pinning Io down before any escape.",
         "reason_th": "Ancient Apparition ยิงข้ามแมพด้วย Ice Blast และตัดการฮีลทั้งหมด จับ Io ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 21,
-        "delta": -0.0168,
+        "delta": -0.0163,
         "reason": "Windranger locks a single target in Shackleshot and focuses it down, and the lockdown cancels Io's escape.",
         "reason_th": "Windranger ล็อกเป้าหมายเดี่ยวด้วย Shackleshot แล้วโฟกัสเก็บ และการล็อกตัดทางหนีของ Io"
       },
       {
         "hero_id": 49,
-        "delta": -0.0139,
+        "delta": -0.0135,
         "reason": "Dragon Knight tanks fights in Dragon Form and stuns with Dragon Tail, so Io gets caught before escaping.",
         "reason_th": "Dragon Knight ทนการต่อสู้ในร่าง Dragon Form และสตันด้วย Dragon Tail ทำให้ Io หนีไม่รอด"
       },
       {
-        "hero_id": 112,
-        "delta": -0.0108,
-        "reason": "Winter Wyvern bursts targets down with magical nukes, pinning Io down before any escape.",
-        "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ จับ Io ได้ก่อนจะหนีทัน"
-      },
-      {
         "hero_id": 119,
-        "delta": -0.0059,
-        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, and the lockdown cancels Io's escape.",
-        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ และการล็อกตัดทางหนีของ Io"
+        "delta": -0.0091,
+        "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, pinning Io down before any escape.",
+        "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ จับ Io ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 29,
-        "delta": -0.0056,
-        "reason": "Tidehunter flips fights with the AoE Ravage stun and tanks return damage, so Io gets caught before escaping.",
-        "reason_th": "Tidehunter พลิกการต่อสู้ด้วยสตัน AoE จาก Ravage และทนรับดาเมจ ทำให้ Io หนีไม่รอด"
+        "delta": -0.0083,
+        "reason": "Tidehunter flips fights with the AoE Ravage stun and tanks return damage, and the lockdown cancels Io's escape.",
+        "reason_th": "Tidehunter พลิกการต่อสู้ด้วยสตัน AoE จาก Ravage และทนรับดาเมจ และการล็อกตัดทางหนีของ Io"
+      },
+      {
+        "hero_id": 112,
+        "delta": -0.007,
+        "reason": "Winter Wyvern bursts targets down with magical nukes, so Io gets caught before escaping.",
+        "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ทำให้ Io หนีไม่รอด"
       },
       {
         "hero_id": 110,
-        "delta": -0.0048,
+        "delta": -0.0043,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, pinning Io down before any escape.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova จับ Io ได้ก่อนจะหนีทัน"
       }
@@ -31070,85 +31070,85 @@
     "counters": [
       {
         "hero_id": 71,
-        "delta": 0.0583,
+        "delta": 0.0586,
         "reason": "Spirit Breaker is vulnerable once its escape and cooldowns are down, and Io is well placed to exploit it.",
         "reason_th": "Spirit Breaker เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Io อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 87,
-        "delta": 0.0359,
+        "delta": 0.0364,
         "reason": "Disruptor is squishy and gets blown up quickly, which Io's burst punishes hard.",
         "reason_th": "Disruptor ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Io ลงโทษหนัก"
       },
       {
-        "hero_id": 128,
-        "delta": 0.0327,
-        "reason": "Io can burst Snapfire from full health before Snapfire gets to act.",
-        "reason_th": "Io เบิร์สต์ Snapfire จากเลือดเต็มให้ตายได้ก่อนที่ Snapfire จะได้ทำอะไร"
-      },
-      {
         "hero_id": 99,
-        "delta": 0.0323,
+        "delta": 0.0327,
         "reason": "Io catches Bristleback out of position, and Bristleback struggles against magical burst and percent-based damage.",
         "reason_th": "Io จับ Bristleback ได้ตอนยืนผิดตำแหน่ง และ Bristleback ลำบากเมื่อเจอเบิร์สต์เวทย์และดาเมจแบบเปอร์เซ็นต์"
       },
       {
         "hero_id": 106,
-        "delta": 0.0321,
+        "delta": 0.0326,
         "reason": "Io tends to have the edge here: Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Io มักได้เปรียบในแมตช์นี้ เพราะ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
+        "hero_id": 128,
+        "delta": 0.0309,
+        "reason": "Io can burst Snapfire from full health before Snapfire gets to act.",
+        "reason_th": "Io เบิร์สต์ Snapfire จากเลือดเต็มให้ตายได้ก่อนที่ Snapfire จะได้ทำอะไร"
+      },
+      {
         "hero_id": 96,
-        "delta": 0.0291,
+        "delta": 0.0295,
         "reason": "Centaur Warrunner is vulnerable once its escape and cooldowns are down, which suits Io's game plan.",
         "reason_th": "Centaur Warrunner เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด ซึ่งเข้าทางแผนการเล่นของ Io"
       },
       {
         "hero_id": 39,
-        "delta": 0.0202,
+        "delta": 0.0207,
         "reason": "Queen of Pain has too little HP to survive Io's magical burst.",
         "reason_th": "Queen of Pain เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Io"
       },
       {
-        "hero_id": 64,
-        "delta": 0.0197,
-        "reason": "Jakiro is squishy and gets blown up quickly, which Io's burst punishes hard.",
-        "reason_th": "Jakiro ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Io ลงโทษหนัก"
-      },
-      {
         "hero_id": 126,
-        "delta": 0.0145,
+        "delta": 0.0181,
         "reason": "Void Spirit is mana-reliant and vulnerable once his escape is down, and Io is well placed to exploit it.",
         "reason_th": "Void Spirit พึ่งมานาและเสี่ยงเมื่อสกิลหนีหมด และ Io อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
+        "hero_id": 64,
+        "delta": 0.0173,
+        "reason": "Jakiro is squishy and gets blown up quickly, which Io's burst punishes hard.",
+        "reason_th": "Jakiro ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Io ลงโทษหนัก"
+      },
+      {
         "hero_id": 19,
-        "delta": 0.013,
+        "delta": 0.0135,
         "reason": "Tiny is melee with no escape and easy to kite, which makes Tiny an easy pickoff for Io.",
         "reason_th": "Tiny เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย ทำให้เป็นเป้าเก็บง่ายสำหรับ Io"
       },
       {
-        "hero_id": 129,
-        "delta": 0.0116,
-        "reason": "Mars can't get away once Io commits to a gank.",
-        "reason_th": "Mars หนีไม่พ้นเมื่อ Io ตัดสินใจเข้าแกงค์"
-      },
-      {
         "hero_id": 74,
-        "delta": 0.0112,
+        "delta": 0.0116,
         "reason": "Io can burst Invoker from full health before Invoker gets to act.",
         "reason_th": "Io เบิร์สต์ Invoker จากเลือดเต็มให้ตายได้ก่อนที่ Invoker จะได้ทำอะไร"
       },
       {
         "hero_id": 108,
-        "delta": 0.0105,
+        "delta": 0.0109,
         "reason": "Io tends to have the edge here: Underlord is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Io มักได้เปรียบในแมตช์นี้ เพราะ Underlord เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
+        "hero_id": 129,
+        "delta": 0.0092,
+        "reason": "Mars can't get away once Io commits to a gank.",
+        "reason_th": "Mars หนีไม่พ้นเมื่อ Io ตัดสินใจเข้าแกงค์"
+      },
+      {
         "hero_id": 100,
-        "delta": 0.0081,
+        "delta": 0.0086,
         "reason": "Tusk is fragile under focus, and Io fights from range.",
         "reason_th": "Tusk ตัวเปราะเมื่อโดนโฟกัส ส่วน Io สู้จากระยะไกลได้"
       }
@@ -31267,22 +31267,16 @@
         "reason_th": "ภูมิคุ้มกันเวทย์เพื่อสู้ต่อท่ามกลางการคุมและดาเมจเวทย์"
       },
       {
-        "item": "Shiva's Guard",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/shivas_guard.png",
-        "reason": "Armor and an AoE slow that cuts healing.",
-        "reason_th": "เกราะและสโลว์ AoE ที่ลดการฮีล"
-      },
-      {
         "item": "Maelstrom",
         "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/maelstrom.png",
         "reason": "Farming speed with chain lightning.",
         "reason_th": "ฟาร์มไวด้วย chain lightning"
       },
       {
-        "item": "Holy Locket",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/holy_locket.png",
-        "reason": "Amplified healing for your saves.",
-        "reason_th": "เพิ่มพลังการฮีลให้สกิลเซฟ"
+        "item": "Shiva's Guard",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/shivas_guard.png",
+        "reason": "Armor and an AoE slow that cuts healing.",
+        "reason_th": "เกราะและสโลว์ AoE ที่ลดการฮีล"
       },
       {
         "item": "Mjollnir",
@@ -31291,10 +31285,16 @@
         "reason_th": "ความเร็วโจมตีและเคลียร์ด้วย chain lightning"
       },
       {
-        "item": "Heart of Tarrasque",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/heart.png",
-        "reason": "Enormous health and regeneration.",
-        "reason_th": "เพิ่มเลือดและการฟื้นเลือดมหาศาล"
+        "item": "Holy Locket",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/holy_locket.png",
+        "reason": "Amplified healing for your saves.",
+        "reason_th": "เพิ่มพลังการฮีลให้สกิลเซฟ"
+      },
+      {
+        "item": "Satanic",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/satanic.png",
+        "reason": "Lifesteal with a huge sustain active.",
+        "reason_th": "lifesteal พร้อมสกิลฟื้นเลือดมหาศาล"
       }
     ],
     "ability_counters": [
@@ -31541,171 +31541,171 @@
     "countered_by": [
       {
         "hero_id": 52,
-        "delta": -0.0479,
+        "delta": -0.0477,
         "reason": "Leshrac melts everything around him with Diabolic Edict and Pulse Nova, and the lockdown cancels Slark's escape.",
         "reason_th": "Leshrac ละลายทุกอย่างรอบตัวด้วย Diabolic Edict และ Pulse Nova และการล็อกตัดทางหนีของ Slark"
       },
       {
         "hero_id": 51,
-        "delta": -0.0425,
+        "delta": -0.0424,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, so Slark gets caught before escaping.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault ทำให้ Slark หนีไม่รอด"
       },
       {
-        "hero_id": 64,
+        "hero_id": 8,
         "delta": -0.0389,
+        "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, while Slark is weak early and dies if caught before he snowballs.",
+        "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ขณะที่ Slark อ่อนแอช่วงต้นเกมและตายถ้าโดนจับก่อนสโนว์บอล"
+      },
+      {
+        "hero_id": 64,
+        "delta": -0.0386,
         "reason": "Jakiro zones teams off objectives with layered AoE damage, pinning Slark down before any escape.",
         "reason_th": "Jakiro กันทีมศัตรูออกจากออบเจกทีฟด้วยดาเมจ AoE ที่ซ้อนกัน จับ Slark ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 128,
-        "delta": -0.0367,
+        "delta": -0.0365,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, and the lockdown cancels Slark's escape.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และการล็อกตัดทางหนีของ Slark"
       },
       {
         "hero_id": 71,
-        "delta": -0.0357,
+        "delta": -0.0355,
         "reason": "Spirit Breaker charges across the map to stun and isolate a single target, so Slark gets caught before escaping.",
         "reason_th": "Spirit Breaker Charge ข้ามแมพเพื่อสตันและแยกเป้าหมายเดี่ยว ทำให้ Slark หนีไม่รอด"
       },
       {
-        "hero_id": 8,
-        "delta": -0.0351,
-        "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, while Slark is weak early and dies if caught before he snowballs.",
-        "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ขณะที่ Slark อ่อนแอช่วงต้นเกมและตายถ้าโดนจับก่อนสโนว์บอล"
-      },
-      {
         "hero_id": 83,
-        "delta": -0.0335,
+        "delta": -0.0333,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, pinning Slark down before any escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth จับ Slark ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 79,
-        "delta": -0.0332,
+        "delta": -0.033,
         "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge, and the lockdown cancels Slark's escape.",
         "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge และการล็อกตัดทางหนีของ Slark"
       },
       {
         "hero_id": 11,
-        "delta": -0.0299,
+        "delta": -0.0297,
         "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls, and Slark is weak early and dies if caught before he snowballs.",
         "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ และ Slark อ่อนแอช่วงต้นเกมและตายถ้าโดนจับก่อนสโนว์บอล"
       },
       {
         "hero_id": 129,
-        "delta": -0.0297,
+        "delta": -0.0295,
         "reason": "Mars spears enemies into Arena of Blood and blocks ranged attacks, so Slark gets caught before escaping.",
         "reason_th": "Mars พุ่งหอกดันศัตรูเข้า Arena of Blood และบล็อกการโจมตีระยะไกล ทำให้ Slark หนีไม่รอด"
       },
       {
-        "hero_id": 9,
-        "delta": -0.0244,
-        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, pinning Slark down before any escape.",
-        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm จับ Slark ได้ก่อนจะหนีทัน"
+        "hero_id": 100,
+        "delta": -0.0237,
+        "reason": "Tusk isolates a target with Snowball and Walrus Punch, pinning Slark down before any escape.",
+        "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch จับ Slark ได้ก่อนจะหนีทัน"
       },
       {
-        "hero_id": 100,
-        "delta": -0.024,
-        "reason": "Tusk isolates a target with Snowball and Walrus Punch, and the lockdown cancels Slark's escape.",
-        "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch และการล็อกตัดทางหนีของ Slark"
+        "hero_id": 26,
+        "delta": -0.0224,
+        "reason": "Lion chains two disables into a point-blank Finger of Death execute, and the lockdown cancels Slark's escape.",
+        "reason_th": "Lion ร้อยสองสกิลคุมก่อนปิดจ๊อบด้วย Finger of Death ระยะประชิด และการล็อกตัดทางหนีของ Slark"
       },
       {
         "hero_id": 40,
-        "delta": -0.0207,
+        "delta": -0.0206,
         "reason": "Venomancer blankets fights in Poison Nova and Plague Wards, so Slark gets caught before escaping.",
         "reason_th": "Venomancer ปกคลุมการต่อสู้ด้วย Poison Nova และ Plague Ward ทำให้ Slark หนีไม่รอด"
       },
       {
-        "hero_id": 26,
-        "delta": -0.0197,
-        "reason": "Lion chains two disables into a point-blank Finger of Death execute, pinning Slark down before any escape.",
-        "reason_th": "Lion ร้อยสองสกิลคุมก่อนปิดจ๊อบด้วย Finger of Death ระยะประชิด จับ Slark ได้ก่อนจะหนีทัน"
+        "hero_id": 9,
+        "delta": -0.0204,
+        "reason": "Mirana lands a long-range Sacred Arrow stun and bursts with Starstorm, pinning Slark down before any escape.",
+        "reason_th": "Mirana ลงสตันระยะไกลจาก Sacred Arrow และเบิร์สต์ด้วย Starstorm จับ Slark ได้ก่อนจะหนีทัน"
       }
     ],
     "counters": [
       {
         "hero_id": 37,
-        "delta": 0.0585,
+        "delta": 0.0565,
         "reason": "Warlock is squishy and gets blown up quickly, which Slark's burst punishes hard.",
         "reason_th": "Warlock ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Slark ลงโทษหนัก"
       },
       {
         "hero_id": 138,
-        "delta": 0.0535,
+        "delta": 0.0536,
         "reason": "Slark can burst Muerta from full health before Muerta gets to act.",
         "reason_th": "Slark เบิร์สต์ Muerta จากเลือดเต็มให้ตายได้ก่อนที่ Muerta จะได้ทำอะไร"
       },
       {
         "hero_id": 72,
-        "delta": 0.0369,
+        "delta": 0.037,
         "reason": "Gyrocopter has too little HP to survive Slark's magical burst.",
         "reason_th": "Gyrocopter เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Slark"
       },
       {
         "hero_id": 14,
-        "delta": 0.0367,
+        "delta": 0.0369,
         "reason": "Pudge is slow and can be kited, and Slark is well placed to exploit it.",
         "reason_th": "Pudge เคลื่อนที่ช้าและถูกไคต์ได้ และ Slark อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 29,
-        "delta": 0.0366,
+        "delta": 0.0368,
         "reason": "Slark's disables stop Tidehunter from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Slark ทำให้ Tidehunter ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
+        "hero_id": 123,
+        "delta": 0.0367,
+        "reason": "Hoodwink lives on escapes, and Slark's lockdown lands before Hoodwink can use them.",
+        "reason_th": "Hoodwink พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Slark จับได้ก่อนจะหนีทัน"
+      },
+      {
         "hero_id": 16,
-        "delta": 0.0362,
-        "reason": "Sand King lives on escapes, and Slark's lockdown lands before Sand King can use them.",
-        "reason_th": "Sand King พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Slark จับได้ก่อนจะหนีทัน"
+        "delta": 0.0363,
+        "reason": "Slark's disables pin Sand King in place, taking away the mobility Sand King depends on.",
+        "reason_th": "สกิลคุมของ Slark ตรึง Sand King ไว้กับที่ ตัดความคล่องตัวที่ Sand King ต้องพึ่ง"
       },
       {
         "hero_id": 35,
-        "delta": 0.0356,
+        "delta": 0.0357,
         "reason": "Sniper has no escape and dies instantly to any gap-closer, which Slark's burst punishes hard.",
         "reason_th": "Sniper ไม่มีสกิลหนีและตายทันทีเมื่อโดนเข้าระยะ ซึ่งโดนเบิร์สต์ของ Slark ลงโทษหนัก"
       },
       {
-        "hero_id": 123,
-        "delta": 0.034,
-        "reason": "Slark's disables pin Hoodwink in place, taking away the mobility Hoodwink depends on.",
-        "reason_th": "สกิลคุมของ Slark ตรึง Hoodwink ไว้กับที่ ตัดความคล่องตัวที่ Hoodwink ต้องพึ่ง"
-      },
-      {
-        "hero_id": 38,
-        "delta": 0.0248,
-        "reason": "Slark tends to have the edge here: Beastmaster is slow and can be kited.",
-        "reason_th": "Slark มักได้เปรียบในแมตช์นี้ เพราะ Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้"
-      },
-      {
-        "hero_id": 5,
-        "delta": 0.0246,
-        "reason": "Slark can burst Crystal Maiden from full health before Crystal Maiden gets to act.",
-        "reason_th": "Slark เบิร์สต์ Crystal Maiden จากเลือดเต็มให้ตายได้ก่อนที่ Crystal Maiden จะได้ทำอะไร"
-      },
-      {
-        "hero_id": 101,
-        "delta": 0.0244,
-        "reason": "Skywrath Mage has too little HP to survive Slark's magical burst.",
-        "reason_th": "Skywrath Mage เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Slark"
-      },
-      {
         "hero_id": 106,
-        "delta": 0.0241,
+        "delta": 0.0265,
         "reason": "Ember Spirit is mana-hungry and can be locked down before he gets going, and Slark has the lockdown to exploit that.",
         "reason_th": "Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว และ Slark มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
         "hero_id": 70,
-        "delta": 0.0224,
+        "delta": 0.0253,
         "reason": "Ursa is kited easily and has no answer to being disabled at range, and Slark's lockdown makes the early game miserable.",
         "reason_th": "Ursa ถูกไคต์ได้ง่ายและไม่มีทางแก้เมื่อโดนคุมจากระยะไกล และสกิลล็อกของ Slark ทำให้ต้นเกมลำบากมาก"
       },
       {
+        "hero_id": 38,
+        "delta": 0.025,
+        "reason": "Slark tends to have the edge here: Beastmaster is slow and can be kited.",
+        "reason_th": "Slark มักได้เปรียบในแมตช์นี้ เพราะ Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้"
+      },
+      {
+        "hero_id": 5,
+        "delta": 0.0247,
+        "reason": "Slark can burst Crystal Maiden from full health before Crystal Maiden gets to act.",
+        "reason_th": "Slark เบิร์สต์ Crystal Maiden จากเลือดเต็มให้ตายได้ก่อนที่ Crystal Maiden จะได้ทำอะไร"
+      },
+      {
+        "hero_id": 101,
+        "delta": 0.0245,
+        "reason": "Skywrath Mage has too little HP to survive Slark's magical burst.",
+        "reason_th": "Skywrath Mage เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Slark"
+      },
+      {
         "hero_id": 84,
-        "delta": 0.0215,
+        "delta": 0.0217,
         "reason": "Ogre Magi is slow and can be kited, which suits Slark's game plan.",
         "reason_th": "Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้ ซึ่งเข้าทางแผนการเล่นของ Slark"
       }
@@ -43959,7 +43959,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-10-03T11:23:57.103Z",
+    "last_updated": "2026-10-03T16:00:15.561Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
