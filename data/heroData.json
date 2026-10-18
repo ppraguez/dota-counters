@@ -35619,6 +35619,12 @@
         "reason_th": "Jakiro กันทีมศัตรูออกจากออบเจกทีฟด้วยดาเมจ AoE ที่ซ้อนกัน และ Techies ไม่รอดจากเบิร์สต์นั้น"
       },
       {
+        "hero_id": 98,
+        "delta": -0.0385,
+        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, catching Techies out of position.",
+        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain จับ Techies ได้ตอนยืนผิดตำแหน่ง"
+      },
+      {
         "hero_id": 99,
         "delta": -0.0379,
         "reason": "Bristleback shrugs off frontal damage and snowballs with Quill stacks, and Techies is squishy and gets blown up quickly.",
@@ -35641,12 +35647,6 @@
         "delta": -0.0363,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip; meanwhile Techies is squishy and gets blown up quickly.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip ส่วน Techies ตัวบางและถูกเก็บได้ไวมาก"
-      },
-      {
-        "hero_id": 98,
-        "delta": -0.0358,
-        "reason": "Timbersaw shrugs off damage with Reactive Armor and chains Timber Chain, catching Techies out of position.",
-        "reason_th": "Timbersaw ทนดาเมจด้วย Reactive Armor และร้อย Timber Chain จับ Techies ได้ตอนยืนผิดตำแหน่ง"
       },
       {
         "hero_id": 23,
@@ -35682,7 +35682,7 @@
     "counters": [
       {
         "hero_id": 87,
-        "delta": 0.0587,
+        "delta": 0.0558,
         "reason": "Disruptor is squishy and gets blown up quickly, which Techies's burst punishes hard.",
         "reason_th": "Disruptor ตัวบางและถูกเก็บได้ไวมาก ซึ่งโดนเบิร์สต์ของ Techies ลงโทษหนัก"
       },
@@ -35735,28 +35735,28 @@
         "reason_th": "Undying เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Techies สู้จากระยะไกลได้"
       },
       {
+        "hero_id": 46,
+        "delta": 0.0343,
+        "reason": "Templar Assassin lives on escapes, and Techies's lockdown lands before Templar Assassin can use them.",
+        "reason_th": "Templar Assassin พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Techies จับได้ก่อนจะหนีทัน"
+      },
+      {
+        "hero_id": 84,
+        "delta": 0.0333,
+        "reason": "Techies kites Ogre Magi from range, and Ogre Magi struggles to close the gap.",
+        "reason_th": "Techies ไคต์ Ogre Magi จากระยะไกล และ Ogre Magi เข้าประชิดได้ยาก"
+      },
+      {
         "hero_id": 30,
         "delta": 0.0321,
         "reason": "Witch Doctor has too little HP to survive Techies's magical burst.",
         "reason_th": "Witch Doctor เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Techies"
       },
       {
-        "hero_id": 46,
-        "delta": 0.0313,
-        "reason": "Templar Assassin lives on escapes, and Techies's lockdown lands before Templar Assassin can use them.",
-        "reason_th": "Templar Assassin พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Techies จับได้ก่อนจะหนีทัน"
-      },
-      {
         "hero_id": 16,
         "delta": 0.0312,
         "reason": "Techies's disables pin Sand King in place, taking away the mobility Sand King depends on.",
         "reason_th": "สกิลคุมของ Techies ตรึง Sand King ไว้กับที่ ตัดความคล่องตัวที่ Sand King ต้องพึ่ง"
-      },
-      {
-        "hero_id": 84,
-        "delta": 0.0307,
-        "reason": "Techies kites Ogre Magi from range, and Ogre Magi struggles to close the gap.",
-        "reason_th": "Techies ไคต์ Ogre Magi จากระยะไกล และ Ogre Magi เข้าประชิดได้ยาก"
       },
       {
         "hero_id": 77,
@@ -35950,85 +35950,85 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.0635,
+        "delta": -0.0638,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 56,
-        "delta": -0.0584,
+        "delta": -0.0587,
         "reason": "Clinkz burns targets down from range while invisible with Skeleton Walk, while Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Clinkz เผาเป้าหมายจากระยะไกลขณะล่องหนด้วย Skeleton Walk ขณะที่ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
         "hero_id": 91,
-        "delta": -0.0578,
+        "delta": -0.058,
         "reason": "Io bursts targets down with magical nukes, and Ember Spirit is mana-hungry and can be locked down before he gets going.",
         "reason_th": "Io เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และ Ember Spirit ใช้มานาเยอะและถูกล็อกได้ก่อนจะออกตัว"
       },
       {
         "hero_id": 38,
-        "delta": -0.0566,
+        "delta": -0.0554,
         "reason": "Beastmaster summons hawks and boars and locks a target with Primal Roar, so Ember Spirit gets caught before escaping.",
         "reason_th": "Beastmaster เรียกเหยี่ยวและหมูป่า และล็อกเป้าด้วย Primal Roar ทำให้ Ember Spirit หนีไม่รอด"
       },
       {
         "hero_id": 93,
-        "delta": -0.0505,
+        "delta": -0.0508,
         "reason": "Slark steals stats with Essence Shift and escapes in the dark with Shadow Dance, pinning Ember Spirit down before any escape.",
         "reason_th": "Slark ขโมยสเตตัสด้วย Essence Shift และหนีในความมืดด้วย Shadow Dance จับ Ember Spirit ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 80,
-        "delta": -0.0498,
+        "delta": -0.0501,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, soaking Ember Spirit's physical damage and winning the long fight.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม รับดาเมจกายภาพของ Ember Spirit ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 26,
-        "delta": -0.0463,
+        "delta": -0.0453,
         "reason": "Lion chains two disables into a point-blank Finger of Death execute, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Lion ร้อยสองสกิลคุมก่อนปิดจ๊อบด้วย Finger of Death ระยะประชิด และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 18,
-        "delta": -0.0434,
+        "delta": -0.0436,
         "reason": "Sven stuns then cleaves entire teams during God's Strength, so Ember Spirit gets caught before escaping.",
         "reason_th": "Sven สตันแล้วฟันโดนทั้งทีมในช่วง God's Strength ทำให้ Ember Spirit หนีไม่รอด"
       },
       {
         "hero_id": 121,
-        "delta": -0.0398,
+        "delta": -0.0402,
         "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, pinning Ember Spirit down before any escape.",
         "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell จับ Ember Spirit ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 88,
-        "delta": -0.0396,
+        "delta": -0.04,
         "reason": "Nyx Assassin blinks in with Impale and Spiked Carapace to punish casters, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Nyx Assassin blink เข้ามาด้วย Impale และ Spiked Carapace เพื่อลงโทษสายคาสเตอร์ และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 114,
-        "delta": -0.0365,
+        "delta": -0.0369,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, so Ember Spirit gets caught before escaping.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ทำให้ Ember Spirit หนีไม่รอด"
       },
       {
         "hero_id": 74,
-        "delta": -0.0363,
+        "delta": -0.0368,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, pinning Ember Spirit down before any escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล จับ Ember Spirit ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 73,
-        "delta": -0.0348,
+        "delta": -0.035,
         "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, and the lockdown cancels Ember Spirit's escape.",
         "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร และการล็อกตัดทางหนีของ Ember Spirit"
       },
       {
         "hero_id": 137,
-        "delta": -0.0324,
+        "delta": -0.0328,
         "reason": "Primal Beast stomps in with Pulverize and Trample to crush a target, so Ember Spirit gets caught before escaping.",
         "reason_th": "Primal Beast กระทืบเข้ามาด้วย Pulverize และ Trample เพื่อบดเป้าหมาย ทำให้ Ember Spirit หนีไม่รอด"
       }
@@ -36036,85 +36036,85 @@
     "counters": [
       {
         "hero_id": 126,
-        "delta": 0.0611,
+        "delta": 0.0607,
         "reason": "Void Spirit lives on escapes, and Ember Spirit's lockdown lands before Void Spirit can use them.",
         "reason_th": "Void Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Ember Spirit จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 55,
-        "delta": 0.0578,
+        "delta": 0.0575,
         "reason": "Ember Spirit's disables pin Dark Seer in place, taking away the mobility Dark Seer depends on.",
         "reason_th": "สกิลคุมของ Ember Spirit ตรึง Dark Seer ไว้กับที่ ตัดความคล่องตัวที่ Dark Seer ต้องพึ่ง"
       },
       {
         "hero_id": 29,
-        "delta": 0.0567,
+        "delta": 0.0562,
         "reason": "Ember Spirit's disables stop Tidehunter from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Ember Spirit ทำให้ Tidehunter ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 123,
-        "delta": 0.0523,
+        "delta": 0.053,
         "reason": "Hoodwink is fragile and dies if her escape is cut off, and Ember Spirit has the lockdown to exploit that.",
         "reason_th": "Hoodwink ตัวบางและตายถ้าทางหนีถูกตัด และ Ember Spirit มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
         "hero_id": 109,
-        "delta": 0.0479,
+        "delta": 0.0476,
         "reason": "Terrorblade is extremely fragile early and dies to ganks before items, and Ember Spirit's lockdown makes the early game miserable.",
         "reason_th": "Terrorblade ต้นเกมตัวเปราะมากและตายให้กับการแกงค์ก่อนมีของ และสกิลล็อกของ Ember Spirit ทำให้ต้นเกมลำบากมาก"
       },
       {
         "hero_id": 21,
-        "delta": 0.0452,
+        "delta": 0.0448,
         "reason": "Windranger lives on escapes, and Ember Spirit's lockdown lands before Windranger can use them.",
         "reason_th": "Windranger พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Ember Spirit จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 30,
-        "delta": 0.044,
+        "delta": 0.0438,
         "reason": "Witch Doctor is squishy and easy to blow up once focused, which Ember Spirit's burst punishes hard.",
         "reason_th": "Witch Doctor ตัวบางและถูกเก็บง่ายเมื่อโดนโฟกัส ซึ่งโดนเบิร์สต์ของ Ember Spirit ลงโทษหนัก"
       },
       {
         "hero_id": 19,
-        "delta": 0.0432,
+        "delta": 0.0427,
         "reason": "Ember Spirit can chain-disable Tiny before Tiny's items come online.",
         "reason_th": "Ember Spirit ร้อยสกิลคุมใส่ Tiny ได้ก่อนที่ไอเทมของ Tiny จะมาครบ"
       },
       {
         "hero_id": 35,
-        "delta": 0.0429,
+        "delta": 0.0427,
         "reason": "Ember Spirit can burst Sniper from full health before Sniper gets to act.",
         "reason_th": "Ember Spirit เบิร์สต์ Sniper จากเลือดเต็มให้ตายได้ก่อนที่ Sniper จะได้ทำอะไร"
       },
       {
         "hero_id": 129,
-        "delta": 0.0408,
+        "delta": 0.0403,
         "reason": "Ember Spirit's disables stop Mars from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Ember Spirit ทำให้ Mars ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 85,
-        "delta": 0.0403,
+        "delta": 0.04,
         "reason": "Undying is slow and can be kited, and Ember Spirit is well placed to exploit it.",
         "reason_th": "Undying เคลื่อนที่ช้าและถูกไคต์ได้ และ Ember Spirit อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 44,
-        "delta": 0.0381,
+        "delta": 0.0379,
         "reason": "Ember Spirit's disables pin Phantom Assassin in place, taking away the mobility Phantom Assassin depends on.",
         "reason_th": "สกิลคุมของ Ember Spirit ตรึง Phantom Assassin ไว้กับที่ ตัดความคล่องตัวที่ Phantom Assassin ต้องพึ่ง"
       },
       {
         "hero_id": 40,
-        "delta": 0.0371,
+        "delta": 0.0368,
         "reason": "Venomancer has too little HP to survive Ember Spirit's magical burst.",
         "reason_th": "Venomancer เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Ember Spirit"
       },
       {
         "hero_id": 94,
-        "delta": 0.0353,
+        "delta": 0.035,
         "reason": "Medusa is immobile and folds to magical burst and lockdown, and Ember Spirit's lockdown makes the early game miserable.",
         "reason_th": "Medusa เคลื่อนที่ช้าและตายให้กับเบิร์สต์เวทย์และการคุม และสกิลล็อกของ Ember Spirit ทำให้ต้นเกมลำบากมาก"
       }
@@ -43911,7 +43911,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-10-18T10:42:15.221Z",
+    "last_updated": "2026-10-18T15:39:06.225Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
