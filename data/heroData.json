@@ -38928,173 +38928,173 @@
     "countered_by": [
       {
         "hero_id": 83,
-        "delta": -0.0706,
+        "delta": -0.07,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
         "hero_id": 78,
-        "delta": -0.0547,
+        "delta": -0.0562,
         "reason": "Brewmaster splits into elemental spirits that cyclone and stun during Primal Split, so Dark Willow gets caught before escaping.",
         "reason_th": "Brewmaster แยกเป็นวิญญาณธาตุที่ไซโคลนและสตันระหว่าง Primal Split ทำให้ Dark Willow หนีไม่รอด"
       },
       {
         "hero_id": 14,
-        "delta": -0.0477,
+        "delta": -0.0469,
         "reason": "Pudge yanks a single target out of position with Hook and Dismember, pinning Dark Willow down before any escape.",
         "reason_th": "Pudge ลากเป้าหมายออกจากตำแหน่งด้วย Hook และ Dismember จับ Dark Willow ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 62,
-        "delta": -0.0466,
+        "delta": -0.046,
         "reason": "Bounty Hunter tracks targets through invisibility and bursts them with Shuriken Toss — Dark Willow is squishy and gets blown up quickly.",
         "reason_th": "Bounty Hunter ตามรอยเป้าหมายทะลุการล่องหนและเบิร์สต์ด้วย Shuriken Toss — Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 75,
-        "delta": -0.0394,
+        "delta": -0.0388,
         "reason": "Silencer shuts down spell-reliant teams with Global Silence, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Silencer ปิดทีมที่พึ่งสกิลด้วย Global Silence และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
+        "hero_id": 50,
+        "delta": -0.037,
+        "reason": "Dazzle bursts targets down with magical nukes, so Dark Willow gets caught before escaping.",
+        "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ทำให้ Dark Willow หนีไม่รอด"
+      },
+      {
         "hero_id": 53,
-        "delta": -0.0362,
+        "delta": -0.0353,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Dark Willow can't survive the burst.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ และ Dark Willow ไม่รอดจากเบิร์สต์นั้น"
       },
       {
         "hero_id": 79,
-        "delta": -0.0354,
-        "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge, so Dark Willow gets caught before escaping.",
-        "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge ทำให้ Dark Willow หนีไม่รอด"
-      },
-      {
-        "hero_id": 50,
-        "delta": -0.0353,
-        "reason": "Dazzle bursts targets down with magical nukes, pinning Dark Willow down before any escape.",
-        "reason_th": "Dazzle เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ จับ Dark Willow ได้ก่อนจะหนีทัน"
+        "delta": -0.0345,
+        "reason": "Shadow Demon isolates a target with Disruption and slows it to a crawl with Demonic Purge, pinning Dark Willow down before any escape.",
+        "reason_th": "Shadow Demon แยกเป้าด้วย Disruption และสโลว์จนคลานด้วย Demonic Purge จับ Dark Willow ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 102,
-        "delta": -0.0349,
+        "delta": -0.0343,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, while Dark Willow is squishy and gets blown up quickly.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time ขณะที่ Dark Willow ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 74,
-        "delta": -0.0328,
+        "delta": -0.0319,
         "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, and the lockdown cancels Dark Willow's escape.",
         "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
+        "hero_id": 72,
+        "delta": -0.0304,
+        "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, so Dark Willow gets caught before escaping.",
+        "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down ทำให้ Dark Willow หนีไม่รอด"
+      },
+      {
         "hero_id": 70,
-        "delta": -0.0307,
-        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, so Dark Willow gets caught before escaping.",
-        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ ทำให้ Dark Willow หนีไม่รอด"
+        "delta": -0.0299,
+        "reason": "Ursa melts single targets with stacking Fury Swipes once locked on, pinning Dark Willow down before any escape.",
+        "reason_th": "Ursa ละลายเป้าหมายเดี่ยวด้วย Fury Swipes ที่สะสมเมื่อจับเป้าได้ จับ Dark Willow ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 128,
-        "delta": -0.0305,
-        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, pinning Dark Willow down before any escape.",
-        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast จับ Dark Willow ได้ก่อนจะหนีทัน"
+        "delta": -0.0294,
+        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, and the lockdown cancels Dark Willow's escape.",
+        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และการล็อกตัดทางหนีของ Dark Willow"
       },
       {
-        "hero_id": 72,
-        "delta": -0.0288,
-        "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, and the lockdown cancels Dark Willow's escape.",
-        "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down และการล็อกตัดทางหนีของ Dark Willow"
-      },
-      {
-        "hero_id": 112,
-        "delta": -0.0285,
-        "reason": "Winter Wyvern bursts targets down with magical nukes, so Dark Willow gets caught before escaping.",
-        "reason_th": "Winter Wyvern เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ ทำให้ Dark Willow หนีไม่รอด"
+        "hero_id": 73,
+        "delta": -0.0277,
+        "reason": "Alchemist stacks Acid Spray and Unstable Concoction while out-farming everyone, so Dark Willow gets caught before escaping.",
+        "reason_th": "Alchemist สแต็ก Acid Spray และ Unstable Concoction พร้อมฟาร์มไวกว่าใคร ทำให้ Dark Willow หนีไม่รอด"
       }
     ],
     "counters": [
       {
         "hero_id": 120,
-        "delta": 0.0592,
+        "delta": 0.0601,
         "reason": "Pangolier lives on escapes, and Dark Willow's lockdown lands before Pangolier can use them.",
         "reason_th": "Pangolier พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Dark Willow จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 19,
-        "delta": 0.0513,
+        "delta": 0.0523,
         "reason": "Dark Willow's disables stop Tiny from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Dark Willow ทำให้ Tiny ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 46,
-        "delta": 0.0489,
+        "delta": 0.0497,
         "reason": "Dark Willow's disables pin Templar Assassin in place, taking away the mobility Templar Assassin depends on.",
         "reason_th": "สกิลคุมของ Dark Willow ตรึง Templar Assassin ไว้กับที่ ตัดความคล่องตัวที่ Templar Assassin ต้องพึ่ง"
       },
       {
         "hero_id": 63,
-        "delta": 0.0434,
+        "delta": 0.044,
         "reason": "Weaver dies to detection and AoE that catches him out of Shukuchi, and Dark Willow has the lockdown to exploit that.",
         "reason_th": "Weaver ตายให้กับการเปิดแมพและ AoE ที่จับได้ตอนหลุด Shukuchi และ Dark Willow มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
         "hero_id": 65,
-        "delta": 0.0425,
+        "delta": 0.0433,
         "reason": "Batrider lives on escapes, and Dark Willow's lockdown lands before Batrider can use them.",
         "reason_th": "Batrider พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Dark Willow จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 22,
-        "delta": 0.0421,
+        "delta": 0.0389,
         "reason": "Zeus has no escape and folds to gap-closers, which Dark Willow's burst punishes hard.",
         "reason_th": "Zeus ไม่มีสกิลหนีและตายให้กับฮีโร่ที่เข้าระยะได้ไว ซึ่งโดนเบิร์สต์ของ Dark Willow ลงโทษหนัก"
       },
       {
+        "hero_id": 48,
+        "delta": 0.0385,
+        "reason": "Dark Willow can burst Luna from full health before Luna gets to act.",
+        "reason_th": "Dark Willow เบิร์สต์ Luna จากเลือดเต็มให้ตายได้ก่อนที่ Luna จะได้ทำอะไร"
+      },
+      {
         "hero_id": 5,
-        "delta": 0.0413,
-        "reason": "Dark Willow can burst Crystal Maiden from full health before Crystal Maiden gets to act.",
-        "reason_th": "Dark Willow เบิร์สต์ Crystal Maiden จากเลือดเต็มให้ตายได้ก่อนที่ Crystal Maiden จะได้ทำอะไร"
+        "delta": 0.0383,
+        "reason": "Crystal Maiden has too little HP to survive Dark Willow's magical burst.",
+        "reason_th": "Crystal Maiden เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Dark Willow"
       },
       {
         "hero_id": 11,
-        "delta": 0.0383,
-        "reason": "Shadow Fiend has too little HP to survive Dark Willow's magical burst.",
-        "reason_th": "Shadow Fiend เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Dark Willow"
-      },
-      {
-        "hero_id": 48,
         "delta": 0.0377,
-        "reason": "Luna is short-ranged for a carry and dies to lockdown, which Dark Willow's burst punishes hard.",
-        "reason_th": "Luna ระยะสั้นสำหรับแครรี่และตายให้กับการคุม ซึ่งโดนเบิร์สต์ของ Dark Willow ลงโทษหนัก"
+        "reason": "Shadow Fiend is fragile and easily disrupted out of his ultimate, which Dark Willow's burst punishes hard.",
+        "reason_th": "Shadow Fiend ตัวเปราะและถูกขัดจังหวะอัลติได้ง่าย ซึ่งโดนเบิร์สต์ของ Dark Willow ลงโทษหนัก"
       },
       {
         "hero_id": 20,
-        "delta": 0.0313,
+        "delta": 0.0318,
         "reason": "Dark Willow's disables pin Vengeful Spirit in place, taking away the mobility Vengeful Spirit depends on.",
         "reason_th": "สกิลคุมของ Dark Willow ตรึง Vengeful Spirit ไว้กับที่ ตัดความคล่องตัวที่ Vengeful Spirit ต้องพึ่ง"
       },
       {
         "hero_id": 84,
-        "delta": 0.0303,
+        "delta": 0.0312,
         "reason": "Ogre Magi is slow and can be kited, and Dark Willow fights from range.",
         "reason_th": "Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้ ส่วน Dark Willow สู้จากระยะไกลได้"
       },
       {
         "hero_id": 3,
-        "delta": 0.0298,
+        "delta": 0.0304,
         "reason": "Bane is slow and can be kited, and Dark Willow is well placed to exploit it.",
         "reason_th": "Bane เคลื่อนที่ช้าและถูกไคต์ได้ และ Dark Willow อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
-        "hero_id": 85,
-        "delta": 0.0295,
-        "reason": "Dark Willow kites Undying from range, and Undying struggles to close the gap.",
-        "reason_th": "Dark Willow ไคต์ Undying จากระยะไกล และ Undying เข้าประชิดได้ยาก"
-      },
-      {
         "hero_id": 101,
-        "delta": 0.029,
+        "delta": 0.0298,
         "reason": "Dark Willow can burst Skywrath Mage from full health before Skywrath Mage gets to act.",
         "reason_th": "Dark Willow เบิร์สต์ Skywrath Mage จากเลือดเต็มให้ตายได้ก่อนที่ Skywrath Mage จะได้ทำอะไร"
+      },
+      {
+        "hero_id": 85,
+        "delta": 0.0275,
+        "reason": "Dark Willow kites Undying from range, and Undying struggles to close the gap.",
+        "reason_th": "Dark Willow ไคต์ Undying จากระยะไกล และ Undying เข้าประชิดได้ยาก"
       }
     ],
     "synergies": [
@@ -39241,10 +39241,10 @@
         "reason_th": "เปลี่ยนร่างแบบการันตีเพื่อคุมเป้าหมายสำคัญ"
       },
       {
-        "item": "Wind Waker",
-        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/wind_waker.png",
-        "reason": "A cyclone save with mana and stats.",
-        "reason_th": "สกิลเซฟ cyclone พร้อมมานาและสเตตัส"
+        "item": "Glimmer Cape",
+        "icon_url": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/glimmer_cape.png",
+        "reason": "A magic-resist save with invisibility.",
+        "reason_th": "สกิลเซฟที่เพิ่มต้านเวทย์พร้อมล่องหน"
       }
     ],
     "ability_counters": [
@@ -39283,85 +39283,85 @@
     "countered_by": [
       {
         "hero_id": 155,
-        "delta": -0.082,
+        "delta": -0.0792,
         "reason": "Largo controls space and tanks the frontline with heavy disables, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Largo คุมพื้นที่และยืนถือแถวหน้าด้วยการคุมหนัก ๆ และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 8,
-        "delta": -0.0653,
+        "delta": -0.0655,
         "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, while Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ ขณะที่ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
         "hero_id": 114,
-        "delta": -0.057,
+        "delta": -0.0573,
         "reason": "Monkey King drops on a clumped team with Wukong's Command and stuns with Boundless Strike, so Pangolier gets caught before escaping.",
         "reason_th": "Monkey King ลงใส่ทีมที่รวมกลุ่มด้วย Wukong's Command และสตันด้วย Boundless Strike ทำให้ Pangolier หนีไม่รอด"
       },
       {
         "hero_id": 53,
-        "delta": -0.0547,
+        "delta": -0.055,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ และ Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
-        "hero_id": 83,
-        "delta": -0.0523,
-        "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, pinning Pangolier down before any escape.",
-        "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth จับ Pangolier ได้ก่อนจะหนีทัน"
-      },
-      {
         "hero_id": 80,
-        "delta": -0.0521,
+        "delta": -0.0549,
         "reason": "Lone Druid snowballs with a tanky Spirit Bear that carries the items, soaking Pangolier's physical damage and winning the long fight.",
         "reason_th": "Lone Druid สโนว์บอลด้วย Spirit Bear ที่ถึกและถือไอเทม รับดาเมจกายภาพของ Pangolier ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
+        "hero_id": 83,
+        "delta": -0.0503,
+        "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, pinning Pangolier down before any escape.",
+        "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth จับ Pangolier ได้ก่อนจะหนีทัน"
+      },
+      {
         "hero_id": 136,
-        "delta": -0.0429,
+        "delta": -0.0432,
         "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 45,
-        "delta": -0.0425,
+        "delta": -0.0427,
         "reason": "Pugna shreds towers and burns mana with Nether Blast and Life Drain; meanwhile Pangolier is vulnerable once its escape and cooldowns are down.",
         "reason_th": "Pugna ทำลายป้อมและเผามานาด้วย Nether Blast และ Life Drain ส่วน Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด"
       },
       {
         "hero_id": 119,
-        "delta": -0.0411,
+        "delta": -0.0414,
         "reason": "Dark Willow locks a target with Bramble Maze and Cursed Crown, then bursts it down, so Pangolier gets caught before escaping.",
         "reason_th": "Dark Willow ล็อกเป้าด้วย Bramble Maze และ Cursed Crown แล้วเบิร์สต์เก็บ ทำให้ Pangolier หนีไม่รอด"
       },
       {
         "hero_id": 3,
-        "delta": -0.0405,
+        "delta": -0.0408,
         "reason": "Bane single-handedly removes a hero from the fight with Fiend's Grip, pinning Pangolier down before any escape.",
         "reason_th": "Bane ถอดฮีโร่หนึ่งตัวออกจากการต่อสู้ได้ด้วย Fiend's Grip จับ Pangolier ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 110,
-        "delta": -0.0395,
+        "delta": -0.0399,
         "reason": "Phoenix dives with Icarus Dive and stuns the team inside Supernova, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Phoenix ไดฟ์ด้วย Icarus Dive และสตันทีมภายใน Supernova และการล็อกตัดทางหนีของ Pangolier"
       },
       {
         "hero_id": 51,
-        "delta": -0.0393,
+        "delta": -0.0375,
         "reason": "Clockwerk hooks in with Hookshot and pins a target alone with Power Cogs and Battery Assault, so Pangolier gets caught before escaping.",
         "reason_th": "Clockwerk เกี่ยวเข้ามาด้วย Hookshot และขังเป้าไว้คนเดียวด้วย Power Cogs และ Battery Assault ทำให้ Pangolier หนีไม่รอด"
       },
       {
         "hero_id": 2,
-        "delta": -0.037,
+        "delta": -0.0373,
         "reason": "Axe punishes melee attackers with Counter Helix and forces fights with Berserker's Call, pinning Pangolier down before any escape.",
         "reason_th": "Axe ลงโทษศัตรูสายประชิดด้วย Counter Helix และบังคับเปิดการต่อสู้ด้วย Berserker's Call จับ Pangolier ได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 23,
-        "delta": -0.0366,
+        "delta": -0.0368,
         "reason": "Kunkka combos Torrent, X Marks the Spot, and Ghostship for huge AoE burst, and the lockdown cancels Pangolier's escape.",
         "reason_th": "Kunkka คอมโบ Torrent, X Marks the Spot และ Ghostship เพื่อเบิร์สต์ AoE มหาศาล และการล็อกตัดทางหนีของ Pangolier"
       }
@@ -39369,87 +39369,87 @@
     "counters": [
       {
         "hero_id": 26,
-        "delta": 0.0687,
+        "delta": 0.0684,
         "reason": "Pangolier catches Lion out of position, and Lion is extremely squishy with no escape.",
         "reason_th": "Pangolier จับ Lion ได้ตอนยืนผิดตำแหน่ง และ Lion ตัวบางมากและไม่มีสกิลหนี"
       },
       {
         "hero_id": 25,
-        "delta": 0.0645,
+        "delta": 0.0642,
         "reason": "Pangolier's disables stop Lina from farming freely or fighting back.",
         "reason_th": "สกิลคุมของ Pangolier ทำให้ Lina ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 39,
-        "delta": 0.0575,
+        "delta": 0.0571,
         "reason": "Queen of Pain lives on escapes, and Pangolier's lockdown lands before Queen of Pain can use them.",
         "reason_th": "Queen of Pain พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Pangolier จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 64,
-        "delta": 0.0511,
+        "delta": 0.0508,
         "reason": "Jakiro is squishy and gets blown up quickly, which makes Jakiro an easy pickoff for Pangolier.",
         "reason_th": "Jakiro ตัวบางและถูกเก็บได้ไวมาก ทำให้เป็นเป้าเก็บง่ายสำหรับ Pangolier"
       },
       {
         "hero_id": 38,
-        "delta": 0.0511,
+        "delta": 0.0489,
         "reason": "Beastmaster is slow and can be kited, and Pangolier is well placed to exploit it.",
         "reason_th": "Beastmaster เคลื่อนที่ช้าและถูกไคต์ได้ และ Pangolier อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 54,
-        "delta": 0.0452,
+        "delta": 0.0472,
         "reason": "Pangolier's disables pin Lifestealer in place, taking away the mobility Lifestealer depends on.",
         "reason_th": "สกิลคุมของ Pangolier ตรึง Lifestealer ไว้กับที่ ตัดความคล่องตัวที่ Lifestealer ต้องพึ่ง"
       },
       {
         "hero_id": 99,
-        "delta": 0.0433,
+        "delta": 0.043,
         "reason": "Pangolier out-trades Bristleback in melee range.",
         "reason_th": "Pangolier เทรดดาเมจชนะ Bristleback ในระยะประชิด"
       },
       {
         "hero_id": 56,
-        "delta": 0.0432,
+        "delta": 0.043,
         "reason": "Clinkz is extremely fragile and dies to detection and burst, and Pangolier has the lockdown to exploit that.",
         "reason_th": "Clinkz ตัวบางมากและตายให้กับการเปิดแมพและเบิร์สต์ และ Pangolier มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
-        "hero_id": 85,
-        "delta": 0.0428,
-        "reason": "Pangolier tends to have the edge here: Undying is slow and can be kited.",
-        "reason_th": "Pangolier มักได้เปรียบในแมตช์นี้ เพราะ Undying เคลื่อนที่ช้าและถูกไคต์ได้"
+        "hero_id": 7,
+        "delta": 0.0411,
+        "reason": "Pangolier tends to have the edge here: Earthshaker is fragile under focus.",
+        "reason_th": "Pangolier มักได้เปรียบในแมตช์นี้ เพราะ Earthshaker ตัวเปราะเมื่อโดนโฟกัส"
       },
       {
-        "hero_id": 7,
-        "delta": 0.0417,
-        "reason": "Earthshaker is fragile under focus, which suits Pangolier's game plan.",
-        "reason_th": "Earthshaker ตัวเปราะเมื่อโดนโฟกัส ซึ่งเข้าทางแผนการเล่นของ Pangolier"
+        "hero_id": 85,
+        "delta": 0.0397,
+        "reason": "Undying is slow and can be kited, which suits Pangolier's game plan.",
+        "reason_th": "Undying เคลื่อนที่ช้าและถูกไคต์ได้ ซึ่งเข้าทางแผนการเล่นของ Pangolier"
       },
       {
         "hero_id": 29,
-        "delta": 0.0386,
+        "delta": 0.0382,
         "reason": "Tidehunter has to fight Pangolier up close, where Pangolier is stronger and tankier.",
         "reason_th": "Tidehunter ต้องสู้กับ Pangolier ในระยะประชิด ซึ่ง Pangolier ทั้งแรงกว่าและถึกกว่า"
       },
       {
         "hero_id": 79,
-        "delta": 0.0368,
+        "delta": 0.0365,
         "reason": "Shadow Demon can't get away once Pangolier commits to a gank.",
         "reason_th": "Shadow Demon หนีไม่พ้นเมื่อ Pangolier ตัดสินใจเข้าแกงค์"
       },
       {
         "hero_id": 129,
-        "delta": 0.034,
+        "delta": 0.0354,
         "reason": "Mars is melee with no escape and easy to kite, and Pangolier wins the melee brawl.",
         "reason_th": "Mars เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย และ Pangolier ชนะการตะลุมบอนระยะประชิด"
       },
       {
-        "hero_id": 17,
-        "delta": 0.032,
-        "reason": "Storm Spirit lives on escapes, and Pangolier's lockdown lands before Storm Spirit can use them.",
-        "reason_th": "Storm Spirit พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Pangolier จับได้ก่อนจะหนีทัน"
+        "hero_id": 72,
+        "delta": 0.0317,
+        "reason": "Gyrocopter's right-clicks struggle to get through Pangolier's tankiness.",
+        "reason_th": "ดาเมจกายภาพของ Gyrocopter ตีไม่เข้าความถึกของ Pangolier"
       }
     ],
     "synergies": [
@@ -39745,12 +39745,6 @@
         "reason_th": "Muerta เคลื่อนที่ช้าและตายให้กับการเข้าระยะและการคุม ซึ่งโดนเบิร์สต์ของ Grimstroke ลงโทษหนัก"
       },
       {
-        "hero_id": 102,
-        "delta": 0.0447,
-        "reason": "Grimstroke's disables stop Abaddon from farming freely or fighting back.",
-        "reason_th": "สกิลคุมของ Grimstroke ทำให้ Abaddon ฟาร์มหรือสู้กลับได้ไม่สะดวก"
-      },
-      {
         "hero_id": 101,
         "delta": 0.0428,
         "reason": "Grimstroke can burst Skywrath Mage from full health before Skywrath Mage gets to act.",
@@ -39761,6 +39755,12 @@
         "delta": 0.0422,
         "reason": "Zeus has too little HP to survive Grimstroke's magical burst.",
         "reason_th": "Zeus เลือดน้อยเกินกว่าจะรอดจากเบิร์สต์เวทย์ของ Grimstroke"
+      },
+      {
+        "hero_id": 102,
+        "delta": 0.0414,
+        "reason": "Grimstroke's disables stop Abaddon from farming freely or fighting back.",
+        "reason_th": "สกิลคุมของ Grimstroke ทำให้ Abaddon ฟาร์มหรือสู้กลับได้ไม่สะดวก"
       },
       {
         "hero_id": 29,
@@ -43887,7 +43887,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-10-21T16:55:53.403Z",
+    "last_updated": "2026-10-21T21:26:52.252Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
