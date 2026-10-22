@@ -34672,173 +34672,173 @@
     "countered_by": [
       {
         "hero_id": 72,
-        "delta": -0.0577,
+        "delta": -0.0553,
         "reason": "Gyrocopter clears waves and teams with Flak Cannon and Call Down, shutting Abaddon down before the farm comes online.",
         "reason_th": "Gyrocopter เคลียร์เวฟและทีมด้วย Flak Cannon และ Call Down และกด Abaddon ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
-        "hero_id": 123,
-        "delta": -0.0498,
-        "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees, keeping Abaddon from farming or fighting freely.",
-        "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
+        "hero_id": 121,
+        "delta": -0.0454,
+        "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, keeping Abaddon from farming or fighting freely.",
+        "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
-        "hero_id": 121,
-        "delta": -0.0455,
-        "reason": "Grimstroke binds two enemies together with Soulbind and silences with Ink Swell, and Abaddon can't farm through that pressure.",
-        "reason_th": "Grimstroke มัดศัตรูสองตัวเข้าด้วยกันด้วย Soulbind และไซเลนซ์ด้วย Ink Swell และ Abaddon ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
+        "hero_id": 123,
+        "delta": -0.0451,
+        "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees, and Abaddon can't farm through that pressure.",
+        "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ และ Abaddon ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 106,
-        "delta": -0.0437,
+        "delta": -0.0435,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, shutting Abaddon down before the farm comes online.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และกด Abaddon ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 108,
-        "delta": -0.0422,
+        "delta": -0.0421,
         "reason": "Underlord controls space with Firestorm and Pit of Malice while tanking fights, soaking Abaddon's physical damage and winning the long fight.",
         "reason_th": "Underlord คุมพื้นที่ด้วย Firestorm และ Pit of Malice พร้อมทนการต่อสู้ รับดาเมจกายภาพของ Abaddon ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       },
       {
         "hero_id": 83,
-        "delta": -0.0415,
+        "delta": -0.0414,
         "reason": "Treant Protector heals allies invisibly and roots a target with Overgrowth, and Abaddon's right-clicks can't break through.",
         "reason_th": "Treant Protector ฮีลเพื่อนแบบล่องหนและรูทเป้าด้วย Overgrowth และดาเมจกายภาพของ Abaddon ตีไม่เข้า"
       },
       {
+        "hero_id": 128,
+        "delta": -0.0406,
+        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, keeping Abaddon from farming or fighting freely.",
+        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
+      },
+      {
         "hero_id": 53,
-        "delta": -0.0398,
+        "delta": -0.0397,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Abaddon is melee with no escape and easy to kite.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ ส่วน Abaddon เป็นสายประชิดที่ไม่มีสกิลหนีและถูกไคต์ได้ง่าย"
       },
       {
-        "hero_id": 90,
-        "delta": -0.0395,
-        "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, keeping Abaddon from farming or fighting freely.",
-        "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
-      },
-      {
-        "hero_id": 128,
-        "delta": -0.0385,
-        "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, and Abaddon can't farm through that pressure.",
-        "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และ Abaddon ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
-      },
-      {
-        "hero_id": 74,
-        "delta": -0.035,
-        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, shutting Abaddon down before the farm comes online.",
-        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล และกด Abaddon ไม่ให้ขึ้นมาเป็นแครรี่ได้"
-      },
-      {
-        "hero_id": 136,
-        "delta": -0.0346,
-        "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, keeping Abaddon from farming or fighting freely.",
-        "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
-      },
-      {
         "hero_id": 17,
-        "delta": -0.0343,
+        "delta": -0.037,
         "reason": "Storm Spirit zips around the map with Ball Lightning to pick off stragglers, and Abaddon can't farm through that pressure.",
         "reason_th": "Storm Spirit ซิ่งทั่วแมพด้วย Ball Lightning เพื่อเก็บคนที่หลุดกลุ่ม และ Abaddon ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
-        "hero_id": 84,
-        "delta": -0.0281,
-        "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, outlasting Abaddon in extended fights.",
-        "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ ยืนระยะได้นานกว่า Abaddon ในไฟต์ยาว"
+        "hero_id": 90,
+        "delta": -0.0362,
+        "reason": "Keeper of the Light blasts a lane with Illuminate and recharges the team's mana, shutting Abaddon down before the farm comes online.",
+        "reason_th": "Keeper of the Light ยิงเลนด้วย Illuminate และเติมมานาให้ทีม และกด Abaddon ไม่ให้ขึ้นมาเป็นแครรี่ได้"
+      },
+      {
+        "hero_id": 74,
+        "delta": -0.0348,
+        "reason": "Invoker combos Sun Strike, Meteor and a chain stun for huge AoE burst, keeping Abaddon from farming or fighting freely.",
+        "reason_th": "Invoker คอมโบ Sun Strike, Meteor และสตันต่อเนื่องเพื่อเบิร์สต์ AoE มหาศาล ทำให้ Abaddon ฟาร์มหรือสู้ได้ไม่สะดวก"
+      },
+      {
+        "hero_id": 136,
+        "delta": -0.0345,
+        "reason": "Marci bursts a target with Unleash and rebounds in with Dispose, and Abaddon can't farm through that pressure.",
+        "reason_th": "Marci เบิร์สต์เป้าด้วย Unleash และพุ่งเข้ามาด้วย Dispose และ Abaddon ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 28,
+        "delta": -0.0307,
+        "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, outlasting Abaddon in extended fights.",
+        "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ ยืนระยะได้นานกว่า Abaddon ในไฟต์ยาว"
+      },
+      {
+        "hero_id": 84,
         "delta": -0.0279,
-        "reason": "Slardar blinks, stuns, and shreds armor to amplify physical damage, soaking Abaddon's physical damage and winning the long fight.",
-        "reason_th": "Slardar blink เข้าไปสตันและลดเกราะเพื่อเพิ่มดาเมจกายภาพ รับดาเมจกายภาพของ Abaddon ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
+        "reason": "Ogre Magi tanks fights and lands multi-cast Fireblast and Ignite, soaking Abaddon's physical damage and winning the long fight.",
+        "reason_th": "Ogre Magi ทนการต่อสู้และลง Fireblast กับ Ignite แบบมัลติคาสต์ รับดาเมจกายภาพของ Abaddon ไว้และชนะในการต่อสู้ที่ยืดเยื้อ"
       }
     ],
     "counters": [
       {
         "hero_id": 49,
-        "delta": 0.0667,
+        "delta": 0.0675,
         "reason": "Abaddon out-trades Dragon Knight in melee range.",
         "reason_th": "Abaddon เทรดดาเมจชนะ Dragon Knight ในระยะประชิด"
       },
       {
         "hero_id": 109,
-        "delta": 0.0575,
+        "delta": 0.0576,
         "reason": "Terrorblade's right-clicks struggle to get through Abaddon's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Terrorblade ตีไม่เข้าความถึกของ Abaddon"
       },
       {
         "hero_id": 87,
-        "delta": 0.0558,
+        "delta": 0.054,
         "reason": "Disruptor is squishy and gets blown up quickly, and Abaddon is well placed to exploit it.",
         "reason_th": "Disruptor ตัวบางและถูกเก็บได้ไวมาก และ Abaddon อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 2,
-        "delta": 0.0498,
+        "delta": 0.05,
         "reason": "Axe has to fight Abaddon up close, where Abaddon is stronger and tankier.",
         "reason_th": "Axe ต้องสู้กับ Abaddon ในระยะประชิด ซึ่ง Abaddon ทั้งแรงกว่าและถึกกว่า"
       },
       {
         "hero_id": 51,
-        "delta": 0.045,
+        "delta": 0.0451,
         "reason": "Abaddon tends to have the edge here: Clockwerk is slow and can be kited.",
         "reason_th": "Abaddon มักได้เปรียบในแมตช์นี้ เพราะ Clockwerk เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
-        "hero_id": 86,
-        "delta": 0.0433,
-        "reason": "Rubick is squishy and gets blown up quickly, which suits Abaddon's game plan.",
-        "reason_th": "Rubick ตัวบางและถูกเก็บได้ไวมาก ซึ่งเข้าทางแผนการเล่นของ Abaddon"
+        "hero_id": 119,
+        "delta": 0.0425,
+        "reason": "Dark Willow is squishy and gets blown up quickly, which suits Abaddon's game plan.",
+        "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก ซึ่งเข้าทางแผนการเล่นของ Abaddon"
       },
       {
-        "hero_id": 119,
-        "delta": 0.0423,
-        "reason": "Dark Willow is squishy and gets blown up quickly, and Abaddon is well placed to exploit it.",
-        "reason_th": "Dark Willow ตัวบางและถูกเก็บได้ไวมาก และ Abaddon อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
+        "hero_id": 86,
+        "delta": 0.0413,
+        "reason": "Rubick is squishy and gets blown up quickly, and Abaddon is well placed to exploit it.",
+        "reason_th": "Rubick ตัวบางและถูกเก็บได้ไวมาก และ Abaddon อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 104,
-        "delta": 0.0408,
+        "delta": 0.0409,
         "reason": "Legion Commander can be kited and bursted once Duel is on cooldown, and Abaddon wins the melee brawl.",
         "reason_th": "Legion Commander ถูกไคต์และเบิร์สต์ได้เมื่อ Duel ติดคูลดาวน์ และ Abaddon ชนะการตะลุมบอนระยะประชิด"
       },
       {
         "hero_id": 26,
-        "delta": 0.0402,
+        "delta": 0.0403,
         "reason": "Abaddon tends to have the edge here: Lion is extremely squishy with no escape.",
         "reason_th": "Abaddon มักได้เปรียบในแมตช์นี้ เพราะ Lion ตัวบางมากและไม่มีสกิลหนี"
       },
       {
-        "hero_id": 69,
-        "delta": 0.0379,
-        "reason": "Abaddon out-trades Doom in melee range.",
-        "reason_th": "Abaddon เทรดดาเมจชนะ Doom ในระยะประชิด"
+        "hero_id": 81,
+        "delta": 0.0368,
+        "reason": "Abaddon out-trades Chaos Knight in melee range.",
+        "reason_th": "Abaddon เทรดดาเมจชนะ Chaos Knight ในระยะประชิด"
       },
       {
-        "hero_id": 81,
-        "delta": 0.0332,
-        "reason": "Chaos Knight has to fight Abaddon up close, where Abaddon is stronger and tankier.",
-        "reason_th": "Chaos Knight ต้องสู้กับ Abaddon ในระยะประชิด ซึ่ง Abaddon ทั้งแรงกว่าและถึกกว่า"
+        "hero_id": 69,
+        "delta": 0.0352,
+        "reason": "Doom has to fight Abaddon up close, where Abaddon is stronger and tankier.",
+        "reason_th": "Doom ต้องสู้กับ Abaddon ในระยะประชิด ซึ่ง Abaddon ทั้งแรงกว่าและถึกกว่า"
       },
       {
         "hero_id": 100,
-        "delta": 0.0324,
+        "delta": 0.0347,
         "reason": "Tusk is fragile under focus, which suits Abaddon's game plan.",
         "reason_th": "Tusk ตัวเปราะเมื่อโดนโฟกัส ซึ่งเข้าทางแผนการเล่นของ Abaddon"
       },
       {
-        "hero_id": 48,
-        "delta": 0.0271,
-        "reason": "Abaddon soaks Luna's physical damage and wins the long fight.",
-        "reason_th": "Abaddon รับดาเมจกายภาพของ Luna ไว้ได้และชนะในไฟต์ที่ยืดเยื้อ"
-      },
-      {
         "hero_id": 16,
-        "delta": 0.0271,
+        "delta": 0.0272,
         "reason": "Sand King is fragile under focus, and Abaddon is well placed to exploit it.",
         "reason_th": "Sand King ตัวเปราะเมื่อโดนโฟกัส และ Abaddon อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
+      },
+      {
+        "hero_id": 50,
+        "delta": 0.0272,
+        "reason": "Abaddon tends to have the edge here: Dazzle is squishy and must be focused before he can save the carry.",
+        "reason_th": "Abaddon มักได้เปรียบในแมตช์นี้ เพราะ Dazzle ตัวบางและต้องถูกเก็บก่อนที่จะเซฟแครรี่ได้"
       }
     ],
     "synergies": [
@@ -35209,85 +35209,85 @@
     "countered_by": [
       {
         "hero_id": 100,
-        "delta": -0.0545,
+        "delta": -0.0547,
         "reason": "Tusk isolates a target with Snowball and Walrus Punch, shutting Legion Commander down before the farm comes online.",
         "reason_th": "Tusk แยกเป้าหมายด้วย Snowball และ Walrus Punch และกด Legion Commander ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 102,
-        "delta": -0.041,
+        "delta": -0.0412,
         "reason": "Abaddon shrugs off focus with Aphotic Shield and Borrowed Time, out-trading Legion Commander in melee range.",
         "reason_th": "Abaddon ทนการโฟกัสด้วย Aphotic Shield และ Borrowed Time และเทรดดาเมจชนะ Legion Commander ในระยะประชิด"
       },
       {
         "hero_id": 35,
-        "delta": -0.032,
+        "delta": -0.0322,
         "reason": "Sniper kills from extreme range before melee heroes can close in, fighting from range while Legion Commander can be kited and bursted once Duel is on cooldown.",
         "reason_th": "Sniper เก็บคิลจากระยะไกลมากก่อนที่สายประชิดจะเข้าถึง สู้จากระยะไกล ขณะที่ Legion Commander ถูกไคต์และเบิร์สต์ได้เมื่อ Duel ติดคูลดาวน์"
       },
       {
         "hero_id": 53,
-        "delta": -0.0279,
+        "delta": -0.0281,
         "reason": "Nature's Prophet teleports anywhere to split-push and summons treants, and Legion Commander can be kited and bursted once Duel is on cooldown.",
         "reason_th": "Nature's Prophet เทเลพอร์ตไปได้ทุกที่เพื่อ split-push และเรียกทรีนต์ ส่วน Legion Commander ถูกไคต์และเบิร์สต์ได้เมื่อ Duel ติดคูลดาวน์"
       },
       {
         "hero_id": 123,
-        "delta": -0.0253,
+        "delta": -0.0256,
         "reason": "Hoodwink snipes from range with Sharpshooter and escapes through the trees, keeping Legion Commander from farming or fighting freely.",
         "reason_th": "Hoodwink ยิงจากระยะไกลด้วย Sharpshooter และหนีผ่านต้นไม้ ทำให้ Legion Commander ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
         "hero_id": 8,
-        "delta": -0.0253,
+        "delta": -0.0255,
         "reason": "Juggernaut ignores disables during Blade Fury and Omnislash to dodge ganks, catching Legion Commander out of position.",
         "reason_th": "Juggernaut กันการคุมระหว่าง Blade Fury และ Omnislash เพื่อเลี่ยงการแกงค์ จับ Legion Commander ได้ตอนยืนผิดตำแหน่ง"
       },
       {
         "hero_id": 135,
-        "delta": -0.0222,
+        "delta": -0.0223,
         "reason": "Dawnbreaker leaps across the map with Solar Guardian and heals through fights, winning the melee brawl against Legion Commander.",
         "reason_th": "Dawnbreaker กระโดดข้ามแมพด้วย Solar Guardian และฮีลตลอดการต่อสู้ ชนะการตะลุมบอนกับ Legion Commander"
       },
       {
         "hero_id": 5,
-        "delta": -0.0208,
+        "delta": -0.0211,
         "reason": "Crystal Maiden bursts targets down with magical nukes, and Legion Commander can't farm through that pressure.",
         "reason_th": "Crystal Maiden เบิร์สต์เป้าหมายให้ตายด้วยสกิลเวทย์ และ Legion Commander ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       },
       {
         "hero_id": 128,
-        "delta": -0.0194,
+        "delta": -0.0196,
         "reason": "Snapfire bursts from range with Mortimer Kisses and stuns with Scatterblast, shutting Legion Commander down before the farm comes online.",
         "reason_th": "Snapfire เบิร์สต์จากระยะไกลด้วย Mortimer Kisses และสตันด้วย Scatterblast และกด Legion Commander ไม่ให้ขึ้นมาเป็นแครรี่ได้"
       },
       {
         "hero_id": 26,
-        "delta": -0.0173,
+        "delta": -0.015,
         "reason": "Lion chains two disables into a point-blank Finger of Death execute, keeping Legion Commander from farming or fighting freely.",
         "reason_th": "Lion ร้อยสองสกิลคุมก่อนปิดจ๊อบด้วย Finger of Death ระยะประชิด ทำให้ Legion Commander ฟาร์มหรือสู้ได้ไม่สะดวก"
       },
       {
-        "hero_id": 54,
-        "delta": -0.0166,
-        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, and Legion Commander can't match that up close.",
-        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ และ Legion Commander สู้ไม่ได้ในระยะประชิด"
-      },
-      {
-        "hero_id": 81,
-        "delta": -0.0142,
-        "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, out-trading Legion Commander in melee range.",
-        "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm และเทรดดาเมจชนะ Legion Commander ในระยะประชิด"
-      },
-      {
         "hero_id": 11,
-        "delta": -0.0141,
+        "delta": -0.0144,
         "reason": "Shadow Fiend shreds armor and bursts targets down with stacked Souls, and Legion Commander struggles to close the gap.",
         "reason_th": "Shadow Fiend ลดเกราะและเบิร์สต์เป้าหมายด้วยพลัง Souls ที่สะสมไว้ และ Legion Commander เข้าประชิดได้ยาก"
       },
       {
+        "hero_id": 81,
+        "delta": -0.0143,
+        "reason": "Chaos Knight stuns with Chaos Bolt and overwhelms with Phantasm illusions, and Legion Commander can't match that up close.",
+        "reason_th": "Chaos Knight สตันด้วย Chaos Bolt และถล่มด้วยอิลลูชันจาก Phantasm และ Legion Commander สู้ไม่ได้ในระยะประชิด"
+      },
+      {
+        "hero_id": 54,
+        "delta": -0.0133,
+        "reason": "Lifestealer dives and chases with Rage immunity and percent-based damage, out-trading Legion Commander in melee range.",
+        "reason_th": "Lifestealer ไดฟ์และไล่ล่าด้วยภูมิคุ้มกันจาก Rage และดาเมจแบบเปอร์เซ็นต์ และเทรดดาเมจชนะ Legion Commander ในระยะประชิด"
+      },
+      {
         "hero_id": 106,
-        "delta": -0.0127,
+        "delta": -0.0129,
         "reason": "Ember Spirit dashes around with Sleight of Fist and Fire Remnant to dodge and burst, and Legion Commander can't farm through that pressure.",
         "reason_th": "Ember Spirit พุ่งไปมาด้วย Sleight of Fist และ Fire Remnant เพื่อหลบและเบิร์สต์ และ Legion Commander ฟาร์มผ่านแรงกดดันนี้ได้ยาก"
       }
@@ -35295,85 +35295,85 @@
     "counters": [
       {
         "hero_id": 98,
-        "delta": 0.0533,
+        "delta": 0.0531,
         "reason": "Timbersaw lives on escapes, and Legion Commander's lockdown lands before Timbersaw can use them.",
         "reason_th": "Timbersaw พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Legion Commander จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 48,
-        "delta": 0.0444,
+        "delta": 0.0442,
         "reason": "Luna's right-clicks struggle to get through Legion Commander's tankiness.",
         "reason_th": "ดาเมจกายภาพของ Luna ตีไม่เข้าความถึกของ Legion Commander"
       },
       {
         "hero_id": 40,
-        "delta": 0.0373,
+        "delta": 0.0372,
         "reason": "Venomancer is squishy and gets blown up quickly, and Legion Commander is well placed to exploit it.",
         "reason_th": "Venomancer ตัวบางและถูกเก็บได้ไวมาก และ Legion Commander อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 84,
-        "delta": 0.0356,
+        "delta": 0.0353,
         "reason": "Legion Commander tends to have the edge here: Ogre Magi is slow and can be kited.",
         "reason_th": "Legion Commander มักได้เปรียบในแมตช์นี้ เพราะ Ogre Magi เคลื่อนที่ช้าและถูกไคต์ได้"
       },
       {
         "hero_id": 99,
-        "delta": 0.0343,
+        "delta": 0.034,
         "reason": "Legion Commander out-trades Bristleback in melee range.",
         "reason_th": "Legion Commander เทรดดาเมจชนะ Bristleback ในระยะประชิด"
       },
       {
         "hero_id": 101,
-        "delta": 0.028,
+        "delta": 0.0278,
         "reason": "Skywrath Mage is one of the squishiest heroes and dies to any lockdown, which suits Legion Commander's game plan.",
         "reason_th": "Skywrath Mage เป็นหนึ่งในฮีโร่ที่ตัวบางที่สุดและตายให้กับการคุมทุกชนิด ซึ่งเข้าทางแผนการเล่นของ Legion Commander"
       },
       {
         "hero_id": 126,
-        "delta": 0.0266,
+        "delta": 0.0264,
         "reason": "Legion Commander's disables pin Void Spirit in place, taking away the mobility Void Spirit depends on.",
         "reason_th": "สกิลคุมของ Legion Commander ตรึง Void Spirit ไว้กับที่ ตัดความคล่องตัวที่ Void Spirit ต้องพึ่ง"
       },
       {
         "hero_id": 120,
-        "delta": 0.0237,
+        "delta": 0.0235,
         "reason": "Pangolier is vulnerable once its escape and cooldowns are down, and Legion Commander has the lockdown to exploit that.",
         "reason_th": "Pangolier เสี่ยงตายเมื่อสกิลหนีและคูลดาวน์หมด และ Legion Commander มีสกิลล็อกที่ใช้จุดนี้ได้เต็มที่"
       },
       {
         "hero_id": 119,
-        "delta": 0.02,
+        "delta": 0.0199,
         "reason": "Dark Willow lives on escapes, and Legion Commander's lockdown lands before Dark Willow can use them.",
         "reason_th": "Dark Willow พึ่งการเคลื่อนที่เอาตัวรอด แต่สกิลล็อกของ Legion Commander จับได้ก่อนจะหนีทัน"
       },
       {
         "hero_id": 87,
-        "delta": 0.0195,
+        "delta": 0.0192,
         "reason": "Disruptor is squishy and gets blown up quickly, and Legion Commander is well placed to exploit it.",
         "reason_th": "Disruptor ตัวบางและถูกเก็บได้ไวมาก และ Legion Commander อยู่ในจุดที่ใช้ประโยชน์จากตรงนั้นได้"
       },
       {
         "hero_id": 21,
-        "delta": 0.0193,
+        "delta": 0.019,
         "reason": "Legion Commander's disables pin Windranger in place, taking away the mobility Windranger depends on.",
         "reason_th": "สกิลคุมของ Legion Commander ตรึง Windranger ไว้กับที่ ตัดความคล่องตัวที่ Windranger ต้องพึ่ง"
       },
       {
         "hero_id": 29,
-        "delta": 0.0181,
+        "delta": 0.0179,
         "reason": "Tidehunter has to fight Legion Commander up close, where Legion Commander is stronger and tankier.",
         "reason_th": "Tidehunter ต้องสู้กับ Legion Commander ในระยะประชิด ซึ่ง Legion Commander ทั้งแรงกว่าและถึกกว่า"
       },
       {
         "hero_id": 86,
-        "delta": 0.0179,
+        "delta": 0.0175,
         "reason": "Legion Commander tends to have the edge here: Rubick is squishy and gets blown up quickly.",
         "reason_th": "Legion Commander มักได้เปรียบในแมตช์นี้ เพราะ Rubick ตัวบางและถูกเก็บได้ไวมาก"
       },
       {
         "hero_id": 14,
-        "delta": 0.0166,
+        "delta": 0.0163,
         "reason": "Pudge is slow and can be kited, which suits Legion Commander's game plan.",
         "reason_th": "Pudge เคลื่อนที่ช้าและถูกไคต์ได้ ซึ่งเข้าทางแผนการเล่นของ Legion Commander"
       }
@@ -43887,7 +43887,7 @@
     ]
   },
   "meta": {
-    "last_updated": "2026-10-22T16:55:22.257Z",
+    "last_updated": "2026-10-22T21:22:02.481Z",
     "patch": "7.41",
     "patch_first_seen": "2026-06-13T18:48:31.273Z",
     "low_sample_warning": false
